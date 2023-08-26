@@ -1,0 +1,473 @@
+[
+    {
+            "question": "QUESTION A.01 [1.0 point] Which ONE of the following is the MOST affected factor in the six factor formula when a poison in the control rods is changed from BORON (B) to Cadmium (Cd)?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Fast fision factor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.2, page 3-19"
+            },
+            {   "answer": "b. Reproduction factor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.2, page 3-19"
+            },
+            {   "answer": "c. Thermal utilization factor.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Fast non leakage probability.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.2, page 3-19"
+            },
+        ]
+    },
+    {
+        "question": "QUESTION A.02 [1.0 point] The injection of a sample results in a 50 millisecond period. If the scram setpoint is 1 MEGAWATT and the scram delay time is 0.1 second, which ONE of the following is the peak power of the reactor at shutdown?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 2.5 MW.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982 P = Po*e^t/\u03C4, P = 1 Megawatts x e^0.1/0.05 = 10 x e^2 = 7.39 Megawatts"
+            },
+            {   "answer": "b. 6.0 MW.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982 P = Po*e^t/\u03C4, P = 1 Megawatts x e^0.1/0.05 = 10 x e^2 = 7.39 Megawatts"
+            },
+            {   "answer": "c. 7.5 MW",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 22.0 MW",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982 P = Po*e^t/\u03C4, P = 1 Megawatts x e^0.1/0.05 = 10 x e^2 = 7.39 Megawatts"
+            },
+        ]
+    },
+    {
+        "question": "QUESTION A.03 [1 point] Which ONE of the following best describes the beta decay (\u03B2-1) of a nuclide.",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The atomic mass number unchanged, and the number of protons increases by 1.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. The atomic mass number unchanged, and the number of protons decreases by 1.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Check chart of nuclides"
+            },
+            {   "answer": "c. The atomic mass number increases by 1, and the number of protons decrease by 1.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Check chart of nuclides"
+            },
+            {   "answer": "d. The atomic mass number increases by 2, and the number of protons increase by 1.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Check chart of nuclides"
+            },
+        ]
+    },
+    {
+        "question": "QUESTION A.04 [1.0 point] During a reactor startup, criticality occured at a LOWER ROD HEIGHT than the last startup. Which ONE of the following reasons could be the cause?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Xe-135 increased.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 8.4, page 8-9."
+            },
+            {   "answer": "b. Fuel temperature decreased.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Moderator temperature increased.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 8.4, page 8-9."
+            },
+            {   "answer": "d. Adding an experiment with negative reactivity.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 8.4, page 8-9."
+            },
+        ]
+    },
+    {
+        "question": "QUESTION A.05 [1.0 point] About two minutes following a reactor scram, the reactor period has stabilized and the power level is decreasing at a constant rate. Given that reactor power at time tU+208 is 1000 kW, what is the time for the reactor power to decrease to 100 kW from tU+208",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 1 minute.",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = Po*e^-t/\u03C4, 100 kW = 1000 kW x e^(X-80sec), X = In(0.1) x 80 sec; X = 180 sec or 3 min"
+            },
+            {   "answer": "b. 2 minutes.",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = Po*e^-t/\u03C4, 100 kW = 1000 kW x e^(X-80sec), X = In(0.1) x 80 sec; X = 180 sec or 3 min"
+            },
+            {
+                "answer": "c. 3 minutes.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "d. 5 minutes.",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = Po*e^-t/\u03C4, 100 kW = 1000 kW x e^(X-80sec), X = In(0.1) x 80 sec; X = 180 sec or 3 min"
+            },
+        ]
+    },
+    {
+        "question": "QUESTION A.06 [1.0 point] The FAST FISSION FACTOR is defined as a ration of:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The number of fast neutrons produced by all fission over the number of fast neutrons produced by thermal fission.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "b. The number of fast neutrons produced by fission in a generation over the number of total neutrons produced by fission in the previous generation.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.1, page 3-16."
+            },
+            {
+                "answer": "c. The number of fast neutrons produced by U-238 over the number of thermal neutrons absorbed in fuel.",
+                "correct": false,
+                "feedback": "Incorrect. Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.1, page 3-16."
+            },
+            {
+                "answer": "d. The number of neutrons that reach thermal energy over the number of fast neutrons that start to slow down.",
+                "correct": false,
+                "feedback": "Incorrect. Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.1, page 3-16."
+            },
+         ]
+     },
+     {
+        "question": "QUESTION A.07 [1.0 point] Which ONE of the following is the correct amount of reactivity (\u0394p) added if the multiplication factor, k, is increased from 0.700 to 0.950?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.250.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.3, page 3-21."
+            },
+            {
+                "answer": "b. 0.263.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.3, page 3-21."
+            },
+            {
+                "answer": "c. 0.357.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.3, page 3-21."
+            },
+            {
+                "answer": "d. 0.376.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            
+        ]
+    },
+    {
+        "question": "QUESTION A.08 [1.0 point] Which ONE of the following is the time period in which the MAXIMUM amount of Xe-135 will be present in the core?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 7 to 11 hours after a power increase from 0% to 50%.",
+                "correct": false,
+                "feedback": "Incorrect. Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 8.4, page 8-9."
+            },
+            {
+                "answer": "b. 7 to 11 hours after a power increase from 50% to 100%.",
+                "correct": false,
+                "feedback": "Incorrect. Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 8.4, page 8-9."
+            },
+            {
+                "answer": "c. 7 to 11 hours after a start up to 100% power.",
+                "correct": false,
+                "feedback": "Incorrect. Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 8.4, page 8-9."
+            },
+            {
+                "answer": "d. 7 to 11 hours after a scram from 100% power.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+     },
+     {
+        "question": "QUESTION A.09 [1.0 point] A reactor is SHUTDOWN by 8.6 % Ak/k. When a control rod with a worth of -3.1 % Ak/k is removed from the core, a rate of 1000 counts per second (cps) is measured. What was the previous count rate (cps)? Given \u03B2-eff = 0.0078. ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 660.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "b. 750.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Remove -3.1% Ak/k from the core, means adding 3.1 % Ak/k to the core when removing the rod"
+            },
+            {
+                "answer": "c. 850.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Remove -3.1% Ak/k from the core, means adding 3.1 % Ak/k to the core when removing the rod"
+            },
+            {
+                "answer": "d. 1170.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Remove -3.1% Ak/k from the core, means adding 3.1 % Ak/k to the core when removing the rod"
+            },
+        ]
+     },
+     {
+        "question": "QUESTION A.10 [1.0 point] Most text books list \u03B2 for a U-235 fueled reactor as 0.0065. However, your SAR lists \u03B2-eff as being 0.007. Why is \u03B2-eff larger than \u03B2?  ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The fuel includes U-238 which has a relatively large ẞ for fast fission.",
+                "correct": false,
+                "feedback": "Incorrect. Burn, R., Introduction to Nuclear Reactor Operations, 1982, Section 3.3, page 3-14 "
+            },
+            {
+                "answer": "b. Some U-238 in the core becomes Pu-239 (by neutron absorption) which has a larger \u03B2 for fission.",
+                "correct": false,
+                "feedback": "Incorrect. Burn, R., Introduction to Nuclear Reactor Operations, 1982, Section 3.3, page 3-14 "
+            },
+            {
+                "answer": "c. Delayed neutrons are born at lower energies than prompt neutrons resulting in a less loss due to leakage for these neutrons.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "d. Delayed neutrons are born at higher energies than prompt neutrons resulting in a greater worth for these neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. Burn, R., Introduction to Nuclear Reactor Operations, 1982, Section 3.3, page 3-14 "
+            },
+        ]
+     },
+     {
+        "question": "QUESTION A.11 [1.0 point] Excess reactivity is the amount of reactivity ...",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. associated with sample's worth.",
+                "correct": false,
+                "feedback": "Incorrect. REF: TS 1.0"
+            },
+            {
+                "answer": "b. needed to achieve prompt critical.",
+                "correct": false,
+                "feedback": "Incorrect. REF: TS 1.0"
+            },
+            {
+                "answer": "c. needed to keep a reactor shutdown when a SHIM blade is fully up.",
+                "correct": false,
+                "feedback": "Incorrect. REF: TS 1.0"
+            },
+            {
+                "answer": "d. available above cold criticality with all of the shim blades withdrawn from the point where the reactor is exactly critical.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+     },
+     {
+        "question": "QUESTION A.12 [1.0 point] Which ONE of the following ranges of the Shim Safety #1 rod position provides the HIGHEST worth during operation?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. withdrawn from 0 to 25%.",
+                "correct": false,
+                "feedback": "Incorrect. REF: center of Shim blade provides the highest worth"
+            },
+            {
+                "answer": "b. withdrawn from 25 to 40%.",
+                "correct": false,
+                "feedback": "Incorrect. REF: center of Shim blade provides the highest worth"
+            },
+            {
+                "answer": "c. withdrawn from 40 to 60%.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "d. withdrawn from 75 to 100%.",
+                "correct": false,
+                "feedback": "Incorrect. REF: center of Shim blade provides the highest worth"
+            },
+        ]
+     },
+     {
+        "question": "QUESTION A.13 [1.0 point] Given the following worth: \u03C1-excess = 0.60% \u0394k/k, SHIM blade 1 = 0.30% \u0394k/k SHIM blade 2 = 0.45 % \u0394k/k, SHIM blade 3 = 0.50% \u0394k/k, REG blade= 0.10 % \u0394k/k. Calculate the technical specification limit of the shutdown margin.",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.15% \u0394 k/k.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. 0.65% \u0394 k/k.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Total rod worth - (excess + most active SHIM blade + REG blade)"
+            },
+            {   "answer": "c. 1.25% \u0394 k/k.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Total rod worth - (excess + most active SHIM blade + REG blade)"
+            },
+            {   "answer": "d. 1.75% \u0394 k/k.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Total rod worth - (excess + most active SHIM blade + REG blade)"
+            },
+        ]
+     },
+     {
+        "question": "QUESTION A.14 [1.0 point] A reactor has an effective delayed fraction (\u03B2-eff) of 0.0074. If a control rod withdrawal in this reactor increases the effective multiplication (k-eff) from 0.9985 to 1.0074, the reactor is:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Subcritical.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 4.2, page 4-1. "
+            },
+            {   "answer": "b. Exactly Critical.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 4.2, page 4-1. "
+            },
+            {   "answer": "c. Supercritical.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 4.2, page 4-1. "
+            },
+            {   "answer": "d. Prompt Critical.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+     },
+     {
+        "question": "QUESTION A.15 [1.0 point] Which ONE of the following describes the term PROMPT JUMP?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. A reactor is critical at 80-second period.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Page 4-21."
+            },
+            {   "answer": "b. A reactor has attained criticality on prompt neutrons alone.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Page 4-21."
+            },
+            {   "answer": "c. The instantaneous change in power level due to inserting a control rod.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Page 4-21."
+            },
+            {   "answer": "d. The instantaneous change in power level due to withdrawing a control rod.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+     },
+     {
+        "question": "QUESTION A.16 [1.0 point] The absolute value of the reactivity worth of any single experiment shall NOT exceed ...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.0010 \u0394 k/k.",
+                "correct": false,
+                "feedback": "Incorrect. REF: TS 3.6.1"
+            },
+            {   "answer": "b. 0.0025 \u0394 k/k.",
+                "correct": false,
+                "feedback": "Incorrect. REF: TS 3.6.1"
+            },
+            {   "answer": "c. 0.0060 \u0394 k/k.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 0.0200 \u0394 k/k.",
+                "correct": false,
+                "feedback": "Incorrect. REF: TS 3.6.1"
+            },
+        ]
+     },
+     {
+        "question": "QUESTION A.17 [1.0 point] The effective target area, in cm^2, presented by a single nucleus to an incident neutron beam is defined as:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. neutron flux.",
+                "correct": false,
+                "feedback": "Incorrect. Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 2.51, page 2-36."
+            },
+            {   "answer": "b. a mean free path.",
+                "correct": false,
+                "feedback": "Incorrect. Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 2.51, page 2-36."
+            },
+            {   "answer": "c. a microscopic cross section.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. a macroscopic cross section.",
+                "correct": false,
+                "feedback": "Incorrect. Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 2.51, page 2-36."
+            },
+        ]
+     },
+     {
+        "question": "QUESTION A.18 [1.0 point] Which ONE of the following combinations of characteristics makes a good reflector?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Scattering Cross Section: High, Absorption Cross Section: High.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "b. Scattering Cross Section: Low, Absorption Cross Section: High.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "c. Scattering Cross Section: High, Absorption Cross Section: Low.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Scattering Cross Section: Low, Absorption Cross Section: Low.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+        ]
+     },
+     {
+        "question": "QUESTION A.19 [1.0 point] A reactor is critical at 4.5 MW power. The SHIM blades with a worth of 0.1 \u0394k/k is rapidly inserted into the reactor core. Calculate the power level after immediate insertion of the control blades to the reactor core. Given \u03B2-eff= 0.0078.",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 125 KW.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "b. 225 KW.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "c. 325 KW.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 5.50 MW.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+        ]
+     },
+     {
+        "question": "QUESTION A.20 [1.0 point] Which ONE of the following is the principle source of heat in the reactor after a shutdown from extended operation at 10 MW?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Decay of fission products.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Spontaneous fission of U-238.",
+                "correct": false,
+                "feedback": "Incorrect. Burn, R., Introduction to Nuclear Reactor Operations, 1982, page 4-33"
+            },
+            {   "answer": "c. Production of delayed neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. Burn, R., Introduction to Nuclear Reactor Operations, 1982, page 4-33"
+            },
+            {   "answer": "d. Production of prompt gamma rays.",
+                "correct": false,
+                "feedback": "Incorrect. Burn, R., Introduction to Nuclear Reactor Operations, 1982, page 4-33"
+            },
+        ]
+     },
+]
