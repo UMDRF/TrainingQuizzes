@@ -1,0 +1,212 @@
+[
+    {
+            "question": "QUESTION A.01 [1.0 point] ",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. ",
+                "correct": false,
+                "feedback": "Incorrect. REF: Vol. 1, Module 2, Paragraph 'Neutron Slowing Down and Thermalization' on pg. 23, also Paragraph 'Neutron Classification' on pg. 29."
+            },
+            {   "answer": "b. ",
+                "correct": false,
+                "feedback": "Incorrect. REF: Vol. 1, Module 2, Paragraph 'Neutron Slowing Down and Thermalization' on pg. 23, also Paragraph 'Neutron Classification' on pg. 29."
+            },
+            {   "answer": "c. ",
+                "correct": true,
+                "feedback": "Incorrect. REF: Vol. 1, Module 2, Paragraph 'Neutron Slowing Down and Thermalization' on pg. 23, also Paragraph 'Neutron Classification' on pg. 29."
+            },
+            {   "answer": "d. ",
+                "correct": false,
+                "feedback": "Incorrect. REF: Vol. 1, Module 2, Paragraph 'Neutron Slowing Down and Thermalization' on pg. 23, also Paragraph 'Neutron Classification' on pg. 29."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.02 [1.0 point] Xenon-135 (Xe) is produced in the reactor by two methods. One is directly from fission; the other is indirectly from the decay of:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Xe-136",
+                "correct": false,
+                "feedback": "Incorrect. REF: Vol. II, Module 3, Paragraph 'Production and Removal of Xenon-135; on pg. 34."
+            },
+            {   "answer": "b. Sm-136",
+                "correct": false,
+                "feedback": "Incorrect. REF: Vol. II, Module 3, Paragraph 'Production and Removal of Xenon-135; on pg. 34."
+            },
+            {   "answer": "c. Cs-135",
+                "correct": false,
+                "feedback": "Incorrect. REF: Vol. II, Module 3, Paragraph 'Production and Removal of Xenon-135; on pg. 34."
+            },
+            {   "answer": "d. I-135",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.03 [1.0 point] Which of the following does NOT affect the Effective Multiplication Factor (Keff)?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The moderator-to-fuel ratio.",
+                "correct": false,
+                "feedback": "Incorrect. Vol. II, Module 3, see heading 'Six Factor Formula' discussion on pages. 12 & 13."
+            },
+            {   "answer": "b. The physical dimensions of the core.",
+                "correct": false,
+                "feedback": "Incorrect. Vol. II, Module 3, see heading 'Six Factor Formula' discussion on pages. 12 & 13."
+            },
+            {   "answer": "c. The strength of installed neutron sources.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. The current time in core life.",
+                "correct": false,
+                "feedback": "Incorrect. Vol. II, Module 3, see heading 'Six Factor Formula' discussion on pages. 12 & 13."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.04 [1.0 point] The neutron interaction in the reactor core that is MOST efficient in thermalizing fast neutrons occurs with the:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Hydrogen atoms in the polyethylene molecules.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Carbon atoms in the polyethylene molecules.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Vol. I, Module 2, see heading 'Neutron Slowing Down and Thermalization' top of pg. 24"
+            },
+            {   "answer": "c. Uranium atoms in the fuel.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Vol. I, Module 2, see heading 'Neutron Slowing Down and Thermalization' top of pg. 24"
+            },
+            {   "answer": "d. Oxygen atoms in the fuel.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Vol. I, Module 2, see heading 'Neutron Slowing Down and Thermalization' top of pg. 24"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.05 [1.0 point] The total amount of reactivity added by inserting or withdrawing a control rod from a reference height to any other rod height is called?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Differential rod worth.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Shutdown reactivity.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Vol. II, Module 3, see heading 'Integral and Differential Rod Worths' discussion on pages 51 through 56."
+            },
+            {   "answer": "c. Integral rod worth.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Vol. II, Module 3, see heading 'Integral and Differential Rod Worths' discussion on pages 51 through 56."
+            },
+            {   "answer": "d. Reference reactivity.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Vol. II, Module 3, see heading 'Integral and Differential Rod Worths' discussion on pages 51 through 56."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.06 [1.0 point] For most materials the neutron microscopic cross-section for absorption \u03C3a generally...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Increases as neutron energy increases.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Vol. I, Module 2, 2nd ¶ on page 9."
+            },
+            {   "answer": "b. Decreases as neutron energy increases.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Increases as target nucleus mass increases.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Vol. I, Module 2, 2nd ¶ on page 9."
+            },
+            {   "answer": "d. Decreases as target nucleus mass increases.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Vol. I, Module 2, 2nd ¶ on page 9."
+            },
+        ]
+    },
+    {
+        "question": "QUESTION A.07 [2.0 points, 1⁄2 each] Using the drawing of the Core Rod Position provided, identify each of the following reactivity worths. a. Total Rod Worth.",
+        "type": "numeric",
+        "answers": [
+            {   "type": "value",
+                "value": 7,
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "type": "default",
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "b.  Actual Shutdown Margin.",
+        "type": "numeric",
+        "answers": [
+            {   "type": "value",
+                "value": 5,
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "type": "default",
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "c. Technical Specification Shutdown Margin Limit.",
+        "type": "numeric",
+        "answers": [
+            {   "type": "value",
+                "value": 6,
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "type": "default",
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "d. Excess Reactivity.",
+        "type": "numeric",
+        "answers": [
+            {   "type": "value",
+                "value": 2,
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "type": "default",
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.08 [1.0 point] Reactor power is rising on a 100 second period. Approximately how long will it take for power to double?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 35 Seconds.",
+                "correct": false,
+                "feedback": "Incorrect. P = Po*e^t/T. Section A Reactor Theory. Thermodynamics and Facility Operating Characteristics"
+            },
+            {   "answer": "b. 50 Seconds.",
+                "correct": false,
+                "feedback": "Incorrect. P = Po*e^t/T. Section A Reactor Theory. Thermodynamics and Facility Operating Characteristics"
+            },
+            {   "answer": "c. 70 Seconds.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 100 Seconds.",
+                "correct": false,
+                "feedback": "Incorrect. P = Po*e^t/T. Section A Reactor Theory. Thermodynamics and Facility Operating Characteristics"
+            },
+        ]
+    },
+]
