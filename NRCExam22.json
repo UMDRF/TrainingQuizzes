@@ -223,19 +223,19 @@
             "question": "Question 11-11/01/2012 Which ONE of the following is an example of beta (β) decay?",
         "type": "multiple_choice",
         "answers": [
-            {   "answer": "a. 35Br87 to 33As83",
+            {   "answer": "a. 35Br87 —> 33As83",
                 "correct": false,
                 "feedback": "Incorrect. REF: Standard NRC Reactor Theory Question, Chart of the Nuclides"
             },
-            {   "answer": "b. 35Br87 to 35Br86",
+            {   "answer": "b. 35Br87 —> 35Br86",
                 "correct": false,
                 "feedback": "Incorrect. REF: Standard NRC Reactor Theory Question, Chart of the Nuclides"
             },
-            {   "answer": "c. 35Br87 to 34Se86",
+            {   "answer": "c. 35Br87 —> 34Se86",
                 "correct": false,
                 "feedback": "Incorrect. REF: Standard NRC Reactor Theory Question, Chart of the Nuclides"
             },
-            {   "answer": "d. 35Br87 to 36Kr87",
+            {   "answer": "d. 35Br87 —> 36Kr87",
                 "correct": true,
                 "feedback": "Correct."
             },

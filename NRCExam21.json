@@ -1,0 +1,275 @@
+[
+    {
+            "question": "Question 1-12/26/2017 Which ONE of the following correctly describes the SIX- FACTOR FORMULA?",
+        "answers": [
+            {   "answer": "a. K∞ = Keff * the reproduction factor",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+            },
+            {   "answer": "b. K∞ = Keff * the total leakage probability",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+            },
+            {   "answer": "c. Keff = K∞ * the total non-leakage probability",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Keff = K∞ * (the resonance escape probability * the reproduction factor)",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+            },
+        ]
+    },
+    {
+            "question": "Question 2-12/26/2017 Few minutes following a reactor scram of 90 watts, the reactor period has stabilized and the power level is decreasing at a CONSTANT rate. What is the power level one minute later from 5 watts?",
+        "answers": [
+            {   "answer": "a. 0.24 W",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P0*e^-t/T = 5∗e^(60sec/-80sec) = 5*e^-0.75 = 0.472∗5 = 2.36 watts"
+            },
+            {   "answer": "b. 2.40 W",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 4.20 W",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P0*e^-t/T = 5∗e^(60sec/-80sec) = 5*e^-0.75 = 0.472∗5 = 2.36 watts"
+            },
+            {   "answer": "d. 10.1 W",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P0*e^-t/T = 5∗e^(60sec/-80sec) = 5*e^-0.75 = 0.472∗5 = 2.36 watts"
+            },
+        ]
+    },
+    {
+            "question": "Question 3-12/26/2017 Which ONE of the following is the MAIN reason for operating reactor with thermal neutrons instead of fast neutrons?",
+        "answers": [
+            {   "answer": "a. The fission cross section of the fuel is much higher for fast neutrons than thermal energy neutrons. Since fast neutrons are easier to cause fission, a reactor cannot control with fast neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39"
+            },
+            {   "answer": "b. The neutron lifetime of thermal neutrons is longer than fast neutrons, so the fuel has enough time to capture thermal neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39"
+            },
+            {   "answer": "c. The fission cross section of the fuel is much higher for thermal energy neutrons than fast neutrons, so thermal neutrons are easier to cause fission.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. The atomic weight of thermal neutrons is larger than fast neutrons, so thermal neutrons are easily to slow down and be captured by the fuel.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39"
+            },
+        ]
+    },
+    {
+            "question": "Question 4-12/26/2017 Which ONE of the following is a number of protons in the Uranium-235 nucleus (_92U^235)?",
+        "answers": [
+            {   "answer": "a. 92",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. 143",
+                "correct": false,
+                "feedback": "Incorrect. REF: Chart of Nuclides and Isotopes N (neutrons) = 143; A = 235; Z = 92"
+            },
+            {   "answer": "c. 235",
+                "correct": false,
+                "feedback": "Incorrect. REF: Chart of Nuclides and Isotopes N (neutrons) = 143; A = 235; Z = 92"
+            },
+            {   "answer": "d. The U-235 doesn’t have a constant number of photons, it fluctuates between 92 and 143.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Chart of Nuclides and Isotopes N (neutrons) = 143; A = 235; Z = 92"
+            },
+        ]
+    },
+    {
+            "question": "Question 6-12/26/2017 A reactor is subcritical with Keff of 0.955. Which ONE of the following is the MINIMUM reactivity ($) that must be added to produce PROMPT criticality? Given βeff=0.0073",
+        "answers": [
+            {   "answer": "a. $1.000",
+                "correct": false,
+                "feedback": "Incorrect. REF: from subcritical with k=0.955 to criticality (k=1), Δρ = (k-1)/k = -0.047 Δk/k or Δρ = 0.047 Δk/k ($0.047/0.0073=$6.4) needed for criticality. From criticality to JUST prompt (minimum), you need to add extra $1.00, so minimum reactivity needed is $6.4 +$1 = $7.4"
+            },
+            {   "answer": "b. $1.045",
+                "correct": false,
+                "feedback": "Incorrect. REF: from subcritical with k=0.955 to criticality (k=1), Δρ = (k-1)/k = -0.047 Δk/k or Δρ = 0.047 Δk/k ($0.047/0.0073=$6.4) needed for criticality. From criticality to JUST prompt (minimum), you need to add extra $1.00, so minimum reactivity needed is $6.4 +$1 = $7.4"
+            },
+            {   "answer": "c. $6.400",
+                "correct": false,
+                "feedback": "Incorrect. REF: from subcritical with k=0.955 to criticality (k=1), Δρ = (k-1)/k = -0.047 Δk/k or Δρ = 0.047 Δk/k ($0.047/0.0073=$6.4) needed for criticality. From criticality to JUST prompt (minimum), you need to add extra $1.00, so minimum reactivity needed is $6.4 +$1 = $7.4"
+            },
+            {   "answer": "d. $7.400",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "Question 7-12/26/2017 The effective target area in cm2 presented by a single nucleus to an incident neutron beam is defined as:",
+        "answers": [
+            {   "answer": "a. a macroscopic cross section",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.2"
+            },
+            {   "answer": "b. a microscopic cross section",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. a mean free path",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.2"
+            },
+            {   "answer": "d. a neutron flux",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.2"
+            },
+        ]
+    },
+    {
+            "question": "Question 8-12/26/2017 Delayed neutrons are produced by:",
+        "answers": [
+            {   "answer": "a. decay of N-16.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2."
+            },
+            {   "answer": "b. Photoelectric Effect.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2."
+            },
+            {   "answer": "c. decay of fission fragments.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. come directly from fission.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2."
+            },
+        ]
+    },
+    {
+            "question": "Question 10-12/26/2017 Which ONE of the following atoms will cause a neutron to lose the most energy in an elastic collision?",
+        "answers": [
+            {   "answer": "a. U-238",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.5.3"
+            },
+            {   "answer": "b. Ar-40",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.5.3"
+            },
+            {   "answer": "c. O-16",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.5.3"
+            },
+            {   "answer": "d. H-1",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "Question 13-12/26/2017 A reactor contains a neutron source that produces 1,000 neutrons/second. The reactor has a keff = 0.80. What is the stable total neutron production rate in the reactor?",
+        "answers": [
+            {   "answer": "a. 2,000 neutrons/sec",
+                "correct": false,
+                "feedback": "Incorrect. REF: SCR = (S)/ (1-Keff) N = (1,000)/(1-0.8) = 5,000 neutrons/second DOE Fundamentals Handbook, NPRT, Vol. 2, Module 4, EO 1.2, p 4"
+            },
+            {   "answer": "b. 5,000 neutrons/sec",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 8,000 neutrons/sec",
+                "correct": false,
+                "feedback": "Incorrect. REF: SCR = (S)/ (1-Keff) N = (1,000)/(1-0.8) = 5,000 neutrons/second DOE Fundamentals Handbook, NPRT, Vol. 2, Module 4, EO 1.2, p 4"
+            },
+            {   "answer": "d. 20,000 neutrons/sec",
+                "correct": false,
+                "feedback": "Incorrect. REF: SCR = (S)/ (1-Keff) N = (1,000)/(1-0.8) = 5,000 neutrons/second DOE Fundamentals Handbook, NPRT, Vol. 2, Module 4, EO 1.2, p 4"
+            },
+        ]
+    },
+    {
+            "question": "Question 14-12/26/2017 Which ONE of the following changes will increase the core excess?",
+        "answers": [
+            {   "answer": "a. Insertion of an experiment containing cadmium.",
+                "correct": false,
+                "feedback": "Incorrect. REF: NRC Standard Question"
+            },
+            {   "answer": "b. Adding of a fuel experiment (U-235) into the core.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Pool water temperature increase.",
+                "correct": false,
+                "feedback": "Incorrect. REF: NRC Standard Question"
+            },
+            {   "answer": "d. Buildup of xenon in the core.",
+                "correct": false,
+                "feedback": "Incorrect. REF: NRC Standard Question"
+            },
+        ]
+    },
+    {
+            "question": "Question 15-12/26/2017 Which ONE is true about “subcritical multiplication”? As the reactor approaches criticality, the parameter",
+        "answers": [
+            {   "answer": "a. keff approaches zero.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, Table 5.5"
+            },
+            {   "answer": "b. ρ approaches infinity.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, Table 5.5"
+            },
+            {   "answer": "c. M approaches one.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, Table 5.5"
+            },
+            {   "answer": "d. 1/M approaches zero.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "Question 16-12/26/2017 Which ONE of the following is the stable reactor period which will result in a power rise from 1% to 100% power in 1 minute?",
+        "answers": [
+            {   "answer": "a. 0.2 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P0*e^t/T ––> T= t/Ln(P/P0) T= 60/Ln(100); T = 13 sec."
+            },
+            {   "answer": "b. 5 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P0*e^t/T ––> T= t/Ln(P/P0) T= 60/Ln(100); T = 13 sec."
+            },
+            {   "answer": "c. 13 seconds",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 80 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P0*e^t/T ––> T= t/Ln(P/P0) T= 60/Ln(100); T = 13 sec."
+            },
+        ]
+    },
+    {
+            "question": "Question 17-12/26/2017 When the reactor is at critical, what effect does Doppler Broadening for U-238 have on neutrons?",
+        "answers": [
+            {   "answer": "a. More absorption",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. More scattering",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1"
+            },
+            {   "answer": "c. Increasing the resonance escape probability",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1"
+            },
+            {   "answer": "d. Increasing the Reproduction factor",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1"
+            },
+        ]
+    },
+]

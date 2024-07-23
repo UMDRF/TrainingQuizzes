@@ -1,0 +1,442 @@
+[
+    {
+            "question": "Question 1-05/13/2002 A mixed beta-gamma point source measures 200 mrem/hr at one foot and 0.1 mrem/hr at 20 feet. The beta emission has an energy of 1.0 MeV. What is the fraction of betas in the source?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 10%",
+                "correct": false,
+                "feedback": "Incorrect. REF: At 20 feet, all measured radiation is from gammas. D1r1^2=D2r2^2, D1(1)^2=0.1mr(20)^2, D1=40mrem/hr gamma, Ratio of beta to total = 1 - (40/200) = 80%"
+            },
+            {   "answer": "b. 20%",
+                "correct": false,
+                "feedback": "Incorrect. REF: At 20 feet, all measured radiation is from gammas. D1r1^2=D2r2^2, D1(1)^2=0.1mr(20)^2, D1=40mrem/hr gamma, Ratio of beta to total = 1 - (40/200) = 80%"
+            },
+            {   "answer": "c. 80%",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 90%",
+                "correct": false,
+                "feedback": "Incorrect. REF: At 20 feet, all measured radiation is from gammas. D1r1^2=D2r2^2, D1(1)^2=0.1mr(20)^2, D1=40mrem/hr gamma, Ratio of beta to total = 1 - (40/200) = 80%"
+            },
+        ]
+    },
+    {
+            "question": "Question 2-05/13/2002 An element decays at a rate of 20% per day. Determine its half-life.",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 3 hr.",
+                "correct": false,
+                "feedback": "Incorrect. REF: A = A_0*e-λt λ = .693/T2 ln(A/Ao) = -.693t/T2 T2 = -.693t/ln 0.8 = 75 hr"
+            },
+            {   "answer": "b. 75 hr.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 108 hr.",
+                "correct": false,
+                "feedback": "Incorrect. REF: A = A_0*e-λt λ = .693/T2 ln(A/Ao) = -.693t/T2 T2 = -.693t/ln 0.8 = 75 hr"
+            },
+            {   "answer": "d. 158 hr.",
+                "correct": false,
+                "feedback": "Incorrect. REF: A = A_0*e-λt λ = .693/T2 ln(A/Ao) = -.693t/T2 T2 = -.693t/ln 0.8 = 75 hr"
+            },
+        ]
+    },
+    {
+            "question": "Question 3-05/13/2002 The reactor has scrammed following an extended period of operation at full power. Which one of the following accounts for generation of a majority of the heat one (1) hour after the scram?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Spontaneous fissions",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988 pg. 3-4"
+            },
+            {   "answer": "b. Delayed neutron fissions",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988 pg. 3-4"
+            },
+            {   "answer": "c. Alpha fission product decay",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988 pg. 3-4"
+            },
+            {   "answer": "d. Beta fission product decay",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "Question 4-05/13/2002 In a subcritical Rx, Keff is increased from 0.861 to 0.946. Which one of the following is the amount of reactivity that was added to the core?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.090 delta-K/K",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 3.3.4, p. 3-21."
+            },
+            {   "answer": "b. 0.220 delta-K/K",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 3.3.4, p. 3-21."
+            },
+            {   "answer": "c. 0.104 delta-K/K",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 0.125 delta-K/K",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 3.3.4, p. 3-21."
+            },
+        ]
+    },
+    {
+            "question": "Question 5-05/13/2002 Given the following conditions: -- The reactor is operating at a power level of 790 watts -- The regulating control rod is withdrawn -- The rod pull results in a stable, 45 second period, SELECT the expected reactor power 100 seconds after the rod motion.",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 2.63 MW",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reactor Operator Training Manual, Unit 5, "Introduction To Nuclear Physics", Page 168 P = 790 [e (100/45)] = 7290 watts"
+            },
+            {   "answer": "b. 7290 watts",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 1756 watts",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reactor Operator Training Manual, Unit 5, "Introduction To Nuclear Physics", Page 168 P = 790 [e (100/45)] = 7290 watts"
+            },
+            {   "answer": "d. 1238 watts",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reactor Operator Training Manual, Unit 5, "Introduction To Nuclear Physics", Page 168 P = 790 [e (100/45)] = 7290 watts"
+            },
+        ]
+    },
+    {
+            "question": "Question 6-05/13/2002 A reactor startup is in progress by withdrawing a control rod and then waiting until count rate stabilizes. The reactor is not critical. Assume that the control rod is being withdrawn in equal amounts each time and each control rod withdrawal adds equivalent amounts of reactivity. Compare two consecutive control rod withdrawals.",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Time for power to stabilize will be equal for both withdrawals and the power increase will be the same for both withdrawals.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Chapt. 5, pp. 5-1 — 5-28."
+            },
+            {   "answer": "b. The power increase will be the same for both withdrawals but the time for power to stabilize will be less for the second withdrawal.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Chapt. 5, pp. 5-1 — 5-28."
+            },
+            {   "answer": "c. The power increase will be the same for both withdrawals but time for power to stabilize will be longer for the second withdrawal.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Chapt. 5, pp. 5-1 — 5-28."
+            },
+            {   "answer": "d. The power increase will be larger for the second withdrawal and the time for power to stabilize will be longer for the second withdrawal.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "Question 7-05/13/2002 Which one of the following is the PRINCIPAL reason for operating with thermal neutrons instead of fast neutrons?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Reactors operating primarily on fast neutrons are inherently unstable and cannot be easily controlled at low power.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reactor Operating Training Manual, Unit 5"
+            },
+            {   "answer": "b. The fission cross section of the fuel is much higher for thermal neutrons than for fast neutrons.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Doppler and moderator temperature coefficients become positive as neutrons energy increases.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reactor Operating Training Manual, Unit 5"
+            },
+            {   "answer": "d. Increased neutron efficient since thermal neutrons are less likely to leak out of the core than fast neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reactor Operating Training Manual, Unit 5"
+            },
+        ]
+    },
+    {
+            "question": "Question 8-05/13/2002 Assume that reactor power is 50% and equilibrium Xenon is attained. Reactor power is then increased to 100%. Which one of the following correctly describes the new equilibrium Xenon value?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The 100% equilibrium xenon is half the 50% value",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 8.2-8.4, pp. 8-3."
+            },
+            {   "answer": "b. The 100% equilibrium xenon is equal to the 50% value.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 8.2-8.4, pp. 8-3."
+            },
+            {   "answer": "c. The 100% equilibrium xenon is higher than the 50% value but not twice as high.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. The 100% equilibrium xenon is twice as high as the 50% value.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 8.2-8.4, pp. 8-3."
+            },
+        ]
+    },
+    {
+            "question": "Question 9-05/13/2002 Which of the following six factor formula terms are affected most by temperature?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Thermal utilization and resonance escape probability",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Fast fission factor and resonance escape probability",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 3.3, pp. 3-13 — 3-19"
+            },
+            {   "answer": "c. Fast fission factor and reproduction factor",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 3.3, pp. 3-13 — 3-19"
+            },
+            {   "answer": "d. Reproduction factor and thermal utilization",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 3.3, pp. 3-13 — 3-19"
+            },
+        ]
+    },
+    {
+            "question": "Question 10-05/13/2002 Which one of the following describes how doubling the time a target nuclide is irradiated affects the activity level?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Less than doubles the activity.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. More than doubles the activity.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, pp. 2-65"
+            },
+            {   "answer": "c. Exactly doubles the activity.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, pp. 2-65"
+            },
+            {   "answer": "d. Increases the activity by a factor of e.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, pp. 2-65"
+            },
+        ]
+    },
+    {
+            "question": "Question 11-05/13/2002 If reactor power is increasing by a decade every minute, it has a period of:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 13 sec",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = Poet/T 10 = 1e60/T ln 10 = 60/T 2.3 = 60/T T = 60/2.3 T = 26 seconds"
+            },
+            {   "answer": "b. 26 sec",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 52 sec",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = Poet/T 10 = 1e60/T ln 10 = 60/T 2.3 = 60/T T = 60/2.3 T = 26 seconds"
+            },
+            {   "answer": "d. 65 sec",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = Poet/T 10 = 1e60/T ln 10 = 60/T 2.3 = 60/T T = 60/2.3 T = 26 seconds"
+            },
+        ]
+    },
+    {
+            "question": "Question 12-05/13/2002 Which one of the following is the primary reason a neutron source is installed in the core?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. To allow for testing and irradiation experiments when the reactor is shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.2 (b), p. 5-4."
+            },
+            {   "answer": "b. To supply the neutrons required to start the chain reaction for subsequent reactor startups.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.2 (b), p. 5-4."
+            },
+            {   "answer": "c. To provide a neutron level high enough to be monitored for a controlled reactor startup.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. To increase the excess reactivity of the reactor which reduces the frequency for refueling.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.2 (b), p. 5-4."
+            },
+        ]
+    },
+    {
+            "question": "Question 13-05/13/2002 If K_eff equals 1.0, how much reactivity must be added to make the reactor prompt critical?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The beta fraction.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. The amount to make Keff equal to 1.1.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 4.2, p. 4-1."
+            },
+            {   "answer": "c. The amount to make the reactor period infinite.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 4.2, p. 4-1."
+            },
+            {   "answer": "d. The amount needed to increase the mean neutron lifetime to 0.080 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 4.2, p. 4-1."
+            },
+        ]
+    },
+    {
+            "question": "Question 14-05/13/2002 Which of the following is the PRIMARY advantage of using the homogeneous alloy of uranium fuel and zirconium-hydride moderator (U-ZrH) in the WSU TRIGA reactor? This alloy combination:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. gives much longer core life by providing a large amount of "excess reactivity".",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reactor Operator Training Manual, Unit 6"
+            },
+            {   "answer": "b. makes the reactor self-regulating by providing a large negative temperature coefficient.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. allows the reactor to be pulsed to high power levels with minimal potential for cladding failure.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reactor Operator Training Manual, Unit 6"
+            },
+            {   "answer": "d. yields more efficient heat transfer from the fuel centerline to the cladding and into the coolant.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reactor Operator Training Manual, Unit 6"
+            },
+        ]
+    },
+    {
+            "question": "Question 15-05/13/2002 The reactor is subcritical with a Keff of 0.95 and a source range count rate of 15 counts per second. Control rods are withdrawn until the source range count rate equals 45 counts per second. Which of the following is the Keff of the core after the control rod withdrawal?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.953",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reactor Operator Training Manual, Unit 5 , "Introduction To Nuclear Physics", Page 111"
+            },
+            {   "answer": "b. 0.970",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reactor Operator Training Manual, Unit 5 , "Introduction To Nuclear Physics", Page 111"
+            },
+            {   "answer": "c. 0.983",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 0.995",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reactor Operator Training Manual, Unit 5 , "Introduction To Nuclear Physics", Page 111"
+            },
+        ]
+    },
+    {
+            "question": "Question 16-05/13/2002 The regulating blade was withdrawn two (2) inches. The steady reactor period following blade withdrawal is observed to be sixty (60) seconds. Which one of the following is the differential blade worth?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 9.1 x 10-4 delta k/k per inch",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 7.2 & 7.3, pp. 7-1 — 7-9. ρ = 0.007/((0.1 * 60) + 1) = 0.0075/7 ρ = 1.0 x 10-3 delta k/k ρ/inch = 1.0 x 10-3 delta k/k/2 inches = 5.0 x 10-4 delta k/k per inch"
+            },
+            {   "answer": "b. 5.0 x 10-3 delta k/k per inch",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 7.2 & 7.3, pp. 7-1 — 7-9. ρ = 0.007/((0.1 * 60) + 1) = 0.0075/7 ρ = 1.0 x 10-3 delta k/k ρ/inch = 1.0 x 10-3 delta k/k/2 inches = 5.0 x 10-4 delta k/k per inch"
+            },
+            {   "answer": "c. 1.2 x 10-4 delta k/k per inch",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 7.2 & 7.3, pp. 7-1 — 7-9. ρ = 0.007/((0.1 * 60) + 1) = 0.0075/7 ρ = 1.0 x 10-3 delta k/k ρ/inch = 1.0 x 10-3 delta k/k/2 inches = 5.0 x 10-4 delta k/k per inch"
+            },
+            {   "answer": "d. 5.4 x 10-4 delta k/k per inch",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "Question 17-05/13/2002 Preparations are being made to "pulse" the reactor. Given the following conditions: -- Peak power from the previous pulse: 900 MW -- Reactivity added from the previous pulse: $1.75 -- Reactivity to be added on this pulse: $2.00 What will be the ESTIMATED peak power for the new pulse operation?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 1029 MW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P1/(Rho1-1)squared = P2/(Rho2-1)squared P2 = 1600 MW"
+            },
+            {   "answer": "b. 1175 MW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P1/(Rho1-1)squared = P2/(Rho2-1)squared P2 = 1600 MW"
+            },
+            {   "answer": "c. 1200 MW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P1/(Rho1-1)squared = P2/(Rho2-1)squared P2 = 1600 MW"
+            },
+            {   "answer": "d. 1600 MW",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "Question 18-05/13/2002 Following a scram, the value of the stable reactor period is:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. approximately 50 seconds, because the rate of negative reactivity insertion rapidly approaches zero.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 4.6, p. 4-16."
+            },
+            {   "answer": "b. approximately -10 seconds, as determined by the rate of decay of the shortest lived delayed neutron",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 4.6, p. 4-16."
+            },
+            {   "answer": "c. approximately -80 seconds, as determined by the rate of decay of the longest lived delayed neutron precursors.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. infinity, since neutron production has been terminated.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 4.6, p. 4-16."
+            },
+        ]
+    },
+    {
+            "question": "Question 19-05/13/2002 During a reactor startup, as the reactor approaches criticality, the value of 1/M:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. decreases toward zero",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. decreases toward one",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 3.161 — 3.163, pp. 191 — 192."
+            },
+            {   "answer": "c. increases toward infinity",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 3.161 — 3.163, pp. 191 — 192."
+            },
+            {   "answer": "d. increases toward one",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 3.161 — 3.163, pp. 191 — 192."
+            },
+        ]
+    },
+    {
+            "question": "Question 20-05/13/2002 Which one of the following is the definition of Shutdown Margin?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The overall condition where the reactor is shutdown, the console key switch is off, and no work in progress involving fuel or experiments.",
+                "correct": false,
+                "feedback": "Incorrect. REF: T.S. Definitions"
+            },
+            {   "answer": "b. The reactor can be made subcritical by at least $0.25 in a cold xenon-free condition, with the most reactive rod full out, and all samples in their most reactive positions.",
+                "correct": false,
+                "feedback": "Incorrect. REF: T.S. Definitions"
+            },
+            {   "answer": "c. The condition where all control rods are fully inserted or reactivity condition equivalent to one where all control rods are fully inserted.",
+                "correct": false,
+                "feedback": "Incorrect. REF: T.S. Definitions"
+            },
+            {   "answer": "d. The minimum shutdown reactivity necessary to ensure that the reactor can be made subcritical by means of the control and safety systems, from any operating conditions and will remain subcritical without further operator action.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+]

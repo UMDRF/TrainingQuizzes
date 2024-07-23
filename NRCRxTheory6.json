@@ -1,0 +1,354 @@
+[
+    {
+            "question": "QUESTION A.01 [1.0 point] Shown below is a trace of reactor period as a function of time. Between points A and B reactor power is:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. continually increasing.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC question. From point A to near point B, reactor period is positive, and t since P=Po*e^t/T, power will continue to increase. At point B, reactor period reaches to infinitive so power is stable at point B"
+            },
+            {   "answer": "b. continually decreasing.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC question. From point A to near point B, reactor period is positive, and t since P=Po*e^t/T, power will continue to increase. At point B, reactor period reaches to infinitive so power is stable at point B"
+            },
+            {   "answer": "c. increasing, then decreasing.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC question. From point A to near point B, reactor period is positive, and t since P=Po*e^t/T, power will continue to increase. At point B, reactor period reaches to infinitive so power is stable at point B"
+            },
+            {   "answer": "d. increasing, then constant.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.02 [1.0 point] Which ONE of the following will be the resulting stable reactor period when a 0.312 %Ak/k reactivity is inserted into an exactly critical reactor core? Given \u03B2 = 0.007",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 12 seconds",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. 24 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, 1991"
+            },
+            {   "answer": "c. 38 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, 1991"
+            },
+            {   "answer": "d. 50 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, 1991"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.03 [1.0 point] Which ONE of the following best describes the effects of moderator temperature increase on neutron multiplication?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Thermal non leakage increases and rod worth increases.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.2, page 3-19"
+            },
+            {   "answer": "b. Thermal non leakage decreases and rod worth decreases.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.2, page 3-19"
+            },
+            {   "answer": "c. Thermal non leakage decreases and rod worth increases.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Thermal non leakage increases and rod worth decreases.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.2, page 3-19"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.04 [1.0 point] With a 30 second period, power would double in approximately...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 15 seconds",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "b. 21 seconds",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 32 seconds",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "d. 60 seconds",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.05 [1.0 point] A reactor with Keff = 0.5 contributes 1000 neutrons in the first generation. Changing from the first generation to the SECOND generation, how many neutrons are there in the second generation?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 1250",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982"
+            },
+            {   "answer": "b. 1500",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 1750",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982"
+            },
+            {   "answer": "d. 2000",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.06 [1.0 point] Using the applicable portion from the chart of the nuclides, what will Mn-56 decay into?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Mn-55",
+                "correct": false,
+                "feedback": "Incorrect. REF: Mn-56 is beta decay, which is the conversion of a neutron into a proton and electron. Baum, E., Knox, H., and Miller, T. 2002. Nuclides and Isotopes 16th Ed. p. 28"
+            },
+            {   "answer": "b. Co-60",
+                "correct": false,
+                "feedback": "Incorrect. REF: Mn-56 is beta decay, which is the conversion of a neutron into a proton and electron. Baum, E., Knox, H., and Miller, T. 2002. Nuclides and Isotopes 16th Ed. p. 28"
+            },
+            {   "answer": "c. Fe-56",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Fe-58",
+                "correct": false,
+                "feedback": "Incorrect. REF: Mn-56 is beta decay, which is the conversion of a neutron into a proton and electron. Baum, E., Knox, H., and Miller, T. 2002. Nuclides and Isotopes 16th Ed. p. 28"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.07 [1.0 point] Which of the following types of neutrons has a mean neutron generation lifetime of 12.5 seconds?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Prompt",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook Vol 1 Section 3.0"
+            },
+            {   "answer": "b. Delayed",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Fast",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook Vol 1 Section 3.0"
+            },
+            {   "answer": "d. Thermal",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook Vol 1 Section 3.0"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.08 [1.0 point] Which ONE of the following is the correct amount of reactivity added if the multiplication factor, k, is increased from 0.800 to 0.950?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.150",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.3, page 3-21."
+            },
+            {   "answer": "b. 0.158",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.3, page 3-21."
+            },
+            {   "answer": "c. 0.188",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.3, page 3-21."
+            },
+            {   "answer": "d. 0.197",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.09 [1.0 point] Delayed neutrons are produced by:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. decay of O-16.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.2"
+            },
+            {   "answer": "b. Photoelectric Effect.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.2"
+            },
+            {   "answer": "c. decay of fission fragments.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. directly from the fission process.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.2"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.10 [1.0 point] Which ONE of the following conditions will INCREASE the shutdown margin of a reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Lowering moderator temperature (Assume negative temperature coefficient).",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "b. Insertion of a positive reactivity worth experiment.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "c. Burnout of a burnable poison",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "d. Fuel depletion",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.11 [1.0 point] The reactor is exactly critical. Which ONE of the following is the MINIMUM reactivity that must be added to produce prompt criticality?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Reactivity equals $1.10.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 4.2"
+            },
+            {   "answer": "b. Reactivity equals to the Beff.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Reactivity equals 1.007 % Ak/k.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 4.2"
+            },
+            {   "answer": "d. Reactivity when the stable reactor period equals 3 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 4.2"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.12 [1.0 point] The following data was obtained during a reactor fuel load.",
+        "type": "multiple_choiceNo. of Elements: 0 10 20 30 50, Detector A (cps): 30 40 60 100 300",
+        "answers": [
+            {   "answer": "a. 55",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, § 5.5, pp. 5-185-25."
+            },
+            {   "answer": "b. 60",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 65",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, § 5.5, pp. 5-185-25."
+            },
+            {   "answer": "d. 70",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, § 5.5, pp. 5-185-25."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.13 [1.0 point] Given the following worth: Pexcess = $0.90, SAFE = $2.20, REG blade. = $0.30, SHIM = $1.55 Calculate the TECHNICAL SPECIFICATION LIMIT of Shutdown Margin for this cord",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. $0.95",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. $1.25",
+                "correct": false,
+                "feedback": "Incorrect. REF: Total rod worth - (excess + most active rod)"
+            },
+            {   "answer": "c. $1.55",
+                "correct": false,
+                "feedback": "Incorrect. REF: Total rod worth - (excess + most active rod)"
+            },
+            {   "answer": "d. $3.15",
+                "correct": false,
+                "feedback": "Incorrect. REF: Total rod worth - (excess + most active rod)"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.14 [1.0 point] Which ONE of the following describes the term PROMPT JUMP?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. A reactor is critical at 80-second period.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Page 4-21"
+            },
+            {   "answer": "b. A reactor has attained criticality on prompt neutrons alone.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Page 4-21"
+            },
+            {   "answer": "c. The instantaneous change in power level due to inserting a control rod.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Page 4-21"
+            },
+            {   "answer": "d. The instantaneous change in power level due to withdrawing a control rod.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.15 [1.0 point] The probability of neutron interaction per cm of travel in a material is defined as:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. a neutron flux.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Section 2.5.2, page 2-44"
+            },
+            {   "answer": "b. a mean free path.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Section 2.5.2, page 2-44"
+            },
+            {   "answer": "c. a microscopic cross section.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Section 2.5.2, page 2-44"
+            },
+            {   "answer": "d. a macroscopic cross section.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.16 [1.0 point] Which ONE of the following is NOT a correct statement regarding the production/depletion of Xenon in an operating reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Xe-135 is lost by alpha decay.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Xe-135 is lost by neutron absorption.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, Sec 8.2, page 8-3"
+            },
+            {   "answer": "c. Xe-135 is formed by fission and I-135 decay.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, Sec 8.2, page 8-3"
+            },
+            {   "answer": "d. I-135 is formed by fission and lost by beta decay to Xe-135",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, Sec 8.2, page 8-3"
+            },
+        ]
+    },
+]

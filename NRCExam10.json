@@ -1,0 +1,422 @@
+[
+    {
+        "question": "Question 1-02/28/2019 Which ONE of the following is the stable reactor period which will result in a power rise from 50% to 100% power in 5 seconds?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 5 seconds",
+            "correct": false
+            "feedback": "Incorrect. REF: P=P_oe^t/T T = t/ln(P/P_o); T = 5 / ln(100/50); T = 7.2 seconds"
+            },
+            {   "answer": "b. 7 seconds",
+            "correct": true
+            "feedback": "Correct"
+            },
+            {   "answer": "c. 9 seconds",
+            "correct": false
+            "feedback": "Incorrect. REF: P=P_oe^t/T T = t/ln(P/P_o); T = 5 / ln(100/50); T = 7.2 seconds"
+            },
+            {   "answer": "d. 10 seconds",
+            "correct": false
+            "feedback": "Incorrect. REF: P=P_oe^t/T T = t/ln(P/P_o); T = 5 / ln(100/50); T = 7.2 seconds"
+            },
+        ]
+    },
+    {
+        "question": "Question 2-02/28/2019 What effect does Doppler Broadening for U-238 have on neutrons in a critical core?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. More Scattering",
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, NP-03, page 26"
+            },
+            {   "answer": "b. More Absorption",
+            "correct": true
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Increase the Reproduction Factor",
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, NP-03, page 26"
+            },
+            {   "answer": "d. Increase the Resonance Escape Probability"
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, NP-03, page 26"
+            },
+        ]
+    },
+    {
+        "question": "Question 4-02/28/2019 Which ONE of the following most accurately describes the reason that fission products such as Xenon-135 and Samarium-19 have the most substantial impact in reactor design and operation?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Xenon-135 and Samarium-19 causes excess positive reactivity in the core",
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, NP-03, page 34"
+            },
+            {   "answer": "b. Xenon-135 and Samarium-19 burn up causes an increase in the thermal flux",
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, NP-03, page 34"
+            },
+            {   "answer": "c. Xenon-135 and Samarium-19 have large absorption cross sections resulting in a large removal of neutrons from the reactor",
+            "correct": true
+            "feedback": "Correct"
+            },
+            {   "answer": "d. Xenon-135 and Samarium-19 produce fast fission neutrons, resulting in the net increase in the fast neutron population of the reactor core",
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, NP-03, page 34"
+            },
+        ]
+    },
+    {
+        "question": "Question 5-02/28/2019 The following shows part of a decay chain for the radioactive element Pa-234: _91Pa^234 → _92U^234 This decay chain is an example of _______ decay.",
+            "type": "mutiple_choice",
+            "answers": [
+            {   "answer": "a. Alpha",
+            "correct": false
+            "feedback": "Incorrect. REF: Chart of the Nuclides"
+            },
+            {   "answer": "b. Beta",
+            "correct": true
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Gamma",
+            "correct": false
+            "feedback": "Incorrect. REF: Chart of the Nuclides"
+            },
+            {   "answer": "d. Neutron",
+            "correct": false
+            "feedback": "Incorrect. REF: Chart of the Nuclides"
+            },
+        ]
+    },
+    {
+        "question": "Question 6-02/28/2019 What is the result in a potential elastic scattering reaction between a neutron and a target nucleus?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Energy is transferred into nuclear excitation, and then emitted via a gamma emissions",
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, NP-01, page 43",
+            },
+            {   "answer": "b. Neutron is absorbed by the target nucleus and then emitted with lower kinetic energy",
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, NP-01, page 43",
+            },
+            {   "answer": "c. Neutron conserves its initial kinetic energy if the target nucleus is large",
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, NP-01, page 43",
+            },
+            {   "answer": "d. Target nucleus gains the amount of kinetic energy that the neutron loses",
+            "correct": true
+            "feedback": "Correct"
+            },
+        ]
+    },
+    {
+        "question": "Question 7-02/28/2019 Which ONE of the following is the MAJOR source of energy released during fission?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Fission fragments",
+            "correct": false
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Table 3.2, Page 3-5"
+            },
+            {   "answer": "b. Fission product decay",
+            "correct": true
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Prompt gamma rays",
+            "correct": false
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Table 3.2, Page 3-5"
+            },
+            {   "d. Fission neutrons (kinetic energy)",
+            "correct": false
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Table 3.2, Page 3-5"
+            },
+        ]
+    },
+    {
+        "question": "Question 8-02/28/2019 Which ONE of the following parameters is MOST significant in determining the differential rod worth of a control rod?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Rod speed",
+            "correct": false
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 7, page 7-4"
+            },
+            {   "answer": "b. Reactor power",
+            "correct": false
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 7, page 7-4"
+            "answer": "c. Flux shape"
+            "correct": true
+            "feedback": "Correct"
+            },
+            {   "d. Fuel temperature",
+            "correct": false
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 7, page 7-4"
+            },
+        ]
+    },
+    {
+        "question": "Question 9-02/28/2019 Which ONE of the following best defines the reactor excess reactivity?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Measure of the additional fuel loaded to overcome fission product poisoning",
+            "correct": false
+            "feedback": "DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, NP-03, page 50"
+            },
+            {   "answer": "b. Measure of remaining control rod worth when the reactor is exactly critical",
+            "correct": true
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Measure of remaining control rod worth when the reactor is sub-critical",
+            "correct": false
+            "feedback": "DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, NP-03, page 50"
+            },
+            {   "d. Combined control rod negative reactivity worth required to keep the reactor shutdown"
+            "correct": false
+            "feedback": "DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, NP-03, page 50"
+            },
+        ]
+    },
+    {
+        "question": "Question 10-02/28/2019 What is the condition of the reactor when k =1/1-β?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Subcritical",
+            "correct": false
+            "feedback": "Incorrect. REF: LaMarsh, Introduction to Nuclear Engineering, Page 340-341 (1-B)k=1 manipulated reads k=1/(1-B)"
+            },
+            {   "answer": "b. Critical",
+            "correct": false
+            "feedback": "Incorrect. REF: LaMarsh, Introduction to Nuclear Engineering, Page 340-341 (1-B)k=1 manipulated reads k=1/(1-B)"
+            },
+            {   "answer": "c. Super critical",
+            "correct": true
+            "feedback": "Correct"
+            },
+            {   "answer": "d. Prompt critical",
+            "correct": false
+            "feedback": "Incorrect. REF: LaMarsh, Introduction to Nuclear Engineering, Page 340-341 (1-B)k=1 manipulated reads k=1/(1-B)"
+            },
+        ]
+    },
+    {
+        "question": "Question 11-02/28/2019 Given a source strength of 150 neutrons per second (N/sec) and a multiplication factor of 0.85, which ONE of the following is the expected stable neutron count rate?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 500 N/sec",
+            "correct": false
+            "feedback": "Incorrect. REF: CR=S/(1-k); 150/(1-0.85) = 1000N/sec"
+            },
+            {   "answer": "b. 750 N/sec",
+            "correct": false
+            "feedback": "Incorrect. REF: CR=S/(1-k); 150/(1-0.85) = 1000N/sec"
+            },
+            {   "answer": "c. 1000 N/sec",
+            "correct": true
+            "feedback": "Correct"
+            },
+            {   "answer": "d. 1250 N/sec",
+            "correct": false
+            "feedback": "Incorrect. REF: CR=S/(1-k); 150/(1-0.85) = 1000N/sec"
+            },
+        ]
+    },
+    {
+        "question": "Question 12-02/28/2019 Which ONE of the following is the definition of the effective neutron multiplication factor (k-eff)?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Absorption / (Production + Leakage)",
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, NP-03, page 8"
+            },
+            {   "answer": "b. (Production + Leakage) / Absorption",
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, NP-03, page 8"
+            },
+            {   "answer": "c. Production / (Absorption + Leakage)"
+            "correct": true
+            "feedback": "Correct"
+            },
+            {   "answer": "d. (Absorption + Leakage) / Production"
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, NP-03, page 8"
+            },
+        ]
+    },
+    {
+        "question": "Question 13-02/28/2019 What is the average number of neutrons produced from every fission of Uranium-235 with thermal neutrons?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 2.42 neutrons",
+            "correct": true
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. 2.66 neutrons",
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, NP-03, Table 1, page 7"
+            },
+            {   "answer": "c. 2.81 neutrons",
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, NP-03, Table 1, page 7"
+            },
+            {   "answer": "d. 2.93 neutrons"
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, NP-03, Table 1, page 7"
+            },
+        ]
+    },
+    {
+        "question": "Question 14-02/28/2019 Which ONE of the following conditions would INCREASE the shutdown margin of a reactor?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Depletion of Uranium Fuel",
+            "correct": true
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. Depletion of a burnable poison",
+            "correct": false
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 6.2.3, page 6-4"
+            },
+            {   "answer": "c. Inserting an experiment adding positive reactivity",
+            "correct": false
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 6.2.3, page 6-4"
+            },
+            {   "answer": "d. Lowering moderator temperature if the moderator temperature coefficient is negative"
+            "correct": false
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 6.2.3, page 6-4"
+            },
+        ]
+    },
+    {
+        "question": "Question 15-02/28/2019 The reactor is on a CONSTANT positive period. Which ONE of the following power changes will take the SHORTEST time to complete?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. From 100 kW to 150 kW",
+            "correct": true
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. From 10 kW to 20 kW",
+            "correct": false
+            "feedback": "Incorrect. REF: P=P_oe^t/T→t=T*ln(P/P_o) assume constant period=1
+The smallest ratio of P/P_o is the shortest time to complete"
+            },
+            {   "answer": "c. From 10 W to 30 W",
+            "correct": false
+            "feedback": "Incorrect. REF: P=P_oe^t/T→t=T*ln(P/P_o) assume constant period=1
+The smallest ratio of P/P_o is the shortest time to complete"
+            },
+            {   "answer": "d. From 1 W to 5 W"
+            "correct": false
+            "feedback": "Incorrect. REF: P=P_oe^t/T→t=T*ln(P/P_o) assume constant period=1
+The smallest ratio of P/P_o is the shortest time to complete"
+            },
+        ]
+    },
+    {
+        "question": "Question 16-02/28/2019 Which ONE of the following statements best describes the effects of an increase in moderator temperature on neutron multiplication?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Reactor period doubles",
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, NP-03, page 26" 
+            },
+            {   "answer": "b. An increase in the moderator temperature has negligible effect on neutron multiplication",
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, NP-03, page 26"
+            },
+            {   "answer": "c. An immediate decrease in the prompt neutron fraction due to leakage, absorption and reduction in the fission rate",
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, NP-03, page 26"
+            },
+            {   "answer": "d. Mean free path between scattering collisions increases causing the average neutron to travel further and rod worth increases"
+            "correct": true
+            "feedback": "Correct"
+            },
+        ]
+    },
+    {
+        "question": "Question x17-02/28/2019 How high will the reactor power get given the lowest of the reactor high power scrams set point is 110%, the scram delay time is 0.5 seconds, the reactor is operating at 100% power prior to the scram, and the reactor period is positive 20 second?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 113%",
+            "correct": true
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. 115%",
+            "correct": false
+            "feedback": "Incorrect. REF: P/P_o = 110%, T = 20 seconds, t = 0.5, P/P_o = 110 e^0.5/20 = 112.78%"
+            },
+            {   "answer": "c. 120%",
+            "correct": false
+            "feedback": "Incorrect. REF: P/P_o = 110%, T = 20 seconds, t = 0.5, P/P_o = 110 e^0.5/20 = 112.78%"
+            },
+            {   "answer": "d. 220%"
+            "correct": false
+            "feedback": "Incorrect. REF: P/P_o = 110%, T = 20 seconds, t = 0.5, P/P_o = 110 e^0.5/20 = 112.78%"
+            },
+        ]
+    },
+    {
+        "question": "Question 18-02/28/2019 Reactor is critical. What would be the corresponding keff when removing 0.05 ∆k/k from its criticality?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 0.9951",
+            "correct": false
+            "feedback": "Incorrect. REF: ρ=(k-1)/k-0.05→1=k-(-0.05k)=k(1+0.05)→k=1/1.05 =0.9524" 
+            },
+            {   "answer": "b. 0.9524",
+            "correct": true
+            "feedback": "Correct"
+            },
+            {   "answer": "c. 0.9750",
+            "correct": false
+            "feedback": "Incorrect. REF: ρ=(k-1)/k-0.05→1=k-(-0.05k)=k(1+0.05)→k=1/1.05 =0.9524"
+            },
+            {   "answer": "d. 1.0526"
+            "correct": false
+            "feedback": "Incorrect. REF: ρ=(k-1)/k-0.05→1=k-(-0.05k)=k(1+0.05)→k=1/1.05 =0.9524"
+            },
+        ]
+    },
+    {
+        "question": "Question 19-02/28/2019 Which ONE of the following is defined as the balance between production of neutrons and their absorption in the core for which core leakage can be neglected?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Utilization Factor",
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, NP-03, page 9" 
+            },
+            {   "answer": "b. Reproduction Factor",
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, NP-03, page 9"
+            },
+            {   "answer": "c. Infinite Multiplication Factor",
+            "correct": true
+            "feedback": "Correct"
+            },
+            {   "answer": "d. Effective Multiplication Factor"
+            "correct": false
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, NP-03, page 9"
+            },
+        ]
+    },
+    {
+        "question": "Question 20-02/28/2019 Delayed neutrons contribute more to reactor stability than prompt neutrons because they ________ the average neutron generation time and are born at a ________ kinetic energy.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Increase, lower",
+            "correct": true
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. Decrease, lower",
+            "correct": false
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 3.2.4, page 3-12 and Section 3.4.4, page 3-33"
+            },
+            {   "answer": "c. Increase, higher",
+            "correct": false
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 3.2.4, page 3-12 and Section 3.4.4, page 3-33"
+            },
+            {   "answer": "d. Decrease, higher"
+            "correct": false
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 3.2.4, page 3-12 and Section 3.4.4, page 3-33"
+            },
+        ]
+    },
+]

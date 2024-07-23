@@ -1,0 +1,451 @@
+[
+    {
+        "question": "Question 1-06/07/2013 The reactor is at 100 kW power in manual mode. Which ONE of the following conditions will require a control rod INSERTION to maintain the same power level?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Insertion of a negative reactivity worth experiment.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module X"
+            },
+            {   "answer": "b. U235 concentration decrease (Fuel Burnup).",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module X"
+            },
+            {   "answer": "c. Primary coolant temperature decreases.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Xenon buildup.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module X"
+            },
+        ]
+    },
+    {
+        "question": "Question 2-06/07/2013 During a Subcritical Multiplication "1/M" plot, data is required to be taken. What does the 1/M represent?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The inverse of fuel elements presented in the core.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z"
+            },
+            {   "answer": "b. The inverse of the moderator coefficient of reactivity.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z"
+            },
+            {   "answer": "c. The inverse migration length of neutrons of varying energies",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z"
+            },
+            {   "answer": "d. The inverse multiplication of the count rate between generations",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+        "question": "Question 3-06/07/2013 Which ONE of the following is the reason that Xenon peaks after a shutdown?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Iodine decays faster than Xenon decays.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Samarium decays faster than Xenon decays.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reed Training Manual, Chapter 10.4"
+            },
+            {   "answer": "c. Xenon decays faster than Iodine decays.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reed Training Manual, Chapter 10.4"
+            },
+            {   "answer": "d. Xenon decays faster than Promethium.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reed Training Manual, Chapter 10.4"
+            },
+        ]
+    },
+    {
+        "question": "Question 4-06/07/2013 Which ONE of the following will be the resulting stable reactor period when a $0.20 reactivity insertion is made into an exactly critical reactor core? Given =0.0070 and λ=0.1?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 25 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. REF: ρ =ρ$* =$0.20*0.007 =0.0014 ∆k    T = (β-ρ)/λρ    T = (0.0070 - 0.0014)/0.1 x 0.0014 = 40 seconds"
+            },
+            {   "answer": "b. 32 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. REF: ρ =ρ$* =$0.20*0.007 =0.0014 ∆k    T = (β-ρ)/λρ    T = (0.0070 - 0.0014)/0.1 x 0.0014 = 40 seconds"
+            },
+            {   "answer": "c. 40 seconds.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 80 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. REF: ρ =ρ$* =$0.20*0.007 =0.0014 ∆k    T = (β-ρ)/λρ    T = (0.0070 - 0.0014)/0.1 x 0.0014 = 40 seconds"
+            },
+        ]
+    },
+    {
+        "question": "Question 5-06/07/2013 Which one of the following is the definition of the FAST FISSION FACTOR?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The ratio of the number of neutrons produced by fast fission to the number of neutrons produced by thermal fission..",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 3, Neutron Life Cycle, p."
+            },
+            {   "answer": "b. The ratio of the number of neutrons produced by thermal fission to the number of neutrons produced by fast fission..",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 3, Neutron Life Cycle, p."
+            },
+            {
+                "answer": "c. The ratio of the number of neutrons produced by fast and thermal fission to the number of neutrons produced by thermal fission..",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "d. The ratio of the number of neutrons produced by fast fission to the number of neutrons produced by fast and thermal fission..",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 3, Neutron Life Cycle, p."
+            },
+        ]
+    },
+    {
+        "question": "Question 6-06/07/2013 Which ONE of the following describes the MAJOR contributor to the negative temperature coefficient of reactivity in the WSU TRIGA reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Decreasing of fuel density.",
+                "correct": true,
+                "feedback": "Incorrect REF: Reed Training Manual."
+            },
+            {
+                "answer": "b. Zr-H Moderator Effects.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "c. Decreasing of water pool density.",
+                "correct": false,
+                "feedback": "Incorrect REF: Reed Training Manual."
+            },
+            {
+                "answer": "d. Increasing the resonance absorption in the fuel.",
+                "correct": false,
+                "feedback": "Incorrect REF: Reed Training Manual."
+            },
+         ]
+     },
+     {
+        "question": "Question 7-06/07/2013 Which ONE of the following explains the response of a SUBCRITICAL reactor to equal insertions of positive reactivity as the reactor approaches criticality? Each insertion causes a ...?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. SMALLER increase in the neutron flux resulting in a LONGER time to stabilize.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 4, Subcritical Multiplication."
+            },
+            {
+                "answer": "b. LARGER increase in the neutron flux resulting in a LONGER time to stabilize.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "c. SMALLER increase in the neutron flux resulting in a SHORTER time to stabilize.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 4, Subcritical Multiplication."
+            },
+            {
+                "answer": "d. LARGER increase in the neutron flux resulting in a SHORTER time to stabilize.",
+                "correct": true,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 4, Subcritical Multiplication."
+            },
+            
+        ]
+    },
+    {
+        "question": "Question 8-06/07/2013 Reactor A increases power from 10% to 20% with a period of 25 seconds. Reactor B increases power from 80% to 100% with a period of also 25 seconds. Compared to Reactor A, the time required for the power increase of Reactor B is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Longer than A.",
+                "correct": false,
+                "feedback": "Incorrect. The power of reactor A increases by a factor of 2, while the power of reactor B increases by a factor of 1.25. Since the periods are the same (rate of change is the same), power increase B takes a shorter time.."
+            },
+            {
+                "answer": "b. Shorter than A.",
+                "correct": true,
+                "feedback": "Incorrect. The power of reactor A increases by a factor of 2, while the power of reactor B increases by a factor of 1.25. Since the periods are the same (rate of change is the same), power increase B takes a shorter time.."
+            },
+            {
+                "answer": "c. Twice that of A.",
+                "correct": false,
+                "feedback": "Incorrect. Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 8.4, page 8-9."
+            },
+            {
+                "answer": "d. Exactly the same as A.",
+                "correct": false,
+                "feedback": "Incorrect. The power of reactor A increases by a factor of 2, while the power of reactor B increases by a factor of 1.25. Since the periods are the same (rate of change is the same), power increase B takes a shorter time.."
+            },
+        ]
+     },
+     {
+        "question": "Question 9-06/07/2013 Which one of the following correctly describes the relationship between differential rod worth (DRW) and integral rod worth (IRW)?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. DRW is the slope of the IRW curve at a given location.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "b. DRW is the area under the IRW curve at a given location.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z"
+            },
+            {
+                "answer": "c. DRW is the square root of the IRW curve at a given location.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z"
+            },
+            {
+                "answer": "d. There is no relationship between DRW and IRW.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z"
+            },
+        ]
+     },
+     {
+        "question": "Question 10-06/07/2013 Why is the stable negative period following a scram always the same value,- 80 second, regardless of initial power level? The rate of power change is dependent on the:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Constant decay rate of prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z "
+            },
+            {
+                "answer": "b. Constant decay rate of prompt gamma emitters.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z "
+            },
+            {
+                "answer": "c. Mean lifetime of the longest lived delayed precursor.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "d. Mean lifetime of the shortest lived delayed neutron precursor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z "
+            },
+        ]
+     },
+     {
+        "question": "Question 11-06/07/2013 Reactor is at a power level of 50 watts. The operator IMMEDIATELY inserts an experiment with a reactivity worth of $1.00 into the core. This insertion will cause:            Given: T: reactor period, l*: Prompt neutron lifetime; ρ: reactivity insertion; β: beta fraction",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. A delayed reactor period to be equal to NEGATIVE (-) 80 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reference:Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6, page 4-17"
+            },
+            {
+                "answer": "b. A number of prompt neutrons equals to a number of delayed neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reference:Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6, page 4-17"
+            },
+            {
+                "answer": "c. The immediate reactor period to be a function of the prompt neutron lifetime (T=l*/ρ).",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "d. A sudden change of power that equals to the initial power multiplied by β(1- ρ)/ (β -ρ).",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reference:Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6, page 4-17"
+            },
+        ]
+     },
+     {
+        "question": "Question 12-06/07/2013 Reactor power doubles in 30 seconds. Based on the period associated with this transient, how long will it take for reactor power to increase by a factor of 10?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 80 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory. P = P0 et/τ. 1st find τ. τ = time/(ln(2)) = 30/0.693 = 43.3 sec. Time = τ × ln(10) = 43.3 × 2.3 =99.7 sec"
+            },
+            {
+                "answer": "b. 100 seconds.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "c. 120 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory. P = P0 et/τ. 1st find τ. τ = time/(ln(2)) = 30/0.693 = 43.3 sec. Time = τ × ln(10) = 43.3 × 2.3 =99.7 sec"
+            },
+            {
+                "answer": "d. 140 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory. P = P0 et/τ. 1st find τ. τ = time/(ln(2)) = 30/0.693 = 43.3 sec. Time = τ × ln(10) = 43.3 × 2.3 =99.7 sec"
+            },
+        ]
+     },
+     {
+        "question": "Question 13-06/07/2013 Which ONE of the following is the correct reason for an installed neutron source within the core? A startup without an installed neutron source:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Is impossible because there would be no neutrons available to start up the reactor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+            },
+            {   "answer": "b. Would be very slow because it would take a long time to build up neutron population from so low a level.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+            },
+            {   "answer": "c. Can be compensated for by adjusting the compensating voltage on the source range detector.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+            },
+            {   "answer": "d. Could result in a very short period due to the reactor going critical before neutron population built up high enough to be read on nuclear instrumentation.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+     },
+     {
+        "question": "Question 14-06/07/2013 Initially Nuclear Instrumentation is reading 60 counts per second (CPS) and the reactor has a Keff of 0.95. You add an experiment which causes the nuclear instrumentation reading to increase to 120 CPS. Which ONE of the following is the new Keff?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.925.",
+                "correct": false,
+                "feedback": "Incorrect. CR2/CR1 = (1 - Keff1)/(1 - Keff2) 120/60 = (1 - 0.950)/(1 - Keff2). Keff2 = 0.975."
+            },
+            {   "answer": "b. 0.955.",
+                "correct": false,
+                "feedback": "Incorrect. CR2/CR1 = (1 - Keff1)/(1 - Keff2) 120/60 = (1 - 0.950)/(1 - Keff2). Keff2 = 0.975."
+            },
+            {   "answer": "c. 0.965.",
+                "correct": false,
+                "feedback": "Incorrect. CR2/CR1 = (1 - Keff1)/(1 - Keff2) 120/60 = (1 - 0.950)/(1 - Keff2). Keff2 = 0.975."
+            },
+            {   "answer": "d. 0.975.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+     },
+     {
+        "question": "Question 16-06/07/2013 What is the HALF LIFE of the isotope contained in a sample which produces the following count rates? Initial: 950 cpm, 60 minutes: 702 cpm, 120 minutes 518 cpm, 180 minutes 383 cpm, 240 minutes 283 cpm",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 124.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "b. 137.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {   "answer": "c. 198.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "d. 423.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+        ]
+     },
+     {
+        "question": "Question 17-06/07/2013 Reactor power is tripled in every minute. The reactor period is:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 65 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. P=Poet/τ. J = 60 sec/ln(3) = 54.6 sec ."
+            },
+            {   "answer": "b. 55 seconds.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 26 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. P=Poet/τ. J = 60 sec/ln(3) = 54.6 sec ."
+            },
+            {   "answer": "d. 13 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. P=Poet/τ. J = 60 sec/ln(3) = 54.6 sec ."
+            },
+        ]
+     },
+     {
+        "question": "Question 18-06/07/2013 What is the kinetic energy range of a thermal neutron?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. > 1 MeV.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 1, Module 2, Neutron Moderation, p. 23."
+            },
+            {   "answer": "b. 100 KeV – 1 MeV.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 1, Module 2, Neutron Moderation, p. 23."
+            },
+            {   "answer": "c. 1 eV – 100 KeV.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 1, Module 2, Neutron Moderation, p. 23."
+            },
+            {   "answer": "d. < 1 eV.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+     },
+     {
+        "question": "Question 19-06/07/2013 Which ONE of the following reasons causes the reactor power to rapidly decrease in Zr-H-U mixture used in the TRIGA fuel due to a rapid power excursion (rapid reactivity change)?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. By increasing of the reproduction factor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: no Doppler broadening applied to Zr or U-235 (just for U-238 only)."
+            },
+            {   "answer": "b. By increasing of Doppler broadening of Zr.",
+                "correct": false,
+                "feedback": "Incorrect. REF: no Doppler broadening applied to Zr or U-235 (just for U-238 only)."
+            },
+            {   "answer": "c. By decreasing of the thermal utilization factor.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. By increasing of Doppler broadening of U-235.",
+                "correct": false,
+                "feedback": "Incorrect. REF: no Doppler broadening applied to Zr or U-235 (just for U-238 only)."
+            },
+        ]
+     },
+     {
+        "question": "Question 20-06/07/2013 Which ONE of the following correctly describes the SIX- FACTOR FORMULA?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Kinf = Keff * the resonance escape probability (p).",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook Vol 2, L Theory (Nuclear Parameters), E.O. 1.1 a&b, pg."
+            },
+            {   "answer": "b. Kinf = Keff * the total non-leakage probability (‹f H ‹th).",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook Vol 2, L Theory (Nuclear Parameters), E.O. 1.1 a&b, pg."
+            },
+            {   "answer": "c. Keff = Kinf * the total non-leakage probability (‹f H ‹th).",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Keff = Kinf * (the resonance escape probability (p)* the reproduction factor (η)).",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook Vol 2, L Theory (Nuclear Parameters), E.O. 1.1 a&b, pg."
+            },
+        ]
+     },
+]

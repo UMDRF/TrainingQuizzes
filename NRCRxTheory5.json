@@ -1,0 +1,256 @@
+[
+    {
+            "question": "QUESTION A.01 [1.0 point] Which ONE of the following is the definition of a cross section?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The probability that a neutron will be captured by the nucleus.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. The most likely energy at which a charged particle will be captured.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 2, page 7."
+            },
+            {   "answer": "c. The length a charged particle travels past the nucleus before being captured.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 2, page 7."
+            },
+            {   "answer": "d. The area of the nucleus including the electron cloud.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 2, page 7."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.02 [1.0 point] Which of the following power manipulations would take the longest to complete assuming the same period is maintained?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 100 mW to 400 mW",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. 400 mW to 500 mW",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 2, Module 3, page 11"
+            },
+            {   "answer": "c. 1 W to 3.5 W",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 2, Module 3, page 11"
+            },
+            {   "answer": "d. 3.5 W to 4.5 W",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 2, Module 3, page 11"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.03 [1.0 point] Inelastic scattering is the process whereby a neutron collides with a nucleus and:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. recoils with the same kinetic energy it had prior to the collision.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 1, page 45"
+            },
+            {   "answer": "b. recoils with a lower kinetic energy, with the nucleus emitting a gamma ray.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. is absorbed by the nucleus, with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 1, page 45"
+            },
+            {   "answer": "d. recoils with a higher kinetic energy, with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 1, page 45"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.04 [1.0 point] At the beginning of a reactor startup, Keff is 0.90 with a count rate of 30 CPS. Power is increased to a new, steady value of 60 CPS. The new Keff is: ",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.91",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 2, Module 4, pages 1 through 9"
+            },
+            {   "answer": "b. 0.925",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 2, Module 4, pages 1 through 9"
+            },
+            {   "answer": "c. 0.95",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 0.975",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 2, Module 4, pages 1 through 9"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.05 [1.0 point] Of the approximately 200 Mev of energy released per fission event, the largest amount appears in the form of:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Beta and gamma radiation.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 1, page 61"
+            },
+            {   "answer": "b. Prompt and delayed neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 1, page 61"
+            },
+            {   "answer": "c. Kinetic energy of the fission fragments.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Fast Neutron radiation.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 1, page 61"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.06 [1.0 point] The reactor is critical at some power level. A heat source is turned on in the reactor room resulting in the reactor water tank increasing in temperature. In order to maintain a steady power level you must...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. insert control rod(s) to compensate for the positive reactivity added by the temperature increase.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 2, Module 4, page 28"
+            },
+            {   "answer": "b. insert control rod(s) to compensate for the negative reactivity added by the temperature increase.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. withdraw control rod(s) to compensate for the positive reactivity added by the temperature increase.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 2, Module 4, page 28"
+            },
+            {   "answer": "d. withdraw control rod(s) to compensate for the negative reactivity added by the temperature increase.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 2, Module 4, page 28"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.07 [1.0 point] Reactor period has just stabilized at -80 seconds following a reactor shutdown. If safety channel #1 reads 1 x 104 counts/minute, what do you expect the channel to read in three minutes?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 3 x 103 counts/minute",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 2, page 7"
+            },
+            {   "answer": "b. 1 x 103 counts/minute",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 3 x 102 counts/minute",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 2, page 7"
+            },
+            {   "answer": "d. 1 x 102 counts/minute",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 2, page 7"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.08 [1.0 point] The reactor is at 5 watts, when someone inserts an experiment which causes a 10 second positive period. If the scram delay time is 1 second and the lowest scram setpoint is 9.7 watts, which ONE of the following is the MAXIMUM power the reactor will reach prior to scramming?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 9.1 watts",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 2, page 7"
+            },
+            {   "answer": "b. 10.7 watts",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 15.5 watts",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 2, page 7"
+            },
+            {   "answer": "d. 25 watts",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 2, page 7"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.09 [1.0 point 1/4 each] Identify whether each of the following isotopes is either fissile (FIS) or fertile (FER). a. Th-232",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. FIS",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 1, page 50 & 52"
+            },
+            {   "answer": "b. FER",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "b. U-233",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. FIS",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. FER",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 1, page 50 & 52"
+            },
+        ]
+    },
+    {
+            "question": "c. U-235",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. FIS",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. FER",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 1, page 50 & 52"
+            },
+        ]
+    },
+    {
+            "question": "d. U-238",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. FIS",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 1, Module 1, page 50 & 52"
+            },
+            {   "answer": "b. FER",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.10 [1.0 point] Most references list the delayed neutron fraction for U235 (B) as 0.0065. The SAR lists \u03B2 for the core as 0.0074. The \u03B2 in the SAR is more commonly referred to as \u03B2effective. Which ONE of the following is the reason that \u03B2effective is",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Delayed neutrons are born at higher energies than prompt neutrons resulting in a greater worth for the neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 2, Module 4, page 12"
+            },
+            {   "answer": "b. Delayed neutrons are born at lower energies than prompt neutrons resulting in less leakage during slowdown to thermal energies.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. The fuel also includes U238 which has a relatively large \u03B2 for fast fission.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 2, Module 4, page 12"
+            },
+            {   "answer": "d. The U238 in the core becomes Pu239 (by neutron absorption), which has a higher \u03B2 for fission.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Volume 2, Module 4, page 12"
+            },
+        ]
+    },
+]

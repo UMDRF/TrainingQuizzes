@@ -1,0 +1,442 @@
+[
+    {
+            "question": "QUESTION A.01 [1.0 point] Which ONE of the following isotopes has the largest microscopic cross-section for absorption for thermal neutrons?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Sm-149",
+                "correct": false,
+                "feedback": "Incorrect. REF: Sm (41,000 b); U235 (687 b); Xe135 (2.65 x 106 b); B10 (3840 b), Lamarsh, J. 'Introduction to Nuclear Engineering' p. 738"
+            },
+            {   "answer": "b. U-235",
+                "correct": false,
+                "feedback": "Incorrect. REF: Sm (41,000 b); U235 (687 b); Xe135 (2.65 x 106 b); B10 (3840 b), Lamarsh, J. 'Introduction to Nuclear Engineering' p. 738"
+            },
+            {   "answer": "c. Xe-135",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. B-10",
+                "correct": false,
+                "feedback": "Incorrect. REF: Sm (41,000 b); U235 (687 b); Xe135 (2.65 x 106 b); B10 (3840 b), Lamarsh, J. 'Introduction to Nuclear Engineering' p. 738"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.02 [1.0 point] The following graph for U-235 depicts...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. neutron energy distribution in the moderator",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Manual Vol. 1, pg. 57"
+            },
+            {   "answer": "b. axial flux distribution in the core",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Manual Vol. 1, pg. 57"
+            },
+            {   "answer": "c. radial flux distribution in the core",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Manual Vol. 1, pg. 57"
+            },
+            {   "answer": "d. fission product yield distribution",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.03 [1.0 point] Which factors of the six factor formula are affected by an INCREASE in core temperature and how are they affected?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Lf decreases, p decreases, f increases",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. \u03B5 no change, Lf increases, Lt decreases, p increases",
+                "correct": false,
+                "feedback": "Incorrect. REF: As reactor core temperature increases, the moderator to fuel ratio will decrease due to the decrease in density of the water"
+            },
+            {   "answer": "c. \u03B5 increases, LF decreases, Lt decreases, p decreases, \u03B7 increases, f increases",
+                "correct": false,
+                "feedback": "Incorrect. REF: As reactor core temperature increases, the moderator to fuel ratio will decrease due to the decrease in density of the water"
+            },
+            {   "answer": "d. \u03B5 increases, Lf increases, Lt decreases, p increases, \u03B7 decreases, f decreases",
+                "correct": false,
+                "feedback": "Incorrect. REF: As reactor core temperature increases, the moderator to fuel ratio will decrease due to the decrease in density of the water"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.04 [1.0 point] You are conducting a reactor startup after installing 2 new fuel assemblies in the core. Given the following rod withdrawal data, estimate the rod position when criticality would occur. The initial count rate on the nuclear instrumentation prior to rod withdrawal is 55 cps. Rod Withdrawal(Inches): 0 2 4 6 8 10 12, Count Rate: 55 58 60 61 69 85 275",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 11 in",
+                "correct": false,
+                "feedback": "Incorrect. REF: (CR1/CR2) = (1/M)"
+            },
+            {   "answer": "b. 13 in",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 15 in",
+                "correct": false,
+                "feedback": "Incorrect. REF: (CR1/CR2) = (1/M)"
+            },
+            {   "answer": "d. 20 in",
+                "correct": false,
+                "feedback": "Incorrect. REF: (CR1/CR2) = (1/M)"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.05 [1.0 point] What is B-eff?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The time required for the reactor to change by a power of e",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook, Vol. 2, Section 2.0"
+            },
+            {   "answer": "b. The fraction of all fission neutrons that are born as delayed neutrons",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. The fraction of all delayed neutrons which reach thermal energy",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook, Vol. 2, Section 2.0"
+            },
+            {   "answer": "d. The fractional change in neutron population per generation",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook, Vol. 2, Section 2.0"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.06 [1.0 point] With the reactor critical at 10 KW a rod is pulled to insert a positive reactivity of $0.18. Which one of the following will be the stable reactor period as a result of this reactivity insertion?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 10 seconds",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "b. 45 seconds",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 55 seconds",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "d. 65 seconds",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.07 [1.0 point] Which of the following types of neutrons has a mean neutron generation lifetime of 12.5 seconds?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Prompt",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook Vol. 1 Section 3.0"
+            },
+            {   "answer": "b. Delayed",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Fast",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook Vol. 1 Section 3.0"
+            },
+            {   "answer": "d. Thermal",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook Vol. 1 Section 3.0"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.08 [1.0 point] Which of the following statements is true about Xenon following a reactor scram?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The concentration of Xe will decrease due to reduced nuclear flux",
+                "correct": false,
+                "feedback": "Incorrect. REF: Following a reactor shutdown, xenon-135 concentration will increase due to the decay of the iodine inventory of the core"
+            },
+            {   "answer": "b. The concentration of 135-Xe will increase due to the decay of the 135-I inventory.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. The concentration of 135-Xe will decrease by natural decay into I-135",
+                "correct": false,
+                "feedback": "Incorrect. REF: Following a reactor shutdown, xenon-135 concentration will increase due to the decay of the iodine inventory of the core"
+            },
+            {   "answer": "d. The concentration of 135 Xe will remain constant until it is removed via neutron burnout during the subsequent reactor startup.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Following a reactor shutdown, xenon-135 concentration will increase due to the decay of the iodine inventory of the core"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.09 [1.0 point] Which one of the following materials in the reactor causes a 'PROMPT' core reactivity addition when reactor power is changed?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. U-235 and Reactor Coolant",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reference: PSTR Training Manual, Section 2.23.3"
+            },
+            {   "answer": "b. U-235 and ZrH",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reference: PSTR Training Manual, Section 2.23.3"
+            },
+            {   "answer": "c. U-238 and ZrH",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. U-238 and graphite",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reference: PSTR Training Manual, Section 2.23.3"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.10 [1.0 point] An initial count rate of 100 is doubled five times during a startup. Assuming an initial Keff of 0.950, which one of the following is the new Keff?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.957",
+                "correct": false,
+                "feedback": "Incorrect. REF: CR1 (1-Keff1) = CR2 (1 - Keff2) or M1 (1-Keff1) = M2 (1 - Keff2)"
+            },
+            {   "answer": "b. 0.979",
+                "correct": false,
+                "feedback": "Incorrect. REF: CR1 (1-Keff1) = CR2 (1 - Keff2) or M1 (1-Keff1) = M2 (1 - Keff2)"
+            },
+            {   "answer": "c. 0.985",
+                "correct": false,
+                "feedback": "Incorrect. REF: CR1 (1-Keff1) = CR2 (1 - Keff2) or M1 (1-Keff1) = M2 (1 - Keff2)"
+            },
+            {   "answer": "d. 0.998",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.11 [1.0 point] During the time following a reactor scram, reactor power decreases on an 80 second period, which corresponds to the half-life of the longest-lived delayed neutron precursors, which is approximately",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 80 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Group 1 is the longest-lived delayed neutron precursor for thermal fission in U-235, with a half-life of 55.72 sec"
+            },
+            {   "answer": "b. 55 seconds",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 40 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Group 1 is the longest-lived delayed neutron precursor for thermal fission in U-235, with a half-life of 55.72 sec"
+            },
+            {   "answer": "d. 20 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Group 1 is the longest-lived delayed neutron precursor for thermal fission in U-235, with a half-life of 55.72 sec"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.12 [1.0 point] Given the following Core Reactivity Data: Transient Rod (Total Worth($):2.78, Worth Removed($):1.68), Safety Rod (Total Worth($):4.42, Worth Removed($):2.60), Shim Rod (Total Worth($):2.92, Worth Removed($):1.52), Regulating Rod (Total Worth($):2.84, Worth Removed($):1.60). Which one of the following is the calculated shutdown margin that would satisfy the Technical Specification Minimum Shutdown Margin?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 1.17",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "b. 2.98",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 3.96",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "d. 5.62",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.13 [1.0 point] Which ONE of the following is a correct statement of why delayed neutrons enhance the ability to control reactor power?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. There are more delayed neutrons than prompt neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Manual, Section 3"
+            },
+            {   "answer": "b. Delayed neutrons are born at higher energy levels than prompt neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Manual, Section 3"
+            },
+            {   "answer": "c. Delayed neutrons increase the average neutron lifetime",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Delayed neutrons readily fission in U-238",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Manual, Section 3"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.14 [1.0 point] Which ONE of the following statements describes the subcritical reactor response as Keff approaches unity?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. A LARGER change in neutron level results from a given change in Keff and a SHORTER period of time is required to reach the equilibrium neutron level for a given change in Keff.",
+                "correct": false,
+                "feedback": "Incorrect. REF: PSTR Training Manual, Section 2.18"
+            },
+            {   "answer": "b. A LARGER change in neutron level results from a given change in Keff and a LONGER period of time is required to reach the equilibrium neutron level for a given change in Keff.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. A SMALLER change in neutron level results from a given change in Keff and a SHORTER period of time is required to reach the equilibrium neutron level for a given change in Keff.",
+                "correct": false,
+                "feedback": "Incorrect. REF: PSTR Training Manual, Section 2.18"
+            },
+            {   "answer": "d. A SMALLER change in neutron level results from a given change in Keff and a LONGER period of time is required to reach the equilibrium neutron level for a given change in Keff.",
+                "correct": false,
+                "feedback": "Incorrect. REF: PSTR Training Manual, Section 2.18"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.15 [1.0 point] Immediately after a pulse [approximately 1 millisecond] where is the maximum temperature in a fuel element?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. in the fuel cladding itself",
+                "correct": false,
+                "feedback": "Incorrect. REF: PSTR SAR chapter IX, Sect. B"
+            },
+            {   "answer": "b. near the fuel-cladding interface.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. at the middle thermocouple, mid-plane of the fuel region.",
+                "correct": false,
+                "feedback": "Incorrect. REF: PSTR SAR chapter IX, Sect. B"
+            },
+            {   "answer": "d. at the central fuel-zirconium interface",
+                "correct": false,
+                "feedback": "Incorrect. REF: PSTR SAR chapter IX, Sect. B"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.16 [1.0 point] What is the condition of the reactor when k= 1/(1-\u03B2)",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. subcritical",
+                "correct": false,
+                "feedback": "Incorrect. REF: The multiplication factor (k) is proportional to the total number of neutrons, prompt and delayed, emitted per fission. However, since only the fraction (1-3) of the fission neutrons are prompt, the fraction of prompt neutrons from with regards to the multiplication factor is (1-B)k"
+            },
+            {   "answer": "b. critical",
+                "correct": false,
+                "feedback": "Incorrect. REF: The multiplication factor (k) is proportional to the total number of neutrons, prompt and delayed, emitted per fission. However, since only the fraction (1-3) of the fission neutrons are prompt, the fraction of prompt neutrons from with regards to the multiplication factor is (1-B)k"
+            },
+            {   "answer": "c. prompt critical",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. prompt supercritical",
+                "correct": false,
+                "feedback": "Incorrect. REF: The multiplication factor (k) is proportional to the total number of neutrons, prompt and delayed, emitted per fission. However, since only the fraction (1-3) of the fission neutrons are prompt, the fraction of prompt neutrons from with regards to the multiplication factor is (1-B)k"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.17 [1.0 point] Inelastic scattering can be described as a process whereby a neutron collides with a nucleus and:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. recoils with a lower kinetic energy, with the nucleus emitting a gamma ray.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. recoils with the same kinetic energy it had prior to the collision.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook Vol 1, pg. 45"
+            },
+            {   "answer": "c. is absorbed by the nucleus, with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook Vol 1, pg. 45"
+            },
+            {   "answer": "d. recoils with a higher kinetic energy, with the nucleus absorbing a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook Vol 1, pg. 45"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.18 [1.0 point] Which of the following statements is true regarding a typical reflector?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. A reflector has a high cross section for absorption which increases the peak power to average power ratio.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, J. 2001. Introduction to Nuclear Engineering 3rd Ed.. p. 305"
+            },
+            {   "answer": "b. A reflector has a high cross section for scattering, which increases the peak to average power ratio",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, J. 2001. Introduction to Nuclear Engineering 3rd Ed.. p. 305"
+            },
+            {   "answer": "c. Thermal neutrons tend to accumulate in the reflector until they leak back into the core, escape, or become absorbed, which reduces the peak to average power ratio.",
+                "correct": true,
+                "feedback": "Correct. "
+            },
+            {   "answer": "d. Fast neutrons become absorbed in the reflector fuel, which raises the thermal flux and reduces the peak to average power ratio.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, J. 2001. Introduction to Nuclear Engineering 3rd Ed.. p. 305"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.19 [1.0 point] An experiment to be placed in the central thimble has been wrapped in cadmium. Which one of the following types of radiation will be most effectively blocked by the cadmium wrapping?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Thermal Neutrons",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Fast Neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: PSTR Training Manual, Chapter 7 pg. 31"
+            },
+            {   "answer": "c. Gamma Rays",
+                "correct": false,
+                "feedback": "Incorrect. REF: PSTR Training Manual, Chapter 7 pg. 31"
+            },
+            {   "answer": "d. X-rays",
+                "correct": false,
+                "feedback": "Incorrect. REF: PSTR Training Manual, Chapter 7 pg. 31"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.20 [1.0 point] The TRIGA reactor is required to pulse from low power levels. Which one of the following is the reason for this limitation on power level prior to the pulse?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. To prevent exceeding the maximum power level limit",
+                "correct": false,
+                "feedback": "Incorrect. REF: PSTR Tech. Specs. 3.1.4"
+            },
+            {   "answer": "b. To prevent exceeding the fuel element temperature limit",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. To prevent exceeding the pool temperature limit",
+                "correct": false,
+                "feedback": "Incorrect. REF: PSTR Tech. Specs. 3.1.4"
+            },
+            {   "answer": "d. To prevent exceeding the reactivity insertion limits",
+                "correct": false,
+                "feedback": "Incorrect. REF: PSTR Tech. Specs. 3.1.4"
+            },
+        ]
+    },
+]

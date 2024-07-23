@@ -1,0 +1,420 @@
+[
+    {
+            "question": "QUESTION A.01 [1.0 point] A reactor fuel consisting of U235 and U238 only, is 20% enriched. This means that ...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 20% of the weight of the fuel consists of U235.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. 20% of the volume of the fuel consists of U235.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988"
+            },
+            {   "answer": "c. 20% of the total number of atoms in the fuel consists of U235.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988"
+            },
+            {   "answer": "d. the ratio of the number of U235 atoms to the number of U238 atoms is 0.20 (20%).",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.02 [1.0 point] A complete core load is in progress on a non-power reactor. The following data has been taken. Number of Elements Installed: 0 2 4 6 8, Detector A (cpm): 11 13 17 22 34, Detector B (cpm): 13 15 18 22 30. Using the graph paper provided, determine which of the following is the approximate number of fuel elements that will be required to be loaded for a critical mass",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 8",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+            },
+            {   "answer": "b. 10",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+            },
+            {   "answer": "c. 12",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 14",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.03 [1.0 point] Which one of the following describes the source and the importance of thermal neutrons in the reactor? Thermal neutrons ...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. result from the decay of prompt neutrons and result in the major portion of the fissions occurring in U235",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+            },
+            {   "answer": "b. result from the decay of prompt and delayed neutrons and result in the major portion of the fissions occurring U238 ",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+            },
+            {   "answer": "c. result from delayed neutrons which loose energy after birth and result in the major portion of the fissions occurring in U238",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+            },
+            {   "answer": "d. result from prompt and delayed neutrons which loose energy after birth and result in the major portion of the fissions occurring in U235",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.05 [1.0 point] Which ONE of the following statements correctly describes the influence of delayed neutrons during the neutron life cycle?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Delayed neutrons increase the average neutron generation time.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Delayed neutrons are more likely to cause fission because they thermalize more quickly than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Prompt and Delayed Neutrons"
+            },
+            {   "answer": "c. Delayed neutrons take longer to thermalize because they are born at a higher average energy than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Prompt and Delayed Neutrons"
+            },
+            {   "answer": "d. d. Delayed neutrons are produced some time after prompt neutrons and make up the majority of neutrons produced by fissions.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Prompt and Delayed Neutrons"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.06 [1.0 point] Which ONE of the following is an example of \u03B2+ decay?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 35-Br-87 -> 33-As-83",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z"
+            },
+            {   "answer": "b. 35-Br-87 -> 35-Br-86",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z"
+            },
+            {   "answer": "c. 35-Br-87 -> 34-Se-87",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 35-Br-87 -> 36-Kr-87",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.07 [1.0 point] A reactor is slightly supercritical with the following values for each of the factors in the six-factor formula... Fast Fission Factor (ε) = 1.03, Fast Non-Leakage probability (L) = 0.84, Resonance Escape probability (p) = 0.96, Thermal Utilization Factor (f) = 0.70, Thermal Non-Leakage probability (Lth) = 0.88, Reproduction Factor (n) = 1.96. A control rod is inserted to bring the reactor back to critical. Assuming all other factors remain unchanged, the new value for the thermal utilization factor (f) is ...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.698",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. 0.702",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 3"
+            },
+            {   "answer": "c. 0.704",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 3"
+            },
+            {   "answer": "d. 0.708",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 3"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.08 [1.0 point] A common method for calibrating control elements (rods, blades, etc.), is to measure doubling time then calculate period. If the doubling time is 42 seconds, which ONE of the following is the period?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 29 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module X, Standard NRC Question1. Also: period = (doubling time)/In(2)"
+            },
+            {   "answer": "b. 42 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module X, Standard NRC Question1. Also: period = (doubling time)/In(2)"
+            },
+            {   "answer": "c. 61 seconds",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 84 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module X, Standard NRC Question1. Also: period = (doubling time)/In(2)"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.09 [1.0 point] For U235, the thermal fission cross-section is 582 barns, and the capture cross-section is 99 barns. When a thermal neutron is absorbed by U235, the probability that a fission will occur is:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.146",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module X, Probability = \u03C3f/(\u03C3f + \u03C3a)"
+            },
+            {   "answer": "b. 0.170",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module X, Probability = \u03C3f/(\u03C3f + \u03C3a)"
+            },
+            {   "answer": "c. 0.830",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module X, Probability = \u03C3f/(\u03C3f + \u03C3a)"
+            },
+            {   "answer": "d. 0.855",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.10 [1.0 point] Which ONE of the reactions below is an example of the primary neutron source for reactor startup? 4-Be8",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. \u03B1 -> 6-C-12 + n",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module X"
+            },
+            {   "answer": "b. \u03B2 -> 4-Be-8 + n",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module X"
+            },
+            {   "answer": "c. \u03B3 -> 4-Be-8 +n ",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Cosmic radiation -> 4-Be-8 + n",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module X"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.11 [1.0 point] K-eff for the reactor is 0.85. If you place an experiment worth +17.6% into the core, what will the new K-eff be?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.995",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+            },
+            {   "answer": "b. 0.9995",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 1.005",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+            },
+            {   "answer": "d. 1.05",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.12 [1.0 point] During a reactor startup, criticality occurred at a lower rod height than the last startup. Which ONE of the following reasons could be the cause?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Xe135 peaked.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Theory (Operations), E.O. 3.2, pg. 23"
+            },
+            {   "answer": "b. Moderator temperature increased.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Theory (Operations), E.O. 3.2, pg. 23"
+            },
+            {   "answer": "c. Adding an experiment with positive reactivity.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Maintenance on the control rods resulted in a slightly faster rod speed.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Theory (Operations), E.O. 3.2, pg. 23"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.13 [1.0 point] Which one of the following describes the characteristics of a good moderator?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Low scattering cross section and low absorption cross section.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics & Reactor Theory Ref 1, Module 2, Theory (Neutron Characteristics), E.O. 2.13, pg. 23-28"
+            },
+            {   "answer": "b. Low scattering cross section and high absorption cross section.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics & Reactor Theory Ref 1, Module 2, Theory (Neutron Characteristics), E.O. 2.13, pg. 23-28"
+            },
+            {   "answer": "c. High scattering cross section and low absorption cross section.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. High scattering cross section and high absorption cross section.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics & Reactor Theory Ref 1, Module 2, Theory (Neutron Characteristics), E.O. 2.13, pg. 23-28"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.14 [1.0 point] Matching columns",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. ",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "b. ",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "c. ",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "d. ",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.15 [1.0 point] The term 'PROMPT JUMP' refers to:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The instantaneous jump in power due to a rod withdrawal.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. A reactor which is critical using only prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Theory (Operations), E.O. 2.7, pg. 17"
+            },
+            {   "answer": "c. A reactor which is critical using both prompt and critical neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Theory (Operations), E.O. 2.7, pg. 17"
+            },
+            {   "answer": "d. A reactivity insertion which is less than \u03B2-eff.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Theory (Operations), E.O. 2.7, pg. 17"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.16 [1.0 point] As a reactor continues to operate over time, for a CONSTANT power level, the average THERMAL neutron flux...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. decreases, due to the increase in fission product poisons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Question"
+            },
+            {   "answer": "b. increases, in order to compensate for fuel depletion.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. decreases, because the fuel is being depleted.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Question"
+            },
+            {   "answer": "d. remains the same",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Question"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.17 [1.0 point] Which ONE of the following is the reason for the -80 second period following a reactor scram?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The ability of U235 to fission source neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 1, Module 2, Reactor Operation, p. 31"
+            },
+            {   "answer": "b. The half-life of the longest-lived group of delayed neutron precursors is 55 seconds.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. The amount of negative reactivity added on a scram is greater than the shutdown margin.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 1, Module 2, Reactor Operation, p. 31"
+            },
+            {   "answer": "d. The Doppler effect, which adds positive reactivity due to the temperature decrease following a scram.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 1, Module 2, Reactor Operation, p. 31"
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.18 [1.0 point] Which ONE of the following isotopes will cause a neutron to lose the most energy in an ELASTIC scattering reaction?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. O-16",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 1, Module 2, Nuclear Cross-Sections and Neutron Flux, p. 5."
+            },
+            {   "answer": "b. C-12",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 1, Module 2, Nuclear Cross-Sections and Neutron Flux, p. 5."
+            },
+            {   "answer": "c. Be-9",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 1, Module 2, Nuclear Cross-Sections and Neutron Flux, p. 5."
+            },
+            {   "answer": "d. H-1",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.19 [1.0 point] The delayed neutron precursor \u03B2 for U-235 is 0.0065. However, when calculating reactor parameters you use the effective delayed neutron precursor \u03B2-eff with a value of ~0.0070. Which ONE of the following is the correct reason that ẞeff is larger than \u03B2?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The fuel also contains U-238 which has a relatively large \u03B2 for fast fission.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 4, Effective Delayed Neutron Fraction"
+            },
+            {   "answer": "b. U238 in the core becomes Pu-239 (by neutron absorption), which has a higher \u03B2 for fission.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 4, Effective Delayed Neutron Fraction"
+            },
+            {   "answer": "c. Delayed neutrons are born at higher energies than prompt neutrons resulting in a greater worth for the neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 4, Effective Delayed Neutron Fraction"
+            },
+            {   "answer": "d. Delayed neutrons are born at lower energies than prompt neutrons resulting in less leakage during slowdown to thermal energies.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+    },
+    {
+            "question": "QUESTION A.20 [1.0 point] Core excess reactivity changes with...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. fuel element burnup",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. control rod height",
+                "correct": false,
+                "feedback": "Incorrect. REF: Technical Specification Requirement"
+            },
+            {   "answer": "c. neutron energy level",
+                "correct": false,
+                "feedback": "Incorrect. REF: Technical Specification Requirement"
+            },
+            {   "answer": "d. reactor power level",
+                "correct": false,
+                "feedback": "Incorrect. REF: Technical Specification Requirement"
+            },
+        ]
+    },
+]

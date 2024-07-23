@@ -1,0 +1,423 @@
+[
+     {
+        "question": "Question 1-04/11/2012 In a subcritical reactor, K-eff is increased from 0.931 to 0.946. Which ONE of the following is the amount of reactivity that was added to the core?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 1.50 %Δk/k",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21. ∆ρ = (Keff1-Keff2)/(Keff1*Keff2). ∆ρ = (0.946-0.931)/(0.946*0.931) =0.017Δk/k =1.7%Δk/k"
+            },
+            {   "answer": "b. 1.70 %Δk/k",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 3.40 %Δk/k",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21. ∆ρ = (Keff1-Keff2)/(Keff1*Keff2). ∆ρ = (0.946-0.931)/(0.946*0.931) =0.017Δk/k =1.7%Δk/k"
+            },
+            {   "answer": "d. 5.40 %Δk/k",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21. ∆ρ = (Keff1-Keff2)/(Keff1*Keff2). ∆ρ = (0.946-0.931)/(0.946*0.931) =0.017Δk/k =1.7%Δk/k"
+            },
+        ]
+     },
+     {
+        "question": "Question 2-04/11/2012 Which ONE of the following isotopes has the highest thermal neutron cross section?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Xe-135",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Sm-149",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table2.5, page 2-59."
+            },
+            {   "answer": "c. U-235",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table2.5, page 2-59."
+            },
+            {   "answer": "d. U-238",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table2.5, page 2-59."
+            },
+        ]
+     },
+     {
+        "question": "Question 3-04/11/2012 Which ONE of the following best describes the effects of moderator temperature increase on neutron multiplication?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Resonance escape probability ↑; Thermal non-leakage↓; Rod worth ↑",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.2"
+            },
+            {   "answer": "b. Resonance escape probability ↓; Thermal non-leakage↓; Rod worth ↑",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Resonance escape probability ↑; Thermal non-leakage↑; Rod worth ↓",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.2"
+            },
+            {   "answer": "d. Resonance escape probability ↓; Thermal non-leakage↓; Rod worth ↓",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.2"
+            },
+        ]
+     },
+     {
+        "question": "Question 4-04/11/2012 Two critical reactors at low power are identical, except that Reactor 1 has a beta fraction of 0.0065 and Reactor 2 has a beta fraction of 0.0072. Which ONE of the following best describes the response if an equal amount of positive reactivity is inserted into both reactors?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Period of the Reactor 1 will be longer than the period of the Reactor 2",
+                "correct": false,
+                "feedback": "Incorrect. REF: Equation Sheet. τ = (l*/ρ) + [(β-ρ)/λ-effρ]"
+            },
+            {   "answer": "b. Period of the Reactor 1 will be shorter than the period of the Reactor 2",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Power of the Reactor 1 will be higher than the power of the Reactor 2",
+                "correct": false,
+                "feedback": "Incorrect. REF: Equation Sheet. τ = (l*/ρ) + [(β-ρ)/λ-effρ]"
+            },
+            {   "answer": "d. Power of the Reactor 1 will be lower than the power of the Reactor 2",
+                "correct": false,
+                "feedback": "Incorrect. REF: Equation Sheet. τ = (l*/ρ) + [(β-ρ)/λ-effρ]"
+            },
+        ]
+     },
+     {
+        "question": "Question 6-04/11/2012 Which ONE of the following best describes the beta decay (β-1) of a nuclide?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The atomic mass number unchanged, and the number of protons increases by 1.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. The atomic mass number unchanged, and the number of protons decreases by 1.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Chart of the Nuclides"
+            },
+            {   "answer": "c. The atomic mass number increases by 1, and the number of protons decrease by 1.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Chart of the Nuclides"
+            },
+            {   "answer": "d. The atomic mass number increases by 2, and the number of protons increase by 1.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Chart of the Nuclides"
+            },
+        ]
+     },
+     {
+        "question": "Question 7-04/11/2012 An example of a FISSIONABLE NUCLEI is:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Pu-239",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988 Section 3.2 page 3-2"
+            },
+            {   "answer": "b. U-238",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. U-235",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988 Section 3.2 page 3-2"
+            },
+            {   "answer": "d. U-233",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988 Section 3.2 page 3-2"
+            },
+        ]
+     },
+     {
+        "question": "Question 8-04/11/2012 The time period in which the MAXIMUM amount of Xe 135 will be present in the core is approximately 8 hours after:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. a startup to 100% power",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 8.4, page 8-9"
+            },
+            {   "answer": "b. a scram from 100% power",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. a power increase from 0% to 50%",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 8.4, page 8-9"
+            },
+            {   "answer": "d. a power decrease from 100% to 50%",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 8.4, page 8-9"
+            },
+        ]
+     },
+     {
+        "question": "Question 9-04/11/2012 In a just critical reactor, adding $0.50 worth of reactivity in the SQUARE-WAVE MODE will cause:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. A sudden drop in delayed neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6, page 4-17"
+            },
+            {   "answer": "b. The reactor period to be equal to (β-ρ)/λρ",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. A number of prompt neutrons equals to a number of delayed neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6, page 4-17"
+            },
+            {   "answer": "d. The resultant period to be a function of the prompt neutron lifetime (T=l*/ρ)",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6, page 4-17"
+            },
+        ]
+     },
+     {
+        "question": "Question 10-04/11/2012 During a reactor startup, criticality occurred at a LOWER ROD HEIGHT than the last startup. Which ONE of the following reasons could be the cause?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Higher moderator temperature (assume negative temperature coefficient).",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC question."
+            },
+            {   "answer": "b. Insertion of a negative reactivity worth experiment.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC question."
+            },
+            {   "answer": "c. Burnout of a burnable poison.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Fuel depletion.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC question."
+            },
+        ]
+     },
+     {
+        "question": "Question 11-04/11/2012 Which ONE of the following will be the resulting stable reactor period when a $0.35 reactivity insertion is made into an exactly critical reactor core? Neglect any effects from prompt. Given β-eff=0.0070 and λ=0.1",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 13 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: ρ =ρ($)*β; ρ=$0.35*0.007= 0.00245 ∆k/k; T = (β-ρ)/λρ
+T = (0.0070 - 0.00245)/0.1 x 0.00245 = 18.57 seconds"
+            },
+            {   "answer": "b. 19 seconds",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 28 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: ρ =ρ($)*β; ρ=$0.35*0.007= 0.00245 ∆k/k; T = (β-ρ)/λρ
+T = (0.0070 - 0.00245)/0.1 x 0.00245 = 18.57 seconds"
+            },
+            {   "answer": "d. 31 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: ρ =ρ($)*β; ρ=$0.35*0.007= 0.00245 ∆k/k; T = (β-ρ)/λρ
+T = (0.0070 - 0.00245)/0.1 x 0.00245 = 18.57 seconds"
+            },
+        ]
+     },
+     {
+        "question": "Question 12-04/11/2012 You are the reactor operator performing two pulsing operations. The first pulse has a reactivity worth of $1.20 which results in a peak power of 200 MW. If the second pulse has a reactivity worth of $2.00, the corresponding peak power is: Given β-eff=0.0070",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 1000 MW",
+                "correct": false,
+                "feedback": "Incorrect. REF: ((ρ_2-β)^2)/Peak_2=((ρ_1-β)^2)/Peak_1 ρ=ρ($)*β: ρ1=$1.20*0.007=0.0084 ∆k/k ρ2=$2.0*0.007=0.014 ∆k/k Peak2=Peak1*(0.014-.007/.0084-.007)^2=5000 MW Or Peak2=Peak1*($2-$1 / $1.2-$1)^2=5000 MW"
+            },
+            {   "answer": "b. 1750 MW",
+                "correct": false,
+                "feedback": "Incorrect. REF: ((ρ_2-β)^2)/Peak_2=((ρ_1-β)^2)/Peak_1 ρ=ρ($)*β: ρ1=$1.20*0.007=0.0084 ∆k/k ρ2=$2.0*0.007=0.014 ∆k/k Peak2=Peak1*(0.014-.007/.0084-.007)^2=5000 MW Or Peak2=Peak1*($2-$1 / $1.2-$1)^2=5000 MW"
+            },
+            {   "answer": "c. 2500 MW",
+                "correct": false,
+                "feedback": "Incorrect. REF: ((ρ_2-β)^2)/Peak_2=((ρ_1-β)^2)/Peak_1 ρ=ρ($)*β: ρ1=$1.20*0.007=0.0084 ∆k/k ρ2=$2.0*0.007=0.014 ∆k/k Peak2=Peak1*(0.014-.007/.0084-.007)^2=5000 MW Or Peak2=Peak1*($2-$1 / $1.2-$1)^2=5000 MW"
+            },
+            {   "answer": "d. 5000 MW",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+     },
+     {
+        "question": "Question 13-04/11/2012 A reactor with K-eff = 0.7 contributes 2000 neutrons in the first generation. Changing from the first generation to the SECOND generation, how many total neutrons are there after the second generation?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 2250",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6 2-nd generation=n + K*n=2000+1400=3400 neutrons"
+            },
+            {   "answer": "b. 2600",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6 2-nd generation=n + K*n=2000+1400=3400 neutrons"
+            },
+            {   "answer": "c. 3400",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 4000",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6 2-nd generation=n + K*n=2000+1400=3400 neutrons"
+            },
+        ]
+     },
+     {
+        "question": "Question 14-04/11/2012 Which ONE of the following physical characteristics of the TRIGA fuel is the main contributor for the prompt negative temperature coefficient?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. As the fuel heats up the resonance absorption peaks broaden and increases the likelihood of absorption in U-238 and/or Pu-240",
+                "correct": false,
+                "feedback": "Incorrect. REF: TRIGA Fuel Design"
+            },
+            {   "answer": "b. As the fuel heats up a rapid increase in moderator temperature occurs through conduction and convection heat transfer mechanisms which adds negative reactivity",
+                "correct": false,
+                "feedback": "Incorrect. REF: TRIGA Fuel Design"
+            },
+            {   "answer": "c. As the fuel heats up fission product poisons (e.g., Xe) increase in concentration within the fuel matrix and add negative reactivity via neutron absorption",
+                "correct": false,
+                "feedback": "Incorrect. REF: TRIGA Fuel Design"
+            },
+            {   "answer": "d. As the fuel heats up the oscillating hydrogen in the ZrH lattice imparts energy to a thermal neutron, thereby increasing its mean free path and probability of escape",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+     },
+     {
+        "question": "Question 15-04/11/2012 Which ONE of the following describes the term PROMPT DROP?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. A reactor is subcritical at negative 80-second period.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."
+            },
+            {   "answer": "b. A reactor has attained criticality on prompt neutrons alone.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."
+            },
+            {   "answer": "c. The instantaneous change in power level due to inserting a control rod.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. The instantaneous change in power level due to withdrawing a control rod.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."
+            },
+        ]
+     },
+     {
+        "question": "Question 16-04/11/2012 About two minutes following a reactor scram, the reactor period has stabilized and the power level is decreasing at a CONSTANT rate. Given that reactor power at time t0 is 90 kW power, what will it be five minutes later?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.2 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P-0 e-^T/τ = 90 kW*e^(300sec/-80sec) = 900 kW*e^-3.75 = 0.0235*90 kW = 2.1 kW"
+            },
+            {   "answer": "b. 2.1 kW",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 3.4 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P-0 e-^T/τ = 90 kW*e^(300sec/-80sec) = 900 kW*e^-3.75 = 0.0235*90 kW = 2.1 kW"
+            },
+            {   "answer": "d. 117.5 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P-0 e-^T/τ = 90 kW*e^(300sec/-80sec) = 900 kW*e^-3.75 = 0.0235*90 kW = 2.1 kW"
+            },
+        ]
+     },
+     {
+        "question": "Question 17-04/11/2012 The reactor is subcritical with the count rate of 100 counts per second (cps) and K-eff of 0.950. The control rods are withdrawn until the count rate is doubled. What is the new value of K-eff?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.952",
+                "correct": false,
+                "feedback": "Incorrect. REF: Count1*(1-Keff1) = Count2*(1-Keff2) 100*(1-0.950) = 200*(1-Keff2) 100*(1-0.95) = 200(1- Keff2); Keff2 = 0.975"
+            },
+            {   "answer": "b. 0.975",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 0.998",
+                "correct": false,
+                "feedback": "Incorrect. REF: Count1*(1-Keff1) = Count2*(1-Keff2) 100*(1-0.950) = 200*(1-Keff2) 100*(1-0.95) = 200(1- Keff2); Keff2 = 0.975"
+            },
+            {   "answer": "d. 1.020",
+                "correct": false,
+                "feedback": "Incorrect. REF: Count1*(1-Keff1) = Count2*(1-Keff2) 100*(1-0.950) = 200*(1-Keff2) 100*(1-0.95) = 200(1- Keff2); Keff2 = 0.975"
+            },
+        ]
+     },
+     {
+        "question": "Question 18-04/11/2012 Xenon-135 (Xe^135) is produced in the reactor by two methods. One is directly from fission; the other is indirectly from the decay of :",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Xe^136",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1 —8.4, pp. 8-3 — 8-14."
+            },
+            {   "answer": "b. Sm^136",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1 —8.4, pp. 8-3 — 8-14."
+            },
+            {   "answer": "c. Cs^135",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1 —8.4, pp. 8-3 — 8-14."
+            },
+            {   "answer": "d. I^135",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+     },
+     {
+        "question": "Question 19-04/11/2012 The reactor is on a CONSTANT positive period. Which ONE of the following power changes will take the longest time to complete?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 5%, from 95% to 100%",
+                "correct": false,
+                "feedback": "Incorrect. REF: Time is related to ratio of final power to initial power. 2:1 is the largest ratio."
+            },
+            {   "answer": "b. 10%, from 80% to 90%",
+                "correct": false,
+                "feedback": "Incorrect. REF: Time is related to ratio of final power to initial power. 2:1 is the largest ratio."
+            },
+            {   "answer": "c. 15%, from 15% to 30%",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 20%, from 60% to 80%",
+                "correct": false,
+                "feedback": "Incorrect. REF: Time is related to ratio of final power to initial power. 2:1 is the largest ratio."
+            },
+        ]
+     },
+     {
+        "question": "Question 20-04/11/2012 Delayed neutrons are produced by:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. decay of O-16",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2."
+            },
+            {   "answer": "b. Photoelectric Effect",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2."
+            },
+            {   "answer": "c. decay of fission fragments",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. directly from the fission process",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2."
+            },
+        ]
+     },
+]
