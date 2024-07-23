@@ -1,0 +1,410 @@
+[
+     {
+        "question": "Question 1-08/30/2012 Attached is the applicable portion from the chart of the nuclides, what will U-234 decay into?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. U-235",
+                "correct": false,
+                "feedback": "Incorrect. REF: Chart of the Nuclides"
+            },
+            {   "answer": "b. Pa-232",
+                "correct": false,
+                "feedback": "Incorrect. REF: Chart of the Nuclides"
+            },
+            {   "answer": "c. Th-230",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Np-234",
+                "correct": false,
+                "feedback": "Incorrect. REF: Chart of the Nuclides"
+            },
+        ]
+     },
+     {
+        "question": "Question 2-08/30/2012 In a subcritical reactor with K_eff of 0.931, a reactivity worth of 0.017 Δk is inserted into the  reactor core. Which ONE of the following is the NEW K_eff?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.925",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page
+3-21. ∆ρ = (Keff1-Keff2)/(Keff1*Keff2)"
+            },
+            {   "answer": "b. 0.933",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page
+3-21. ∆ρ = (Keff1-Keff2)/(Keff1*Keff2)"
+            },
+            {   "answer": "c. 0.946",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 1.001",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page
+3-21. ∆ρ = (Keff1-Keff2)/(Keff1*Keff2)"
+            },
+        ]
+     },
+     {
+        "question": "Question 3-08/30/2012 The reactor is critical. The reactor operator accidentally inserts a fuel element in the core and  K_eff changes to 1.010. What is the period of the reactor? Given a prompt neutron lifetime (ℓ*) of  1 x 10^-4 seconds.",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.001 sec",
+                "correct": false,
+                "feedback": "Incorrect. REF: Using equations provided in the equation sheet: ρ=(K-eff-l)/K-eff"
+            },
+            {   "answer": "b. 0.01 sec",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 0.10 sec",
+                "correct": false,
+                "feedback": "Incorrect. REF: Using equations provided in the equation sheet: ρ=(K-eff-l)/K-eff"
+            },
+            {   "answer": "d. 1.0 sec",
+                "correct": false,
+                "feedback": "Incorrect. REF: Using equations provided in the equation sheet: ρ=(K-eff-l)/K-eff"
+            },
+        ]
+     },
+     {
+        "question": "Question 5-08/30/2012 Which ONE of the following is the most correct reason for having an installed neutron source  within the core? An installed neutron source is very important during startup because without of a neutron  source...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. the reactor could result in a sudden increase in power if the control rods were pulled out far enough",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. the compensating voltage on the source range detector doesn’t work",
+                "correct": false,
+                "feedback": "Incorrect. REF: NRC Standard Question"
+            },
+            {   "answer": "c. the startup channel would NEVER indicate neutron population",
+                "correct": false,
+                "feedback": "Incorrect. REF: NRC Standard Question"
+            },
+            {   "answer": "d. the chain reaction in the reactor core would NOT start",
+                "correct": false,
+                "feedback": "Incorrect. REF: NRC Standard Question"
+            },
+        ]
+     },
+     {
+        "question": "Question 6-08/30/2012 Two critical reactors at low power are identical, except that Reactor 1 has a beta fraction of  0.0065 and Reactor 2 has a beta fraction of 0.0072. Which ONE of the following best describes  the response if an equal amount of positive reactivity is inserted into both reactors?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Period of the Reactor 1 will be longer than the period of the Reactor 2",
+                "correct": false,
+                "feedback": "Incorrect. REF: Equation Sheet. τ = (L*/ρ) + [(β-ρ)/λ_effρ]"
+            },
+            {   "answer": "b. The final power in the Reactor 1 will be lower than the final power in the Reactor 2",
+                "correct": false,
+                "feedback": "Incorrect. REF: Equation Sheet. τ = (L*/ρ) + [(β-ρ)/λ_effρ]"
+            },
+            {   "answer": "c. The trace (power vs. time) of the Reactor 1 will be higher than the trace of the Reactor 2",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. The trace (power vs. time) of the Reactor 1 will be identical to the trace of the Reactor 2",
+                "correct": false,
+                "feedback": "Incorrect. REF: Equation Sheet. τ = (L*/ρ) + [(β-ρ)/λ_effρ]"
+            },
+        ]
+     },
+     {
+        "question": "Question 7-08/30/2012 Which ONE of the following best describes the effects of moderator temperature increase on  neutron multiplication?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Resonance escape probability ↑; Thermal non-leakage ↓; Rod worth ↑",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.2"
+            },
+            {   "answer": "b. Resonance escape probability ↓; Thermal non-leakage ↓; Rod worth ↑",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Resonance escape probability ↑; Thermal non-leakage ↑; Rod worth ↓",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.2"
+            },
+            {   "answer": "d. Resonance escape probability ↓; Thermal non-leakage ↓; Rod worth ↓",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.2"
+            },
+        ]
+     },
+     {
+        "question": "Question 9-08/30/2012 Which ONE of the following is the MAIN reason for operating with thermal neutrons instead of  fast neutrons?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Decrease β-eff, so it is easy to control the reactor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page
+2-39"
+            },
+            {   "answer": "b. Moderator temperature coefficient becomes positive as neutron energy increases.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page
+2-39"
+            },
+            {   "answer": "c. Neutron absorption in non fuel material increases exponentially as neutron energy  increases.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page
+2-39"
+            },
+            {   "answer": "d. The fission cross section of the fuel is much higher for thermal energy neutrons than fast neutrons.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+        ]
+     },
+     {
+        "question": "Question 10-08/30/2012 Which ONE of the following is a correct statement of why delayed neutrons enhance the ability  to control reactor power?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Delayed neutrons are born at higher energy levels than prompt neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Section 3.3.7,
+page 3-37"
+            },
+            {   "answer": "b. Delayed neutrons increase the average neutron lifetime that allows a reactor to be controlled",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Prompt neutrons can cause fissions in both U-235 and U-238; whereas delayed neutrons can only cause fissions in U-235",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Section 3.3.7,
+page 3-37"
+            },
+            {   "answer": "d. The average number of delayed neutrons produced per fission is higher than the average number of prompt neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Section 3.3.7,
+page 3-37"
+            },
+        ]
+     },
+     {
+        "question": "Question 11-08/30/2012 During a reactor startup, the reactor operator observes the position of the current control rods is  LOWER than the last startup. Which ONE of the following reasons could be the cause?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Higher moderator temperature (assume negative temperature coefficient)",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC question."
+            },
+            {   "answer": "b. Insertion of a negative reactivity worth experiment",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC question."
+            },
+            {   "answer": "c. Burnout of xenon",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Fuel depletion",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC question."
+            },
+        ]
+     },
+     {
+        "question": "Question 12-08/30/2012 A reactor with K_eff = 0.8 contributes 1000 neutrons in the first generation. Changing from the  first generation to the THIRD generation, how many TOTAL neutrons are there after the third  generation?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 1800",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6 3rd generation = n + K*n + K^2*n"
+            },
+            {   "answer": "b. 2440",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 3240",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6 3rd generation = n + K*n + K^2*n"
+            },
+            {   "answer": "d. 6400",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6 3rd generation = n + K*n + K^2*n"
+            },
+        ]
+     },
+     {
+        "question": "Question 13-08/30/2012 Which ONE of the following will be the resulting stable reactor period when a 0.00245 ∆k  reactivity insertion is made into an exactly critical reactor core? Neglect any effects from  prompt. Given β_eff=0.0070 and λ=0.1",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 13 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: T = (β-ρ)/λρ"
+            },
+            {   "answer": "b. 16 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: T = (β-ρ)/λρ"
+            },
+            {   "answer": "c. 19 seconds",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 22 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: T = (β-ρ)/λρ"
+            },
+        ]
+     },
+     {
+        "question": "Question 14-08/30/2012 An example of a FISSIONABLE NUCLEI is:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Pu-239",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988 Section 3.2 page 3-2."
+            },
+            {   "answer": "b. U-238",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. U-235",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988 Section 3.2 page 3-2."
+            },
+            {   "answer": "d. U-233",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988 Section 3.2 page 3-2."
+            },
+        ]
+     },
+     {
+        "question": "Question 15-08/30/2012 About a few minutes following a reactor scram, the reactor period has stabilized and the power  level is decreasing at a CONSTANT rate. Given that reactor power at time t_0 is 100 kW power,  what will it be five minutes later?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.50 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P_0*e^-T/J"
+            },
+            {   "answer": "b. 1.25 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P_0*e^-T/J"
+            },
+            {   "answer": "c. 2.35 kW",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 11.70 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P_0*e^-T/J"
+            },
+        ]
+     },
+     {
+        "question": "Question 16-08/30/2012 The reactor is STARTED UP following a SHUTDOWN. Which ONE of the following statements  is true about xenon?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The concentration of Xe^135 will increase due to decay of Cs^135",
+                "correct": false,
+                "feedback": "Incorrect. Incorrect. REF: Introduction to Nuclear Operation, Reed Burn, 1982, Sec 8.4.2"
+            },
+            {   "answer": "b. The concentration of Xe^135 will increase due to increase nuclear flux",
+                "correct": false,
+                "feedback": "Incorrect. REF: Introduction to Nuclear Operation, Reed Burn, 1982, Sec 8.4.2"
+            },
+            {   "answer": "c. The concentration of Xe^135 will decrease due to the burnout of the Xe^135 inventory",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. The concentration of Xe^135 will remain constant due to equilibrium of xenon burnout and  xenon production",
+                "correct": false,
+                "feedback": "Incorrect. REF: Introduction to Nuclear Operation, Reed Burn, 1982, Sec 8.4.2"
+            },
+        ]
+     },
+     {
+        "question": "Question 17-08/30/2012 Which ONE statement below describes a NEGATIVE moderator temperature coefficient?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. When moderator temperature increases, negative reactivity is added",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. When moderator temperature decreases, negative reactivity is added",
+                "correct": false,
+                "feedback": "Incorrect. REF: Introduction to Nuclear Operation, Reed Burn, 1982, Sec 6.4"
+            },
+            {   "answer": "c. When moderator temperature increases, positive reactivity is added",
+                "correct": false,
+                "feedback": "Incorrect. REF: Introduction to Nuclear Operation, Reed Burn, 1982, Sec 6.4"
+            },
+            {   "answer": "d. When moderator temperature increases, no change in reactivity",
+                "correct": false,
+                "feedback": "Incorrect. REF: Introduction to Nuclear Operation, Reed Burn, 1982, Sec 6.4"
+            },
+        ]
+     },
+     {
+        "question": "Question 18-08/30/2012 Which ONE of the following factors in the “six factor” formula is the MOST affected by the  CONTROL BLADES?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Fast fission factor",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2.2,
+page 3-18."
+            },
+            {   "answer": "b. Reproduction factor",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2.2,
+page 3-18."
+            },
+            {   "answer": "c. Thermal utilization factor",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Resonance escape probability",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2.2,
+page 3-18."
+            },
+        ]
+     },
+     {
+        "question": "Question 19-08/30/2012 Given a source strength of 300 neutrons per second (N/sec) and a multiplication factor of 0.7,  which ONE of the following is the expected stable neutron count rate?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 210 N/sec",
+                "correct": false,
+                "feedback": "Incorrect. REF: CR = S/(1-K)"
+            },
+            {   "answer": "b. 1000 N/sec",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 2100 N/sec",
+                "correct": false,
+                "feedback": "Incorrect. REF: CR = S/(1-K)"
+            },
+            {   "answer": "d. 2500 N/sec",
+                "correct": false,
+                "feedback": "Incorrect. REF: CR = S/(1-K)"
+            },
+        ]
+     },
+     {
+        "question": "Question 20-08/30/2012 The injection of a sample results in a 50 millisecond period. If the scram setpoint is 5 MEGAWATTS and the scram delay time is 0.1 seconds, which ONE of the following is the peak power of the reactor at shutdown?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 12 megawatts",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, P = P_0*e^t/τ"
+            },
+            {   "answer": "b. 25 megawatts",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, P = P_0*e^t/τ"
+            },
+            {   "answer": "c. 37 megawatts",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 370 megawatts",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, P = P_0*e^t/τ"
+            },
+        ]
+     },
+]
