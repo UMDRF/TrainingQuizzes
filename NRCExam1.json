@@ -203,8 +203,7 @@
         "answers": [
             {   "answer": "a. 13 seconds",
                 "correct": false,
-                "feedback": "Incorrect. REF: ρ =ρ($)*β; ρ=$0.35*0.007= 0.00245 ∆k/k; T = (β-ρ)/λρ
-T = (0.0070 - 0.00245)/0.1 x 0.00245 = 18.57 seconds"
+                "feedback": "Incorrect"
             },
             {   "answer": "b. 19 seconds",
                 "correct": true,
