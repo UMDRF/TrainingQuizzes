@@ -1,0 +1,222 @@
+[
+    {
+            "question": "Question 5-09/17/2012 A nuclear reactor startup is being performed by adding EQUAL amounts of positive reactivity and waiting for neutron population to stabilize. As the reactor approaches criticality, the Neutron Multiplication, K_eff, will __________ after each reactivity addition; and the time required for the neutron population to STABILIZE will ___________ after each reactivity addition.",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. decrease; decrease",
+                "correct": false,
+                "feedback": "Incorrect. REF: NRC Standard Question"
+            },
+            {   "answer": "b. increase; increase",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. increase; decrease",
+                "correct": false,
+                "feedback": "Incorrect. REF: NRC Standard Question"
+            },
+            {   "answer": "d. remains the same; increase",
+                "correct": false,
+                "feedback": "Incorrect. REF: NRC Standard Question"
+            }
+        ]
+    },
+    {
+            "question": "Question 10-09/17/2012 Which ONE of the following physical characteristics of the TRIGA fuel is the MAIN contributor for the prompt negative temperature coefficient?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. As the fuel heats up the resonance absorption peaks broaden and increases the likelihood of absorption in U-238 and/or Pu-240",
+                "correct": false,
+                "feedback": "Incorrect. REF: TRIGA Fuel Design"
+            },
+            {   "answer": "b. As the fuel heats up a rapid increase in moderator temperature occurs through conduction and convection heat transfer mechanisms which adds negative reactivity",
+                "correct": false,
+                "feedback": "Incorrect. REF: TRIGA Fuel Design"
+            },
+            {   "answer": "c. As the fuel heats up fission product poisons (e.g., Xe) increase in concentration within the fuel matrix and add negative reactivity via neutron absorption",
+                "correct": false,
+                "feedback": "Incorrect. REF: TRIGA Fuel Design"
+            },
+            {   "answer": "d. As the fuel heats up the oscillating hydrogen in the ZrH lattice imparts energy to a thermal neutron, thereby increasing its mean free path and probability of escape",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "Question 11-09/17/2012 Which of the following is the definition for reactivity (ρ)?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The measure of a reactor’s departure from criticality",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. The time required for power to change by a factor of “e”",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+            },
+            {   "answer": "c. The fraction of all fission neutrons that are born as delayed neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+            },
+            {   "answer": "d. The faction of number of neutrons of current generation and number of neutrons of the previous generation",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+            }
+        ]
+    },
+    {
+            "question": "Question 12-09/17/2012 Prompt neutrons are produced by:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. decay of N-16",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2"
+            },
+            {   "answer": "b. directly from the fission",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. decayed fission fragments",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2"
+            },
+            {   "answer": "d. Pair Production of high energy photon",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2"
+            }
+        ]
+    },
+    {
+            "question": "Question 15-09/17/2012 Which one of the following describe the difference between a moderator and reflector?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. A reflector increases the fast non-leakage factor and a moderator increases the thermal utilization factor.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. A reflector increases the neutron production factor and a moderator increases the fast fission factor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone & Sesonke, Nuclear Reactor Engineering, Chapter 1"
+            },
+            {   "answer": "c. A reflector decreases the thermal utilization factor and a moderator increases the fast fission factor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone & Sesonke, Nuclear Reactor Engineering, Chapter 1"
+            },
+            {   "answer": "d. A reflector decreases the neutron production factor and a moderator decreases the fast non-leakage factor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone & Sesonke, Nuclear Reactor Engineering, Chapter 1"
+            }
+        ]
+    },
+    {
+            "question": "Question 16-09/17/2012 Which ONE of the following is the most correct reason for having an installed neutron source within the core? An installed neutron source is very important during startup because without of a neutron source...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. the chain reaction in the reactor core would NOT start",
+                "correct": false,
+                "feedback": "Incorrect. REF: NRC Standard Question"
+            },
+            {   "answer": "b. the startup channel would NEVER indicate neutron population",
+                "correct": false,
+                "feedback": "Incorrect. REF: NRC Standard Question"
+            },
+            {   "answer": "c. the compensating voltage on the source range detector doesn’t work",
+                "correct": false,
+                "feedback": "Incorrect. REF: NRC Standard Question"
+            },
+            {   "answer": "d. the reactor could result in a sudden increase in power if the control rods were pulled out far enough",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "Question 17-09/17/2012 Reactor power is increasing by a factor of 5 every minute. The reactor period is:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 65 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reference: P = P_0*e^t/τ τ = 60 sec/ln(5) = 37.28 sec"
+            },
+            {   "answer": "b. 37 seconds",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 26 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reference: P = P_0*e^t/τ τ = 60 sec/ln(5) = 37.28 sec"
+            },
+            {   "answer": "d. 13 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reference: P = P_0*e^t/τ τ = 60 sec/ln(5) = 37.28 sec"
+            }
+        ]
+    },
+    {
+            "question": "Question 18-09/17/2012 The reactor is shutdown. Which ONE of the following correctly describes the reactor behavior when a reactivity worth of $1.00 is inserted to the reactor core?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Subcritical",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Critical",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+            },
+            {   "answer": "c. Supercritical",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+            },
+            {   "answer": "d. Prompt critical",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+            }
+        ]
+    },
+    {
+            "question": "Question 19-09/17/2012 The reactor is on a CONSTANT positive period. Which ONE of the following power changes will take the longest time to complete?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 5%, from 95% to 100%",
+                "correct": false,
+                "feedback": "Incorrect. REF: Time is related to ratio of final power to initial power. 2:1 is the largest ratio."
+            },
+            {   "answer": "b. 10%, from 80% to 90%",
+                "correct": false,
+                "feedback": "Incorrect. REF: Time is related to ratio of final power to initial power. 2:1 is the largest ratio."
+            },
+            {   "answer": "c. 15%, from 15% to 30%",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 20%, from 60% to 80%",
+                "correct": false,
+                "feedback": "Incorrect. REF: Time is related to ratio of final power to initial power. 2:1 is the largest ratio."
+            }
+        ]
+    },
+    {
+            "question": "Question 20-09/17/2012 Which ONE of the following statements correctly describes thermal neutrons?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. A neutron that experiences a linear decrease in energy as the temperature of the moderator increases.",
+                "correct": false,
+                "feedback": "Incorrect. REF: NRC Standard Question"
+            },
+            {   "answer": "b. A neutron that experiences no net change in energy after several collisions with atoms of the moderator.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. A neutron that experiences an increase in energy levels after collisions with larger atoms of the moderator.",
+                "correct": false,
+                "feedback": "Incorrect. REF: NRC Standard Question"
+            },
+            {   "answer": "d. A neutron at resonant epithermal energy levels that causes fissions to occur in U-238.",
+                "correct": false,
+                "feedback": "Incorrect. REF: NRC Standard Question"
+            }
+        ]
+    }
+]

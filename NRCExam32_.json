@@ -1,0 +1,442 @@
+[
+    {
+        "question": "Question 1-07/23/2002 Reactor power is increasing by a factor of 10 every minute. The reactor period is:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 65 seconds.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Reactor Kinetics, page 17. Reactor Period = 26/Startup Rate" 
+            },
+            {   "answer": "b. 52 seconds.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Reactor Kinetics, page 17. Reactor Period = 26/Startup Rate"
+            },
+            {   "answer": "c. 26 seconds.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. 13 seconds.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Reactor Kinetics, page 17. Reactor Period = 26/Startup Rate"
+            }
+        ]
+    },
+    {
+        "question": "Question 2-07/23/2002 A reactor is slightly supercritical, with the thermal utilization factor = 0.700. A control rod is inserted to bring the reactor back to critical. Assuming all other factors remain unchanged, the new value for the thermal utilization factor is:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 0.698",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. 0.700",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 3, Neutron Life Cycle, page 4. In order to decrease K (return to critical), thermal utilization must decrease."
+            },
+            {   "answer": "c. 0.702",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 3, Neutron Life Cycle, page 4. In order to decrease K (return to critical), thermal utilization must decrease."
+            },
+            {   "answer": "d. 0.704",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 3, Neutron Life Cycle, page 4. In order to decrease K (return to critical), thermal utilization must decrease."
+            }
+        ]
+    },
+    {
+        "question": "Question 3-07/23/2002 The neutron microscopic cross section for absorption, σ_a, generally:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. increases as neutron energy increases.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Nuclear Cross Sections and Neutron Flux, page 9." 
+            },
+            {   "answer": "b. decreases as neutron energy increases.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. increases as the mass of the target nucleus increases.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Nuclear Cross Sections and Neutron Flux, page 9."
+            },
+            {   "answer": "d. decreases as the mass of the target nucleus increases.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Nuclear Cross Sections and Neutron Flux, page 9."
+            }
+        ]
+    },
+    {
+        "question": "Question 4-07/23/2002 Which ONE of the reactions below is an example of a photoneutron source?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. _51Sb^123 + n → _51Sb^124 + y",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Neutron Sources, page 2." 
+            },
+            {   "answer": "b. _92U^238 → _35Br^87 + _57La^148 + 3n + y",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Neutron Sources, page 2."
+            },
+            {   "answer": "c. _1H^2 + → _1H^1 + n",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. _4Be^9 + α → 6C12 + n",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Neutron Sources, page 2."
+            }
+        ]
+    },
+    {
+        "question": "Question 5-07/23/2002 During a reactor startup, the count rate is increasing linearly on a logarithmic scale, with no rod motion. This means that:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. the reactor is subcritical and the count rate increase is due to the buildup of delayed neutron precursors.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Reactor Kinetics, page 14." 
+            },
+            {   "answer": "b. the reactor is critical and the count rate increase is due to source neutrons.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Reactor Kinetics, page 14."
+            },
+            {   "answer": "c. the reactor is subcritical and the count rate increase is due to source neutrons.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Reactor Kinetics, page 14."
+            },
+            {   "answer": "d. the reactor is supercritical.",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 6-07/23/2002 A 1/M curve is being generated as fuel is loaded into the core. After some fuel elements have been loaded, the count rate existing at that time is taken to be the new initial count rate, Co. Additional elements are then loaded and the inverse count rate ratio continues to decrease. As a result of changing the initial count rate:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. criticality will occur with the same number of elements loaded as if there were no change in the initial count rate.",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. criticality will occur earlier (i.e., with fewer elements loaded.)",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Subcritical Multiplication, page 6."
+            },
+            {   "answer": "c. criticality will occur later (i.e., with more elements loaded.)",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Subcritical Multiplication, page 6."
+            },
+            {   "answer": "d. criticality will be completely unpredictable.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Subcritical Multiplication, page 6."
+            }
+        ]
+    },
+    {
+        "question": "Question 7-07/23/2002 As a reactor continues to operate over a period of months, for a constant power level, the average neutron flux:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. decreases, due to the increase in fission product poisons.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Reaction Rates, page 21." 
+            },
+            {   "answer": "b. decreases, because fuel is being depleted.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Reaction Rates, page 21."
+            },
+            {   "answer": "c. increases, in order to compensate for fuel depletion.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. remains the same.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Reaction Rates, page 21."
+            }
+        ]
+    },
+    {
+        "question": "Question 8-07/23/2002 A reactor is operating at a constant power level of 250 kW. The fission rate of this reactor is approximately:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 0.78x10^12 fissions/sec.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Reaction Rates, page 20." 
+            },
+            {   "answer": "b. 1.56x10^14 fissions/sec.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Reaction Rates, page 20."
+            },
+            {   "answer": "c. 0.78x10^16 fissions/sec.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. 3.90x10^18 fissions/sec.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Reaction Rates, page 20."
+            }
+        ]
+    },
+    {
+        "question": "Question 9-07/23/2002 Which ONE of the following statements correctly describes the influence of delayed neutrons during the neutron life cycle?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Delayed neutrons are more likely to cause fission because they thermalize more quickly than prompt neutrons.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Prompt and Delayed Neutrons, page 29." 
+            },
+            {   "answer": "b. Delayed neutrons take longer to thermalize because they are born at a higher average energy than prompt neutrons.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Prompt and Delayed Neutrons, page 29."
+            },
+            {   "answer": "c. Delayed neutrons increase the average neutron generation time.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. Delayed neutrons are produced some time after prompt neutrons and make up the majority of neutrons produced by fissions.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Prompt and Delayed Neutrons, page 29."
+            }
+        ]
+    },
+    {
+        "question": "Question 10-07/23/2002 The moderator-to-fuel ratio describes the relationship between the number of moderator atoms in a volume of core to the number of fuel atoms. A reactor which is:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. undermoderated will have a positive moderator temperature coefficient.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 3, Reactivity Coefficients, page 25." 
+            },
+            {   "answer": "b. undermoderated will have a negative moderator temperature coefficient.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. overmoderated will have a constant moderator temperature coefficient.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 3, Reactivity Coefficients, page 25."
+            },
+            {   "answer": "d. overmoderated will have a negative moderator temperature coefficient.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 3, Reactivity Coefficients, page 25."
+            }
+        ]
+    },
+    {
+        "question": "Question 11-07/23/2002 Which ONE statement below describes a positive moderator temperature coefficient?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. When moderator temperature increases, positive reactivity is added.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "b. When moderator temperature decreases, positive reactivity is added.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 3, Reactivity Coefficients, page 26."
+            },
+            {   "answer": "c. When moderator temperature increases, negative reactivity is added.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 3, Reactivity Coefficients, page 26." 
+            },
+            {   "answer": "d. When moderator temperature increases, reactor power decreases.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 3, Reactivity Coefficients, page 26."
+            }
+        ]
+    },
+    {
+        "question": "Question 12-07/23/2002 A reactor with an initial population of 1x10^8 neutrons is operating with K_eff = 1.001. Considering only the increase in neutron population, how many neutrons (of the increase) will be prompt when the neutron population changes from the current generation to the next? Assume β = 0.007.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 700.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Prompt and Delayed Neutrons, page 29." 
+            },
+            {   "answer": "b. 7,000.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Prompt and Delayed Neutrons, page 29."
+            },
+            {   "answer": "c. 99,300.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. 100,000.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Prompt and Delayed Neutrons, page 29."
+            }
+        ]
+    },
+    {
+        "question": "Question 13-07/23/2002 Inelastic scattering can be described as a process whereby a neutron collides with a nucleus and:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. reappears with a lower kinetic energy, with the nucleus emitting a gamma ray.",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. reappears with the same kinetic energy it had prior to the collision.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 1, Neutron Interactions, page 45."
+            },
+            {   "answer": "c. is absorbed by the nucleus, with the nucleus emitting a gamma ray.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 1, Neutron Interactions, page 45."
+            },
+            {   "answer": "d. reappears with a higher kinetic energy, with the nucleus absorbing a gamma ray.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 1, Neutron Interactions, page 45."
+            }
+        ]
+    },
+    {
+        "question": "Question 14-07/23/2002 The Moderating Ratio measures the effectiveness of a moderator by combining the scattering cross section, the absorption cross section, and the average energy loss per collision. The Moderating Ratio is expressed as:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. (absorption cross section)x(scattering cross section)/(average energy loss per collision).",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Neutron Moderation, page 28." 
+            },
+            {   "answer": "b. (absorption cross section)x(average energy loss per collision)/(scattering cross section).",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Neutron Moderation, page 28."
+            },
+            {   "answer": "c. (scattering cross section)x(absorption cross section)x(average energy loss per collision).",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 2, Neutron Moderation, page 28."
+            },
+            {   "answer": "d. (average energy loss per collision)x(scattering cross section)/(absorption cross section).",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 15-07/23/2002 An Integral Rod Worth (IRW) curve is ________________, while a Differential Rod Worth (DRW) curve is __________.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. the total reactivity worth of the rod up to the point of withdrawal; the reactivity change per unit movement of the rod.",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. the slope of the DRW curve at the point of withdrawal; the area under the IRW curve up to the point of withdrawal.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 3, Control Rods, page 51."
+            },
+            {   "answer": "c. the reactivity change per unit movement of the rod; the total reactivity worth of the rod up to the point of withdrawal.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 3, Control Rods, page 51."
+            },
+            {   "answer": "d. at its maximum value when the rod is approximately half-way out of the core; at its maximum value when the rod is fully withdrawn from the core.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 3, Control Rods, page 51."
+            }
+        ]
+    },
+    {
+        "question": "Question 16-07/23/2002 Delayed neutron precursors decay by beta(-) decay. Which ONE reaction below is an example of beta(-)decay?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. _35Br^87 → _36Kr^87",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. _35Br^87 → _34Kr^87",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 1, Modes of Radioactive Decay, page 24."
+            },
+            {   "answer": "c. _35Br^87 → _35Kr^88",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 1, Modes of Radioactive Decay, page 24."
+            },
+            {   "answer": "d. _35Br^87 → _35Kr^86",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 1, Modes of Radioactive Decay, page 24."
+            }
+        ]
+    },
+    {
+        "question": "Question 17-07/23/2002 A reactor is subcritical by 5% delta k/k with a count rate of 100 cps on the startup channel. Rods are withdrawn until the count rate is 1000 cps. Which ONE of the following is the condition of the reactor following the rod withdrawal?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Critical with k_eff = 1.000.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Subcritical Multiplication, page 6." 
+            },
+            {   "answer": "b. Subcritical with k_eff = 0.995.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Subcritical with k_eff = 0.950.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Subcritical Multiplication, page 6."
+            },
+            {   "answer": "d. Supercritical with k_eff = 1.005.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Subcritical Multiplication, page 6."
+            }
+        ]
+    },
+    {
+        "question": "Question 18-07/23/2002 A reactor is operating at a constant power level with equilibrium xenon. Reactor power is then doubled. The equilibrium xenon level at the higher power level will be:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. higher than its value at the lower power level, but not twice as high.",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. twice as high.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 3, Xenon, page 37."
+            },
+            {   "answer": "c. more than twice as high.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 3, Xenon, page 37."
+            },
+            {   "answer": "d. the same as at the lower power level.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 3, Xenon, page 37."
+            }
+        ]
+    },
+    {
+        "question": "Question 19-07/23/2002 The primary coolant temperature coefficient of reactivity is -5x10^-5 delta K/K/deg.F. When a control rod with an average rod worth of 0.01% delta K/K/inch is withdrawn 10 inches, reactor power increases and becomes stable at a higher level. At this point, the primary coolant temperature has:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. increased by 20 deg.F.",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. decreased by 20 deg.F.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 3, Reactivity, page 21. Control rod inserts positive reactivity = 0.0001delta k/k/inch x 10 inches = +0.001 delta k/k. Primary coolant temperature inserts negative reactivity = -5x10-5 delta k/k/deg.F x(+20 deg.F) = -0.001 delta k/k."
+            },
+            {   "answer": "c. increased by 2 deg.F.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 3, Reactivity, page 21. Control rod inserts positive reactivity = 0.0001delta k/k/inch x 10 inches = +0.001 delta k/k. Primary coolant temperature inserts negative reactivity = -5x10-5 delta k/k/deg.F x(+20 deg.F) = -0.001 delta k/k."
+            },
+            {   "answer": "d. decreased by 2 deg.F.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 3, Reactivity, page 21. Control rod inserts positive reactivity = 0.0001delta k/k/inch x 10 inches = +0.001 delta k/k. Primary coolant temperature inserts negative reactivity = -5x10-5 delta k/k/deg.F x(+20 deg.F) = -0.001 delta k/k."
+            }
+        ]
+    },
+    {
+        "question": "Question 20-07/23/2002 Which ONE of the following statements correctly describes a characteristic of subcritical multiplication?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. The number of neutrons gained per generation doubles for each succeeding generation.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Subcritical Multiplication, page 6." 
+            },
+            {   "answer": "b. A constant neutron population is achieved when the total number of neutrons produced in one generation is equal to the number of source neutrons added in the next generation.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Subcritical Multiplication, page 6."
+            },
+            {   "answer": "c. For equal reactivity additions, it requires less time for the equilibrium neutron population to be reached.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Module 4, Subcritical Multiplication, page 6."
+            },
+            {   "answer": "d. When the indicated count rate doubles, the margin to criticality has been reduced by approximately one-half.",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    }
+]

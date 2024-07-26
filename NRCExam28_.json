@@ -1,0 +1,338 @@
+[
+    {
+            "question": "Question 1-02/23/2017 Which ONE of the following is accurate concerning control rod worth?",
+        "answers": [
+            {   "answer": "a. Doubling the poison content of a rod doubles its worth.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, p. 3-18."
+            },
+            {   "answer": "b. Rod worth increases as reactor coolant temperature decreases.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, p. 3-18."
+            },
+            {   "answer": "c. Rod worth increases as reactor coolant temperature increases.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. A rod located in the edge of the core is worth more than one located near the center of the core.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, p. 3-18."
+            }
+        ]
+    },
+    {
+            "question": "Question 2-02/23/2017 The reactor is on a CONSTANT positive period. Which ONE of the following power changes will take the longest time to complete?",
+        "answers": [
+            {   "answer": "a. 5%, from 95% to 100%",
+                "correct": false,
+                "feedback": "Incorrect. REF: Time is related to ratio of final power to initial power. 2:1 is the largest ratio."
+            },
+            {   "answer": "b. 10%, from 80% to 90%",
+                "correct": false,
+                "feedback": "Incorrect. REF: Time is related to ratio of final power to initial power. 2:1 is the largest ratio."
+            },
+            {   "answer": "c. 15%, from 15% to 30%",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 20%, from 60% to 80%",
+                "correct": false,
+                "feedback": "Incorrect. REF: Time is related to ratio of final power to initial power. 2:1 is the largest ratio."
+            }
+        ]
+    },
+    {
+            "question": "Question 3-02/23/2017 After a week of full power operation, Xenon will reach its peak following a shutdown in approximately:",
+        "answers": [
+            {   "answer": "a. 6 hours",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "b. 12 hours",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 24 hours",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "d. 48 hours",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            }
+        ]
+    },
+    {
+            "question": "Question 4-02/23/2017 A thermal neutron is a neutron which:",
+        "answers": [
+            {   "answer": "a. is produced as a result of thermal fission.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Pages 2-36, 2-45."
+            },
+            {   "answer": "b. possesses thermal rather than kinetic energy.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Pages 2-36, 2-45."
+            },
+            {   "answer": "c. has been produced several seconds after its initiating fission occurred.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Pages 2-36, 2-45."
+            },
+            {   "answer": "d. experiences no net change in its energy after several collisions with atoms of the diffusing medium.",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "Question 5-02/23/2017 Control Rod withdrawal predominantly changes Keff by changing the ...",
+        "answers": [
+            {   "answer": "a. fast fission factor (ε).",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "b. thermal utilization factor (f).",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. neutron reproduction factor (η).",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "d. resonance escape probability (p).",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            }
+        ]
+    },
+    {
+            "question": "Question 6-02/23/2017 Suppose the temperature coefficient of a core is -2.5 × 10^-4 ∆K/K/C and the average control rod worth of the regulating control rod is 5.895 × 10^-3 ∆K/K/inch. If the temperature INCREASES by 50C what will the automatic control command the regulating rod to do? Select the answer that is closest to the calculated value.",
+        "answers": [
+            {   "answer": "a. 5.6 inches in",
+                "correct": false,
+                "feedback": "Incorrect. REF: The temperature increase will result in a change in reactivity of: -2.5 × 10^-4 ∆K/K/C × 50C = -1.25 × 10^-2 ∆K/K. Since the temperature rise results in a negative reactivity insertion, the control rod will need to drive out to add positive reactivity. D = (1.25 × 10^-2 ∆K/K) ÷ (5.895 × 10^-3 ∆K/K/inch) = 2.12 inches"
+            },
+            {   "answer": "b. 2.1 inches out",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 0.5 inches in",
+                "correct": false,
+                "feedback": "Incorrect. REF: The temperature increase will result in a change in reactivity of: -2.5 × 10^-4 ∆K/K/C × 50C = -1.25 × 10^-2 ∆K/K. Since the temperature rise results in a negative reactivity insertion, the control rod will need to drive out to add positive reactivity. D = (1.25 × 10^-2 ∆K/K) ÷ (5.895 × 10^-3 ∆K/K/inch) = 2.12 inches"
+            },
+            {   "answer": "d. 4.3 inches out",
+                "correct": false,
+                "feedback": "Incorrect. REF: The temperature increase will result in a change in reactivity of: -2.5 × 10^-4 ∆K/K/C × 50C = -1.25 × 10^-2 ∆K/K. Since the temperature rise results in a negative reactivity insertion, the control rod will need to drive out to add positive reactivity. D = (1.25 × 10^-2 ∆K/K) ÷ (5.895 × 10^-3 ∆K/K/inch) = 2.12 inches"
+            }
+        ]
+    },
+    {
+            "question": "Question 7-02/23/2017 Which one of the following describes how delayed neutrons affect control of the reactor?",
+        "answers": [
+            {   "answer": "a. More delayed neutrons are produced than prompt neutrons resulting in a longer time to reach a stable subcritical countrate.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.20, p. 236."
+            },
+            {   "answer": "b. Delayed neutrons are born at higher energies than prompt neutrons resulting in a shorter reactor period from increased leakage.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.20, p. 236."
+            },
+            {   "answer": "c. Delayed neutrons take longer to thermalize than prompt neutrons resulting in a longer reactor period.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.20, p. 236."
+            },
+            {   "answer": "d. Delayed neutrons increase the average neutron lifetime resulting in a longer reactor period.",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "Question 8-02/23/2017 You enter the control room and note that all nuclear instrumentation show a steady neutron level, and no rods are in motion. Which ONE of the following conditions CANNOT be true?",
+        "answers": [
+            {   "answer": "a. The reactor is critical.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "b. The reactor is subcritical.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "c. The reactor is supercritical.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. The neutron source has been removed from the core.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, §"
+            }
+        ]
+    },
+    {
+            "question": "Question 10-02/23/2017 Which ONE of the following describes the difference between a moderator and a reflector?",
+        "answers": [
+            {   "answer": "a. A reflector will increase the fast non-leakage factor whereas a moderator increases the thermal utilization factor.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. A reflector will increase the reproduction factor whereas a moderator increases the fast fission factor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), pp. 25-26"
+            },
+            {   "answer": "c. A reflector will decrease the thermal utilization factor whereas a moderator increases the fast fission factor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), pp. 25-26"
+            },
+            {   "answer": "d. A reflector will decrease the neutron production factor whereas a moderator decreases the fast non-leakage factor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), pp. 25-26"
+            }
+        ]
+    },
+    {
+            "question": "Question 11-02/23/2017 Two minutes following shutdown, reactor power is at 10 kW and decreases with a constant reactor period. Which ONE of the following is the correct power for three minutes later?",
+        "answers": [
+            {   "answer": "a. 0.5 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P=Poet/τ x =10 kW* e180/-80 x = 10 kW *0.105 = 1.05 kW"
+            },
+            {   "answer": "b. 1.1 kW",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 3.3 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P=Poet/τ x =10 kW* e180/-80 x = 10 kW *0.105 = 1.05 kW"
+            },
+            {   "answer": "d. 6.7 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P=Poet/τ x =10 kW* e180/-80 x = 10 kW *0.105 = 1.05 kW"
+            }
+        ]
+    },
+    {
+            "question": "Question 13-02/23/2017 Which ONE of the following will be the resulting stable reactor period when a 0.175 % ∆k/k reactivity insertion is made into an exactly critical reactor core? Given β=0.007",
+        "answers": [
+            {   "answer": "a. 18 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: T = ( β-ρ)/λρ T = (.0070 - .00175)/0.1 x 0.00175 = 30 seconds"
+            },
+            {   "answer": "b. 30 seconds",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 38 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: T = ( β-ρ)/λρ T = (.0070 - .00175)/0.1 x 0.00175 = 30 seconds"
+            },
+            {   "answer": "d. 50 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: T = ( β-ρ)/λρ T = (.0070 - .00175)/0.1 x 0.00175 = 30 seconds"
+            }
+        ]
+    },
+    {
+            "question": "Question 14-02/23/2017 Which ONE of the following isotopes has the highest thermal neutron cross section?",
+        "answers": [
+            {   "answer": "a. B-10",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, page 2-59."
+            },
+            {   "answer": "b. Sm-149",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, page 2-59."
+            },
+            {   "answer": "c. Xe-135",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {   "answer": "d. U-235",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, page 2-59."
+            }
+        ]
+    },
+    {
+            "question": "Question 15-02/23/2017 Which ONE of the following is the MOST affected factor in the six factor formula due to fuel burnup?",
+        "answers": [
+            {   "answer": "a. Fast fission factor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, page 3-18."
+            },
+            {   "answer": "b. Reproduction factor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, page 3-18."
+            },
+            {   "answer": "c. Thermal utilization factor.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Resonance escape probability.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, page 3-18."
+            }
+        ]
+    },
+    {
+            "question": "Question 16-02/23/2017 The injection of a sample results in a 50 millisecond period. If the scram setpoint is 300 KILOWATTS and the scram delay time is 0.1 seconds, which ONE of the following is the peak power of the reactor at shutdown?",
+        "answers": [
+            {   "answer": "a. 250 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, P = P0 et/τ, P = 300 kilowatts × e0.1/0.05 = 300 × e2 = 2216.7 kW"
+            },
+            {   "answer": "b. 600 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, P = P0 et/τ, P = 300 kilowatts × e0.1/0.05 = 300 × e2 = 2216.7 kW"
+            },
+            {   "answer": "c. 900 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, P = P0 et/τ, P = 300 kilowatts × e0.1/0.05 = 300 × e2 = 2216.7 kW"
+            },
+            {   "answer": "d. 2200 kW",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "Question 17-02/23/2017 Delayed neutrons comprise approximately what percent of all neutrons produced in the reactor?",
+        "answers": [
+            {   "answer": "a. 0.65%",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. 1.3%",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2"
+            },
+            {   "answer": "c. 6.5%",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2"
+            },
+            {   "answer": "d. 20%",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2"
+            }
+        ]
+    },
+    {
+            "question": "Question 18-02/23/2017 Which ONE of the following conditions describes a critical reactor?",
+        "answers": [
+            {   "answer": "a. Keff = 1; ∆k/k (ρ) = 1",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988,"
+            },
+            {   "answer": "b. Keff = 1; ∆k/k (ρ) = 0",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Keff = 0; ∆k/k (ρ) = 1",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988,"
+            },
+            {   "answer": "d. Keff = 0; ∆k/k (ρ) = 0",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988,"
+            }
+        ]
+    }
+]

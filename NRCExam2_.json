@@ -1,0 +1,288 @@
+[
+     {
+        "question": "Question 1-05/24/2012 Which ONE of the following factors in the “six factor” formula is MOST affected by the MODERATOR?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Fast fission factor",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 3.3.1, page 3-16."
+            },
+            {   "answer": "b. Reproduction factor",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 3.3.1, page 3-16."
+            },
+            {   "answer": "c. Thermal utilization factor",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Resonance escape probability",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 3.3.1, page 3-16."
+            }
+        ]
+     },
+     {
+        "question": "Question 2-05/24/2012 The injection of a sample results in a 50 millisecond period. If the scram setpoint is 250 KILOWATTS and the scram delay time is 0.1 seconds, which ONE of the following is the peak power of the reactor at scram?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 305 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982 P = P0*e^t/τ, P = 250 kW*e^0.1/0.05 = 250 kW*e^2 = 1847 kW"
+            },
+            {   "answer": "b. 373 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982 P = P0*e^t/τ, P = 250 kW*e^0.1/0.05 = 250 kW*e^2 = 1847 kW"
+            },
+            {   "answer": "c. 680 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982 P = P0*e^t/τ, P = 250 kW*e^0.1/0.05 = 250 kW*e^2 = 1847 kW"
+            },
+            {   "answer": "d. 1847 kW",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+     },
+     {
+        "question": "Question 4-05/24/2012 Two critical reactors at low power are identical, except that Reactor 1 has a beta fraction of 0.0078 and Reactor 2 has a beta fraction of 0.0065. Which ONE of the following best describes the response if an equal amount of positive reactivity is inserted into both reactors?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Period of the Reactor 1 will be longer than the period of the Reactor 2",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Period of the Reactor 1 will be shorter than the period of the Reactor 2",
+                "correct": false,
+                "feedback": "Incorrect. REF: Equation Sheet. τ = (l*/ρ) + [(β-ρ)/λ-effρ]"
+            },
+            {   "answer": "c. Power of the Reactor 1 will be higher than the power of the Reactor 2",
+                "correct": false,
+                "feedback": "Incorrect. REF: Equation Sheet. τ = (l*/ρ) + [(β-ρ)/λ-effρ]"
+            },
+            {   "answer": "d. Power of the Reactor 1 will be lower than the power of the Reactor 2",
+                "correct": false,
+                "feedback": "Incorrect. REF: Equation Sheet. τ = (l*/ρ) + [(β-ρ)/λ-effρ]"
+            }
+        ]
+     },
+     {
+        "question": "Question 6-05/24/2012 Which ONE of the following is an example of alpha decay?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. -35Br^87 -> -33As^83",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. -35Br^87 -> -35Br^86",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1"
+            },
+            {   "answer": "c. -35Br^87 -> -34Se^86",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1"
+            },
+            {   "answer": "d. -35Br^87 -> -36Kr^87",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1"
+            }
+        ]
+     },
+     {
+        "question": "Question 7-05/24/2012 Which ONE of the following is the correct amount of reactivity added if the multiplication factor, k, is increased from 0.800 to 0.950?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.150",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {   "answer": "b. 0.158",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {   "answer": "c. 0.188",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {   "answer": "d. 0.197",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+     },
+     {
+        "question": "Question 9-05/24/2012 In a just critical reactor, adding one dollar worth of reactivity will cause:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. A sudden drop in delayed neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: UCI Instruction Manual for Operators, Sec 3.2.5, page 3-12"
+            },
+            {   "answer": "b. The reactor period to be equal to (β-ρ)/λρ",
+                "correct": false,
+                "feedback": "Incorrect. REF: UCI Instruction Manual for Operators, Sec 3.2.5, page 3-12"
+            },
+            {   "answer": "c. A number of prompt neutrons equals to a number of delayed neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: UCI Instruction Manual for Operators, Sec 3.2.5, page 3-12"
+            },
+            {   "answer": "d. The resultant period to be a function of the prompt neutron lifetime",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+     },
+     {
+        "question": "Question 10-05/24/2012 Which ONE of the following conditions will INCREASE the core excess of a reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Higher moderator temperature (assume negative temperature coefficient)",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC question"
+            },
+            {   "answer": "b. Insertion of a negative reactivity worth experiment",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC question"
+            },
+            {   "answer": "c. Burnout of a burnable poison",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Fuel depletion",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC question"
+            }
+        ]
+     },
+     {
+        "question": "Question 11-05/24/2012 Which ONE of the following statements best describes on how moderator temperature affects the core operating characteristics?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Increase in moderator temperature will increase the neutron multiplication factor due to the resonance escape probability increase.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Sec 3.3.1"
+            },
+            {   "answer": "b. Increase in moderator temperature will increase the neutron multiplication factor due to the fast non leakage probability decrease.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Sec 3.3.1"
+            },
+            {   "answer": "c. Increase in moderator temperature will decrease the neutron multiplication factor due to the reproduction factor increase.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Sec 3.3.1"
+            },
+            {   "answer": "d. Increase in moderator temperature will decrease the neutron multiplication factor due to the resonance escape probability decrease.",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+     },
+     {
+        "question": "Question 12-05/24/2012 An example of a FISSILE ISOTOPE which occurs NATURALLY is:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Pu-239",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988 Section 3.2 page 3-2"
+            },
+            {   "answer": "b. U-238",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988 Section 3.2 page 3-2"
+            },
+            {   "answer": "c. U-235",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Th-232",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988 Section 3.2 page 3-2"
+            }
+        ]
+     },
+     {
+        "question": "Question 13-05/24/2012 first generation to the SECOND generation, how many total neutrons are there after the second generation?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 1250",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6 2-nd generation=n + K*n=1000+800=1800 neutrons"
+            },
+            {   "answer": "b. 1600",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6 2-nd generation=n + K*n=1000+800=1800 neutrons"
+            },
+            {   "answer": "c. 1800",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 2000",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6 2-nd generation=n + K*n=1000+800=1800 neutrons"
+            }
+        ]
+     },
+     {
+        "question": "Question 14-05/24/2012 Which ONE of the following isotopes has the HIGHEST thermal neutron cross section?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Cd-112",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table2.5, page 2-59."
+            },
+            {   "answer": "b. Sm-149",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table2.5, page 2-59."
+            },
+            {   "answer": "c. Xe-135",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. U-238",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table2.5, page 2-59."
+            }
+        ]
+     },
+     {
+        "question": "Question 15-05/24/2012 Which ONE of the following describes the term PROMPT DROP?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. A reactor is subcritical at negative 80-second period.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."
+            },
+            {   "answer": "b. A reactor has attained criticality on prompt neutrons alone.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."
+            },
+            {   "answer": "c. The instantaneous change in power level due to inserting a control rod.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. The instantaneous change in power level due to withdrawing a control rod.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."
+            }
+        ]
+     },
+     {
+        "question": "Question 16-05/24/2012 About two minutes following a reactor scram, the reactor period has stabilized and the power level is decreasing at a CONSTANT rate. Given that reactor power at time t0 is 100 kW power, what will it be three minutes later?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 2 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P-0*e^-T/τ = 100 kW*e^(180sec/-80sec) = 100 kW*e^-2.25 = 0.1054*100 kW = 10 kW"
+            },
+            {   "answer": "b. 10 kW",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 30 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P-0*e^-T/τ = 100 kW*e^(180sec/-80sec) = 100 kW*e^-2.25 = 0.1054*100 kW = 10 kW"
+            },
+            {   "answer": "d. 50 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P-0*e^-T/τ = 100 kW*e^(180sec/-80sec) = 100 kW*e^-2.25 = 0.1054*100 kW = 10 kW"
+            }
+        ]
+     }
+]

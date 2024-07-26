@@ -1,0 +1,420 @@
+[
+    {
+            "question": "QUESTION A.01 [1.0 point] Which of the following is the largest effect on the reactivity worth of a control rod?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Overall reactor power.",
+                "correct": false,
+                "feedback": "Incorrect. REF: NUCLEAR REACTOR THEORY; LAMARSH"
+            },
+            {   "answer": "b. Speed of the control rod.",
+                "correct": false,
+                "feedback": "Incorrect. REF: NUCLEAR REACTOR THEORY; LAMARSH"
+            },
+            {   "answer": "c. Axial and radial flux shape.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Delayed neutron fraction value.",
+                "correct": false,
+                "feedback": "Incorrect. REF: NUCLEAR REACTOR THEORY; LAMARSH"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.02 [1.0 point] Which ONE of the following describes the difference between a moderator and reflector?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. A reflector increases the neutron production factor and a moderator increases the fast fission factor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone & Sesonke, Nuclear Reactor Engineering, Chapter 1, Section 1.51 & 1.52"
+            },
+            {   "answer": "b. A reflector decreases the thermal utilization factor and a moderator increases the fast fission factor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone & Sesonke, Nuclear Reactor Engineering, Chapter 1, Section 1.51 & 1.52"
+            },
+            {   "answer": "c. A reflector decreases the neutron production factor and a moderator decreases the fast non-leakage factor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone & Sesonke, Nuclear Reactor Engineering, Chapter 1, Section 1.51 & 1.52"
+            },
+            {   "answer": "d. A reflector increases the fast non-leakage factor and a moderator increases the thermal utilization factor.",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.03 [1.0 point] The delayed neutron fraction changes over core life primarily due to the:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. buildup of Pu240 which increases the delayed neutron fraction.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone & Sesonke, Nuclear Reactor Engineering, Chapter 5, Section. 5.170, Chapter 2, Table 2.10"
+            },
+            {   "answer": "b. buildup of Pu239 which decreases the delayed neutron fraction.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. depletion of U235 which decreases the delayed neutron fraction.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone & Sesonke, Nuclear Reactor Engineering, Chapter 5, Section. 5.170, Chapter 2, Table 2.10"
+            },
+            {   "answer": "d. depletion of U238 which increases the delayed neutron fraction.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone & Sesonke, Nuclear Reactor Engineering, Chapter 5, Section. 5.170, Chapter 2, Table 2.10"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.04 [1.0 point] Select the answer that describes the inherent safety feature provided by the temperature coefficient of reactivity.",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Its negative value causes reactivity to increase as moderator temperature increases.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Basic Reactor Theory"
+            },
+            {   "answer": "b. Its negative value causes reactivity to decrease as moderator temperature increases.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Its positive value causes reactivity to increase as moderator temperature increases.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Basic Reactor Theory"
+            },
+            {   "answer": "d. Its positive value causes reactivity to decrease as moderator temperature increases.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Basic Reactor Theory"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.05 [1.0 point] The reactor is initially shut down with count rate at 8 counts per second (cps) and K-eff= 0.975. Control rods are inserted, changing K-eff to 0.995. Select the stable count rate would you expect.",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 15 cps",
+                "correct": false,
+                "feedback": "Incorrect. REF: Basic Reactor Theory"
+            },
+            {   "answer": "b. 25 cps",
+                "correct": false,
+                "feedback": "Incorrect. REF: Basic Reactor Theory"
+            },
+            {   "answer": "c. 40 cps",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 80 cps",
+                "correct": false,
+                "feedback": "Incorrect. REF: Basic Reactor Theory"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.06 [1.0 point] Which one of the following is the correct reason that delayed neutrons allow human control of the reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. More delayed neutrons are produced than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Question"
+            },
+            {   "answer": "b. Delayed neutrons increase the mean neutron lifetime.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Delayed neutrons take longer to thermalize than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Question"
+            },
+            {   "answer": "d. Delayed neutrons are born at higher energies than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Question"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.07 [1.0 point] What is the kinetic energy range of a thermal neutron?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. >1 MeV",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Question"
+            },
+            {   "answer": "b. 100 KeV - 1 MeV",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Question"
+            },
+            {   "answer": "c. 1 ev - 100 KeV",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Question"
+            },
+            {   "answer": "d. < 1 ev",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.08 [1.0 point] Which ONE of the following is the type of neutron source that is used at the Idaho State University AGN-201?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Radium - Beryllium",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Plutonium - Beryllium",
+                "correct": false,
+                "feedback": "Incorrect. REF: ISU General Information, 'The AGN-201 Reactor', p 5"
+            },
+            {   "answer": "c. Americium - Plutonium",
+                "correct": false,
+                "feedback": "Incorrect. REF: ISU General Information, 'The AGN-201 Reactor', p 5"
+            },
+            {   "answer": "d. Neptunium - Antimony",
+                "correct": false,
+                "feedback": "Incorrect. REF: ISU General Information, 'The AGN-201 Reactor', p 5"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.09 [1.0 point] Which ONE of the following elements will produce the greatest energy loss per collison?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Oxygen",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone & Sesonske, Nuclear Reactor Engineering, Chapter 3, Section 3.66, Table 3.3, p 134"
+            },
+            {   "answer": "b. Graphite",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone & Sesonske, Nuclear Reactor Engineering, Chapter 3, Section 3.66, Table 3.3, p 134"
+            },
+            {   "answer": "c. Hydrogen",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Uranium 238",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone & Sesonske, Nuclear Reactor Engineering, Chapter 3, Section 3.66, Table 3.3, p 134"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.10 [1.0 point] Excess reactivity is the amount of reactivity:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. associated with samples.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone, Nuclear Reactor Engineering, Chapter 5, Section 5.172"
+            },
+            {   "answer": "b. Needed to achieve prompt criticality.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone, Nuclear Reactor Engineering, Chapter 5, Section 5.172"
+            },
+            {   "answer": "c. Available above that which is required to keep the reactor critical.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. available above that which is required to make the reactor subcritical.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone, Nuclear Reactor Engineering, Chapter 5, Section 5.172"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.11 [1.0 point] In the ISU AGN - 201, the largest thermal neutron microscopic cross section is:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Xenon-135 capture.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Uranium-235 fission.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone & Sesonke, Nuclear Reactor Engineering, Chapter 5, Section 5.62"
+            },
+            {   "answer": "c. Uranium-238 fission.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone & Sesonke, Nuclear Reactor Engineering, Chapter 5, Section 5.62"
+            },
+            {   "answer": "d. Graphite C-12 absorption.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone & Sesonke, Nuclear Reactor Engineering, Chapter 5, Section 5.62"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.13 [1.0 point] Which ONE of the following samples when placed individually into the reactor experimental facilities will have a POSITIVE reactivity affect?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Gold wire",
+                "correct": false,
+                "feedback": "Incorrect. REF: ISU Experiments 3a and 4b"
+            },
+            {   "answer": "b. Indium foils",
+                "correct": false,
+                "feedback": "Incorrect. REF: ISU Experiments 3a and 4b"
+            },
+            {   "answer": "c. Cadmium foils",
+                "correct": false,
+                "feedback": "Incorrect. REF: ISU Experiments 3a and 4b"
+            },
+            {   "answer": "d. Polethylene disk",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.14 [1.0 point] What is the definition of a cross section?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The probability that a neutron will be captured by the nucleus.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. The most likely energy at which a charged particle will be captured.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 55"
+            },
+            {   "answer": "c. The length a charged particle travels past the nucleus before being captured.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 55"
+            },
+            {   "answer": "d. The area of the nucleus including the electron cloud.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 55"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.15 [1.0 point] Inelastic scattering is the process whereby a neutron collides with a nucleus and:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. recoils with the same kinetic energy it had prior to the collision.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 64"
+            },
+            {   "answer": "b. recoils with a lower kinetic energy, with the nucleus emitting a gamma ray.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. is absorbed by the nucleus, with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 64"
+            },
+            {   "answer": "d. recoils with a higher kinetic energy, with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 64"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.16 [1.0 point] A step insertion of positive reactivity to a critical reactor causes a rapid increase in the neutron population known as a prompt jump. Which ONE of the following explains the cause of this Occurrence?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. immediate increase in the prompt neutron population.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. shift in the prompt neutron lifetime on up-power maneuvers.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 340"
+            },
+            {   "answer": "c. rapid positive reactivity insertion due to the fuel temperature coefficient (Doppler) feedback.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 340"
+            },
+            {   "answer": "d. magnitude of the reactivity insertion exceeding the value of the average effective delayed neutron fraction.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 340"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.17 [1.0 point] Which of the following power manipulations would take the longest to complete assuming the same period is maintained?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 100 mW to 400 mW",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. 400 mW to 500 mW",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 346"
+            },
+            {   "answer": "c. 1 W to 3.5 W",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 346"
+            },
+            {   "answer": "d. 3.5 W to 4.5 W",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 346"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.18 [1.0 point] The AGN-201 is designed to produce a fission rate within the thermal fuse that is approximately twice the average of the core. Which ONE of the following describes how this higher reaction rate is accomplished?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The non-uniform fuel loading in the upper fuel disc increases the thermal flux in fuse area.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Safety Analysis Report, dated November 23, 1995, pg. 104"
+            },
+            {   "answer": "b. The polystyrene media used in the thermal fuse is a better moderator, raising the thermal flux in the fuse area.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Safety Analysis Report, dated November 23, 1995, pg. 104"
+            },
+            {   "answer": "c. The fuel density used in the thermal fuse is twice that of the balance of the core resulting in a higher fission rate in the fuse area.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. The fuel enrichment used in the thermal fuse is twice that of the balance of the core resulting in a higher fission rate in the fuse area.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Safety Analysis Report, dated November 23, 1995, pg. 104"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.19 [1.0 point] At the beginning of a reactor startup, Keff is 0.90 with a count rate of 30 CPS. Power is increased to a new, steady value of 60 CPS. The new Keff is:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.91",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction To Nuclear Engineering, 3rd Edition"
+            },
+            {   "answer": "b. 0.925",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction To Nuclear Engineering, 3rd Edition"
+            },
+            {   "answer": "c. 0.95",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 0.975",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction To Nuclear Engineering, 3rd Edition"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.20 [1.0 point] Of the approximately 200 Mev of energy released per fission event, the largest amount appears in the form of:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Alpha radiation",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 88"
+            },
+            {   "answer": "b. Beta and gamma radiation",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 88"
+            },
+            {   "answer": "c. Prompt and delayed neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 88"
+            },
+            {   "answer": "d. Kinetic energy of the fission fragments",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    }
+]

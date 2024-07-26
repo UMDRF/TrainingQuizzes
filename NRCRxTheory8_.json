@@ -1,0 +1,442 @@
+[
+    {
+            "question": "QUESTION A.01 [1.0 point] With the reactor on a constant positive period, which ONE of the following power changes will take the SHORTEST time?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 5% power, from 1% to 6% power.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 4.3 Eq. 4-7"
+            },
+            {   "answer": "b. 10% power, from 10% to 20% power.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 4.3 Eq. 4-7"
+            },
+            {   "answer": "c. 15% power, from 20% to 35% power.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 4.3 Eq. 4-7"
+            },
+            {   "answer": "d. 20% power, from 40% to 60% power.",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.02 [1.0 point] Which ONE of the following statements describes the subcritical reactor response as Keff approaches unity?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. A LARGER change in neutron level results from a given change in Keff and a SHORTER period of time is required to reach the equilibrium neutron level for a given change in Keff.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, Chapt. 5, pp. 5-1 - 5-28"
+            },
+            {   "answer": "b. A LARGER change in neutron level results from a given change in Keff and a LONGER period of time is required to reach the equilibrium neutron level for a given change in Keff.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. A SMALLER change in neutron level results from a given change in Keff and a SHORTER period of time is required to reach the equilibrium neutron level for a given change in Keff.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, Chapt. 5, pp. 5-1 - 5-28"
+            },
+            {   "answer": "d. A SMALLER change in neutron level results from a given change in Keff and a LONGER period of time is required to reach the equilibrium neutron level for a given change in Keff",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, Chapt. 5, pp. 5-1 - 5-28"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.03 [1.0 point] An experiment to be placed in the central thimble has been wrapped in cadmium. Which one of the following types of radiation will be most effectively blocked by the cadmium wrapping? ",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Thermal neutrons",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Fast neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: Section A - Reactor Theory, Thermo & Facility Operating Characteristics"
+            },
+            {   "answer": "c. Gamma rays",
+                "correct": false,
+                "feedback": "Incorrect. REF: Section A - Reactor Theory, Thermo & Facility Operating Characteristics"
+            },
+            {   "answer": "d. X-rays",
+                "correct": false,
+                "feedback": "Incorrect. REF: Section A - Reactor Theory, Thermo & Facility Operating Characteristics"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.04 [1.0 point] The reactor is operating at 500 KW in steady-state and in manual mode. Which one of the following describes the stable reactor period if a control blade drops fully into the core and no operator action is taken?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. -34 seconds due to the rapid decrease in prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: The amount of reactivity inserted by the blade is much larger than beta; therefore, maximum stable negative period of -80 seconds results"
+            },
+            {   "answer": "b. -34 seconds due to the rapid decay of the short lived delayed neutron precursors.",
+                "correct": false,
+                "feedback": "Incorrect. REF: The amount of reactivity inserted by the blade is much larger than beta; therefore, maximum stable negative period of -80 seconds results"
+            },
+            {   "answer": "c. -80 seconds due to the slowing down length of prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: The amount of reactivity inserted by the blade is much larger than beta; therefore, maximum stable negative period of -80 seconds results"
+            },
+            {   "answer": "d. -80 seconds due to the decay half life of the long lived delayed neutron.",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.05 [1.0 point] The following data was obtained during a reactor fuel load. /n No. of Elements: Detector A (cps) /n 0 20 /n 8 28 /n 16 30 /n 24 32 /n 32 42 /n 40 80. Which one of the following represents the number of fuel elements predicted to reach criticality? Graph paper provided at the end of the Section A questions.",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 48",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. 52",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.5, pp. 5-185-25"
+            },
+            {   "answer": "c. 56",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.5, pp. 5-185-25"
+            },
+            {   "answer": "d. 60",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.5, pp. 5-185-25"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.06 [1.0 point] What is the kinetic energy range of a thermal neutron?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a.  > 1 MeV",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, § 2.5.1"
+            },
+            {   "answer": "b. 100 keV - 1 MeV",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, § 2.5.1"
+            },
+            {   "answer": "c. 1 eV 100 KeV",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, § 2.5.1"
+            },
+            {   "answer": "d. < 1 eV",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.07 [1.0 point] A reactor with an initial population of 24000 neutrons is operating with Keff = 1.01. Of the CHANGE in population from the current generation to the next generation, how many are prompt neutrons?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 25",
+                "correct": false,
+                "feedback": "Incorrect. REF: 24000 x 1.01 = 24240 neutrons in next generation. 24240-24000=240 neutrons added 240 neutrons added - 0.7% delayed neutron fraction = 238 prompt neutrons added"
+            },
+            {   "answer": "b. 238",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 2,500",
+                "correct": false,
+                "feedback": "Incorrect. REF: 24000 x 1.01 = 24240 neutrons in next generation. 24240-24000=240 neutrons added 240 neutrons added - 0.7% delayed neutron fraction = 238 prompt neutrons added"
+            },
+            {   "answer": "d. 24,240",
+                "correct": false,
+                "feedback": "Incorrect. REF: 24000 x 1.01 = 24240 neutrons in next generation. 24240-24000=240 neutrons added 240 neutrons added - 0.7% delayed neutron fraction = 238 prompt neutrons added"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.08 [1.0 point] Which ONE of the following is the correct reason that delayed neutrons enhance control of the reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. There are more delayed neutrons than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988"
+            },
+            {   "answer": "b. Delayed neutrons take longer to reach thermal equilibrium.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988"
+            },
+            {   "answer": "c. Delayed neutrons increase the average neutron generation time.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. d. Delayed neutrons are born at higher energies than prompt neutrons and therefore have a greater effect.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.09 [1.0 point] Regulating rod worth for a reactor is 0.001 AK/K/inch. Moderator temperature INCREASES by 9°F, and the regulating rod moves 4.5 inches inward to compensate. The moderator temperature coefficient \u03B1-tmod is ...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a.  +5 x 104 AK/K/°F",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. -5 x 104 AK/K/°F",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988"
+            },
+            {   "answer": "c. +2 x 105 AK/K/°F",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988"
+            },
+            {   "answer": "d. -2 x 10-5 AK/K/°F",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.10 [1.0 point] INELASTIC SCATTERING is the process by which a neutron collides with a nucleus and",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Is absorbed, with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, § 2.4.5, Example 2.4.50"
+            },
+            {   "answer": "b. Recoils with the same kinetic energy it had prior to the collision.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, § 2.4.5, Example 2.4.50"
+            },
+            {   "answer": "c. Is absorbed, with the nucleus emitting a gamma ray, and the neutron with a lower kinetic energy.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Recoils with a higher kinetic energy than it had prior to the collision with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, § 2.4.5, Example 2.4.50"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.11 [1.0 point] Excess reactivity is the amount of reactivity ...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. associated with burnable poisons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, § 6.2.2. p. 6-6"
+            },
+            {   "answer": "b. needed to achieve prompt criticality.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, § 6.2.2. p. 6-6"
+            },
+            {   "answer": "c. avaliable above that which is required to keep the reactor critical.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. available below that which is required to make the reactor subcritical.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, § 6.2.2. p. 6-6"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.12 [1.0 point] Which ONE of the following describes the MAXIMUM amount of Xenon in the core?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 8 to 12 hours following Power startup to 100%.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R. R., Introduction or Nuclear Reactor Operations, June 1984, § 8.4, pp. 8-12 to 8-19"
+            },
+            {   "answer": "b. 4 to 6 hours following Power Increase, 50% to 100%.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R. R., Introduction or Nuclear Reactor Operations, June 1984, § 8.4, pp. 8-12 to 8-19"
+            },
+            {   "answer": "c. 4 to 6 hours following Power Decrease, 100% to 50%.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R. R., Introduction or Nuclear Reactor Operations, June 1984, § 8.4, pp. 8-12 to 8-19"
+            },
+            {   "answer": "d. 8 to 12 hours following Power shutdown from 100%.",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.13 [1.0 point] Core excess reactivity changes with ...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Fuel element burnup.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Control rod height.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988"
+            },
+            {   "answer": "c. Neutron energy level.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988"
+            },
+            {   "answer": "d. Reactor power level.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.14 [1.0 point] Which ONE of the following parameters is MOST significant in determining the differential worth of a control rod?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Rod Speed",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R. R., Introduction or Nuclear Reactor Operations, June 1984, § 7.2, p. 7-4"
+            },
+            {   "answer": "b. Reactor Power",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R. R., Introduction or Nuclear Reactor Operations, June 1984, § 7.2, p. 7-4"
+            },
+            {   "answer": "c. Flux Shape",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Fuel Loading",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R. R., Introduction or Nuclear Reactor Operations, June 1984, § 7.2, p. 7-4"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.15 [1.0 point] A fissile material is one which fissions upon absorption of a THERMAL neutron. A fertile material is one which upon absorption of a neutron becomes a fissile material. Which ONE of the following isotopes is an example of a fertile material?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. U-233",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 3.2, Example 3.2, p. 3-2"
+            },
+            {   "answer": "b. U-235",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 3.2, Example 3.2, p. 3-2"
+            },
+            {   "answer": "c. U-238",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Pu-239",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 3.2, Example 3.2, p. 3-2"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.16 [1.0 point] Primary Flow rate through heat exchanger = 1400 GPM; Secondary Flow rate through heat exchanger = 1200 GPM; \u0394TPrimary = 13°F; Secondary INLET temperature is 73°F. Which one of the following should be the secondary OUTLET temperature?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 58°F",
+                "correct": false,
+                "feedback": "Incorrect. REF: \u0394T = 1400/1200 * 13°F = 7/6 * 13 15.2°F T-out 73+ 15.2 = 88.2"
+            },
+            {   "answer": "b. 62°F",
+                "correct": false,
+                "feedback": "Incorrect. REF: \u0394T = 1400/1200 * 13°F = 7/6 * 13 15.2°F T-out 73+ 15.2 = 88.2"
+            },
+            {   "answer": "c. 84°F",
+                "correct": false,
+                "feedback": "Incorrect. REF: \u0394T = 1400/1200 * 13°F = 7/6 * 13 15.2°F T-out 73+ 15.2 = 88.2"
+            },
+            {   "answer": "d. 88°F",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.17 [1.0 point] Which ONE of the following is the cause of the indicated power to stabilize several hours following a reactor scram. (Assume source inserted in core, source range instrument on and reading 3 counts/second and no reactivity changes, i.e. no temperature changes, no fuel movement, no experiments added, etc.)",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Subcritical multiplication of source neutrons.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Gamma saturation of the source range detector.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R. R., Introduction or Nuclear Reactor Operations, June 1984"
+            },
+            {   "answer": "c. Neutron activation of the Source Range Detector.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R. R., Introduction or Nuclear Reactor Operations, June 1984"
+            },
+            {   "answer": "d. Continuing decay of the shortest lived delayed neutron precursor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R. R., Introduction or Nuclear Reactor Operations, June 1984"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.18 [1.0 point] During a startup you increase reactor power from 50 watts to 1000 watts in 100 seconds. What is reactor period?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 25",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, § 4.3, p. 4-4"
+            },
+            {   "answer": "b. 33",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 41",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, § 4.3, p. 4-4"
+            },
+            {   "answer": "d. 50",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, § 4.3, p. 4-4"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.19 [1.0 point] As primary coolant (moderator) temperature increases, control rod worth...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. decreases due to lower reflector efficiency.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, § 7.2, p. 7-1-7-9"
+            },
+            {   "answer": "b. increases due to the increase in thermal diffusion length.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. decreases due to higher neutron absorption in the moderator.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, § 7.2, p. 7-1-7-9"
+            },
+            {   "answer": "d. remains the same due to constant poison cross-section of the control rods.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, § 7.2, p. 7-1-7-9"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.20 [1.0 point] The Chief Reactor Operator tells you that the reactor is shutdown with a Shutdown Margin of 12.0%. Nuclear Instrumentation reads 100 cpm. The CRO inserts an experiment into the core and counts increase to 200 cpm. What is the resulting Keff for the core?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.920",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "b. 0.946",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 0.973",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "d. 1.000",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    }
+]

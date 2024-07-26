@@ -1,0 +1,420 @@
+[
+    {
+            "question": "QUESTION A.01 [1.0 point] Which ONE of the following isotopes has the largest microscopic cross-section for absorption for thermal neutrons?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Sm-149",
+                "correct": false,
+                "feedback": "Incorrect. Sm149 (41,000 b); U235 (687 b); Xe135 (2.65 x 10^6 b); B10 (3840 b) Reference: Lamarsh, J. 'Introduction to Nuclear Engineering' p. 738"
+            },
+            {   "answer": "b. U-235",
+                "correct": false,
+                "feedback": "Incorrect. Sm149 (41,000 b); U235 (687 b); Xe135 (2.65 x 10^6 b); B10 (3840 b) Reference: Lamarsh, J. 'Introduction to Nuclear Engineering' p. 738"
+            },
+            {   "answer": "c. Xe-135",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. B-10",
+                "correct": false,
+                "feedback": "Incorrect. Sm149 (41,000 b); U235 (687 b); Xe135 (2.65 x 10^6 b); B10 (3840 b) Reference: Lamarsh, J. 'Introduction to Nuclear Engineering' p. 738"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.02 [1.0 point] The graph depicted in Figure-1 for U-235 depicts...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. neutron energy distribution in the moderator",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Manual Vol. 1, pg. 57, NEEP 234 'Reactor Physics Part I', pg.2"
+            },
+            {   "answer": "b. axial flux distribution in the core",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Manual Vol. 1, pg. 57, NEEP 234 'Reactor Physics Part I', pg.2"
+            },
+            {   "answer": "c. radial flux distribution in the core ",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Manual Vol. 1, pg. 57, NEEP 234 'Reactor Physics Part I', pg.2"
+            },
+            {   "answer": "d. fission product yield distribution",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.03 [1.0 point] Which factors of the six factor formula are affected by an INCREASE in core temperature and how are they affected?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Lf decreases, lp decreases, f increases",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. \u03B5 increases, Lf increases, Lt decreases, p increases",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "c. \u03B5 increases, Lf decreases, Lt decreases, p decreases, \u03B7 increases, f increases",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "d. \u03B5 increases, Lf increases, Lt decreases, p increases, \u03B7 decreases, f decreases",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.04 [1.0 point] You are conducting a reactor startup after installing 2 new fuel assemblies in the core. Given the following rod withdrawal data, estimate the rod position when criticality would occur. The initial count rate on the nuclear instrumentation prior to rod withdrawal is 55 cps. Rod Withdral (inches): 0 2 4 6 8 10, Count Rate (cps) 55 63 71 85 103 300",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 11 in",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. 12 in",
+                "correct": false,
+                "feedback": "Incorrect. REF: CR1/CR2 = 1/M"
+            },
+            {   "answer": "c. 13 in",
+                "correct": false,
+                "feedback": "Incorrect. REF: CR1/CR2 = 1/M"
+            },
+            {   "answer": "d. 15 in",
+                "correct": false,
+                "feedback": "Incorrect. REF: CR1/CR2 = 1/M"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.05 [1.0 point] What is Beff?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The time required for the reactor to change by a power of e",
+                "correct": false,
+                "feedback": "Incorrect. REF: Effective delayed neutron fraction is the fraction of all delayed neutrons which reach thermal energy. DOE Handbook, Vol 2, Section 2.0"
+            },
+            {   "answer": "b. The fraction of all fission neutrons that are born as delayed neutrons",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. The fraction of all delayed neutrons which reach thermal energy",
+                "correct": false,
+                "feedback": "Incorrect. REF: Effective delayed neutron fraction is the fraction of all delayed neutrons which reach thermal energy. DOE Handbook, Vol 2, Section 2.0"
+            },
+            {   "answer": "d. The fractional change in neutron population per generation",
+                "correct": false,
+                "feedback": "Incorrect. REF: Effective delayed neutron fraction is the fraction of all delayed neutrons which reach thermal energy. DOE Handbook, Vol 2, Section 2.0"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.06 [1.0 point] Given Figure-2, which answer best describes neutron behavior within Region II.",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The neutron cross section is inversely proportional to the neutron velocity (1/V).",
+                "correct": false,
+                "feedback": "Incorrect. REF: Resonance Escape Region DOE Manual Vol 1, Section 2, and NEEP 234 'Reactor Physics III' pg. 2"
+            },
+            {   "answer": "b. The neutron cross section decreases steadily with increasing neutron energy (1/E).",
+                "correct": false,
+                "feedback": "Incorrect. REF: Resonance Escape Region DOE Manual Vol 1, Section 2, and NEEP 234 'Reactor Physics III' pg. 2"
+            },
+            {   "answer": "c. Neutrons of specific energy levels (e.g., 50 ev, 100 kev) are less likely to be readily absorbed than neutrons at other energy levels.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Resonance Escape Region DOE Manual Vol 1, Section 2, and NEEP 234 'Reactor Physics III' pg. 2"
+            },
+            {   "answer": "d. Neutrons of specific energy levels (e.g., 50 ev, 100 kev) are more likely to be readily absorbed than neutrons at other energy levels.",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.07 [1.0 point] Which of the following types of neutrons has a mean neutron generation lifetime of 12.7 seconds?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Prompt",
+                "correct": false,
+                "feedback": "Incorrect. REF: NEEP 234 'Reactor Physics II' pg. 2"
+            },
+            {   "answer": "b. Delayed",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Fast",
+                "correct": false,
+                "feedback": "Incorrect. REF: NEEP 234 'Reactor Physics II' pg. 2"
+            },
+            {   "answer": "d. Thermal",
+                "correct": false,
+                "feedback": "Incorrect. REF: NEEP 234 'Reactor Physics II' pg. 2"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.08 [1.0 point] Which of the following statements is true about Xenon following a reactor scram?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The concentration of 135-Xe will decrease due to reduced nuclear flux",
+                "correct": false,
+                "feedback": "Incorrect. REF: Following a reactor shutdown, xenon-135 concentration will increase due to the decay of the iodine inventory of the core. DOE Handbook, Vol 2, Section 4 and NEEP 234 'Reactor Physics I' pg. 9"
+            },
+            {   "answer": "b. The concentration of 135-Xe will increase due to the decay of the 135-I inventory.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. The concentration of 135-Xe will increase by natural decay into 135-I",
+                "correct": false,
+                "feedback": "Incorrect. REF: Following a reactor shutdown, xenon-135 concentration will increase due to the decay of the iodine inventory of the core. DOE Handbook, Vol 2, Section 4 and NEEP 234 'Reactor Physics I' pg. 9"
+            },
+            {   "answer": "d. The concentration of 135-Xe will remain constant until it is removed via neutron burnout during the subsequent reactor startup.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Following a reactor shutdown, xenon-135 concentration will increase due to the decay of the iodine inventory of the core. DOE Handbook, Vol 2, Section 4 and NEEP 234 'Reactor Physics I' pg. 9"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.09 [1.0 point] Figure-3 depicts a plot of reactor period as a function of time. What best describes the behavior of REACTOR POWER between points A and B:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Constant",
+                "correct": false,
+                "feedback": "Incorrect. REF: From point A to B, reactor period is negative, and since Pf=Po*e^t/T, power continues to decrease. DOE Manual Vol. 1, Section 2"
+            },
+            {   "answer": "b. Decreasing then increasing",
+                "correct": false,
+                "feedback": "Incorrect. REF: From point A to B, reactor period is negative, and since Pf=Po*e^t/T, power continues to decrease. DOE Manual Vol. 1, Section 2"
+            },
+            {   "answer": "c. Continually increasing",
+                "correct": false,
+                "feedback": "Incorrect. REF: From point A to B, reactor period is negative, and since Pf=Po*e^t/T, power continues to decrease. DOE Manual Vol. 1, Section 2"
+            },
+            {   "answer": "d. Continually decreasing",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.10 [1.0 point] A reactor that has a reactivity of -1671 pcm has a count rate of 50 cps on nuclear instrumentation. Calculate what the neutron level (i.e., count rate) should be after a reactivity insertion of 850 pcm from the withdrawal of the control rods.",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 25 cps",
+                "correct": false,
+                "feedback": "Incorrect. REF: This question can be answered in two ways. One way is through the equations as shown below, or two, use a rule of thumb that if the reactor moves halfway from its subcritical state towards criticality, the count rate will double."
+            },
+            {   "answer": "b. 50 cps",
+                "correct": false,
+                "feedback": "Incorrect. REF: This question can be answered in two ways. One way is through the equations as shown below, or two, use a rule of thumb that if the reactor moves halfway from its subcritical state towards criticality, the count rate will double."
+            },
+            {   "answer": "c. 100 cps",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 200 cps",
+                "correct": false,
+                "feedback": "Incorrect. REF: This question can be answered in two ways. One way is through the equations as shown below, or two, use a rule of thumb that if the reactor moves halfway from its subcritical state towards criticality, the count rate will double."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.11 [1.0 point] During the time following a reactor scram, reactor power decreases on an 80 second period, which corresponds to the half-life of the longest-lived delayed neutron precursors, which is approximately...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 80 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Group 1 is the longest-lived delayed neutron precursor for thermal fission in U-235, with a half-life of 55.72 sec. Lamarsh, J. 'Introduction to Nuclear Engineering' p. 88"
+            },
+            {   "answer": "b. 55 seconds",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 40 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Group 1 is the longest-lived delayed neutron precursor for thermal fission in U-235, with a half-life of 55.72 sec. Lamarsh, J. 'Introduction to Nuclear Engineering' p. 88"
+            },
+            {   "answer": "d. 20 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Group 1 is the longest-lived delayed neutron precursor for thermal fission in U-235, with a half-life of 55.72 sec. Lamarsh, J. 'Introduction to Nuclear Engineering' p. 88"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.12 [1.0 point] The reactor is operating in the automatic mode at 750 kW, with the regulating rod at 10 inches. A malfunction of equipment in the secondary cooling system has caused primary temperature to decrease by 8 C. Disregarding any other automated system design features, find the new the position of the regulating rod using the following and Figure-4: Temperature Coefficient=-1.26 x 104 \u0394K/C",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 13.5 inches",
+                "correct": false,
+                "feedback": "Incorrect. REF:The decrease in temperature has added 0.101 %p of reactivity which must be accounted for by the regulating rod to maintain 750 kW. Therefore, the reg rod must be inserted - 0.101 %p worth. Using the integral rod worth curve, with the reg rod initially at 10 in (≈0.24 %p), the new rod height at 0.24 -0.101-0.14 %p is 7 in. DOE Manual Vol. 2 Section 3, UWNR Operator Information Handbook"
+            },
+            {   "answer": "b. 11 inches",
+                "correct": false,
+                "feedback": "Incorrect. REF:The decrease in temperature has added 0.101 %p of reactivity which must be accounted for by the regulating rod to maintain 750 kW. Therefore, the reg rod must be inserted - 0.101 %p worth. Using the integral rod worth curve, with the reg rod initially at 10 in (≈0.24 %p), the new rod height at 0.24 -0.101-0.14 %p is 7 in. DOE Manual Vol. 2 Section 3, UWNR Operator Information Handbook"
+            },
+            {   "answer": "c. 9.5 inches",
+                "correct": false,
+                "feedback": "Incorrect. REF:The decrease in temperature has added 0.101 %p of reactivity which must be accounted for by the regulating rod to maintain 750 kW. Therefore, the reg rod must be inserted - 0.101 %p worth. Using the integral rod worth curve, with the reg rod initially at 10 in (≈0.24 %p), the new rod height at 0.24 -0.101-0.14 %p is 7 in. DOE Manual Vol. 2 Section 3, UWNR Operator Information Handbook"
+            },
+            {   "answer": "d. 7 inches",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.13 [1.0 point] Which ONE of the following is a correct statement of why delayed neutrons enhance the ability to control reactor power?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. There are more delayed neutrons than prompt neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Manual, Section 3"
+            },
+            {   "answer": "b. Delayed neutrons are born at higher energy levels than prompt neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Manual, Section 3"
+            },
+            {   "answer": "c. Delayed neutrons increase the average neutron lifetime",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Delayed neutrons readily fission in U-238",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Manual, Section 3"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.15 [1.0 point] Using the applicable portion from the chart of the nuclides (Figure-5), what isotope will Mn-56 decay into?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Mn-55",
+                "correct": false,
+                "feedback": "Incorrect. REF: Mn-56 is beta decay, which is the conversion of a neutron into a proton and electron. Baum, E., Knox, H., and Miller, T. 2002. Nuclides and Isotopes 16th Ed. p. 28"
+            },
+            {   "answer": "b. Co-60",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {   "answer": "c. Fe-56",
+                "correct": true,
+                "feedback": "Incorrect. REF: Mn-56 is beta decay, which is the conversion of a neutron into a proton and electron. Baum, E., Knox, H., and Miller, T. 2002. Nuclides and Isotopes 16th Ed. p. 28"
+            },
+            {   "answer": "d. Fe-58",
+                "correct": false,
+                "feedback": "Incorrect. REF: Mn-56 is beta decay, which is the conversion of a neutron into a proton and electron. Baum, E., Knox, H., and Miller, T. 2002. Nuclides and Isotopes 16th Ed. p. 28"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.16 [1.0 point] What is the condition of the reactor when k = 1/(1-\u03B2)?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. subcritical",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, J. 2001. Introduction to Nuclear Engineering 3rd Ed.. pp.340-341"
+            },
+            {   "answer": "b. critical",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, J. 2001. Introduction to Nuclear Engineering 3rd Ed.. pp.340-341"
+            },
+            {   "answer": "c. prompt critical",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. prompt supercritical",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.17 [1.0 point] Inelastic scattering can be described as a process whereby a neutron collides with a nucleus and:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. recoils with a lower kinetic energy, with the nucleus emitting a gamma ray.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. recoils with the same kinetic energy it had prior to the collision.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook Vol I, pg. 45, UWNR OTM Physics I"
+            },
+            {   "answer": "c. is absorbed by the nucleus, with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook Vol I, pg. 45, UWNR OTM Physics I"
+            },
+            {   "answer": "d. recoils with a higher kinetic energy, with the nucleus absorbing a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook Vol I, pg. 45, UWNR OTM Physics I"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.18 [1.0 point] Figure-6 depicts fast and thermal fluxes in a reflected and non-reflected thermal reactor. Which of the following statements is true regarding a typical reflector?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. A reflector has a high cross section for absorption which increases the peak power to average power ratio.",
+                "correct": false,
+                "feedback": "Incorrect. REF: The thermalized neutrons are not absorbed as quickly in the reflector as neutrons thermalized in the core since the reflector, being unfueled, has a much smaller absorption cross-section. The thermal neutrons tend to accumulate in the reflector until they leak back into the core, escape from the outer surface of the reflector, or are absorbed. Lamarsh, J. 2001. Introduction to Nuclear Engineering 3rd Ed.. p. 305"
+            },
+            {   "answer": "b. A reflector has a high cross section for scattering, which increases the peak to average power ratio.",
+                "correct": false,
+                "feedback": "Incorrect. REF: The thermalized neutrons are not absorbed as quickly in the reflector as neutrons thermalized in the core since the reflector, being unfueled, has a much smaller absorption cross-section. The thermal neutrons tend to accumulate in the reflector until they leak back into the core, escape from the outer surface of the reflector, or are absorbed. Lamarsh, J. 2001. Introduction to Nuclear Engineering 3rd Ed.. p. 305"
+            },
+            {   "answer": "c. Thermal neutrons tend to accumulate in the reflector until they leak back into the core, escape, or become absorbed, which reduces the peak to average power ratio.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Fast neutrons become absorbed in the reflector fuel, which raises the thermal flux and reduces the peak to average power ratio.",
+                "correct": false,
+                "feedback": "Incorrect. REF: The thermalized neutrons are not absorbed as quickly in the reflector as neutrons thermalized in the core since the reflector, being unfueled, has a much smaller absorption cross-section. The thermal neutrons tend to accumulate in the reflector until they leak back into the core, escape from the outer surface of the reflector, or are absorbed. Lamarsh, J. 2001. Introduction to Nuclear Engineering 3rd Ed.. p. 305"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.19 [1.0 point] A reactor is critical at 650 kW. Given the following data, calculate the MINIMUM Shutdown Margin for this reactor. Total Rod Worth and Control Rod Worth Remaining in Core: Safety Blade #1: $3.43 $0.46, Safety Blade #2: $2.84 $0.38, Safety Blade #3: $3.36 $0.51, Regulating Rod: $0.53 $0.06, Transient Rod: $2.02 $2.02",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. $12.18",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Manual Handbook Vol II, pg. 28"
+            },
+            {   "answer": "b. $10.77",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Manual Handbook Vol II, pg. 28"
+            },
+            {   "answer": "c. $7.34",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. $5.32",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Manual Handbook Vol II, pg. 28"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.20 [1.0 point] During the conversion of the UWNR's fuel from HEU to LEU, safety analyses were performed to determine a 'MDNBR of a hot rod as a function of power.' Which of the following statements of MDNBR is true?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. It is the point at which a release from a failed fuel element will result in personnel exposure which exceeds Federal limits",
+                "correct": false,
+                "feedback": "Incorrect. REF: Definition of Departure from Nucleate Boiling. NRC"
+            },
+            {   "answer": "b. It is the point which a release from a failed fuel element will result in the inhalation of airborne activity which exceeds Federal limits",
+                "correct": false,
+                "feedback": "Incorrect. REF: Definition of Departure from Nucleate Boiling. NRC"
+            },
+            {   "answer": "c. It is the point at which heat transfer from a fuel element rapidly increases due to increased convection from air currents",
+                "correct": false,
+                "feedback": "Incorrect. REF: Definition of Departure from Nucleate Boiling. NRC"
+            },
+            {   "answer": "d. It is the point which heat transfer from a fuel element rapidly decreases due to insulating effects of a steam blanket",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    }
+]

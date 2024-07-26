@@ -1,0 +1,338 @@
+[
+    {
+            "question": "Question 1-06/04/2020 What effect does moderator temperature have on neutron population?",
+        "answers": [
+            {   "answer": "a. As the density of the moderator decreases, less moderation occurs and more neutrons leaks from the core.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. As the density of the moderator increases, less moderation occurs and more neutrons leak from the core.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Section 6.5, pg. 6-14"
+            },
+            {   "answer": "c. As the density of the moderator decreases, more moderation occurs andless neutrons leak from the core.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Section 6.5, pg. 6-14"
+            },
+            {   "answer": "d. As the density of the moderator increases, less moderation occurs and less neutrons leak from the core.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Section 6.5, pg. 6-14"
+            }
+        ]
+    },
+    {
+            "question": "Question 2-06/04/2020 Which ONE of the following is the major source of energy released during fission?",
+        "answers": [
+            {   "answer": "a. Absorption of prompt gamma rays",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+            },
+            {   "answer": "b. Fission fragments",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Fission neutron scattering",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+            },
+            {   "answer": "d. Neutrino interactions",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+            }
+        ]
+    },
+    {
+            "question": "Question 3-06/04/2020 Five minutes after shutting down the reactor, reactor power is 3 x 10^6 counts per minute (cpm). Which ONE of the following is the count rate you would expect two minutes later?",
+        "answers": [
+            {   "answer": "a. 1 x 10^6 cpm",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations,© 1988, Sec 4.6; For SID reactor, T = -80 seconds. Time = 120 seconds. P= POe 1r 1 = 3x 10^6 e - 120180 = 6.69 x 10^5"
+            },
+            {   "answer": "b. 7 x 10^5 cpm",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 5 x 10^5 cpm",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations,© 1988, Sec 4.6; For SID reactor, T = -80 seconds. Time = 120 seconds. P= POe 1r 1 = 3x 10^6 e - 120180 = 6.69 x 10^5"
+            },
+            {   "answer": "d. 3 x 10^5 cpm",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations,© 1988, Sec 4.6; For SID reactor, T = -80 seconds. Time = 120 seconds. P= POe 1r 1 = 3x 10^6 e - 120180 = 6.69 x 10^5"
+            }
+        ]
+    },
+    {
+            "question": "Question 4-06/04/2020 What is β?",
+        "answers": [
+            {   "answer": "a. The fractional change in neutron population per generation",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 4"
+            },
+            {   "answer": "b. The fraction of all fission neutrons that are born as delayed neutrons",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. The time required for the reactor to change by power by a factor of e",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 4"
+            },
+            {   "answer": "d. The fraction of all delayed neutrons that reach thermal energy",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 4"
+            }
+        ]
+    },
+    {
+            "question": "Question 6-06/04/2020 Which ONE of the following conditions will DECREASE the core excess reactivity?",
+        "answers": [
+            {   "answer": "a. Fuel depletion",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Burnable poison burnout",
+                "correct": false,
+                "feedback": "Incorrect. REF: NRC previous exam, October, 2014; decreasing core reactivity worth will decrease the core excess"
+            },
+            {   "answer": "c. Insertion of a positive reactivity worth experiment",
+                "correct": false,
+                "feedback": "Incorrect. REF: NRC previous exam, October, 2014; decreasing core reactivity worth will decrease the core excess"
+            },
+            {   "answer": "d. Lowering moderator temperature (assume negative temperature coefficient)",
+                "correct": false,
+                "feedback": "Incorrect. REF: NRC previous exam, October, 2014; decreasing core reactivity worth will decrease the core excess"
+            }
+        ]
+    },
+    {
+            "question": "Question 8-06/04/2020 Which ONE of the following is the direct result of using heavy water for a reflector and light water as a moderator?",
+        "answers": [
+            {   "answer": "a. Less xenon accumulation.",
+                "correct": false,
+                "feedback": "Incorrect. REF: MIT SAR 1.2.3 (c), pg. 1-4 DOE Fundamentals of Reactor Theory, Volume 2, NP-04, pg.25"
+            },
+            {   "answer": "b. Less neutron leakage.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Longer prompt neutron lifecycle.",
+                "correct": false,
+                "feedback": "Incorrect. REF: MIT SAR 1.2.3 (c), pg. 1-4 DOE Fundamentals of Reactor Theory, Volume 2, NP-04, pg.25"
+            },
+            {   "answer": "d. Tangential distributed thermal neutron flux",
+                "correct": false,
+                "feedback": "Incorrect. REF: MIT SAR 1.2.3 (c), pg. 1-4 DOE Fundamentals of Reactor Theory, Volume 2, NP-04, pg.25"
+            }
+        ]
+    },
+    {
+            "question": "Question 11-06/04/2020 During a fuel loading of the core, as the reactor approaches criticality, the value of 1/M:",
+        "answers": [
+            {   "answer": "a. Increases toward one.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations"
+            },
+            {   "answer": "b. Decreases toward one.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations"
+            },
+            {   "answer": "c. Increases toward infinity.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations"
+            },
+            {   "answer": "d. Decreases toward zero.",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "Question 12-06/04/2020 If the multiplication factor, k, is increased from 0.800 to 0.950, the amount of reactivity added is:",
+        "answers": [
+            {   "answer": "a. 0.532 k/k",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations,© 1982, Sec 3.3.3, page 3-21. p = keff1-keff2/(keff1 x keff2) = 0.95-0.8 /(0.8*0.95)=0.197 k/k"
+            },
+            {   "answer": "b. 0.150 k/k",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations,© 1982, Sec 3.3.3, page 3-21. p = keff1-keff2/(keff1 x keff2) = 0.95-0.8 /(0.8*0.95)=0.197 k/k"
+            },
+            {   "answer": "c. 0.166 k/k",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations,© 1982, Sec 3.3.3, page 3-21. p = keff1-keff2/(keff1 x keff2) = 0.95-0.8 /(0.8*0.95)=0.197 k/k"
+            },
+            {   "answer": "d. 0.197 k/k",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "Question 13-06/04/2020 Which factors of the six-factor formula are affected by an INCREASE in core moderator temperature and how are they affected? Lf - Fast non-leakage probability Lt – Thermal non- leakage probability ɛ - Fast fission factor p – Resonance escape probability η – Reproduction factor f – Thermal utilization factor",
+        "answers": [
+            {   "answer": "a. ↓Lf, ↓Lt, ↓p, ↑f",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. ↑ɛ, ↑Lf, ↓Lt, ↑p",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 1"
+            },
+            {   "answer": "c. ↑ɛ , ↓Lf, ↓Lt, ↓p, ↑η, ↑f",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 1"
+            },
+            {   "answer": "d. ↑ɛ, ↑Lf, ↓Lt, ↓p, ↑η, ↑f",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 1"
+            }
+        ]
+    },
+    {
+            "question": "Question 14-06/04/2020 Which ONE of the following isotopes will readily absorb neutrons when it interacts with neutrons?",
+        "answers": [
+            {   "answer": "a. Hydrogen-1",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 2.5.1, Pages 2-38-43"
+            },
+            {   "answer": "b. Boron-10",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Oxygen-16",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 2.5.1, Pages 2-38-43"
+            },
+            {   "answer": "d. Iodine-131",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 2.5.1, Pages 2-38-43"
+            }
+        ]
+    },
+    {
+            "question": "Question 15-06/04/2020 Which ONE of the following parameters is MOST significant in determining the differential rod worth of a control rod?",
+        "answers": [
+            {   "answer": "a. Rod speed",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 7.2"
+            },
+            {   "answer": "b. Flux shape",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Reactor power",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 7.2"
+            },
+            {   "answer": "d. Fuel temperature",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 7.2"
+            }
+        ]
+    },
+    {
+            "question": "Question 16-06/04/2020 Which type of neutron interaction (light nuclei) is most effective in moderating fast neutrons to thermal neutrons?",
+        "answers": [
+            {   "answer": "a. Neutron capture",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh 3rd ed., Section 3.6, pg. 68-71 Basic Nuclear Engineering 4th ed., Slowing Down of Neutrons"
+            },
+            {   "answer": "b. Elastic scattering",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Inelastic scattering",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh 3rd ed., Section 3.6, pg. 68-71 Basic Nuclear Engineering 4th ed., Slowing Down of Neutrons"
+            },
+            {   "answer": "d. Charged particle reactions",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh 3rd ed., Section 3.6, pg. 68-71 Basic Nuclear Engineering 4th ed., Slowing Down of Neutrons"
+            }
+        ]
+    },
+    {
+            "question": "Question 17-06/04/2020 A reactor with keff = 0.8 contributes 1000 neutrons in the first generation. Changing from first generation to third generation, what is the total number of neutrons produced in all three generations?",
+        "answers": [
+            {   "answer": "a. 2040 neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6 For third generation=n + K*n + K^2*n=1000+800+640=2440 neutrons"
+            },
+            {   "answer": "b. 1940 neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6 For third generation=n + K*n + K^2*n=1000+800+640=2440 neutrons"
+            },
+            {   "answer": "c. 3640 neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6 For third generation=n + K*n + K^2*n=1000+800+640=2440 neutrons"
+            },
+            {   "answer": "d. 2440 neutrons",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "Question 18-06/04/2020 Reactor is critical. What would be the corresponding keff when removing 0.03 ∆k/k from its criticality?",
+        "answers": [
+            {   "answer": "a. 0.9244",
+                "correct": false,
+                "feedback": "Incorrect. REF: ρ=(k-1)/k-0.03→1=k-(-0.03k)=k(1+0.03)→k=1/1.03 = 0.9708"
+            },
+            {   "answer": "b. 0.9434",
+                "correct": false,
+                "feedback": "Incorrect. REF: ρ=(k-1)/k-0.03→1=k-(-0.03k)=k(1+0.03)→k=1/1.03 = 0.9708"
+            },
+            {   "answer": "c. 0.9708",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 1.0521",
+                "correct": false,
+                "feedback": "Incorrect. REF: ρ=(k-1)/k-0.03→1=k-(-0.03k)=k(1+0.03)→k=1/1.03 = 0.9708"
+            }
+        ]
+    },
+    {
+            "question": "Question 19-06/04/2020 The reactor is on a CONSTANT positive period. Which ONE of the following power changes will take the LONGEST time to complete?",
+        "answers": [
+            {   "answer": "a. From 100 kW to 150 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P=Poet/T→t=T*ln(P/Po) assume constant period=1 The largest ratio of P/Po is the longest time to complete"
+            },
+            {   "answer": "b. From 10 kW to 20 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P=Poet/T→t=T*ln(P/Po) assume constant period=1 The largest ratio of P/Po is the longest time to complete"
+            },
+            {   "answer": "c. From 10 W to 30 W",
+                "correct": false,
+                "feedback": "Incorrect. REF: P=Poet/T→t=T*ln(P/Po) assume constant period=1 The largest ratio of P/Po is the longest time to complete"
+            },
+            {   "answer": "d. From 1 W to 5 W",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "Question 20-06/04/2020 Which ONE of the following is the definition of Differential Control Rod Worth? Reactivity:",
+        "answers": [
+            {   "answer": "a. Due to the control rod position (k/k)",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals of Reactor Theory, Volume 2, NP-03, pg. 52 The reactivity change per unit movement of a rod and is normally expressed as r/inch, k/k per inch, or pcm/inch"
+            },
+            {   "answer": "b. Change per unit of rod motion (k/k/in)",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Due to the difference in rod speed (k/k/in/min)",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals of Reactor Theory, Volume 2, NP-03, pg. 52 The reactivity change per unit movement of a rod and is normally expressed as r/inch, k/k per inch, or pcm/inch"
+            },
+            {   "answer": "d. Available for shutdown after control rod withdrawal",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals of Reactor Theory, Volume 2, NP-03, pg. 52 The reactivity change per unit movement of a rod and is normally expressed as r/inch, k/k per inch, or pcm/inch"
+            }
+        ]
+    }
+]

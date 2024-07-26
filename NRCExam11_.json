@@ -1,0 +1,449 @@
+[
+    {
+        "question": "Question 1-06/27/2017 Which ONE of the following is the MAJOR source of energy released during fission?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Capture gamma rays",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Table 3.2, Page 3-5"
+            },
+            {   "answer": "b. Fission product decays.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Prompt gamma rays",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Table 3.2, Page 3-5"
+            },
+            {   "answer": "d. Fission neutrons (kinetic energy)",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Table 3.2, Page 3-5"
+            }
+        ]
+    },
+    {
+        "question": "QUESTION 2-06/27/2017 During the time following a reactor scram, reactor power decreases on an 80 second period which corresponds to the half-life of the longest-lived delayed neutron precursors, which is approximately _________.",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 20 seconds",
+                "correct": false,
+                "feedback": "Incorrect. LaMarsh, Introduction to Nuclear Engineering, Page 88 Group 1 is longest lived neutron precursor for thermal fission in U-235 with a half-life of 55.72 seconds"
+            },
+            {   "answer": "b.40 seconds",
+                "correct": false,
+                "feedback": "Incorrect. LaMarsh, Introduction to Nuclear Engineering, Page 88 Group 1 is longest lived neutron precursor for thermal fission in U-235 with a half-life of 55.72 seconds"
+            },
+            {   "answer": "c. 55 seconds",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 80 seconds",
+                "correct": false,
+                "feedback": "Incorrect. LaMarsh, Introduction to Nuclear Engineering, Page 88 Group 1 is longest lived neutron precursor for thermal fission in U-235 with a half-life of 55.72 seconds"
+            }
+        ]
+    },
+    {
+        "question": "QUESTION 4-06/27/2017 Two common FISSION PRODUCTS that have especially large neutron cross sections and play a significant role in reactor physics are Xe-135 and _________.",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Nitrogen-16",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 8.1, Page 8-1"
+            },
+            {   "answer": "b. Argon-41",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 8.1, Page 8-1"
+            },
+            {   "answer": "c. Iodine-131",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 8.1, Page 8-1"
+            },
+            {   "answer": "d. Samarium-149",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "QUESTION 5-06/27/2017 [1.0 point] What is the condition of the reactor when k = 1/(1-β)?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Subcritical",
+                "correct": false,
+                "feedback": "Incorrect. LaMarsh, Introduction to Nuclear Engineering, Page 340-341. (1-B)k=1 manipulated reads k=1/(1-B)"
+            },
+            {   "answer": "b. Critical",
+                "correct": false,
+                "feedback": "Incorrect. LaMarsh, Introduction to Nuclear Engineering, Page 340-341. (1-B)k=1 manipulated reads k=1/(1-B)"
+            },
+            {
+                "answer": "c Super critical",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "d. Prompt critical",
+                "correct": false,
+                "feedback": "Incorrect. LaMarsh, Introduction to Nuclear Engineering, Page 340-341. (1-B)k=1 manipulated reads k=1/(1-B)"
+            }
+        ]
+    },
+    {
+        "question": "QUESTION 6 1-06/27/2017 [1.0 point] Which ONE of the following conditions describes a critical reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. k = 1; ∆k/k = 1",
+                "correct": false,
+                "feedback": "Incorrect REF: LaMarsh, Introduction to Nuclear Engineering."
+            },
+            {
+                "answer": "b. k = 1; ∆k/k = 0",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "c. k = 0; ∆k/k = 1",
+                "correct": false,
+                "feedback": "Incorrect REF: LaMarsh, Introduction to Nuclear Engineering."
+            },
+            {
+                "answer": "d. k = 0; ∆k/k = 0",
+                "correct": false,
+                "feedback": "Incorrect REF: LaMarsh, Introduction to Nuclear Engineering."
+            }
+         ]
+     },
+     {
+        "question": "QUESTION 7-06/27/2017 [1.0 point] What is βeff?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The fractional change in neutron population per generation",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            },
+            {
+                "answer": "b. The fraction of all fission neutrons that are born as delayed neutrons",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "c. The time required for the reactor to change by power by a factor of e",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            },
+            {
+                "answer": "d. The fraction of all delayed neutrons that reach thermal energy",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            }
+            
+        ]
+    },
+    {
+        "question": "QUESTION 8-06/27/2017 Which one of the following statements describes the difference between differential rod worth (DRW) and integral rod worth (IRW) curves?,",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. DRW relates the time rate of reactivity change to rod position. IRW relates the total reactivity in the core to the time rate of reactivity change.",
+                "correct": false,
+                "feedback": "Incorrect. REF: PSBR CCP 15."
+            },
+            {
+                "answer": "b. IRW relates the worth of the rod per increment of movement to rod position. DRW relates the total reactivity added by the rod to the rod position.",
+                "correct": false,
+                "feedback": "Incorrect. REF: PSBR CCP 15."
+            },
+            {
+                "answer": "c. IRW is the slope of the DRW at a given rod position.",
+                "correct": false,
+                "feedback": "Incorrect. REF: PSBR CCP 15."
+            },
+            {
+                "answer": "d. DRW relates the worth of the rod per increment of movement to rod position. IRW relates the total reactivity added by the rod to the rod position.",
+                "correct": true,
+                "feedback": "Correct"
+            }
+        ]
+     },
+     {
+        "question": "QUESTION 9-06/27/2017 Which ONE of the following is the reason for an installed neutron source within the reactor core?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Without it, a reactor startup is impossible as no neutrons would be available.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 5.2.2, Pages 5-2 - 5-4"
+            },
+            {
+                "answer": "b. Power can be compensated for by adjusting the compensating voltage on the source range detector",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 5.2.2, Pages 5-2 - 5-4"
+            },
+            {
+                "answer": "c. Could result in a very short period due to the reactor going critical before the neutron population is built up high enough to be read on nuclear instrumentation",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "d. Period would be very slow due to the long time to build up the neutron population from such a low level",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 5.2.2, Pages 5-2 - 5-4"
+            }
+        ]
+     },
+     {
+        "question": "QUESTION 10-06/27/2017 The following shows part of a decay chain for the radioactive element Pa-234:91Pa234 → 92U234 This decay chain is an example of _______ decay.",
+        "answers": [
+            {
+                "answer": "a. Alpha",
+                "correct": false,
+                "feedback": "Incorrect. REF: Chart of the Nuclides"
+            },
+            {
+                "answer": "b. Beta",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "c. Gamma",
+                "correct": false,
+                "feedback": "Incorrect. REF: Chart of the Nuclides"
+            },
+            {
+                "answer": "d. Neutron",
+                "correct": false,
+                "feedback": "Incorrect. REF: Chart of the Nuclides"
+            }
+        ]
+     },
+     {
+        "question": "QUESTION 11-06/27/2017 A reactor is on a CONSTANT positive period. Which ONE of the following power changes will take the SHORTEST time to complete?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. From 100 kW to 150 kW",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "b. From 10 kW to 20 kW",
+                "correct": false,
+                "feedback": "Incorrect. P=Poet/T→t=T*ln(P/Po) assume constant period=1. The smallest ratio of P/Po is the shortest time to complete"
+            },
+            {
+                "answer": "c. From 10 W to 30 W",
+                "correct": false,
+                "feedback": "Incorrect. P=Poet/T→t=T*ln(P/Po) assume constant period=1. The smallest ratio of P/Po is the shortest time to complete"
+            },
+            {
+                "answer": "d. From 1 W to 5 W",
+                "correct": false,
+                "feedback": "Incorrect. P=Poet/T→t=T*ln(P/Po) assume constant period=1. The smallest ratio of P/Po is the shortest time to complete"
+            }
+        ]
+     },
+     {
+        "question": "QUESTION 12-06/27/2017 Given a source strength of 200 neutrons per second (N/sec) and a multiplication factor of 0.6, which ONE of the following is the expected stable neutron count rate?",
+        "answers": [
+            {
+                "answer": "a. 150 N/sec",
+                "correct": false,
+                "feedback": "Incorrect. CR=S/(1-k)→200/(1-0.6) = 500 N/sec"
+            },
+            {
+                "answer": "b. 250 N/sec",
+                "correct": false,
+                "feedback": "Incorrect. CR=S/(1-k)→200/(1-0.6) = 500 N/sec"
+            },
+            {
+                "answer": "c. 400 N/sec",
+                "correct": false,
+                "feedback": "Incorrect. CR=S/(1-k)→200/(1-0.6) = 500 N/sec"
+            },
+            {
+                "answer": "d. 500 N/Sec",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+     },
+     {
+        "question": "QUESTION 13-06/27/2017 Which ONE of the following isotopes will absorb neutrons quickly when it interacts wit neutrons?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Hydrogen-1",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 2.5.1, Pages 2-38-43"
+            },
+            {   "answer": "b. Carbon-14",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 2.5.1, Pages 2-38-43"
+            },
+            {   "answer": "c. Boron-10",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Uranium-235",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 2.5.1, Pages 2-38-43"
+            }
+        ]
+     },
+     {
+        "question": "QUESTION 14-06/27/2017 Reactor is critical. What would be the corresponding keff when removing 0.07 ∆k/k from its criticality?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.9151",
+                "correct": false,
+                "feedback": "Incorrect. ρ=(k-1)/k-0.07→1=k-(-0.07k)=k(1+0.07)→k=1/1.07 =0.9346"
+            },
+            {   "answer": "b. 0.9346",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 0.9750",
+                "correct": false,
+                "feedback": "Incorrect. ρ=(k-1)/k-0.07→1=k-(-0.07k)=k(1+0.07)→k=1/1.07 =0.9346"
+            },
+            {   "answer": "d. 1.0522",
+                "correct": false,
+                "feedback": "Incorrect. ρ=(k-1)/k-0.07→1=k-(-0.07k)=k(1+0.07)→k=1/1.07 =0.9346"
+            }
+        ]
+     },
+     {
+        "question": "QUESTION 15-06/27/2017 A subcritical reactor, keff is increased from 0.914 to 0.965. Which ONE of the following is the amount of reactivity that was added to the core?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 3.64%∆k/k",
+                "correct": false,
+                "feedback": "Incorrect. Burn, Introduction to Nuclear Reactor Operations, Section 3.3.4, Page 3-20&21. ∆ρ=(keff2-keff1)/(keff1*keff2) = (0.971-0.919)/(0.971*0.919) = 0.0583∆k/k=5.83%∆k/k"
+            },
+            {   "answer": "b. 4.38%∆k/k",
+                "correct": false,
+                "feedback": "Incorrect. Burn, Introduction to Nuclear Reactor Operations, Section 3.3.4, Page 3-20&21. ∆ρ=(keff2-keff1)/(keff1*keff2) = (0.971-0.919)/(0.971*0.919) = 0.0583∆k/k=5.83%∆k/k"
+            },
+            {   "answer": "c. 5.83%∆k/k",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 6.57%∆k/k",
+                "correct": false,
+                "feedback": "Incorrect. Burn, Introduction to Nuclear Reactor Operations, Section 3.3.4, Page 3-20&21. ∆ρ=(keff2-keff1)/(keff1*keff2) = (0.971-0.919)/(0.971*0.919) = 0.0583∆k/k=5.83%∆k/k"
+            }
+        ]
+     },
+     {
+        "question": "QUESTION 16-06/27/2017 Which ONE of the following best describes the difference between reflectors and moderators?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Reflectors decrease thermal leakage while moderators decrease fast leakage",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 5.4"
+            },
+            {   "answer": "b. Reflectors thermalize neutrons while moderators decrease core leakage",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 5.4"
+            },
+            {   "answer": "c. Reflectors decrease core leakage while moderators thermalize neutrons",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Reflectors shield against neutrons while moderators decrease core leakage",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 5.4"
+            }
+        ]
+     },
+     {
+        "question": "QUESTION 17-06/27/2017 How high will the reactor power get given the lowest of the reactor high power scrams set point is 110%, the scram delay time is 0.5 seconds, the reactor is operating at 100% power prior to the scram, and the reactor period is positive 20 second?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 113%",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. 115%",
+                "correct": false,
+                "feedback": "Incorrect. P/Po = 110%, T = 20 seconds, t = 0.5, P/Po = 110 e^0.5/20 = 112.78%"
+            },
+            {   "answer": "c. 120%",
+                "correct": false,
+                "feedback": "Incorrect. P/Po = 110%, T = 20 seconds, t = 0.5, P/Po = 110 e^0.5/20 = 112.78%"
+            },
+            {   "answer": "d. 220%",
+                "correct": false,
+                "feedback": "Incorrect. P/Po = 110%, T = 20 seconds, t = 0.5, P/Po = 110 e^0.5/20 = 112.78%"
+            }
+        ]
+     },
+     {
+        "question": "QUESTION 18-06/27/2017 Which factors of the six factor formula are affected by an INCREASE in core temperature and how are they affected?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. ↓Lf, ↓p, ↑f",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. ↑ ɛ, ↑Lf, ↓Lt, ↑p",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            },
+            {   "answer": "c. ↑ɛ , ↓Lf, ↓Lt, ↓p, ↑η, ↑f",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            },
+            {   "answer": "d. ↑ɛ, ↑Lf, ↓Lt, ↓p, ↑η, ↑f",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            }
+        ]
+     },
+     {
+        "question": "QUESTION 19-06/27/2017 Which ONE of the following parameters is MOST significant in determining the differential rod worth of a control rod?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Fuel temperature",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 7.2"
+            },
+            {   "answer": "b. Flux shape",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Reactor power",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 7.2"
+            },
+            {   "answer": "d. Rod speed",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 7.2"
+            }
+        ]
+     },
+     {
+        "question": "QUESTION 20-06/27/2017 Which ONE of the following is a correct statement of how delayed neutrons enhance the ability to control reactor power?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Prompt neutrons can cause fissions in both U-235 and U-238 and delayed neutrons can only cause fissions in U-235.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 3.3.2, Page 3-7."
+            },
+            {   "answer": "b. Delayed neutrons are born at higher energy levels than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 3.3.2, Page 3-7."
+            },
+            {   "answer": "c. The average number of delayed neutrons produced per fission is higher than the average number of prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 3.3.2, Page 3-7."
+            },
+            {   "answer": "d. Delayed neutrons increase the average neutron lifetime that allows a reactor to be controlled.",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+     }
+]

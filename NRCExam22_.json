@@ -1,0 +1,442 @@
+[
+    {
+            "question": "Question 1-11/01/2012 A thin foil target of 10% aluminum atoms and 90% copper atoms is placed into a thermal neutron beam. Given σs = 1.49 and σa = 0.23 for aluminum and σs = 7.9 and σa = 3.79 for copper, determine the reaction with the highest probability. A neutron ...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. scattering reaction with aluminum",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Reactor Theory Question"
+            },
+            {   "answer": "b. scattering reaction with copper",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. absorption in aluminum",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Reactor Theory Question"
+            },
+            {   "answer": "d. absorption in copper",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Reactor Theory Question"
+            }
+        ]
+    },
+    {
+            "question": "Question 2-11/01/2012 A reactor scram has resulted in the instantaneous insertion of .003 ΔK/K of negative reactivity. Which ONE of the following is the stable negative reactor period resulting from the scram?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 45 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, J.R., Introduction to Nuclear Engineering, Addison-Wesley Publishing, Reading, Massachusetts, 1983. § 7.1, p. 289"
+            },
+            {   "answer": "b. 56 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, J.R., Introduction to Nuclear Engineering, Addison-Wesley Publishing, Reading, Massachusetts, 1983. § 7.1, p. 289"
+            },
+            {   "answer": "c. 80 seconds",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 112 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, J.R., Introduction to Nuclear Engineering, Addison-Wesley Publishing, Reading, Massachusetts, 1983. § 7.1, p. 289"
+            }
+        ]
+    },
+    {
+            "question": "Question 3-11/01/2012 Which ONE of the following is true concerning the differences between prompt and delayed neutrons?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Prompt neutrons account for less than 1% of the neutron population while delayed neutrons account for approximately 99% of the neutron population.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Intro to Nuc Eng, John R. Lamarsh © 1983, § 3.7 pp. 73 – 75."
+            },
+            {   "answer": "b. Prompt neutrons are released during fast fissions while delayed neutrons are released during thermal fissions.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Intro to Nuc Eng, John R. Lamarsh © 1983, § 3.7 pp. 73 – 75."
+            },
+            {   "answer": "c. Prompt neutrons are released during the fission process while delayed neutrons are released during the decay process.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Prompt neutrons are the dominating factor in determining the reactor period while delayed neutrons have little effect on the reactor period.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Intro to Nuc Eng, John R. Lamarsh © 1983, § 3.7 pp. 73 – 75."
+            }
+        ]
+    },
+    {
+            "question": "Question 4-11/01/2012 Which condition below describes a critical reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. K = 1, ΔK/K = 1",
+                "correct": false,
+                "feedback": "Incorrect. REF: Intro to Nuc Eng, John R. Lamarsh © 1983, § 7.1, p. 282."
+            },
+            {   "answer": "b. K = 1, ΔK/K = 0",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. K = 0, ΔK/K = 1",
+                "correct": false,
+                "feedback": "Incorrect. REF: Intro to Nuc Eng, John R. Lamarsh © 1983, § 7.1, p. 282."
+            },
+            {   "answer": "d. K = 0, ΔK/K = 0",
+                "correct": false,
+                "feedback": "Incorrect. REF: Intro to Nuc Eng, John R. Lamarsh © 1983, § 7.1, p. 282."
+            }
+        ]
+    },
+    {
+            "question": "Question 5-11/01/2012 The reactor is shutdown by 0.05 ΔK/K, this would correspond to Keff of:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.9995.",
+                "correct": false,
+                "feedback": "Incorrect. Lamarsh, J.R., Introduction to Nuclear Engineering, Addison-Wesley Publishing, Reading, Massachusetts, 1983. § 4,1, p. 102 & § 7.1, p. 282. p=(k-1)/k; p= -0.05; -0.05k = k-1; 1 = k-(-0.05k) = k(1+0.05); k=1/1.05; k=0.9524"
+            },
+            {   "answer": "b. 0.9524.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 0.7750.",
+                "correct": false,
+                "feedback": "Incorrect. Lamarsh, J.R., Introduction to Nuclear Engineering, Addison-Wesley Publishing, Reading, Massachusetts, 1983. § 4,1, p. 102 & § 7.1, p. 282. p=(k-1)/k; p= -0.05; -0.05k = k-1; 1 = k-(-0.05k) = k(1+0.05); k=1/1.05; k=0.9524"
+            },
+            {   "answer": "d. 0.0500.",
+                "correct": false,
+                "feedback": "Incorrect. Lamarsh, J.R., Introduction to Nuclear Engineering, Addison-Wesley Publishing, Reading, Massachusetts, 1983. § 4,1, p. 102 & § 7.1, p. 282. p=(k-1)/k; p= -0.05; -0.05k = k-1; 1 = k-(-0.05k) = k(1+0.05); k=1/1.05; k=0.9524"
+            }
+        ]
+    },
+    {
+            "question": "Question 6-11/01/2012 Which statement best describes Xe-135 behavior following a Reactor Scram?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Xenon concentration decreases due to production rate from fission stops.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Reactor Theory Question"
+            },
+            {   "answer": "b. Xenon concentration decreases due to production rate from I-135 decay increasing.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Reactor Theory Question"
+            },
+            {   "answer": "c. Xenon concentration increases due to production rate from Pm-149 increasing.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Reactor Theory Question"
+            },
+            {   "answer": "d. Xenon concentration increases due to I-135 decay exceeding Xe-135 decay.",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "Question 7-11/01/2012 An initial count rate of 100 is doubled five times during startup. Assuming an initial Keff = 0.950, what is the new Keff?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.957",
+                "correct": false,
+                "feedback": "Incorrect. CR1/CR2 = (1 - Keff2)/(1 - Keff1) 1/32 (1 - 0.95) = 1 - Keff2. 1 - 0.05/32 = Keff2 Keff2 = 0.9984"
+            },
+            {   "answer": "b. 0.979",
+                "correct": false,
+                "feedback": "Incorrect. CR1/CR2 = (1 - Keff2)/(1 - Keff1) 1/32 (1 - 0.95) = 1 - Keff2. 1 - 0.05/32 = Keff2 Keff2 = 0.9984"
+            },
+            {   "answer": "c. 0.988",
+                "correct": false,
+                "feedback": "Incorrect. CR1/CR2 = (1 - Keff2)/(1 - Keff1) 1/32 (1 - 0.95) = 1 - Keff2. 1 - 0.05/32 = Keff2 Keff2 = 0.9984"
+            },
+            {   "answer": "d. 0.998",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "Question 8-11/01/2012 Keff is K∞ times the",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. fast fission factor (ε)",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Question1"
+            },
+            {   "answer": "b. reproduction factor (η)",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Question1"
+            },
+            {   "answer": "c. total non-leakage factor (Lf × Lth)",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. resonance escape probability (p)",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Question1"
+            }
+        ]
+    },
+    {
+            "question": "Question 9-11/01/2012 Which ONE of the following is the reason for an installed neutron source within the reactor? A startup without a neutron source ...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. is impossible as there would be no neutrons available to start the fission process.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Reactor Theory"
+            },
+            {   "answer": "b. would be very slow due to the long time to build up neutron population from so low a level.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Reactor Theory"
+            },
+            {   "answer": "c. could result in a very short period due to the reactor going critical before neutron population can build up high enough to be read on nuclear instrumentation.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. can be compensated for by adjusting the compensating voltage on the source range detector.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Reactor Theory"
+            }
+        ]
+    },
+    {
+            "question": "Question 10-11/01/2012 Which ONE of the following describes 'EXCESS REACTIVITY'?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Extra reactivity into the core due to the presence of the source neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Reactor Theory Question"
+            },
+            {   "answer": "b. A measure of the resultant reactivity if all of the control elements were withdrawn.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. The combined reactivity worth of control rods and other poisons needed to keep the reactor shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Reactor Theory Question"
+            },
+            {   "answer": "d. The maximum reactivity insertion with the reactor shutdown with control rods fully inserted under peak Xenon conditions.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Reactor Theory Question"
+            }
+        ]
+    },
+    {
+            "question": "Question 11-11/01/2012 Which ONE of the following is an example of beta (β) decay?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 35Br87 —> 33As83",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Reactor Theory Question, Chart of the Nuclides"
+            },
+            {   "answer": "b. 35Br87 —> 35Br86",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Reactor Theory Question, Chart of the Nuclides"
+            },
+            {   "answer": "c. 35Br87 —> 34Se86",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC Reactor Theory Question, Chart of the Nuclides"
+            },
+            {   "answer": "d. 35Br87 —> 36Kr87",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "Question 12-11/01/2012 If reactor power is increasing by a decade every minute, it has a period of:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 13 sec",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.18, p. 234."
+            },
+            {   "answer": "b. 26 sec",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 52 sec",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.18, p. 234."
+            },
+            {   "answer": "d. 65 sec",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.18, p. 234."
+            }
+        ]
+    },
+    {
+            "question": "Question 13-11/01/2012 Which ONE of the following conditions would increase shutdown margin?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. An experiment which added positive reactivity.",
+                "correct": false,
+                "feedback": "Incorrect. Adding negative reactivity increases the shutdown margin."
+            },
+            {   "answer": "b. Depletion of the burnable poison added to the uranium fuel.",
+                "correct": false,
+                "feedback": "Incorrect. Adding negative reactivity increases the shutdown margin."
+            },
+            {   "answer": "c. Depletion of uranium fuel.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Decreasing fuel temperature.",
+                "correct": false,
+                "feedback": "Incorrect. Adding negative reactivity increases the shutdown margin."
+            }
+        ]
+    },
+    {
+            "question": "Question 14-11/01/2012 Which ONE of the following statements describes the difference between Differential (DRW) and Integral (IRW) rod worth curves?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. DRW relates the worth of the rod per increment of movement to rod position. IRW relates the total reactivity added by the rod to the rod position.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. DRW relates the time rate of reactivity change to rod position. IRW relates the total reactivity in the core to the time rate of reactivity change.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 1975, Page 270"
+            },
+            {   "answer": "c. IRW relates the worth of the rod per increment of movement to rod position. DRW relates the total reactivity added by the rod to the rod position.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 1975, Page 270"
+            },
+            {   "answer": "d. IRW is the slope of the DRW at a given rod position",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 1975, Page 270"
+            }
+        ]
+    },
+    {
+            "question": "Question 15-11/01/2012 The fuel temperature coefficient of reactivity is -1.25x10-4 ΔK/K/°C. When a control rod with an average rod worth of 0.1 % ΔK/K/inch is withdrawn 10 inches, reactor power increases and becomes stable at a higher level. At this point, the fuel temperature has:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. increased by 80°C",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. decreased by 80°C",
+                "correct": false,
+                "feedback": "Incorrect.  REF: Lamarsh, Introduction to Nuclear Engineering, 2nd Edition, Page 306. Reactivity added by control rod = +(0.001 Δk/k/inch)(10 inches) = 0.01 Δk/k."
+            },
+            {   "answer": "c. increased by 8°C",
+                "correct": false,
+                "feedback": "Incorrect.  REF: Lamarsh, Introduction to Nuclear Engineering, 2nd Edition, Page 306. Reactivity added by control rod = +(0.001 Δk/k/inch)(10 inches) = 0.01 Δk/k."
+            },
+            {   "answer": "d. decreased by 8°C",
+                "correct": false,
+                "feedback": "Incorrect.  REF: Lamarsh, Introduction to Nuclear Engineering, 2nd Edition, Page 306. Reactivity added by control rod = +(0.001 Δk/k/inch)(10 inches) = 0.01 Δk/k."
+            }
+        ]
+    },
+    {
+            "question": "Question 16-11/01/2012 Which one of the following characteristics of a material would result in the most efficient thermalization of neutrons??",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. LOW atomic mass number and HIGH scattering cross section.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. HIGH atomic mass number and LOW scattering cross section.",
+                "correct": false,
+                "feedback": "Intro to Nuc Eng, John R. Lamarsh © 1983, § 3.5, pp. 59-60."
+            },
+            {   "answer": "c. LOW neutron absorption and LOW scattering cross section.",
+                "correct": false,
+                "feedback": "Intro to Nuc Eng, John R. Lamarsh © 1983, § 3.5, pp. 59-60."
+            },
+            {   "answer": "d. LOW neutron absorption and HIGH atomic mass number.",
+                "correct": false,
+                "feedback": "Intro to Nuc Eng, John R. Lamarsh © 1983, § 3.5, pp. 59-60."
+            }
+        ]
+    },
+    {
+            "question": "Question 17-11/01/2012 Which factor in the six factor formula is represented by the ratio: number of neutrons that reach thermal energy/number of neutrons that start to slow down",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. fast non-leakage probability (Lf)",
+                "correct": false,
+                "feedback": "Incorrect. REF: Intro to Nuc Eng, John R. Lamarsh © 1983, § 6.5 p. 239."
+            },
+            {   "answer": "b. resonance escape probability (p)",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. reproduction factor (η)",
+                "correct": false,
+                "feedback": "Incorrect. REF: Intro to Nuc Eng, John R. Lamarsh © 1983, § 6.5 p. 239."
+            },
+            {   "answer": "d. thermal utilization factor (f)",
+                "correct": false,
+                "feedback": "Incorrect. REF: Intro to Nuc Eng, John R. Lamarsh © 1983, § 6.5 p. 239."
+            }
+        ]
+    },
+    {
+            "question": "Question 18-11/01/2012 In a reactor at full power, the thermal neutron flux () is 2.5 x 10^12 neutrons/cm^2/sec., and the macroscopic fission cross-section Σf is 0.1 cm^-1. The fission rate is:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 2.5 x 10^11 fissions/cm/sec.",
+                "correct": false,
+                "feedback": "Incorrect. Standard EQB question. R =  Σf = (2.5 x 10^12) x 0.1 = 2.5 x 10^11."
+            },
+            {   "answer": "b. 2.5 x 10^13 fissions/cm/sec.",
+                "correct": false,
+                "feedback": "Incorrect. Standard EQB question. R =  Σf = (2.5 x 10^12) x 0.1 = 2.5 x 10^11."
+            },
+            {   "answer": "c. 2.5 x 10^11 fissions/cm^3/sec.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 2.5 x 10^13 fissions/cm^3/sec.",
+                "correct": false,
+                "feedback": "Incorrect. Standard EQB question. R =  Σf = (2.5 x 10^12) x 0.1 = 2.5 x 10^11."
+            }
+        ]
+    },
+    {
+            "question": "Question 19-11/01/2012 The term Prompt Critical refers to:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. the instantaneous jump in power due to a rod withdrawal",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 1975, Page 250"
+            },
+            {   "answer": "b. a reactor which is supercritical using only prompt neutrons",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. a reactor which is critical using both prompt and delayed neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 1975, Page 250"
+            },
+            {   "answer": "d. a reactivity insertion which is less than βeff",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 1975, Page 250"
+            }
+        ]
+    },
+    {
+            "question": "Question 20-11/01/2012 Which ONE of the following describes the difference between reflectors and moderators?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Reflectors decrease core leakage while moderators thermalize neutrons",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Reflectors shield against neutrons while moderators decrease core leakage",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 1975, Pages 57, 214"
+            },
+            {   "answer": "c. Reflectors decrease thermal leakage while moderators decrease fast leakage",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 1975, Pages 57, 214"
+            },
+            {   "answer": "d. Reflectors thermalize neutrons while moderators decrease core leakage",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 1975, Pages 57, 214"
+            }
+        ]
+    }
+]

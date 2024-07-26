@@ -1,0 +1,359 @@
+[
+    {
+            "question": "Question 2-02/22/2001 You enter the control room and note that all nuclear instrumentation show a steady neutron level, and no rods are in motion. Which ONE of the following conditions CANNOT be true?",
+        "answers": [
+            {   "answer": "a. The reactor is critical.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC question"
+            },
+            {   "answer": "b. The reactor is subcritical.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC question"
+            },
+            {   "answer": "c. The reactor is supercritical.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. The neutron source has been removed from the core.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC question"
+            }
+        ]
+    },
+    {
+            "question": "Question 3-02/22/2001 Which ONE of the following describes the MAJOR contributor to the production and depletion of Xenon respectively in a STEADY-STATE OPERATING reactor? First is production, second is depletion.",
+        "answers": [
+            {   "answer": "a. Radioactive decay of Iodine, Radioactive Decay",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "b. Radioactive decay of Iodine, Neutron Absorption",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Directly from fission, Radioactive Decay",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "d. Directly from fission, Neutron Absorption",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            }
+        ]
+    },
+    {
+            "question": "Question 4-02/22/2001 Most text books list T for a U^235 fueled reactor as 0.65% delta k/k. However, your SAR lists T_eff as being 0.7% delta k/k. Why is T_eff larger than T?",
+        "answers": [
+            {   "answer": "a. Delayed neutrons are born at higher energies than prompt neutrons resulting in a greater worth for these neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "b. Delayed neutrons are born at lower energies than prompt neutrons resulting in a less loss due to leakage for these neutrons.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. the fuel includes U^238 which has a relatively large T for fast fission.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "d. some U^238 in the core becomes Pu^239 (by neutron absorption) which has a larger T for fission.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            }
+        ]
+    },
+    {
+            "question": "Question 5-02/22/2001 Which ONE of the following is an example of alpha decay?",
+        "answers": [
+            {   "answer": "a. _35Br^87 -> _33As^83",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. _35Br^87 -> _35Br^86",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "c. _35Br^87 -> _34Se^86",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "d. _35Br^87 -> _36Kr^87",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            }
+        ]
+    },
+    {
+            "question": "Question 7-02/22/2001 Several processes occur that may increase or decrease the available number of neutrons. SELECT from the following the six-factor formula term that describes an INCREASE in the number of neutrons during the cycle.",
+        "answers": [
+            {   "answer": "a. Thermal utilization factor (f).",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "b. Resonance escape probability (p).",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "c. Thermal non-leakage probability (L_th).",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "d. Reproduction factor (T).",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "Question 8-02/22/2001 Which ONE of the following atoms will cause a neutron to lose the most energy in an elastic collision?",
+        "answers": [
+            {   "answer": "a. Uranium^238",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "b. Carbon^12",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "c. Hydrogen^2",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "d. Hydrogen^1",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "Question 9-02/22/2001 The reactor supervisor tells you the Keff for the reactor is 0.98. After placing an experiment worth into the core, count rate increases from 50 cpm to 55 cpm. What is the worth of the experiment?",
+        "answers": [
+            {   "answer": "a. +0.085% delta k/k",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § CR1/CR2 = (1-keff2)/(1 - keff1) = (1 - keff2) = (1 - 0.98) × 50/55 = 0.02 × 50/55 = -0.018182 or keff = 0.98182 delta T = (keff2 - keff1)/(keff2 keff1) = (098182 - 0.98000)/(098182 ×0.98000) = 1.890 × 10^-3 = 0.189% delta k/k"
+            },
+            {   "answer": "b. +0.189% delta k/k",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. -0.085% delta k/k",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § CR1/CR2 = (1-keff2)/(1 - keff1) = (1 - keff2) = (1 - 0.98) × 50/55 = 0.02 × 50/55 = -0.018182 or keff = 0.98182 delta T = (keff2 - keff1)/(keff2 keff1) = (098182 - 0.98000)/(098182 ×0.98000) = 1.890 × 10^-3 = 0.189% delta k/k"
+            },
+            {   "answer": "d. -0.189% delta k/k",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § CR1/CR2 = (1-keff2)/(1 - keff1) = (1 - keff2) = (1 - 0.98) × 50/55 = 0.02 × 50/55 = -0.018182 or keff = 0.98182 delta T = (keff2 - keff1)/(keff2 keff1) = (098182 - 0.98000)/(098182 ×0.98000) = 1.890 × 10^-3 = 0.189% delta k/k"
+            }
+        ]
+    },
+    {
+            "question": "Question 10-02/22/2001 About two minutes following a reactor scram, period has stabilized, and is decreasing at a CONSTANT rate. If reactor power is 10^-5% full power what will the power be in three minutes.",
+        "answers": [
+            {   "answer": "a. 5 × 10^-6% full power",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P0*e^-T/T = 10^-5*e^(-180sec/80sec) = 10^-5*e^-2.25 = 0.1054*10^-5 = 1.054*10^-6"
+            },
+            {   "answer": "b. 2 × 10^-6% full power",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P0*e^-T/T = 10^-5*e^(-180sec/80sec) = 10^-5*e^-2.25 = 0.1054*10^-5 = 1.054*10^-6"
+            },
+            {   "answer": "c. 10^-6% full power",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 5 × 10^-7% full power",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P0*e^-T/T = 10^-5*e^(-180sec/80sec) = 10^-5*e^-2.25 = 0.1054*10^-5 = 1.054*10^-6"
+            }
+        ]
+    },
+    {
+            "question": "Question 11-02/22/2001 Core excess reactivity changes with...",
+        "answers": [
+            {   "answer": "a. Fuel burnup",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. Control Rod Height",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "c. Neutron Level",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "d. Reactor Power Level",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            }
+        ]
+    },
+    {
+            "question": "Question 12-02/22/2001 INELASTIC SCATTERING is the process by which a neutron collides with a nucleus and ...",
+        "answers": [
+            {   "answer": "a. recoils with the same kinetic energy it had prior to the collision.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "b. is absorbed, with the nucleus emitting a gamma ray, and the neutron with a lower kinetic energy.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. is absorbed, with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "d. recoils with a higher kinetic energy than it had prior to the collision with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            }
+        ]
+    },
+    {
+            "question": "Question 13-02/22/2001 The neutron microscopic cross-section for absorption T_a generally ...",
+        "answers": [
+            {   "answer": "a. increases as neutron energy increases",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "b. decreases as neutron energy increases",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. increases as target nucleus mass increases",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "d. decreases as target nucleus mass increases",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            }
+        ]
+    },
+    {
+            "question": "Question 14-02/22/2001 Which one of the following is the definition of the FAST FISSION FACTOR?",
+        "answers": [
+            {   "answer": "a. The ratio of the number of neutrons produced by fast fission to the number produced by thermal fission",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "b. The ratio of the number of neutrons produced by thermal fission to the number produced by fast fission",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "c. The ratio of the number of neutrons produced by fast and thermal fission to the number produced by thermal fission",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. The ratio of the number of neutrons produced by fast fission to the number produced by fast and thermal fission",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            }
+        ]
+    },
+    {
+            "question": "Question 15-02/22/2001 Given the following: T_excess – 0.50% delta k/k, control rod 1 – 0.25% delta k/k, control rod 2 – 0.45% delta k/k, control rod 3 – 0.55% delta k/k, Calculate the TECHNICAL SPECIFICATION LIMIT for Shut Down Margin for this core.",
+        "answers": [
+            {   "answer": "a. 0.20% delta k/k",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. 0.75% delta k/k",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "c. 1.25% delta k/k",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "d. 1.75% delta k/k",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            }
+        ]
+    },
+    {
+            "question": "Question 16-02/22/2001 Reactor Power increases from 15 watts to 65 watts in 30 seconds. The period of the reactor is:",
+        "answers": [
+            {   "answer": "a. 6.9 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § P=P0*e^t/T, ln(65/15) = 30sec/ = (30 sec)/(ln 4.3333) = 20.456"
+            },
+            {   "answer": "b. 13.6 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § P=P0*e^t/T, ln(65/15) = 30sec/ = (30 sec)/(ln 4.3333) = 20.456"
+            },
+            {   "answer": "c. 20.5 seconds",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. 130 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § P=P0*e^t/T, ln(65/15) = 30sec/ = (30 sec)/(ln 4.3333) = 20.456"
+            }
+        ]
+    },
+    {
+            "question": "Question 17-02/22/2001 WHICH ONE of the following is the MAJOR source of energy released during fission?",
+        "answers": [
+            {   "answer": "a. Kinetic energy of the fission neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "b. Kinetic energy of the fission fragments.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Decay of the fission fragments.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "d. Prompt gamma rays.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            }
+        ]
+    },
+    {
+            "question": "Question 18-02/22/2001 The number of neutrons passing through a unit surface area per unit time is the definition of which one of the following?",
+        "answers": [
+            {   "answer": "a. Neutron Population (np)",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "b. Neutron Impact Potential (nip)",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "c. Neutron Flux (nv)",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Neutron Density (nd)",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            }
+        ]
+    },
+    {
+            "question": "Question 19-02/22/2001 Which ONE of the following is the correct reason that delayed neutrons enhance control of the reactor?",
+        "answers": [
+            {   "answer": "a. There are more delayed neutrons than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "b. Delayed neutrons increase the average neutron generation time.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Delayed neutrons are born at higher energies than prompt neutrons and therefore have a greater effect.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            },
+            {   "answer": "d. Delayed neutrons take longer to reach thermal equilibrium.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+            }
+        ]
+    }
+]

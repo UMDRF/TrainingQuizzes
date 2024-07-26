@@ -1,0 +1,354 @@
+[
+    {
+            "question": "QUESTION A.01 [1.0 point] Which ONE of the following is the MOST affected factor in the six factor formula due to fuel burnup?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Fast fission factor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.2.2, page 3-18."
+            },
+            {   "answer": "b. Reproduction factor.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.2.2, page 3-18."
+            },
+            {   "answer": "c. Thermal utilization factor.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Resonance escape probability.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.2.2, page 3-18."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.02 [1.0 point] The injection of a sample results in a 50 millisecond period. If the scram setpoint is 300 KILOWATTS and the scram delay time is 0.1 seconds, which ONE of the following is the peak power of the reactor at shutdown?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 250 KW.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, P = Po*e^(t/T)"
+            },
+            {   "answer": "b. 600 KW.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, P = Po*e^(t/T)"
+            },
+            {   "answer": "c. 900 KW.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, P = Po*e^(t/T)"
+            },
+            {   "answer": "d. 2200 KW.",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.03 [1.0 point] Which ONE of the following best describes the alpha decay of a nuclide?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The atomic mass number increases by 2, and the number of protons increase by 2.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Chart of nuclides"
+            },
+            {   "answer": "b. The atomic mass number decreases by 2, and the number of protons decrease by 2.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Chart of nuclides"
+            },
+            {   "answer": "c. The atomic mass number decreases by 4, and the number of protons decrease by 2.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. The atomic mass number increases by 4, and the number of protons increase by 2.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Chart of nuclides"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.04 [1.0 point] During a reactor startup, criticality occurred at a LOWER ROD HEIGHT than the last startup. Which ONE of the following reasons could be the cause?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. Xe135 peaked.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 8.4, page 8-9."
+            },
+            {   "answer": "b. Fuel temperature decreased.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. Moderator temperature increased.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 8.4, page 8-9."
+            },
+            {   "answer": "d. Adding an experiment with negative reactivity.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 8.4, page 8-9."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.05 [1.0 point] About two minutes following a reactor scram, the reactor period has stabilized and the power level is decreasing at a CONSTANT rate. Given that reactor power at time to is 100 kW power, what will it be three minutes later?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 2 KW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = Po*e^t/T"
+            },
+            {   "answer": "b. 10 KW",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 30 KW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = Po*e^t/T"
+            },
+            {   "answer": "d. 50 KW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = Po*e^t/T"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.06 [1.0 point] The RESONANCE ESCAPE PROBABILITY is defined as a ratio of:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The number of thermal neutrons absorbed in fuel over the number of thermal neutrons absorbed in fuel and core materials.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.1, page 3-16."
+            },
+            {   "answer": "b. The number of fast neutrons produced by fission in a generation over the number of total neutrons produced by fission in the previous generation.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.1, page 3-16"
+            },
+            {   "answer": "c. The number of fast neutrons produced by U-238 over the number of thermal neutrons absorbed in fuel.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.1, page 3-16"
+            },
+            {   "answer": "d. The number of neutrons that reach thermal energy over the number of fast neutrons that start to slow down.",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.07 [1.0 point] Which ONE of the following is the correct amount of reactivity added if the multiplication factor, k, is increase from 0.800 to 0.950?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.150",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.3, page 3-21."
+            },
+            {   "answer": "b. 0.158",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.3, page 3-21."
+            },
+            {   "answer": "c. 0.188",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.3, page 3-21."
+            },
+            {   "answer": "d. 0.197",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.08 [1.0 point] Which ONE of the following statements is the definition of REACTIVITY? ",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. A measure of the core's fuel depletion.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.3, page 3-20"
+            },
+            {   "answer": "b. Equal to 1.00 AK/K when the reactor is critical.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.3, page 3-20"
+            },
+            {   "answer": "c. The factional change in neutron population between generations.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. The number of neutrons produced by fission in a generation over the number of neutrons produced by fission in the previous generation.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Sec 3.3.3, page 3-20"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.09 [1.0 point] A reactor is SHUTDOWN by 8.6 % Ak/k. When a control rod with a worth of -3.1 % Ak/k is removed from the core, a rate of 1000 counts per second (cps) is measured. What was the previous count rate (cps)? Given Beff = 0.0078.",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 660",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. 750",
+                "correct": false,
+                "feedback": "Incorrect. REF: K-eff = 1/(1-\u03C1)"
+            },
+            {   "answer": "c. 850",
+                "correct": false,
+                "feedback": "Incorrect. REF: K-eff = 1/(1-\u03C1)"
+            },
+            {   "answer": "d. 1170",
+                "correct": false,
+                "feedback": "Incorrect. REF: K-eff = 1/(1-\u03C1)"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.10 [1.0 point] Most text books list ẞ for a U235 fueled reactor as 0.0065. However, your SAR lists Beff as being 0.0079. Why is Beff larger than ẞ?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. The fuel includes U238 which has a relatively large ẞ for fast fission.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, § Section 3.3, page 3-14"
+            },
+            {   "answer": "b. Some U238 in the core becomes Pu239 (by neutron absorption) which has a larger ẞ for fission.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, § Section 3.3, page 3-14"
+            },
+            {   "answer": "c. Delayed neutrons are born at lower energies than prompt neutrons resulting in a less loss due to leakage for these neutrons.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. Delayed neutrons are born at higher energies than prompt neutrons resulting in a greater worth for these neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, § Section 3.3, page 3-14"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.11 [1.0 point] The neutron microscopic cross-section for absorption σa generally...",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. . increases as neutron energy increases.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982"
+            },
+            {   "answer": "b. decreases as neutron energy increases.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. increases as target nucleus mass increases.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982"
+            },
+            {   "answer": "d. decreases as target nucleus mass increases.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.12 [1.0 point] Which ONE of the following ranges in the Safety rod position provides the HIGHEST worth during operation? ",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. From 1.0 to 5.0 in.",
+                "correct": false,
+                "feedback": "Incorrect. REF: MSTR Worth Curve (note: center of safety rod provides the highest worth)"
+            },
+            {   "answer": "b. From 10 to 14 in.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. From 14 to 18 in.",
+                "correct": false,
+                "feedback": "Incorrect. REF: MSTR Worth Curve (note: center of safety rod provides the highest worth)"
+            },
+            {   "answer": "d. From 20 to 24 in.",
+                "correct": false,
+                "feedback": "Incorrect. REF: MSTR Worth Curve (note: center of safety rod provides the highest worth)"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.13 [1.0 point] Given the following: Pexcess = 0.60% Ak/k, control rod 1 = 0.30% Ak/k control rod 2 = 0.45% Ak/k, control rod 3 = 0.50% Ak/k. Calculate the TECHNICAL SPECIFICATION LIMIT for Shutdown Margin for this core.",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 0.15% A k/k",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "b. 0.65% A k/k",
+                "correct": false,
+                "feedback": "Incorrect. REF: Total rod worth - (excess + most active control rod)"
+            },
+            {   "answer": "c. 1.25% A k/k",
+                "correct": false,
+                "feedback": "Incorrect. REF: Total rod worth - (excess + most active control rod)"
+            },
+            {   "answer": "d. 1.75% A k/k",
+                "correct": false,
+                "feedback": "Incorrect. REF: Total rod worth - (excess + most active control rod)"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.14 [1.0 point] A reactor has an effective delayed fraction (Beff) of 0.0065. If a control rod withdrawal in this reactor increases the effective multiplication (keff) from 0.998 to 1.005, the reactor is:",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. subcritical.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Section 4.2, page. 4-1. Note: For prompt critical, keff has to be ≥ 1.0065"
+            },
+            {   "answer": "b. exactly critical.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Section 4.2, page. 4-1. Note: For prompt critical, keff has to be ≥ 1.0065"
+            },
+            {   "answer": "c. supercritical.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. prompt critical.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Section 4.2, page. 4-1. Note: For prompt critical, keff has to be ≥ 1.0065"
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.15 [1.0 point] Which ONE of the following describes the term PROMPT DROP?",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. A reactor is subcritical at negative 80-second period.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Page 4-21."
+            },
+            {   "answer": "b. A reactor has attained criticality on prompt neutrons alone.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Page 4-21."
+            },
+            {   "answer": "c. The instantaneous change in power level due to inserting a control rod.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "d. The instantaneous change in power level due to withdrawing a control rod.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1982, Page 4-21."
+            }
+        ]
+    },
+    {
+            "question": "QUESTION A.16 [1.0 point] The MAXIMUM excess reactivity for reference core conditions with secured experiments and experimental facilities in place shall be no more than",
+        "type": "multiple_choice",
+        "answers": [
+            {   "answer": "a. 1.00",
+                "correct": false,
+                "feedback": "Incorrect. REF: TS 3.1 page 7"
+            },
+            {   "answer": "b. 1.50",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {   "answer": "c. 2.00",
+                "correct": false,
+                "feedback": "Incorrect. REF: TS 3.1 page 7"
+            },
+            {   "answer": "d. 3.50",
+                "correct": false,
+                "feedback": "Incorrect. REF: TS 3.1 page 7"
+            }
+        ]
+    }
+]

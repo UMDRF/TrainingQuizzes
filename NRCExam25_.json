@@ -1,0 +1,450 @@
+[
+  {
+		"question": "Question 1-04/27/2000 Which ONE of the following is the principal source of energy (heat generation) in the reactor 15 minutes following a reactor shutdown from extended operation at full power?",
+		"type": "multiple_choice",
+		"answers": [{
+				"answer": "a. Production of delayed neutrons.",
+				"correct": false,
+          		"feedback": "Incorrect. REF: PSBR Training Manual, page 2-2"
+			},
+			{
+				"answer": "b. Subcritical multiplication of neutrons.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-2"
+			},
+			{
+				"answer": "c. Spontaneous fission of U-238.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-2"
+			},
+			{
+				"answer": "d. Decay of fission products.",
+				"correct": true,
+              	"feedback": "Correct"
+			}
+		]
+	},
+	{
+		"question": "Question 2-04/27/2000 A reactor with an initial population of 240,000 neutrons is operating with K_eff = 1.001. Considering only the increase in neutron population, how many neutrons (of the increase) will be prompt when the neutron population changes from the current generation to the next? Assume β = 0.007.",
+		"type": "multiple_choice",
+		"answers": [{
+				"answer": "a. 24",
+				"correct": false,
+          		"feedback": "Incorrect. REF: PSBR Training Manual, page 2-16"
+			},
+			{
+				"answer": "b. 238",
+				"correct": true,
+              	"feedback": "Correct"
+			},
+			{
+				"answer": "c. 2,400",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-16"
+			},
+			{
+				"answer": "d. 240,240",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-16"
+			}
+		]
+	},
+	{
+		"question": "Question 3-04/27/2000 During the neutron cycle from one generation to the next, several processes occur that may increase or decrease the available number of neutrons. Which ONE of the following factor describes an INCREASE in the number of neutrons during the cycle.",
+		"type": "multiple_choice",
+		"answers": [{
+				"answer": "a. Thermal utilization factor.",
+				"correct": false,
+          		"feedback": "Incorrect. REF: PSBR Training Manual, page 2-5"
+			},
+			{
+				"answer": "b. Resonance escape probability.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-5"
+			},
+			{
+				"answer": "c. Thermal non-leakage probability.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-5"
+			},
+			{
+				"answer": "d. Fast fission factor.",
+				"correct": true,
+              	"feedback": "Correct"
+			}
+		]
+	},
+	{
+		"question": "Question 4-04/27/2000 As a reactor continues to operate over time, for a constant power level, the average thermal neutron flux: ",
+		"type": "multiple_choice",
+		"answers": [{
+				"answer": "a. decreases, due to the increase in fission product poisons.",
+				"correct": false,
+          		"feedback": "Incorrect. REF: PSBR Training Manual, page 2-28 Reaction Rate = macroscopic cross section x thermal neutron flux. For a constant reaction rate (constant power), as the macroscopic cross section decreases due to fuel burnup, the thermal flux increases."
+			},
+			{
+				"answer": "b. decreases, because fuel is being depleted.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-28 Reaction Rate = macroscopic cross section x thermal neutron flux. For a constant reaction rate (constant power), as the macroscopic cross section decreases due to fuel burnup, the thermal flux increases."
+			},
+			{
+				"answer": "c. increases, in order to compensate for fuel depletion.",
+				"correct": true,
+              	"feedback": "Correct"
+			},
+			{
+				"answer": "d. remains the same.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-28 Reaction Rate = macroscopic cross section x thermal neutron flux. For a constant reaction rate (constant power), as the macroscopic cross section decreases due to fuel burnup, the thermal flux increases."
+			}
+		]
+	},
+	{
+		"question": "Question 5-04/27/2000 Which ONE of the following is the reason for operating with thermal neutrons rather than fast neutrons?",
+		"type": "multiple_choice",
+		"answers": [{
+				"answer": "a. Probability of fission is increased since thermal neutrons are less likely to leak out of the core.",
+				"correct": false,
+          		"feedback": "Incorrect. REF: PSBR Training Manual, page 2-1"
+			},
+			{
+				"answer": "b. As neutron energy increases, neutron absorption in non-fuel materials increases exponentially.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-1"
+			},
+			{
+				"answer": "c. The absorption cross-section of U-235 is much higher for thermal neutrons.",
+				"correct": true,
+              	"feedback": "Correct"
+			},
+			{
+				"answer": "d. The fuel temperature coefficient becomes positive as neutron energy increases.",
+				"correct": false, "feedback": "Incorrect. REF: PSBR Training Manual, page 2-1"
+			}
+		]
+	},
+	{
+		"question": "Question 7-04/27/2000 Which ONE of the following describes the response of the subcritical reactor to equal insertions of positive reactivity as the reactor approaches criticality at low power?",
+		"type": "multiple_choice",
+		"answers": [{
+				"answer": "a. Each reactivity insertion causes a SMALLER increase in the neutron flux, resulting in a LONGER time to stabilize.",
+				"correct": false, "feedback": "Incorrect. REF: PSBR Training Manual, page 2-22"
+			},
+			{
+				"answer": "b. Each reactivity insertion causes a LARGER increase in the neutron flux, resulting in a LONGER time to stabilize.",
+				"correct": true,
+              	"feedback": "Correct"
+			},
+			{
+				"answer": "c. Each reactivity insertion causes a SMALLER increase in the neutron flux, resulting in a SHORTER time to stabilize.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-22"
+			},
+			{
+				"answer": "d. Each reactivity insertion causes a LARGER increase in the neutron flux, resulting in a SHORTER time to stabilize.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-22"
+			}
+		]
+	},
+	{
+		"question": "Question 8-04/27/2000 Which ONE of the following is true concerning the differences between prompt and delayed neutrons?",
+		"type": "multiple_choice",
+		"answers": [{
+				"answer": "a. Prompt neutrons account for less than one percent of the neutron population while delayed neutrons account for approximately ninety-nine percent of the neutron population.",
+				"correct": false,
+          		"feedback": "Incorrect. REF: PSBR Training Manual, page 2-16"
+			},
+			{
+				"answer": "b. Prompt neutrons are released during fast fissions while delayed neutrons are released during thermal fissions.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-16"
+			},
+			{
+				"answer": "c. Prompt neutrons are released during the fission process while delayed neutrons are released during the decay of fission products. ",
+				"correct": true,
+              	"feedback": "Correct"
+			},
+			{
+				"answer": "d. Prompt neutrons are the dominating factor in determining the reactor period while delayed neutrons have little effect on the reactor period.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-16"
+			}
+		]
+	},
+	{
+		"question": "Question 9-04/27/2000 The fuel temperature coefficient of reactivity is -1.25E-4 delta K/K/deg.C. When a control rod with an average rod worth of 0.1% delta K/K/inch is withdrawn 10 inches, reactor power increases and becomes stable at a higher level. At this point, the fuel temperature has:",
+		"type": "multiple_choice",
+		"answers": [{
+				"answer": "a. increased by 80 deg C.",
+				"correct": true, 
+          		"feedback": "Correct"
+			},
+			{
+				"answer": "b. decreased by 80 deg C.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-34"
+			},
+			{
+				"answer": "c. increased by 8 deg C.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-34"
+			},
+			{
+				"answer": "d. decreased by 8 deg C.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-34"
+			}
+		]
+	},
+	{
+		"question": "Question 10-04/27/2000 For U-235, the thermal fission cross-section is 582 barns, and the capture cross-section is 99 barns. When a thermal neutron is absorbed by U-235, the probability that a fission will occur is:",
+		"type": "multiple_choice",
+		"answers": [{
+				"answer": "a. 0.146",
+				"correct": false,
+          		"feedback": "Incorrect. REF: PSBR Training Manual, page 2-6"
+			},
+			{
+				"answer": "b. 0.170",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-6"
+			},
+			{
+				"answer": "c. 0.620",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-6"
+			},
+			{
+				"answer": "d. 0.855",
+				"correct": true,
+              	"feedback": "Correct"
+			}
+		]
+	},
+	{
+		"question": "Question 11-04/27/2000 xxxx",
+		"type": "multiple_choice",
+		"answers": [{
+				"answer": "a. the reactor is subcritical and the count rate increase is due to the buildup of delayed neutron precursors",
+				"correct": false,
+          		"feedback": "Incorrect. REF: PSBR Training Manual, page 2-22a"
+			},
+			{
+				"answer": "b. the reactor is critical and the count rate increase is due to source neutrons",
+				"correct": true,
+              	"feedback": "Correct"
+			},
+			{
+				"answer": "c. the reactor is subcritical and the count rate increase is due to source neutrons",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-22a"
+			},
+			{
+				"answer": "d. the reactor is critical and the count rate increase is due to the buildup of delayed neutron precursors",
+				"correct": false, 
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-22a"
+			}
+		]
+	},
+	{
+		"question": "Question 12-04/27/2000 The major contributor to the production of Xenon-135 in a reactor operating at full power is:",
+		"type": "multiple_choice",
+		"answers": [{
+				"answer": "a. directly from the fission of Uranium-235",
+				"correct": false,
+          		"feedback": "Incorrect. REF: PSBR Training Manual, page 2-28"
+			},
+			{
+				"answer": "b. from the radioactive decay of Iodine",
+				"correct": true,
+              	"feedback": "Correct"
+			},
+			{
+				"answer": "c. from the radioactive decay of Promethium",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-28"
+			},
+			{
+				"answer": "d. directly from the fission of Uranium-238",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-28"
+			}
+		]
+	},
+	{
+		"question": "Question 14-04/27/2000 A reactor is subcritical with a Keff of 0.955. A positive reactivity of 3.5% delta k/k is inserted into the core. At this point, the reactor",
+		"type": "multiple_choice",
+		"answers": [{
+				"answer": "a. supercritical.",
+				"correct": false,
+          		"feedback": "Incorrect. REF: PSBR Training Manual, page 2-14. For K = 0.955, reactivity = (K-1)/K = -4.7% delta k/k. When +3.5% delta k/k is added, the new reactivity will be -4.7% + 3.5% = -1.2%, i.e. subcritical."
+			},
+			{
+				"answer": "b. exactly critical.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-14. For K = 0.955, reactivity = (K-1)/K = -4.7% delta k/k. When +3.5% delta k/k is added, the new reactivity will be -4.7% + 3.5% = -1.2%, i.e. subcritical."
+			},
+			{
+				"answer": "c. prompt critical.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-14. For K = 0.955, reactivity = (K-1)/K = -4.7% delta k/k. When +3.5% delta k/k is added, the new reactivity will be -4.7% + 3.5% = -1.2%, i.e. subcritical."
+			},
+			{
+				"answer": "d. subcritical.",
+				"correct": true,
+              	"feedback": "Correct"
+			}
+		]
+	},
+	{
+		"question": "Question 15-04/27/2000 As moderator temperature increases(zirconium hydride), the resonance escape probability: ",
+		"type": "multiple_choice",
+		"answers": [{
+				"answer": "a. increases, since the moderator becomes less dense.",
+				"correct": false,
+          		"feedback": "Incorrect. REF: PSBR Training Manual, page 2-34."
+			},
+			{
+				"answer": "b. decreases, since the time required for a neutron to reach thermal energy increases.",
+				"correct": true,
+              	"feedback": "Correct"
+			},
+			{
+				"answer": "c. remains constant, since the effect of moderator temperature change is relatively small.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-34."
+			},
+			{
+				"answer": "d. increases, since the moderator - to - fuel ratio increases.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-34."
+			}
+		]
+	},
+	{
+		"question": "Question 16-04/27/2000 A power calibration is to be done on a reactor located in a pool containing 70,000 gallons of water. Pool water flows through a heat exchanger at a rate of 400 gpm, and the temperature drop across the primary side of the heat exchanger is 17 degrees F. Ignoring heat losses to the atmosphere, the power of this reactor is approximately:",
+		"type": "multiple_choice",
+		"answers": [{
+				"answer": "a. 400 kW.",
+				"correct": false,
+          		"feedback": "Incorrect. REF: PSBR Training Manual, page 2-35."
+			},
+			{
+				"answer": "b. 600 kW.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-35."
+			},
+			{
+				"answer": "c. 800 kW.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 2-35."
+			},
+			{
+				"answer": "d. 1000 kW.",
+				"correct": true,
+              	"feedback": "Correct"
+			}
+		]
+	},
+	{
+		"question": "Question 17-04/27/2000 A 1/M curve is being generated as fuel is loaded into a core. After some fuel elements have been loaded, the count rate existing at that time is taken to be the new initial count rate, CRo. Additional elements are then loaded and the inverse count rate ratio continues to decrease. As a result of changing the initial count rate:",
+		"type": "multiple_choice",
+		"answers": [{
+				"answer": "a. criticality will occur with the same number of elements loaded.",
+				"correct": true,
+          		"feedback": "Correct"
+			},
+			{
+				"answer": "b. criticality will occur earlier (i.e. with fewer elements loaded.)",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 8-5."
+			},
+			{
+				"answer": "c. criticality will occur later (i.e. with more elements loaded.)",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 8-5."
+			},
+			{
+				"answer": "d. criticality will be completely unpredictable.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 8-5."
+			}
+		]
+	},
+	{
+		"question": "Question 18-04/27/2000 Inelastic scattering is the process whereby a neutron collides with a nucleus and:",
+		"type": "multiple_choice",
+		"answers": [{
+				"answer": "a. recoils with a lower kinetic energy, with the nucleus emitting a gamma ray.",
+				"correct": true,
+          		"feedback": "Correct"
+			},
+			{
+				"answer": "b. recoils with the same kinetic energy it had prior to the collision.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 1-22."
+			},
+			{
+				"answer": "c. is absorbed by the nucleus, with the nucleus emitting a gamma ray.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 1-22."
+			},
+			{
+				"answer": "d. recoils with a higher kinetic energy, with the nucleus emitting a gamma ray",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 1-22."
+			}
+		]
+	},
+	{
+		"question": "Question 19-04/27/2000 Which ONE of the following elements will slow down fast neutrons least quickly, i.e. produces the smallest energy loss per collision?",
+		"type": "multiple_choice",
+		"answers": [{
+				"answer": "a. Oxygen-16",
+				"correct": false,
+          		"feedback": "Incorrect. REF: PSBR Training Manual, page 8-1."
+			},
+			{
+				"answer": "b. Boron-10",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 8-1."
+			},
+			{
+				"answer": "c. Hydrogen-1",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Training Manual, page 8-1."
+			},
+			{
+				"answer": "d. Uranium-238",
+				"correct": true,
+              	"feedback": "Correct"
+			}
+		]
+	},
+	{
+		"question": "Question 20-04/27/2000 A reactor contains three control rods and a regulating rod. Which ONE of the following would result in a determination of the excess reactivity of this reactor?",
+		"type": "multiple_choice",
+		"answers": [{
+				"answer": "a. The reactor is critical at a low power level, with all control rods full out and the regulating rod at some position. The reactivity remaining in the regulating rod (i.e. its rod worth from its present position to full out) is the excess reactivity.",
+				"correct": true,
+          		"feedback": "Correct"
+			},
+			{
+				"answer": "b. All four rods are full in. The control rods and the regulating rod are withdrawn until the reactor becomes critical. The total rod worth withdrawn is the excess reactivity.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Technical Specifications, 1.1.9."
+			},
+			{
+				"answer": "c. The reactor is at full power. The total rod worth of all rods withdrawn is the excess reactivity.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Technical Specifications, 1.1.9."
+			},
+			{
+				"answer": "d. The reactor is at full power. The total rod worth remaining in all rods (i.e. their rod worths from their present positions to full out) is the excess reactivity.",
+				"correct": false,
+              	"feedback": "Incorrect. REF: PSBR Technical Specifications, 1.1.9."
+			}
+		]
+	}
+]
