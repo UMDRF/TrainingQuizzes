@@ -1,0 +1,419 @@
+[
+    {
+        "question": "Question 1-12/19/2008 If 0.156 % Δk/k of positive reactivity is suddenly introduced into a stable power of 100 W, what will be the steady period that is obtained? Assume the effective prompt neutron lifetime is 10^-4 seconds, the effective delayed neutron decay constant is 0.1 s^-1, and the effective delayed neutron fraction is 0.0078.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 10 seconds",
+            "correct": false,
+            "feedback": "Incorrect. REF: ρ = 0.00156 Δk/k T = (0.0078 – 0.00156)/(0.1*.00156) T = 40 seconds" 
+            },
+            {   "answer": "b. 29 seconds",
+            "correct": false,
+            "feedback": "Incorrect. REF: xxx"
+            },
+            {   "answer": "c. 40 seconds",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. 80 seconds",
+            "correct": false,
+            "feedback": "Incorrect. REF: xxx"
+            }
+        ]
+    },
+    {
+        "question": "Question 2-12/12/2023 Which ONE of the following isotopes has the HIGHEST thermal neutron cross section?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Cd-112",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table2.5, page 2-59." 
+            },
+            {   "answer": "b. Sm-149",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table2.5, page 2-59."
+            },
+            {   "answer": "c. Xe-135",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. U-238",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table2.5, page 2-59."
+            }
+        ]
+    },
+    {
+        "question": "Question 3-12/12/2023 Which ONE of the following is the stable reactor period which will result in a power rise from 1% to 100% power in 1 minute?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 0.2 seconds",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0 e^t/T ––> T= t/Ln(P/ P_0 ) T= 60/Ln(100 ); T = 13 sec." 
+            },
+            {   "answer": "b. 2 seconds",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0 e^t/T ––> T= t/Ln(P/ P_0 ) T= 60/Ln(100 ); T = 13 sec."
+            },
+            {   "answer": "c. 13 seconds",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. 20 seconds",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0 e^t/T ––> T= t/Ln(P/ P_0 ) T= 60/Ln(100 ); T = 13 sec."
+            }
+        ]
+    },
+    {
+        "question": "Question 4-12/12/2023 Which type of neutron interaction (light nuclei) is most important in moderating fast neutrons to thermal neutrons?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Fission",
+            "correct": false,
+            "feedback": "Incorrect. REF: Lamarsh 3rd ed., Section 3.6, page 68-71 Basic Nuclear Engineering 4th ed., Slowing Down of Neutrons, page 226-227" 
+            },
+            {   "answer": "b. Elastic scattering",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Inelastic scattering",
+            "correct": false,
+            "feedback": "Incorrect. REF: Lamarsh 3rd ed., Section 3.6, page 68-71 Basic Nuclear Engineering 4th ed., Slowing Down of Neutrons, page 226-227"
+            },
+            {   "answer": "d. Neutron capture",
+            "correct": false,
+            "feedback": "Incorrect. REF: Lamarsh 3rd ed., Section 3.6, page 68-71 Basic Nuclear Engineering 4th ed., Slowing Down of Neutrons, page 226-227"
+            }
+        ]
+    },
+    {
+        "question": "Question 5-12/12/2023 What is the meaning of any point on a differential rod worth curve?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. The cumulative area under the differential curve starting from the bottom of the core.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burns, R., Introduction to Nuclear Reactor Operations, Example 7.2(b), page 7-4" 
+            },
+            {   "answer": "b. The zero reactivity when the rod is on the bottom and the positive reactivity being added as the rod is withdrawn.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burns, R., Introduction to Nuclear Reactor Operations, Example 7.2(b), page 7-4"
+            },
+            {   "answer": "c. The amount of reactivity that one unit (e.g. one inch, one percent) of rod motion would insert at that position in the core.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. The amount of reactivity that one unit (e.g. one inch, one percent) of rod motion would fully insert to the bottom of the core from that position.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burns, R., Introduction to Nuclear Reactor Operations, Example 7.2(b), page 7-4"
+            }
+        ]
+    },
+    {
+        "question": "Question 6-12/12/2023 The probability of neutron nucleus interaction per centimeter of neutron travel is defined as:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Macroscopic Cross Section",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. Mean free path",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 2.6"
+            },
+            {   "answer": "c. Neutron flux",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 2.6"
+            },
+            {   "answer": "d. Barn",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 2.6"
+            }
+        ]
+    },
+    {
+        "question": "Question 7-12/12/2023 What effect does Doppler Broadening for U-238 have on neutrons in a critical core?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. More fission.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1" 
+            },
+            {   "answer": "b. More absorption.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Increasing the Reproduction factor.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1"
+            },
+            {   "answer": "d. Increasing the resonance escape probability.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1"
+            }
+        ]
+    },
+    {
+        "question": "Question 8-12/12/2023 Which ONE of the following is true regarding the term, “subcritical multiplication”? As the reactor approaches criticality, the parameter ___________.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. k_eff approaches zero",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, Table 5.5" 
+            },
+            {   "answer": "b. 1/M approaches zero",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. M approaches one",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, Table 5.5"
+            },
+            {   "answer": "d. ρ approaches infinity",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, Table 5.5"
+            }
+        ]
+    },
+    {
+        "question": "Question 9-12/12/2023 Which ONE of the following statements is true regarding to Xe-135 poison in the TAMU reactor?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. There are two methods forming Xe-135 poison: by decay of I-135 and decay of Cs-135.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 8.3" 
+            },
+            {   "answer": "b. As Xe-135 is formed in the reactor, the thermal utilization factor will increase.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 8.3"
+            },
+            {   "answer": "c. Xe-135 can be formed directly as a fission product.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. Xe-135 is never reach equilibrium during reactor operation.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 8.3"
+            }
+        ]
+    },
+    {
+        "question": "Question 10-12/12/2023 Which ONE of the following changes will require the control rod INSERTION to maintain constant power level? Assume a reactor is in steady-state mode.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Burn-up Xenon in the core.",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. Insertion of an experiment containing cadmium.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn-up Xe, means adding of a positive reactivity to the core, so you need to insert the control rod to maintain the same power."
+            },
+            {   "answer": "c. Pool water temperature increase.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn-up Xe, means adding of a positive reactivity to the core, so you need to insert the control rod to maintain the same power."
+            },
+            {   "answer": "d. Buildup of Samarium in the core.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn-up Xe, means adding of a positive reactivity to the core, so you need to insert the control rod to maintain the same power."
+            }
+        ]
+    },
+    {
+        "question": "Question 11-12/12/2023 A reactor is subcritical with a shutdown margin of 5.0 % ΔK/K. The addition reactivity worth is added and the count rate increases from 400 count per seconds to 800 count per seconds (cps). The new Keff of the reactor is ________.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 0.535",
+            "correct": false,
+            "feedback": "Incorrect. REF: SDM = (1-Keff)/Keff Keff = 1/(SDM + 1) = 1/(.05 + 1) Keff = 0.95 CR1/CR2 = (1 - Keff2) / (1 - Keff1) 400/800 = (1 - Keff2) / (1 - 0.95) (0.5) x (0.05) = (1 - Keff2) Keff2 = 1 - (0.5)(0.05) = 0.975" 
+            },
+            {   "answer": "b. 0.905",
+            "correct": false,
+            "feedback": "Incorrect. REF: SDM = (1-Keff)/Keff Keff = 1/(SDM + 1) = 1/(.05 + 1) Keff = 0.95 CR1/CR2 = (1 - Keff2) / (1 - Keff1) 400/800 = (1 - Keff2) / (1 - 0.95) (0.5) x (0.05) = (1 - Keff2) Keff2 = 1 - (0.5)(0.05) = 0.975"
+            },
+            {   "answer": "c. 0.975",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. 1.025",
+            "correct": false,
+            "feedback": "Incorrect. REF: SDM = (1-Keff)/Keff Keff = 1/(SDM + 1) = 1/(.05 + 1) Keff = 0.95 CR1/CR2 = (1 - Keff2) / (1 - Keff1) 400/800 = (1 - Keff2) / (1 - 0.95) (0.5) x (0.05) = (1 - Keff2) Keff2 = 1 - (0.5)(0.05) = 0.975"
+            }
+        ]
+    },
+    {
+        "question": "Question 12-12/12/2023 A reactor is in an automatic mode of 500 kW. What will the safety rod do if its boron graphite is replaced with void (air)?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Drive out to compensate a positive reactivity added.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 7.7.6" 
+            },
+            {   "answer": "b. Drive out to compensate a negative reactivity added.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 7.7.6"
+            },
+            {   "answer": "c. Drive in to compensate a positive reactivity added.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. Drive in to compensate a negative reactivity added.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 7.7.6"
+            }
+        ]
+    },
+    {
+        "question": "Question 13-12/12/2023 Delayed neutrons are born at ________ energies than prompt neutrons which leads to the delayed neutron fraction being _______ than the effective delayed neutron fraction.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. lower; lower",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. lower; higher",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.2.4"
+            },
+            {   "answer": "c. higher; lower",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.2.4"
+            },
+            {   "answer": "d. higher; higher",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.2.4"
+            }
+        ]
+    },{
+        "question": "Question 14-12/12/2023 Which ONE of the following factors in the “six factor” formula is the MOST affected by the MODERATOR?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Fast fission factor",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 3.3.1, page 3-16." 
+            },
+            {   "answer": "b. Reproduction factor",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 3.3.1, page 3-16."
+            },
+            {   "answer": "c. Thermal utilization factor",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. Resonance escape probability",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 3.3.1, page 3-16."
+            }
+        ]
+    },
+    {
+        "question": "Question 15-12/12/2023 A reactor contains a neutron source that produces 10,000 neutrons/second with a keff of 0.80. What is the stable total neutron production rate in the reactor?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 20,000 neutrons/sec",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, NPRT, Vol. 2, Module 4, EO 1.2, p 4" 
+            },
+            {   "answer": "b. 50,000 neutrons/sec",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. 80,000 neutrons/sec",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, NPRT, Vol. 2, Module 4, EO 1.2, p 4"
+            },
+            {   "answer": "d. 200,000 neutrons/sec",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, NPRT, Vol. 2, Module 4, EO 1.2, p 4"
+            }
+        ]
+    },
+    {
+        "question": "Question 17-12/12/2023 Reactor is critical at 100 watts. A reactor operator makes a mistake by inserting a sample worth of $1 into the reactor core. Which ONE of the following best describes the reactor kinetic?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. K_eff = 1 and ρ = 0",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2" 
+            },
+            {   "answer": "b. K_eff > 1 and ρ = βeffective",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. K_eff > 1 and ρ = 1 Δk/k",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+            },
+            {   "answer": "d. K_eff > 1 and 0 < ρ < βeffective",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+            }
+        ]
+    },
+    {
+        "question": "Question 18-12/12/2023 Reactor A has a Keff of 0.1 while a reactor B has a Keff of 0.8. If Keff is increased by 0.05 for each reactor. The amount of reactivity added in reactor A is ______ in reactor B for the same amount of increment.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. less than",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21." 
+            },
+            {   "answer": "b. same",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {   "answer": "c. thirty-six times",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {   "answer": "d. forty-five times",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 19-12/12/2023 Which ONE of the following atoms will cause a neutron to lose the most energy in an elastic collision?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. U-238",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.5.3" 
+            },
+            {   "answer": "b. Ar-40",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.5.3"
+            },
+            {   "answer": "c. O-16",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.5.3"
+            },
+            {   "answer": "d. H-1",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 20-12/12/2023 Which ONE of the following is the major source of heat generated after an operating reactor has been shut down and cooled down for several days?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. N-16 production.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, NPRT, Vol. 2 NP-03, page 34" 
+            },
+            {   "answer": "b. Fission fragment decay.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Delayed neutron reactions.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, NPRT, Vol. 2 NP-03, page 34"
+            },
+            {   "answer": "d. Corrosion product activation.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, NPRT, Vol. 2 NP-03, page 34"
+            }
+        ]
+    }
+]

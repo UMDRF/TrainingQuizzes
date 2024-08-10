@@ -1,6 +1,7 @@
 [
     {
             "question": "Question 1-02/23/2017 Which ONE of the following is accurate concerning control rod worth?",
+            "type": "multiple_choice",
         "answers": [
             {   "answer": "a. Doubling the poison content of a rod doubles its worth.",
                 "correct": false,
@@ -22,6 +23,7 @@
     },
     {
             "question": "Question 2-02/23/2017 The reactor is on a CONSTANT positive period. Which ONE of the following power changes will take the longest time to complete?",
+            "type": "multiple_choice",
         "answers": [
             {   "answer": "a. 5%, from 95% to 100%",
                 "correct": false,
@@ -43,6 +45,7 @@
     },
     {
             "question": "Question 3-02/23/2017 After a week of full power operation, Xenon will reach its peak following a shutdown in approximately:",
+            "type": "multiple_choice",
         "answers": [
             {   "answer": "a. 6 hours",
                 "correct": false,
@@ -64,6 +67,7 @@
     },
     {
             "question": "Question 4-02/23/2017 A thermal neutron is a neutron which:",
+            "type": "multiple_choice",
         "answers": [
             {   "answer": "a. is produced as a result of thermal fission.",
                 "correct": false,
@@ -85,6 +89,7 @@
     },
     {
             "question": "Question 5-02/23/2017 Control Rod withdrawal predominantly changes Keff by changing the ...",
+            "type": "multiple_choice",
         "answers": [
             {   "answer": "a. fast fission factor (ε).",
                 "correct": false,
@@ -106,6 +111,7 @@
     },
     {
             "question": "Question 6-02/23/2017 Suppose the temperature coefficient of a core is -2.5 × 10^-4 ∆K/K/C and the average control rod worth of the regulating control rod is 5.895 × 10^-3 ∆K/K/inch. If the temperature INCREASES by 50C what will the automatic control command the regulating rod to do? Select the answer that is closest to the calculated value.",
+            "type": "multiple_choice",
         "answers": [
             {   "answer": "a. 5.6 inches in",
                 "correct": false,
@@ -127,6 +133,7 @@
     },
     {
             "question": "Question 7-02/23/2017 Which one of the following describes how delayed neutrons affect control of the reactor?",
+            "type": "multiple_choice",
         "answers": [
             {   "answer": "a. More delayed neutrons are produced than prompt neutrons resulting in a longer time to reach a stable subcritical countrate.",
                 "correct": false,
@@ -148,6 +155,7 @@
     },
     {
             "question": "Question 8-02/23/2017 You enter the control room and note that all nuclear instrumentation show a steady neutron level, and no rods are in motion. Which ONE of the following conditions CANNOT be true?",
+            "type": "multiple_choice",
         "answers": [
             {   "answer": "a. The reactor is critical.",
                 "correct": false,
@@ -169,6 +177,7 @@
     },
     {
             "question": "Question 10-02/23/2017 Which ONE of the following describes the difference between a moderator and a reflector?",
+            "type": "multiple_choice",
         "answers": [
             {   "answer": "a. A reflector will increase the fast non-leakage factor whereas a moderator increases the thermal utilization factor.",
                 "correct": true,
@@ -190,6 +199,7 @@
     },
     {
             "question": "Question 11-02/23/2017 Two minutes following shutdown, reactor power is at 10 kW and decreases with a constant reactor period. Which ONE of the following is the correct power for three minutes later?",
+            "type": "multiple_choice",
         "answers": [
             {   "answer": "a. 0.5 kW",
                 "correct": false,
@@ -211,6 +221,7 @@
     },
     {
             "question": "Question 13-02/23/2017 Which ONE of the following will be the resulting stable reactor period when a 0.175 % ∆k/k reactivity insertion is made into an exactly critical reactor core? Given β=0.007",
+            "type": "multiple_choice",
         "answers": [
             {   "answer": "a. 18 seconds",
                 "correct": false,
@@ -232,6 +243,7 @@
     },
     {
             "question": "Question 14-02/23/2017 Which ONE of the following isotopes has the highest thermal neutron cross section?",
+            "type": "multiple_choice",
         "answers": [
             {   "answer": "a. B-10",
                 "correct": false,
@@ -253,6 +265,7 @@
     },
     {
             "question": "Question 15-02/23/2017 Which ONE of the following is the MOST affected factor in the six factor formula due to fuel burnup?",
+            "type": "multiple_choice",
         "answers": [
             {   "answer": "a. Fast fission factor.",
                 "correct": false,
@@ -274,6 +287,7 @@
     },
     {
             "question": "Question 16-02/23/2017 The injection of a sample results in a 50 millisecond period. If the scram setpoint is 300 KILOWATTS and the scram delay time is 0.1 seconds, which ONE of the following is the peak power of the reactor at shutdown?",
+            "type": "multiple_choice",
         "answers": [
             {   "answer": "a. 250 kW",
                 "correct": false,
@@ -295,6 +309,7 @@
     },
     {
             "question": "Question 17-02/23/2017 Delayed neutrons comprise approximately what percent of all neutrons produced in the reactor?",
+            "type": "multiple_choice",
         "answers": [
             {   "answer": "a. 0.65%",
                 "correct": true,
@@ -316,6 +331,7 @@
     },
     {
             "question": "Question 18-02/23/2017 Which ONE of the following conditions describes a critical reactor?",
+            "type": "multiple_choice",
         "answers": [
             {   "answer": "a. Keff = 1; ∆k/k (ρ) = 1",
                 "correct": false,

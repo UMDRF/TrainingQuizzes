@@ -1,6 +1,7 @@
 [    
     {
             "question": "Question 2-6/27/2017 The reactor supervisor tells you that the K_eff for the reactor is 0.955. How much reactivity must you add to the reactor to reach criticality?",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. +0.0471",
                 "correct": true,
@@ -22,6 +23,7 @@
     },
     {
             "question": "Question 3-6/27/2017 When performing rod calibrations, many facilities pull the rod out a given increment, then measure the time for reactor power to double (doubling time), then calculate the reactor period. If the doubling time is 42 seconds, what is the reactor period?",
+       "type": "multiple_choice",
         "answers": [
             {   "answer": "a. 29 sec",
                 "correct": false,
@@ -43,6 +45,7 @@
     },
     {
             "question": "Question 4-6/27/2017 A reactor has a shutdown margin of 0.0526 ∆K/K. Adding a reactor experiment increases the indicated count rate from 10 cps to 20 cps. Which one of the following is the new Keff of the reactor?",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. 0.53",
                 "correct": false,
@@ -64,6 +67,7 @@
     },
     {
             "question": "Question 6-6/27/2017 WHICH ONE of the following describes the MAJOR contributions to the production and depletion of xenon in the reactor?",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. Produced directly from fission and depletes by neutron absorption only.",
                 "correct": false,
@@ -85,6 +89,7 @@
     },
     {
             "question": "Question 7-6/27/2017 The probability of neutron interaction per cm of travel in a material is defined as:",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. a neutron flux.",
                 "correct": false,
@@ -106,6 +111,7 @@
     },
     {
             "question": "Question 8-6/27/2017 Which ONE of the following conditions would INCREASE the shutdown margin of a reactor?",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. Lowering moderator temperature if the moderator temperature coefficient is negative.",
                 "correct": false,
@@ -127,6 +133,7 @@
     },
     {
             "question": "Question 9-6/27/2017 Which one of the following is the PRIMARY reason that delayed neutrons are so effective at controlling reactor power?",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. Delayed neutrons make up a very large fraction of the fission neutrons in the core.",
                 "correct": false,
@@ -148,6 +155,7 @@
     },
     {
             "question": "Question 10-6/27/2017 Which one of the following is a correct statement concerning the factors affecting control rod worth?",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. As reactor power increases rod worth increases.",
                 "correct": false,
@@ -169,6 +177,7 @@
     },
     {
             "question": "Question 11-6/27/2017 Pool temperature increases by 20°F. Given αT moderator = -0.0005 ∆K/K/°F and an average regulating rod worth of 0.004 ∆K/K/inch. By how much and in what direction did the regulating rod move to compensate for the temperature change?",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. 0.25 inches in",
                 "correct": false,
@@ -190,6 +199,7 @@
     },
     {
             "question": "Question 12-6/27/2017 You perform two startups with exactly the same core characteristics. During the first startup you proceed straight to criticality. During the second startup you receive a phone call after starting to pull rods, but before reaching criticality. How will this increase in time before reaching criticality affect reactor critical conditions? For the second startup",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. rod height will be the same, reactor power will be the same.",
                 "correct": false,
@@ -211,6 +221,7 @@
     },
     {
             "question": "Question 13-6/27/2017 A reactor is subcritical with a Keff of 0.955. Which ONE of the following is the MINIMUM reactivity (K/K) that must be added to produce prompt criticality? Given βeff=0.007",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. 0.007",
                 "correct": false,
@@ -232,6 +243,7 @@
     },
     {
             "question": "Question 14-6/27/2017 The ratio of the number of neutrons in one generation to the number of neutrons in the previous generation defines the:",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. fast fission factor.",
                 "correct": false,
@@ -253,6 +265,7 @@
     },
     {
             "question": "Question 15-6/27/2017 Which ONE of the following does NOT affect the Effective Multiplication Factor K_eff?",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. The moderator-to-fuel ratio.",
                 "correct": false,
@@ -274,6 +287,7 @@
     },
     {
             "question": "Question 17-6/27/2017 You’ve just increased power at a research reactor. As a result fuel temperature increased from 100°C to 120°C. For this reactor the fuel temperature coefficient (αtf) is -0.01% k/k/°C, and the average rod worth for the regulating rod is 0.05% )k/k/inch. How far and in what direction must you move the regulating rod to compensate? (Assume all other factors which could affect reactivity remain unchanged.)",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. 2 inches inward",
                 "correct": false,
@@ -295,6 +309,7 @@
     },
     {
             "question": "Question 18-6/27/2017 Several processes occur that may increase or decrease the available number of neutrons. SELECT from the following the six-factor formula term that describes an INCREASE in the number of neutrons during the cycle.",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. Thermal utilization factor (f).",
                 "correct": false,
@@ -316,6 +331,7 @@
     },
     {
             "question": "Question 19-6/27/2017 Which of the following atoms will cause a neutron to lose the most energy during an elastic scattering reaction?",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. O^16",
                 "correct": false,
@@ -337,6 +353,7 @@
     },
     {
             "question": "Question 20-6/27/2017 A reactor is operating at a constant power level with equilibrium xenon. Reactor power is then doubled. The equilibrium xenon level at the higher power level will be:",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. higher than its value at the lower power level, but not twice as high.",
                 "correct": true,

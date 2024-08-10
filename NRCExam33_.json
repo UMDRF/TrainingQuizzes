@@ -1,6 +1,7 @@
 [
     {
             "question": "Question 2-02/22/2001 You enter the control room and note that all nuclear instrumentation show a steady neutron level, and no rods are in motion. Which ONE of the following conditions CANNOT be true?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. The reactor is critical.",
                 "correct": false,
@@ -22,6 +23,7 @@
     },
     {
             "question": "Question 3-02/22/2001 Which ONE of the following describes the MAJOR contributor to the production and depletion of Xenon respectively in a STEADY-STATE OPERATING reactor? First is production, second is depletion.",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Radioactive decay of Iodine, Radioactive Decay",
                 "correct": false,
@@ -43,6 +45,7 @@
     },
     {
             "question": "Question 4-02/22/2001 Most text books list T for a U^235 fueled reactor as 0.65% delta k/k. However, your SAR lists T_eff as being 0.7% delta k/k. Why is T_eff larger than T?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Delayed neutrons are born at higher energies than prompt neutrons resulting in a greater worth for these neutrons.",
                 "correct": false,
@@ -64,6 +67,7 @@
     },
     {
             "question": "Question 5-02/22/2001 Which ONE of the following is an example of alpha decay?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. _35Br^87 -> _33As^83",
                 "correct": true,
@@ -85,6 +89,7 @@
     },
     {
             "question": "Question 7-02/22/2001 Several processes occur that may increase or decrease the available number of neutrons. SELECT from the following the six-factor formula term that describes an INCREASE in the number of neutrons during the cycle.",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Thermal utilization factor (f).",
                 "correct": false,
@@ -106,6 +111,7 @@
     },
     {
             "question": "Question 8-02/22/2001 Which ONE of the following atoms will cause a neutron to lose the most energy in an elastic collision?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Uranium^238",
                 "correct": false,
@@ -127,6 +133,7 @@
     },
     {
             "question": "Question 9-02/22/2001 The reactor supervisor tells you the Keff for the reactor is 0.98. After placing an experiment worth into the core, count rate increases from 50 cpm to 55 cpm. What is the worth of the experiment?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. +0.085% delta k/k",
                 "correct": false,
@@ -148,6 +155,7 @@
     },
     {
             "question": "Question 10-02/22/2001 About two minutes following a reactor scram, period has stabilized, and is decreasing at a CONSTANT rate. If reactor power is 10^-5% full power what will the power be in three minutes.",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. 5 × 10^-6% full power",
                 "correct": false,
@@ -169,6 +177,7 @@
     },
     {
             "question": "Question 11-02/22/2001 Core excess reactivity changes with...",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Fuel burnup",
                 "correct": true,
@@ -190,6 +199,7 @@
     },
     {
             "question": "Question 12-02/22/2001 INELASTIC SCATTERING is the process by which a neutron collides with a nucleus and ...",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. recoils with the same kinetic energy it had prior to the collision.",
                 "correct": false,
@@ -211,6 +221,7 @@
     },
     {
             "question": "Question 13-02/22/2001 The neutron microscopic cross-section for absorption T_a generally ...",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. increases as neutron energy increases",
                 "correct": false,
@@ -232,6 +243,7 @@
     },
     {
             "question": "Question 14-02/22/2001 Which one of the following is the definition of the FAST FISSION FACTOR?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. The ratio of the number of neutrons produced by fast fission to the number produced by thermal fission",
                 "correct": false,
@@ -253,6 +265,7 @@
     },
     {
             "question": "Question 15-02/22/2001 Given the following: T_excess – 0.50% delta k/k, control rod 1 – 0.25% delta k/k, control rod 2 – 0.45% delta k/k, control rod 3 – 0.55% delta k/k, Calculate the TECHNICAL SPECIFICATION LIMIT for Shut Down Margin for this core.",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. 0.20% delta k/k",
                 "correct": true,
@@ -274,6 +287,7 @@
     },
     {
             "question": "Question 16-02/22/2001 Reactor Power increases from 15 watts to 65 watts in 30 seconds. The period of the reactor is:",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. 6.9 seconds",
                 "correct": false,
@@ -295,6 +309,7 @@
     },
     {
             "question": "Question 17-02/22/2001 WHICH ONE of the following is the MAJOR source of energy released during fission?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Kinetic energy of the fission neutrons.",
                 "correct": false,
@@ -316,6 +331,7 @@
     },
     {
             "question": "Question 18-02/22/2001 The number of neutrons passing through a unit surface area per unit time is the definition of which one of the following?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Neutron Population (np)",
                 "correct": false,
@@ -337,6 +353,7 @@
     },
     {
             "question": "Question 19-02/22/2001 Which ONE of the following is the correct reason that delayed neutrons enhance control of the reactor?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. There are more delayed neutrons than prompt neutrons.",
                 "correct": false,

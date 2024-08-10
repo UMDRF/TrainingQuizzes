@@ -1,0 +1,419 @@
+[
+    {
+        "question": "Question 1-08/29/2023 The reactor is operating at 100 W with a fuel temperature of 60 °F. When a control rod with an average rod worth of 0.2% delta k/k/inch is withdrawn by 2 inches, reactor power increases and becomes stable at a higher level. What is the final fuel temperature? Given the fuel temperature coefficient of reactivity of -1.25 E-4 ∆ k/k/ °F. Given: Fuel temperature change * fuel temperature coefficient = - reactivity of rod",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 32 °F",
+            "correct": false,
+            "feedback": "Incorrect. REF: Reactivity added by control rod = +(0.002 Δk/k/inch)((2 inches) = 0.004 ∆ k/k Fuel temperature change = - reactivity of rod/fuel temperature coefficient. (- 0.004 ∆ k/k)/(- 1.25E-4 ∆ k/k/°F) = 32 °F Final Fuel temperature = 60 °F +32 °F = 92 °F" 
+            },
+            {   "answer": "b. 28 °F",
+            "correct": false,
+            "feedback": "Incorrect. REF: Reactivity added by control rod = +(0.002 Δk/k/inch)((2 inches) = 0.004 ∆ k/k Fuel temperature change = - reactivity of rod/fuel temperature coefficient. (- 0.004 ∆ k/k)/(- 1.25E-4 ∆ k/k/°F) = 32 °F Final Fuel temperature = 60 °F +32 °F = 92 °F"
+            },
+            {   "answer": "c. 88 °F",
+            "correct": false,
+            "feedback": "Incorrect. REF: Reactivity added by control rod = +(0.002 Δk/k/inch)((2 inches) = 0.004 ∆ k/k Fuel temperature change = - reactivity of rod/fuel temperature coefficient. (- 0.004 ∆ k/k)/(- 1.25E-4 ∆ k/k/°F) = 32 °F Final Fuel temperature = 60 °F +32 °F = 92 °F"
+            },
+            {   "answer": "d. 92 °F",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 2-08/29/2023 Which ONE of the following is the correct reason why a reactor gets a negative 80-second period following a reactor scram?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. The interaction between U235 and the neutron source during reactor scram.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.5" 
+            },
+            {   "answer": "b. The fuel temperature coefficient adds positive reactivity because of the decrease in moderator temperature following a scram.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.5"
+            },
+            {   "answer": "c. The rate of power change is dependent on a mean lifetime of the longest-lived delayed neutron precursors.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. The rate of power change is dependent on a mean lifetime of the short-lived delayed neutron precursors.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.5"
+            }
+        ]
+    },
+    {
+        "question": "Question 3-08/29/2023 What is the meaning of any point on a differential rod worth curve?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. The amount of reactivity added to the core when withdrawing the control rod at that position in the core.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burns, R., Introduction to Nuclear Reactor Operations, Example 7.2(b), page 7-4" 
+            },
+            {   "answer": "b. The zero reactivity when the rod is on the bottom and the positive reactivity being added as the rod is withdrawn.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burns, R., Introduction to Nuclear Reactor Operations, Example 7.2(b), page 7-4"
+            },
+            {   "answer": "c. The cumulative area under the differential curve starting from the bottom of the core.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burns, R., Introduction to Nuclear Reactor Operations, Example 7.2(b), page 7-4 Burns, R., Introduction to Nuclear Reactor Operations, Example 7.2(b), page 7-4"
+            },
+            {   "answer": "d. The amount of reactivity that one unit (e.g. one inch, one percent) of rod motion would insert at that position in the core.",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 4-08/29/2023 What is the reactor period if the reactor power is increasing by a factor of 5 every 2 minutes?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 80 seconds",
+            "correct": false,
+            "feedback": "Incorrect. REF: P=Pₒ x eᵗ/τ, P/Po = eᵗ/τ = 10, T = 120 sec/ln (5) = 75 sec." 
+            },
+            {   "answer": "b. 75 seconds",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. 12 seconds",
+            "correct": false,
+            "feedback": "Incorrect. REF: P=Pₒ x eᵗ/τ, P/Po = eᵗ/τ = 10, T = 120 sec/ln (5) = 75 sec."
+            },
+            {   "answer": "d. 1.2 seconds",
+            "correct": false,
+            "feedback": "Incorrect. REF: P=Pₒ x eᵗ/τ, P/Po = eᵗ/τ = 10, T = 120 sec/ln (5) = 75 sec."
+            }
+        ]
+    },
+    {
+        "question": "Question 5-08/29/2023 Which ONE of the following directly produces 95% of all Xenon in a nuclear reactor?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Fission products of U-235",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 3, Page 35" 
+            },
+            {   "answer": "b. Decay of Sm-149",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 3, Page 35"
+            },
+            {   "answer": "c. Decay of I-135",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. Decay of Cs-135",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 3, Page 35"
+            }
+        ]
+    },
+    {
+        "question": "Question 6-08/29/2023 To thermalize neutrons in the MURR reactor core, which ONE of the following materials is mainly used? ",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Fissile material",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 1, Module 2, page 23" 
+            },
+            {   "answer": "b. Reflection material",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 1, Module 2, page 23"
+            },
+            {   "answer": "c. Absorption material",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 1, Module 2, page 23"
+            },
+            {   "answer": "d. Moderator material",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 7-08/29/2023 The Uranium-238 nucleus (_92U^238) has a number of neutrons of _____.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 92",
+            "correct": false,
+            "feedback": "Incorrect. REF: Chart of Nuclides DOE Fundamentals of Reactor Theory, Vol. 1, page 11." 
+            },
+            {   "answer": "b. 143",
+            "correct": false,
+            "feedback": "Incorrect. REF: Chart of Nuclides DOE Fundamentals of Reactor Theory, Vol. 1, page 11."
+            },
+            {   "answer": "c. 146",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. 238",
+            "correct": false,
+            "feedback": "Incorrect. REF: Chart of Nuclides DOE Fundamentals of Reactor Theory, Vol. 1, page 11."
+            }
+        ]
+    },{
+        "question": "Question 8-08/29/2023 A reactor is subcritical with a Keff of 0.945. A positive reactivity of 0.055 ∆k/k is inserted into the core, which ONE of the following best describes the reactor kinetics? ",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. The reactor is prompt critical.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 3.3.4, page 3-21." 
+            },
+            {   "answer": "b. The reactor is super-critical.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 3.3.4, page 3-21."
+            },
+            {   "answer": "c. The reactor is critical.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 3.3.4, page 3-21."
+            },
+            {   "answer": "d. The reactor is sub-critical",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 9-08/29/2023 Giving a Reactor A with a Keff of 0.1 and a Reactor B with a Keff of 0.8, if a Keff is increased by 0.15 for each reactor (Keff of Reactor A = 0.25 and B=0.95), the amount of reactivity added in Reactor A is ______ in Reactor B for the same increment of 0.15.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. less than",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21." 
+            },
+            {   "answer": "b. same",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {   "answer": "c. four times",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {   "answer": "d. thirty times",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 10-08/29/2023 Which ONE of the following is the major source of heat generated after an operating reactor has been shut down and cooled down for several days?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Resonance capture.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, NPRT, Vol. 2 NP-03, page 34" 
+            },
+            {   "answer": "b. Fission fragment decay.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Delayed neutron reactions.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, NPRT, Vol. 2 NP-03, page 34"
+            },
+            {   "answer": "d. Corrosion product activation.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, NPRT, Vol. 2 NP-03, page 34"
+            }
+        ]
+    },
+    {
+        "question": "Question 11-08/29/2023 A multiplication factor during a fuel loading is 0.8, which produces the stable neutron count rate of 5000 neutrons per second (N/sec). A source strength is:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 100 N/sec",
+            "correct": false,
+            "feedback": "Incorrect. REF: CR = S/(1-0.8) → S = 5000*(1 – 0.8)  S = 1000 N/sec" 
+            },
+            {   "answer": "b. 400 N/sec",
+            "correct": false,
+            "feedback": "Incorrect. REF: CR = S/(1-0.8) → S = 5000*(1 – 0.8)  S = 1000 N/sec"
+            },
+            {   "answer": "c. 1000 N/sec",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. 4000 N/sec",
+            "correct": false,
+            "feedback": "Incorrect. REF: CR = S/(1-0.8) → S = 5000*(1 – 0.8)  S = 1000 N/sec"
+            }
+        ]
+    },
+ {
+        "question": "Question 12-08/29/2023 Which ONE of the following conditions would DECREASE the shutdown margin of a reactor?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. A major loss of primary coolant system.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 6.2.3, page 6-4." 
+            },
+            {   "answer": "b. Loading a fresh fuel to the reactor core.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Inserting a poison material experiment to the reactor core.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 6.2.3, page 6-4."
+            },
+            {   "answer": "d. Increasing moderator temperature if the moderator temperature coefficient is negative.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 6.2.3, page 6-4."
+            }
+        ]
+    },
+    {
+        "question": "Question 13-08/29/2023 The Reactor is critical at 100 watts. A reactor operator makes a mistake by inserting a sample worth of 1 Δk/k into the reactor core. Which ONE of the following best describes the reactor kinetic?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. K_eff = 1 and ρ = 1 Δk/k",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2" 
+            },
+            {   "answer": "b. K_eff > 1 and ρ = β-eff",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+            },
+            {   "answer": "c. K_eff > 1 and ρ > β-eff",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. K_eff > 1 and 0 < ρ < β-eff",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+            }
+        ]
+    },
+    {
+        "question": "Question 14-08/29/2023 Which ONE of the following is the stable reactor period which will result in a power rise from 15% to 50% power in 6 seconds?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 2 seconds",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0 e^t/T ––> T= t/Ln(P/ P_0) T= 6/Ln(50/15); T = 4.98 sec." 
+            },
+            {   "answer": "b. 5 seconds",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. 7 seconds",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0 e^t/T ––> T= t/Ln(P/ P_0) T= 6/Ln(50/15); T = 4.98 sec."
+            },
+            {   "answer": "d. 13 second",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0 e^t/T ––> T= t/Ln(P/ P_0) T= 6/Ln(50/15); T = 4.98 sec."
+            }
+        ]
+    },
+    {
+        "question": "Question 15-08/29/2023 The neutron count rate is 1000 cps. A staff inserts an experiment into the core, and the count rate decreases to 600 cps. Given the initial Keff of the reactor was 0.92, what is the worth of the experiment?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Δρ = + 0.02",
+            "correct": false,
+            "feedback": "Incorrect. REF: CR_1 / CR_2 = (1 – K_eff2) / (1 – K_eff1) 1000 / 600 = (1 – K_eff2) / (1 – 0.92) Therefore K_eff2 = 0.867 Δρ = (K_eff2 – K_eff1) / (K_eff2 * K_eff1) Δρ = (0.867 – 0.92) / (0.867 * 0.92) Δρ = - 0.0664" 
+            },
+            {   "answer": "b. Δρ = - 0.02",
+            "correct": false,
+            "feedback": "Incorrect. REF: CR_1 / CR_2 = (1 – K_eff2) / (1 – K_eff1) 1000 / 600 = (1 – K_eff2) / (1 – 0.92) Therefore K_eff2 = 0.867 Δρ = (K_eff2 – K_eff1) / (K_eff2 * K_eff1) Δρ = (0.867 – 0.92) / (0.867 * 0.92) Δρ = - 0.0664"
+            },
+            {   "answer": "c. Δρ = - 0.07",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. Δρ = + 0.07",
+            "correct": false,
+            "feedback": "Incorrect. REF: CR_1 / CR_2 = (1 – K_eff2) / (1 – K_eff1) 1000 / 600 = (1 – K_eff2) / (1 – 0.92) Therefore K_eff2 = 0.867 Δρ = (K_eff2 – K_eff1) / (K_eff2 * K_eff1) Δρ = (0.867 – 0.92) / (0.867 * 0.92) Δρ = - 0.0664"
+            }
+        ]
+    },
+    {
+        "question": "Question 16-08/29/2023 All atoms of a given element have the same _______.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Atomic Mass",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook, Vol. 1, Mode 1, page 4" 
+            },
+            {   "answer": "b. Mass Number",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook, Vol. 1, Mode 1, page 4"
+            },
+            {   "answer": "c. Atomic Number",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. Number of Neutrons",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook, Vol. 1, Mode 1, page 4"
+            }
+        ]
+    },
+    {
+        "question": "Question 18-08/29/2023 Reactor #1 increases power from 10% to 20% with a period of 25 seconds. Reactor # 2 increases power from 80% to 100% with a same period of 25 seconds. Compared to Reactor #1, the time required for the power increase of Reactor #2 is:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. longer than #1",
+            "correct": false,
+            "feedback": "Incorrect. REF: The power of reactor #1 increases by a factor of 2, while the power of reactor #2 increases by a factor of 1.25. Since the periods are the same (rate of change is the same), power increase #2 takes a shorter time." 
+            },
+            {   "answer": "b. exactly the same as #1",
+            "correct": false,
+            "feedback": "Incorrect. REF: The power of reactor #1 increases by a factor of 2, while the power of reactor #2 increases by a factor of 1.25. Since the periods are the same (rate of change is the same), power increase #2 takes a shorter time."
+            },
+            {   "answer": "c. twice that of #1",
+            "correct": false,
+            "feedback": "Incorrect. REF: The power of reactor #1 increases by a factor of 2, while the power of reactor #2 increases by a factor of 1.25. Since the periods are the same (rate of change is the same), power increase #2 takes a shorter time."
+            },
+            {   "answer": "d. shorter than #1",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 19-08/29/2023 Which ONE of the following is a true statement regarding the “subcritical multiplication”? As the reactor approaches criticality, the parameter:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a.  k_eff approaches zero.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, Table 5.5" 
+            },
+            {   "answer": "b. ρ approaches infinity.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, Table 5.5"
+            },
+            {   "answer": "c. M approaches one.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, 1988, Table 5.5"
+            },
+            {   "answer": "d. 1/M approaches zero.",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 20-08/29/2023 For the fast energy range, 100 KeV – 10 MeV, the absorption cross section steadily decreases as the energy of the neutron increases. This region is called:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Slow neutron region.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 1, Module 2, 3rd paragraph, page 10" 
+            },
+            {   "answer": "b. Fast neutron region.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Increases the mass of the target region.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 1, Module 2, 3rd paragraph, page 10"
+            },
+            {   "answer": "d. Destruction the mass of the target region.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 1, Module 2, 3rd paragraph, page 10"
+            }
+        ]
+    }
+]

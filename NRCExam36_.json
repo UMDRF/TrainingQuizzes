@@ -1,6 +1,7 @@
 [
     {
             "question": "Question 1-05/10/2004 When a reactor is prompt critical, the neutron multiplication rate is determined by:",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. the generation time of prompt neutrons only.",
                 "correct": true,
@@ -22,6 +23,7 @@
     },
     {
             "question": "Question 2-05/10/2004 When a reactor is scrammed, the xenon population starts to increase. This occurs primarily because:",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. delayed neutrons are continuing to be produced and cause fissions, resulting in xenon production.",
                 "correct": false,
@@ -43,6 +45,7 @@
     },
     {
             "question": "Question 3-05/10/2004 A reactor is operating at criticality. Instantaneously, all of the delayed neutrons are suddenly removed from the reactor. The Keff of the reactor in this state would be approximately:",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. 1.007",
                 "correct": false,
@@ -64,6 +67,7 @@
     },
     {
             "question": "Question 4-05/10/2004 The Inhour Equation relates reactivity insertion, ρ, to reactor period, T. Reactivity insertion A is +0.001 delta k/k, and reactivity insertion B is -0.001 delta k/k (i.e., the same magnitude.) The absolute value of the period will be:",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. smaller for A.",
                 "correct": true,
@@ -85,6 +89,7 @@
     },
     {
             "question": "Question 5-05/10/2004 Elastic Scattering is the process whereby a neutron collides with a nucleus and:",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. recoils with the same kinetic energy it had prior to the collision.",
                 "correct": true,
@@ -106,6 +111,7 @@
     },
     {
             "question": "Question 6-05/10/2004 You enter the control room and observe that the neutron instrumentation indicates a steady neutron level with no rods in motion. Which ONE condition below CANNOT be true?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. The reactor is critical.",
                 "correct": false,
@@ -127,6 +133,7 @@
     },
     {
             "question": "Question 7-05/10/2004 Neutrons released by fission are called fast neutrons because they:",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. appear immediately following the fission.",
                 "correct": false,
@@ -148,6 +155,7 @@
     },
     {
             "question": "Question 8-05/10/2004 Which ONE of the following is the reason for operating with thermal neutrons rather than fast neutrons?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Probability of fission is increased since thermal neutrons are less likely to leak out of the core.",
                 "correct": false,
@@ -169,6 +177,7 @@
     },
     {
             "question": "Question 9-05/10/2004 During fuel loading, which ONE of the following will have NO effect on the shape of the 1/C plot?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. The order of fuel placement.",
                 "correct": false,
@@ -190,6 +199,7 @@
     },
     {
             "question": "Question 10-05/10/2004 A reactor is slightly supercritical, with the thermal utilization factor = 0.700. A control rod is inserted to bring the reactor back to critical. Assuming all other factors remain unchanged, the new value for the thermal utilization factor is:",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. 0.698",
                 "correct": true,
@@ -211,6 +221,7 @@
     },
     {
             "question": "Question 11-05/10/2004 A reactor is operating at a constant power level of 100 kW. The fission rate of this reactor is approximately:",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. 1.562x10^15 fissions/sec.",
                 "correct": false,
@@ -232,6 +243,7 @@
     },
     {
             "question": "Question 12-05/10/2004 Delayed neutron precursors decay by beta(-) decay. Which ONE reaction below is an example of beta(-) decay?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. _35Br^87 -> _36Kr^87",
                 "correct": true,
@@ -253,6 +265,7 @@
     },
     {
             "question": "Question 13-05/10/2004 A reactor is subcritical by 5% delta k/k with a count rate of 100 cps on the startup channel. Rods are withdrawn until the count rate is 1000 cps. Which ONE of the following is the condition of the reactor following the rod withdrawal?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Critical with keff = 1.000.",
                 "correct": false,
@@ -274,6 +287,7 @@
     },
     {
             "question": "Question 14-05/10/2004 Reactivity may defined as a measure of the:",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. number of neutrons being produced in the core.",
                 "correct": false,
@@ -295,6 +309,7 @@
     },
     {
             "question": "Question 15-05/10/2004 Which ONE of the following describes the characteristics of a good moderator?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Low scattering cross section and high absorption cross section.",
                 "correct": false,
@@ -316,6 +331,7 @@
     },
     {
             "question": "Question 16-05/10/2004 Which ONE of the following is the major source of energy released during fission?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Prompt gamma rays.",
                 "correct": false,
@@ -337,6 +353,7 @@
     },
     {
             "question": "Question 17-05/10/2004 Which ONE of the reactions below is an example of a photoneutron source?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. _51Sb^123 + n -> _51Sb^124 + γ",
                 "correct": false,
@@ -358,6 +375,7 @@
     },
     {
             "question": "Question 18-05/10/2004 A reactivity coefficient describes how much reactivity is inserted when some physical parameter (temperature, pressure, void, etc.) is changed. A positive reactivity coefficient results when:",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. positive reactivity is inserted when the physical parameter decreases.",
                 "correct": false,
@@ -379,6 +397,7 @@
     },
     {
             "question": "Question 19-05/10/2004 When the reactor is scrammed from full power, what is the main contributor to the constant -80 second period that results?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. The amount of negative reactivity introduced into the core.",
                 "correct": false,

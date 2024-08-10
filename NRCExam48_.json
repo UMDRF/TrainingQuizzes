@@ -1,0 +1,396 @@
+[
+    {
+        "question": "Question 1-12/21/2023 Which ONE of the following is defined as the balance between production of neutrons and their absorption in the core for which core leakage can be neglected?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Infinite Multiplication Factor.",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. Effective Multiplication Factor.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 3, p. 2"
+            },
+            {   "answer": "c. Utilization Factor.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 3, p. 2"
+            },
+            {   "answer": "d. Reproduction Factor.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 3, p. 2"
+            }
+        ]
+    },
+    {
+        "question": "Question 2-12/21/2023 A fast neutron will lose the most energy in a collision with which ONE of the following atoms?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. U^238",
+            "correct": false,
+            "feedback": "Incorrect. REF: NRC standard question" 
+            },
+            {   "answer": "b. C^12",
+            "correct": false,
+            "feedback": "Incorrect. REF: NRC standard question"
+            },
+            {   "answer": "c. H^2",
+            "correct": false,
+            "feedback": "Incorrect. REF: NRC standard question"
+            },
+            {   "answer": "d. H^1",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 4-12/21/2023 A subcritical reactor, keff is increased from 0.876 to 0.914. Which ONE of the following is the amount of reactivity that was added to the core?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 3.64% ∆k/k",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 3.3.4, page 3-20&21" 
+            },
+            {   "answer": "b. 4.75% ∆k/k",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. 5.21% ∆k/k",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 3.3.4, page 3-20&21"
+            },
+            {   "answer": "d. 6.74% ∆k/k",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 3.3.4, page 3-20&21"
+            }
+        ]
+    },
+    {
+        "question": "Question 6-12/21/2023 The primary purpose of the ____________ material is thermalizing neutrons.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Moderator",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. Reflector",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 2, page 23"
+            },
+            {   "answer": "c. Absorber",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 2, page 23"
+            },
+            {   "answer": "d. Deflector",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 2, page 23"
+            }
+        ]
+    },
+    {
+        "question": "Question 7-12/21/2023 Which ONE of the following is an example of a FISSILE material?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Thorium-232",
+            "correct": false,
+            "feedback": "Incorrect. REF: NRC Glossary, Fertile material, Fissionable material, Fissile material" 
+            },
+            {   "answer": "b. Uranium-233",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Uranium-238",
+            "correct": false,
+            "feedback": "Incorrect. REF: NRC Glossary, Fertile material, Fissionable material, Fissile material"
+            },
+            {   "answer": "d. Plutonium-240",
+            "correct": false,
+            "feedback": "Incorrect. REF: NRC Glossary, Fertile material, Fissionable material, Fissile material"
+            }
+        ]
+    },
+    {
+        "question": "Question 8-12/21/2023 Given the thermal neutron flux (Ø) is 1.0 × 10^13 neutrons/cm2/second, and the macroscopic cross-section (Σ_f) for fission is 0.1 cm^-1. The fission rate is:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 1.0 × 10^12 fissions/cm/second",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.6.2" 
+            },
+            {   "answer": "b. 1.0 × 10^14 fissions /cm/second",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.6.2"
+            },
+            {   "answer": "c. 1.0 × 10^12 fissions/cm3/second",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. 1.0 × 10^14 fissions/cm3/second",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.6.2"
+            }
+        ]
+    },
+    {
+        "question": "Question 9-12/21/2023 Given a reactor period of 17 seconds, how long will it take for reactor power to quadruple?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 15.23",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0 e^t/T 4 = 1^t/17s ln(4) = ln(t/17s) 1.386 = t/17s  t = (1.386)*17s t = 23.57 seconds" 
+            },
+            {   "answer": "b. 19.06",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0 e^t/T 4 = 1^t/17s ln(4) = ln(t/17s) 1.386 = t/17s  t = (1.386)*17s t = 23.57 seconds"
+            },
+            {   "answer": "c. 23.57",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. 30.44",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0 e^t/T 4 = 1^t/17s ln(4) = ln(t/17s) 1.386 = t/17s  t = (1.386)*17s t = 23.57 seconds"
+            }
+        ]
+    },
+    {
+        "question": "Question 10-12/21/2023 Delayed neutrons contribute more to reactor stability than prompt neutrons because they are born at a ____________ kinetic energy and ____________ the average neutron generation time.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. lower; decrease",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 3.3.2, page 3-18." 
+            },
+            {   "answer": "b. higher; decrease",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 3.3.2, page 3-18."
+            },
+            {   "answer": "c. higher; increase",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 3.3.2, page 3-18."
+            },
+            {   "answer": "d. lower; increase",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },{
+        "question": "Question 11-12/21/2023 All of the following factors in the six-factor formula are affected by the enrichment of U-235 in the fuel EXCEPT:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Fast Fission Factor",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. Thermal Utilization Factor",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 3, p. 3-16"
+            },
+            {   "answer": "c. Reproduction Factor",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 3, p. 3-16"
+            },
+            {   "answer": "d. Resonance Escape Probability",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 3, p. 3-16"
+            }
+        ]
+    },
+    {
+        "question": "Question 12-12/21/2023 Following a reactor scram from 15.6 MW on a light water reactor, the reactor period has stabilized and power level is decreasing at a constant rate. What is the reactor power six minutes following the scram?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 1.26 MW",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0 e^-t/T P = 15.6 MW * e^(360s/-80s) 15.6 MW * e^-4.5 15.6 MW * 0.01110899; P = 0.1733 MW = 173 kW" 
+            },
+            {   "answer": "b. 247 kW",
+            "correct": false,
+            "feedback": "Incorrect. REF: xxx"
+            },
+            {   "answer": "c. 398 kW",
+            "correct": false,
+            "feedback": "Incorrect. REF: xxx"
+            },
+            {   "answer": "d. 173 kW",
+            "correct": false,
+            "feedback": "Incorrect. REF: xxx"
+            }
+        ]
+    },
+    {
+        "question": "Question 13-12/21/2023 Which ONE of the following best describes the importance of a negative temperature coefficient of reactivity?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. An increase in reactor power causes an increase in fuel burnup which results in a positive reactivity addition, causing the power increase to slow or stop.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 3, p. 28" 
+            },
+            {   "answer": "b. An increase in reactor power causes an increase in fuel temperature which results in a positive reactivity addition, causing the power increase to slow or stop.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 3, p. 28"
+            },
+            {   "answer": "c. An increase in reactor power causes an increase in fuel temperature which results in a negative reactivity addition, causing the power increase to slow or stop.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. An increase in reactor power causes an increase in fuel burnup which results in a negative reactivity addition, causing the power increase to slow or stop.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Volume 2, Module 3, p. 28"
+            }
+        ]
+    },
+    {
+        "question": "Question 14-12/21/2023 Define β:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. The total fraction of delayed neutrons weighted by the percent of all neutrons contributed by the fuel.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1, page 30" 
+            },
+            {   "answer": "b. The fraction of neutrons at thermal energies which were born as delayed neutrons.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1, page 30"
+            },
+            {   "answer": "c. The total fraction of all neutrons born as delayed neutrons.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. The fraction of neutrons at fast energies which were born as delayed neutrons.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1, page 30"
+            }
+        ]
+    },
+    {
+        "question": "Question 15-12/21/2023 As new fuel is being loaded into the core, the reactor operator is using a 1/M plot to monitor core loading. Which ONE of the following conditions could result in the reactor reaching criticality mass at a value greater than the predicted critical mass?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. The detector and source are too close to each other.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Section 5.5, p. 5-18" 
+            },
+            {   "answer": "b. The detector is located so that core load starts at a point close to the detector and subsequent loadings move farther from the detector.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Section 5.5, p. 5-18"
+            },
+            {   "answer": "c. The detector is located so that core load starts away from the detector and subsequent loading proceeds towards the detector.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. Too much time elapses between subsequent core loadings.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Section 5.5, p. 5-18"
+            }
+        ]
+    },
+    {
+        "question": "Question 16-12/21/2023 While bringing the reactor critical, which ONE of the following describes how a subcritical reactor responds to equal insertions of positive reactivity?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Each reactivity insertion results in a smaller increase in neutron flux resulting in a shorter time to stabilize",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operation, Section 5.3, p. 5-12" 
+            },
+            {   "answer": "b. Each reactivity insertion results in a smaller increase in neutron flux resulting in a longer time to stabilize.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operation, Section 5.3, p. 5-12"
+            },
+            {   "answer": "c. Each reactivity insertion results in a larger increase in neutron flux resulting in a shorter time to stabilize.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operation, Section 5.3, p. 5-12"
+            },
+            {   "answer": "d. Each reactivity insertion results in a larger increase in neutron flux resulting in a longer time to stabilize.",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 17-12/21/2023 A subcritical reactor has a keff of 0.741. How much reactivity is added to change the keff to 0.966?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 0.117 Δk/k",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Section 3.3.4, p 3-20-21" 
+            },
+            {   "answer": "b. 0.242 Δk/k",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Section 3.3.4, p 3-20-21"
+            },
+            {   "answer": "c. 0.314 Δk/k",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. 0.543 Δk/k",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Section 3.3.4, p 3-20-21"
+            }
+        ]
+    },
+    {
+        "question": "Question 18-12/21/2023 Which ONE of the following describes Integral Rod Worth?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. The remaining reactivity worth of a rod up to the point of withdrawal",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 3.4, page 3-32" 
+            },
+            {   "answer": "b. The plot of the slope of the change in reactivity over the change in rod position (Δρ/Δx)",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 3.4, page 3-32"
+            },
+            {   "answer": "c. The reactivity change per unit movement of a rod.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Section 3.4, page 3-32"
+            },
+            {   "answer": "d. The total reactivity worth of the rod at a particular degree of withdrawal",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 19-12/21/2023 A reactor contains a neutron source of 1550 neutrons/second. If the stable total neutron production rate is 5100 neutrons/second, what is the value of k_eff?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 0.696",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. 0.75",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 4, page 4"
+            },
+            {   "answer": "c. 0.805",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 4, page 4"
+            },
+            {   "answer": "d. 0.958",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 4, page 4"
+            }
+        ]
+    },{
+        "question": "Question 20-12/21/2023 The moderator temperature coefficient for a reactor is -0.00071 ∆k/k/oF. What is the total reactivity change caused by a temperature decrease of 75°F?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 0.00218",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook Nuclear Physics & Reactor Theory, Volume 2, Section 'Reactivity', Subsection 'Reactivity Coefficients and Reactivity Defect', page 21." 
+            },
+            {   "answer": "b. 0.00376",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook Nuclear Physics & Reactor Theory, Volume 2, Section 'Reactivity', Subsection 'Reactivity Coefficients and Reactivity Defect', page 21."
+            },
+            {   "answer": "c. 0.04211",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook Nuclear Physics & Reactor Theory, Volume 2, Section 'Reactivity', Subsection 'Reactivity Coefficients and Reactivity Defect', page 21."
+            },
+            {   "answer": "d. 0.05325",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    }
+]

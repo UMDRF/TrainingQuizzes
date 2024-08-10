@@ -1,7 +1,7 @@
-[
-  {
+[{
 		"question": "Question 2-09/28/2020 A reactor is critical at 18.2 inches on a controlling blade. The controlling blade is inserted to a position of 17.9 inches. The reactivity removal during the insertion is 0.1%Δk/k. What is the differential rod worth?",
 		"answers": [{
+				"type": "multiple_choice",
 				"answer": "a. 0.1%Δk/k /inch at 18.20 inches",
 				"correct": false,
 				"feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 7.3 Differential position is at the midpoint (18.05) Δρ = 0.1%Δk/k Δx = 18.2 – 17.9 = 0.3 inches Differential rod worth (Δρ/in) = (Δρ)/(∆x) = 0.1%Δk/k /0.3 = 0.33%Δk/k at midpoint (18.05 inches)"
@@ -26,6 +26,7 @@
 	{
 		"question": "Question 3-09/28/2020 A reactor is subcritical with a K_eff of 0.945. Which ONE of the following is the MINIMUM reactivity (∆K/K) that must be added to produce PROMPT criticality? Given β_eff=0.0078",
 		"answers": [{
+				"type": "multiple_choice",
 				"answer": "a. 0.0078 ∆k/k",
 				"correct": false,
 				"feedback": "Incorrect. REF: from k=-1 0.945 to criticality (k=1), the reactivity required from subcritical to critical is ∆ρ = (1-k)/k = 0.055/(0.945) ∆k/k = 0.582. From criticality to JUST prompt, ∆ρ = βeff is needed. Therefore, the minimum reactivity required to produce prompt criticality is 0.0582 ∆k/k +0.0078∆k/k = 0.066 ∆k/k"
@@ -50,6 +51,7 @@
 	{
 		"question": "Question 4-09/28/2020 Which ONE of the following factors in the six factor formula is most affected by the non-fuel core material such as control rods, moderator, and structural components?",
 		"answers": [{
+				"type": "multiple_choice",
 				"answer": "a. The fast fission factor.",
 				"correct": false,
 				"feedback": "Incorrect. REF: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, 1991, § 5.98."
@@ -74,6 +76,7 @@
 	{
 		"question": "Question 5-09/28/2020 The reactor is critical at 500 watts. A control rod is withdrawn, adding a positive reactivity of $0.25. Which ONE of the following will be the stable reactor period as a result of this reactivity insertion? Given beta effective = 0.0078",
 		"answers": [{
+				"type": "multiple_choice",
 				"answer": "a. 15 seconds",
 				"correct": false,
 				"feedback": "Incorrect. REF: Reactivity added = $0.25 or $0.25 x0.0078= 0.00195 ∆k/k τ = (β-ρ)/λeff*ρ"
@@ -98,6 +101,7 @@
 	{
 		"question": "Question 7-09/28/2020 Which term is described by the following? “The time from birth of a neutron to absorption and is the sum of slowing down time and diffusion time.”",
 		"answers": [{
+				"type": "multiple_choice",
 				"answer": "a. Reactor period",
 				"correct": false,
 				"feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.1"
@@ -122,6 +126,7 @@
 	{
 		"question": "Question 8-09/28/2020 A fissile material is one that will fission upon absorption of a thermal neutron. A fertile material is one that absorbs a neutron and becomes a fissile material. Which ONE of the following isotopes is the fertile material?",
 		"answers": [{
+				"type": "multiple_choice",
 				"answer": "a. U-235",
 				"correct": false,
 				"feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.2"
@@ -146,6 +151,7 @@
 	{
 		"question": "Question 9-09/28/2020 Which ONE of the following is a number of proton(s), Z, in the tritium nucleus (_1T^3 or _1H^3)?",
 		"answers": [{
+				"type": "multiple_choice",
 				"answer": "a. 1",
 				"correct": true,
 				"feedback": "Correct."
@@ -170,6 +176,7 @@
 	{
 		"question": "Question 11-09/28/2020 If the multiplication factor, k, is increased from 0.80 to 0.95, the amount of reactivity added is:",
 		"answers": [{
+				"type": "multiple_choice",
 				"answer": "a. 0.197 ∆k/k",
 				"correct": true,
 				"feedback": "Correct."
@@ -194,6 +201,7 @@
 	{
 		"question": "Question 12-09/28/2020 The reactor is critical and increasing in power. Power has increased from 200 kW to 400 kW in 10 seconds. How long will it take at this rate for power to increase from 400 kW to 1 MW?",
 		"answers": [{
+				"type": "multiple_choice",
 				"answer": "a. 13.2 seconds",
 				"correct": true,
 				"feedback": "Correct."
@@ -218,6 +226,7 @@
 	{
 		"question": "Question 13-09/28/2020 A reactor is changing from the criticality to prompt criticality. Which ONE of the following best describes the values of Keff and ρ during the change?",
 		"answers": [{
+				"type": "multiple_choice",
 				"answer": "a. Keff = 1 and ρ = 1",
 				"correct": false,
 				"feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
@@ -242,6 +251,7 @@
 	{
 		"question": "Question 14-09/28/2020 A reactor is decreasing with a -80 second period shortly after shutdown. What is the time for power decreasing by a factor of 5?",
 		"answers": [{
+				"type": "multiple_choice",
 				"answer": "a. 40 seconds",
 				"correct": false,
 				"feedback": "Incorrect. REF: P/P_0 = e^-t/τ ln(1/5) = - (t)/(-80sec) Time (t) = ln (0.2) × -80 sec = 129 seconds"
@@ -266,6 +276,7 @@
 	{
 		"question": "Question 15-09/28/2020 If a source strength is 5000 neutrons per second (N/sec) and it produces the stable neutron count rate of 20000 N/sec. What is a multiplication factor?",
 		"answers": [{
+				"type": "multiple_choice",
 				"answer": "a. 0.70",
 				"correct": false,
 				"feedback": "Incorrect. REF: CR = S/(1-K) -> 20000 = 5000/(1 - X) -> 1 -X = 5000/20000 X = 0.75"
@@ -290,6 +301,7 @@
 	{
 		"question": "Question 16-09/28/2020 The reactor is on a constant period. Which ONE of the following changes in reactor power would take the SHORTEST time?",
 		"answers": [{
+				"type": "multiple_choice",
 				"answer": "a. 5% — from 1% to 6%",
 				"correct": false,
 				"feedback": "Incorrect. REF: P = P0*e^t/τ Ln(P/P0) = t/τ Since you are looking for which would take the shortest time it is obvious to the most casual of observers that the ratio P/P0 must be the smallest value."
@@ -314,6 +326,7 @@
 	{
 		"question": "Question 19-09/28/2020 A reactor is subcritical with k- effective of 0.9. If a reactor operator makes a mistake by removing the control blade worth of 0.01 Δk/k out of the reactor core. Which ONE of the following best describes the reactor kinetic if removing the control blade?",
 		"answers": [{
+				"type": "multiple_choice",
 				"answer": "a. Critical, Keff = 1 and ρ = 0",
 				"correct": false,
 				"feedback": "Incorrect. REF: From k =0.9 to critical (k=1) the reactivity needed is ∆ρ = keff1-keff2/(keff1 x keff2) (1.0-0.90)/(1.0*0.90) = 0.10 ∆k/k By adding a worth of 0.01 Δk/k (even ρ > β-eff), a reactor is still subcritical because 0.01 Δk/k << 0.10 ∆k/k. Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
@@ -338,6 +351,7 @@
 	{
 		"question": "Question 20-09/28/2020 Which ONE of the following describes the term PROMPT JUMP?",
 		"answers": [{
+				"type": "multiple_choice",
 				"answer": "a. A reactor is subcritical at negative 80-second period",
 				"correct": false,
 				"feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."

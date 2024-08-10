@@ -1,0 +1,420 @@
+[
+    {
+        "question": "Question 1-08/28/2023 What is the major source of energy released during fission?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Kinetic energy of prompt and delayed neutrons.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Glasstone, Nuclear Reactor Engineering, Section 1.47 & Burns, Section 3.2.1, page 3-5" 
+            },
+            {   "answer": "b. Kinetic energy of fission fragments.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Alpha and beta radiation.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Glasstone, Nuclear Reactor Engineering, Section 1.47 & Burns, Section 3.2.1, page 3-5"
+            },
+            {   "answer": "d. Gamma radiation decay.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Glasstone, Nuclear Reactor Engineering, Section 1.47 & Burns, Section 3.2.1, page 3-5"
+            }
+        ]
+    },
+    {
+        "question": "Question 2-08/28/2023 Xenon-135 is formed from ______ decay of ______.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Alpha, Cesium-135.",
+            "correct": false,
+            "feedback": "Incorrect. REF: LaMarsh 3rd ed., Section 7.5, pg. 377 & Burns, Figure 8.1, page. 8-6" 
+            },
+            {   "answer": "b. Beta, Iodine-135.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Alpha, Tellurium-135.",
+            "correct": false,
+            "feedback": "Incorrect. REF: LaMarsh 3rd ed., Section 7.5, pg. 377 & Burns, Figure 8.1, page. 8-6"
+            },
+            {   "answer": "d. Beta, Barium-135.",
+            "correct": false,
+            "feedback": "Incorrect. REF: LaMarsh 3rd ed., Section 7.5, pg. 377 & Burns, Figure 8.1, page. 8-6"
+            }
+        ]
+    },
+    {
+        "question": "Question 3-08/28/2023 The FAST FISSION FACTOR is defined as a ratio of:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. the number of neutrons that reach thermal energy over the number of fast neutrons that start to slow down.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Sec 3.3.1, page 3-16." 
+            },
+            {   "answer": "b. the number of fast neutrons produced from fission in a generation over the number of fast neutrons produced from fission in the previous generation.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Sec 3.3.1, page 3-16."
+            },
+            {   "answer": "c. the number of fast neutrons produced from U-238 over the number of thermal neutrons produced from U-235.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Sec 3.3.1, page 3-16."
+            },
+            {   "answer": "d. the number of fast neutrons produced from all fission over the number of fast neutrons produced from thermal fission.",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 4-08/28/2023 How long will it take power to triple, given a reactor period of 32 seconds?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 62 seconds.",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0e^t/T 3 = 1 · e^t/32; t = 32 · ln(3) ; t = 35.2 sec" 
+            },
+            {   "answer": "b. 54 seconds.",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0e^t/T 3 = 1 · e^t/32; t = 32 · ln(3) ; t = 35.2 sec"
+            },
+            {   "answer": "c. 41 seconds.",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0e^t/T 3 = 1 · e^t/32; t = 32 · ln(3) ; t = 35.2 sec"
+            },
+            {   "answer": "d. 35 seconds.",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 5-08/28/2023 Which ONE of the following is the stable reactor period which will result in a power rise from 1% to 100% power in 2 minutes?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 0.5 second.",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P e^t/T ––> T= t/Ln(P/ P_0 ); T= 120/Ln(100 ); T = 26 sec." 
+            },
+            {   "answer": "b. 13 seconds.",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P e^t/T ––> T= t/Ln(P/ P_0 ); T= 120/Ln(100 ); T = 26 sec."
+            },
+            {   "answer": "c. 26 seconds.",
+            "correct": true,
+            "feedback": "Correct."
+            },
+            {   "answer": "d. 43 seconds.",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P e^t/T ––> T= t/Ln(P/ P_0 ); T= 120/Ln(100 ); T = 26 sec."
+            }
+        ]
+    },
+    {
+        "question": "Question 6-08/28/2023 What is the effect of U-238 on the reactor neutron life cycle when a neutron energy is below 1 MeV?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. The number of fissions due to U-238 decrease.",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. The number of fissions due to U-238 remains the same.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook, Vol.1, Module 1, EO 4.7, p. 51"
+            },
+            {   "answer": "c. The number of fissions due to U-238 increase.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook, Vol.1, Module 1, EO 4.7, p. 51"
+            },
+            {   "answer": "d. The number of fissions due to U-235 increase.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook, Vol.1, Module 1, EO 4.7, p. 51"
+            }
+        ]
+    },
+    {
+        "question": "Question 7-08/28/2023 Which ONE of the following is the meaning of 'any point on a differential rod worth curve'?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. The amount of reactivity that one unit (e.g., one inch, one percent) of rod motion would insert at that position in the core.",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. The zero reactivity when the rod is on the bottom and the positive reactivity being added as the rod is withdrawn.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burns, Example 7.2 (b), page 7-4"
+            },
+            {   "answer": "c. The cumulative area under the differential curve starting from the bottom of the core.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burns, Example 7.2 (b), page 7-4"
+            },
+            {   "answer": "d. The negative reactivity added as the rod is inserted.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burns, Example 7.2 (b), page 7-4"
+            }
+        ]
+    },
+    {
+        "question": "Question 8-08/28/2023 Which of the following is an example of a FERTILE material?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Th-232",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. U-233",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook, Vol. 1, Module 1, EO 4.3, p.52"
+            },
+            {   "answer": "c. U-235",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook, Vol. 1, Module 1, EO 4.3, p.52"
+            },
+            {   "answer": "d. Pu-239",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook, Vol. 1, Module 1, EO 4.3, p.52"
+            }
+        ]
+    },
+    {
+        "question": "Question 9-08/28/2023 Which term is described by the following? 'The increase in neutron population by providing a positive additional reactivity while the reactor is subcritical.'",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Subcritical Multiplication.",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. Inverse Multiplication.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.1, Subcritical Multiplication"
+            },
+            {   "answer": "c. Neutron Production.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.1, Subcritical Multiplication"
+            },
+            {   "answer": "d. Source Strength.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.1, Subcritical Multiplication"
+            }
+        ]
+    },
+    {
+        "question": "Question 10-08/28/2023 What is β?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. The fractional change in neutron population per generation.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook Vol. 2 Module 4" 
+            },
+            {   "answer": "b. The fraction of all fission neutrons that are born as delayed neutrons.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. The time required for the reactor to change by power by a factor of e.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook Vol. 2 Module 4"
+            },
+            {   "answer": "d. The fraction of all delayed neutrons that reach thermal energy.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook Vol. 2 Module 4"
+            }
+        ]
+    },
+    {
+        "question": "Question 11-08/28/2023 Which ONE of the following types of neutrons has a mean neutron generation lifetime of 12.5 seconds?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Prompt.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook Vol. 1 Module 2, Section 3.0" 
+            },
+            {   "answer": "b. Delayed.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Fast.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook Vol. 1 Module 2, Section 3.0"
+            },
+            {   "answer": "d. Thermal.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook Vol. 1 Module 2, Section 3.0"
+            }
+        ]
+    },
+    {
+        "question": "Question 12-08/28/2023 Reactor period is defined as:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. The time required for the reactor power to double.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook, Vol. 2, Module 4, EO 2.1, p.17" 
+            },
+            {   "answer": "b. The time required for a reactor to change by a factor of e.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. The time required for the reactor power to be reduced to one-half the initial level.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook, Vol. 2, Module 4, EO 2.1, p.17"
+            },
+            {   "answer": "d. The number of factors of ten that reactor power changes in one minute.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook, Vol. 2, Module 4, EO 2.1, p.17"
+            }
+        ]
+    },
+    {
+        "question": "Question 13-08/28/2023 Which ONE of the following has a long-term effect on Keff but is of no consequence during short term and transient operation?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Fuel burnup.",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. Increase in fuel temperature.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Standard NRC question"
+            },
+            {   "answer": "c. Increase in moderator temperature.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Standard NRC question"
+            },
+            {   "answer": "d. Xenon and Samarium fission products.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Standard NRC question"
+            }
+        ]
+    },
+    {
+        "question": "Question 14-08/28/2023 A mechanism by which a nucleus can gain stability by converting a neutron to a proton or vice versa is called:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Alpha decay.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Standard NRC question" 
+            },
+            {   "answer": "b. Beta decay.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Gamma decay.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Standard NRC question"
+            },
+            {   "answer": "d. Photoelectric effect.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Standard NRC question"
+            }
+        ]
+    },
+    {
+        "question": "Question 15-08/28/2023 During Regulating Rod calibration, doubling time was recorded to be 68 seconds. What was reactor period?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 47 seconds.",
+            "correct": false,
+            "feedback": "Incorrect. REF: T = DT/ln(2) = 68 seconds/0.693 = 98.124 ≈ 98 seconds" 
+            },
+            {   "answer": "b. 98 seconds.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. 116 seconds.",
+            "correct": false,
+            "feedback": "Incorrect. REF: T = DT/ln(2) = 68 seconds/0.693 = 98.124 ≈ 98 seconds"
+            },
+            {   "answer": "d. 133 seconds.",
+            "correct": false,
+            "feedback": "Incorrect. REF: T = DT/ln(2) = 68 seconds/0.693 = 98.124 ≈ 98 seconds"
+            }
+        ]
+    },
+    {
+        "question": "Question 16-08/28/2023 Some neutrons do not come directly from fission, but from fission product decay. These neutrons are called:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Thermal neutrons.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.2.2." 
+            },
+            {   "answer": "b. Delayed neutrons.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Neutron Production.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.2.2."
+            },
+            {   "answer": "d. Fission neutrons.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.2.2."
+            }
+        ]
+    },
+    {
+        "question": "Question 17-08/28/2023 Excess reactivity is the amount of reactivity ________.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. associated with burnable poisons.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals of Nuclear Engineering, Chapter 3, page 61" 
+            },
+            {   "answer": "b. needed to achieve prompt criticality.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals of Nuclear Engineering, Chapter 3, page 61"
+            },
+            {   "answer": "c. available below that which is required to make the reactor subcritical.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals of Nuclear Engineering, Chapter 3, page 61"
+            },
+            {   "answer": "d. available above that which is required to keep the reactor critical.",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 19-08/28/2023 Which ONE of the following is the main reason for the decrease in reactivity following an increase in fuel temperature?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. A fuel matrix in the reactor core.",
+            "correct": false,
+            "feedback": "Incorrect. REF: NRC Standard Question" 
+            },
+            {   "answer": "b. High fuel element reactivity worth.",
+            "correct": false,
+            "feedback": "Incorrect. REF: NRC Standard Question"
+            },
+            {   "answer": "c. Reactor fuel type.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. A long delay time for transferring heat to the core cooling water.",
+            "correct": false,
+            "feedback": "Incorrect. REF: NRC Standard Question"
+            }
+        ]
+    },
+    {
+        "question": "Question 20-08/28/2023 Given a source strength of 200 neutrons per second (N/sec) and a multiplication factor of 0.6, which ONE of the following is the expected stable neutron count rate?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 150 N/sec.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.7.3" 
+            },
+            {   "answer": "b. 250 N/sec.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.7.3"
+            },
+            {   "answer": "c. 400 N/sec.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. 500 N/sec.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.7.3"
+            }
+        ]
+    }
+]

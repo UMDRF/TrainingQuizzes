@@ -1,0 +1,353 @@
+[
+    {
+        "question": "Question 1-03/8/2024 Which ONE of the following isotopes has the LARGEST thermal neutron microscopic cross section?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Xenon-135",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. Uranium-235",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, Volume 1, Section 2.7, page 2-59."
+            },
+            {   "answer": "c. Uranium-238",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, Volume 1, Section 2.7, page 2-59."
+            },
+            {   "answer": "d. Samarium 149",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, Volume 1, Section 2.7, page 2-59."
+            }
+        ]
+    },
+    {
+        "question": "Question 3-03/8/2024 Five minutes after shutting down the reactor, reactor power is 3 × 106 counts per minute (cpm). Which ONE of the following is the count rate you would expect three minutes later?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 1 × 106 cpm",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, Volume 2, Section 4.6." 
+            },
+            {   "answer": "b. 8 × 105 cpm",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, Volume 2, Section 4.6."
+            },
+            {   "answer": "c. 5 × 105 cpm",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction of Nuclear Reactor Operations, Volume 2, Section 4.6."
+            },
+            {   "answer": "d. 3 × 105 cpm",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 4-03/8/2024 Which ONE of the following describes the difference between reflectors and moderators?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Reflectors decrease core leakage while moderators thermalize neutrons.",
+            "correct": false,
+            "feedback": "Incorrect. REF: xxx" 
+            },
+            {   "answer": "b. Reflectors shield against neutrons while moderators decrease core leakage.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, Volume 1, Section 2.8.9, page 2-63."
+            },
+            {   "answer": "c. Reflectors decrease thermal leakage while moderators decrease fast leakage.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, Volume 1, Section 2.8.9, page 2-63."
+            },
+            {   "answer": "d. Reflectors thermalize neutrons while moderators decrease core leakage.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, Volume 1, Section 2.8.9, page 2-63."
+            }
+        ]
+    },
+    {
+        "question": "Question 5-03/8/2024 During a startup you increase reactor power from 100 watts to 195 watts in a minute. Which ONE of the following is reactor period?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 30 seconds",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0 e^t/τ = t/ln(P/P_0) →τ = 60/ln (195/100) = 60/ln(1.95) = 89.84 or 90 sec." 
+            },
+            {   "answer": "b. 60 seconds",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0 e^t/τ = t/ln(P/P_0) →τ = 60/ln (195/100) = 60/ln(1.95) = 89.84 or 90 sec."
+            },
+            {   "answer": "c. 90 seconds",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. 120 seconds",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0 e^t/τ = t/ln(P/P_0) →τ = 60/ln (195/100) = 60/ln(1.95) = 89.84 or 90 sec."
+            }
+        ]
+    },
+    {
+        "question": "Question 6-03/8/2024 An element decays at a rate of 20% per day. What is its half-life?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 3 hr",
+            "correct": false,
+            "feedback": "Incorrect. REF: A = A_o e^―λt λ = .693 / T2 → Ln A/A_o = - .693 t / T2 → T2 = - 0.693 · 24hr / ln 0.8 = 75 hr." 
+            },
+            {   "answer": "b. 75 hr",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. 108 hr",
+            "correct": false,
+            "feedback": "Incorrect. REF: A = A_o e^―λt λ = .693 / T2 → Ln A/A_o = - .693 t / T2 → T2 = - 0.693 · 24hr / ln 0.8 = 75 hr."
+            },
+            {   "answer": "d. 158 hr",
+            "correct": false,
+            "feedback": "Incorrect. REF: A = A_o e^―λt λ = .693 / T2 → Ln A/A_o = - .693 t / T2 → T2 = - 0.693 · 24hr / ln 0.8 = 75 hr."
+            }
+        ]
+    },
+    {
+        "question": "Question 8-03/8/2024 Which of the following changes in reactor power would take the LONGEST time? Assume the reactor is on a constant period.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 100 mW to 400 mW",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. 400 mW to 500 mW",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0 e^t/T, P/ P_0 = e^t/T, Ln (P/ P_0) = t/T. Ln(400/100) = t/T, Ln (4) = t/T = 1.386, answer (a) power manipulations would take the longest time to complete."
+            },
+            {   "answer": "c. 1 W to 3.5 W",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0 e^t/T, P/ P_0 = e^t/T, Ln (P/ P_0) = t/T. Ln(400/100) = t/T, Ln (4) = t/T = 1.386, answer (a) power manipulations would take the longest time to complete."
+            },
+            {   "answer": "d. 3.5 W to 4.5 W",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P_0 e^t/T, P/ P_0 = e^t/T, Ln (P/ P_0) = t/T. Ln(400/100) = t/T, Ln (4) = t/T = 1.386, answer (a) power manipulations would take the longest time to complete."
+            }
+        ]
+    },
+    {
+        "question": "Question 10-03/8/2024 The total amount of reactivity added by inserting or withdrawing a control rod from a reference height to any other rod height is called__________.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. differential rod worth",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. shutdown reactivity",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3, “Integral and Differential Rod Worths”, pages 51 - 56."
+            },
+            {   "answer": "c. integral rod worth",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3, “Integral and Differential Rod Worths”, pages 51 - 56."
+            },
+            {   "answer": "d. reference reactivity",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3, “Integral and Differential Rod Worths”, pages 51 - 56."
+            }
+        ]
+    },
+    {
+        "question": "Question 11-03/8/2024 Which ONE of the following factors is affected MOST by an increase in fission product poisoning?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Resonance Escape Probability",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook Nuclear Physics & Reactor Theory, Volume 2, Section 'Fission Product Poisons', page 34." 
+            },
+            {   "answer": "b. Fast Fission Factor",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook Nuclear Physics & Reactor Theory, Volume 2, Section 'Fission Product Poisons', page 34."
+            },
+            {   "answer": "c. Thermal Utilization Factor",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. Reproduction Factor",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook Nuclear Physics & Reactor Theory, Volume 2, Section 'Fission Product Poisons', page 34."
+            }
+        ]
+    },
+    {
+        "question": "Question 12-03/8/2024 At the beginning of a reactor startup, K_eff is 0.90 with a count rate of 30 count per second (cps). Power is increasing to a new, steady value of 60 cps. The new K_eff is:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 0.910",
+            "correct": false,
+            "feedback": "Incorrect. REF: (CR2/CR1) = (1-K_eff0)/(1-K_eff1) = (60/30) = (0.90)(1-K_eff1); K_eff1 = 0.95." 
+            },
+            {   "answer": "b. 0.925",
+            "correct": false,
+            "feedback": "Incorrect. REF: (CR2/CR1) = (1-K_eff0)/(1-K_eff1) = (60/30) = (0.90)(1-K_eff1); K_eff1 = 0.95."
+            },
+            {   "answer": "c. 0.950",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. 0.975",
+            "correct": false,
+            "feedback": "Incorrect. REF: (CR2/CR1) = (1-K_eff0)/(1-K_eff1) = (60/30) = (0.90)(1-K_eff1); K_eff1 = 0.95."
+            }
+        ]
+    },
+    {
+        "question": "Question 13-03/8/2024 What happens to reactor power when a neutron startup source is added to a critical reactor (K = 1)?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Increase",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. Decrease",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Volume 3, Section 5.6, page 5-27."
+            },
+            {   "answer": "c. Not Change",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Volume 3, Section 5.6, page 5-27."
+            },
+            {   "answer": "d. Decrease and Increase",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, Introduction to Nuclear Reactor Operations, Volume 3, Section 5.6, page 5-27."
+            }
+        ]
+    },
+    {
+        "question": "Question 15-03/8/2024 Which ONE of the following conditions will INCREASE the core excess reactivity of a reactor?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Moderator temperature is higher than normal. (assume negative temperature coefficient).",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, pages 30 - 31." 
+            },
+            {   "answer": "b. Insertion of a negative reactivity worth experiment.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, pages 30 - 31."
+            },
+            {   "answer": "c. Burnup of a burnable poison.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. Fuel depletion.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, pages 30 - 31."
+            }
+        ]
+    },
+    {
+        "question": "Question 16-03/8/2024 The term 'Shutdown Margin' describes:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. the time required for the blades to fully insert.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, Volume 3, Section 6.2.3." 
+            },
+            {   "answer": "b. the departure from K_eff = 1.00.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, Volume 3, Section 6.2.3."
+            },
+            {   "answer": "c. the amount of reactivity by which the reactor is subcritical.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. the amount of reactivity inserted by all the rods except the most reactive blade and the regulating rod.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, Volume 3, Section 6.2.3."
+            }
+        ]
+    },
+    {
+        "question": "Question 17-03/8/2024 Some references list the delayed neutron fraction for U^235 (β) as 0.0065. The UNM SAR lists β for the core as 0.0075. The β in the SAR is more commonly referred to as β_effective. Which ONE of the following is the reason that β_effective is larger than β?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Delayed neutrons are born at higher energies than prompt neutrons resulting in a greater worth for the neutrons.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, page 12." 
+            },
+            {   "answer": "b. Delayed neutrons are born at lower energies than prompt neutrons resulting in less leakage during slowdown to thermal energies.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. The fuel also includes U^238 which has a relatively large β for fast fission.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, page 12."
+            },
+            {   "answer": "d. The U^238 in the core becomes Pu^239 (by neutron absorption), which has a higher β for fission.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, page 12."
+            }
+        ]
+    },
+    {
+        "question": "Question 18-03/8/2024 The count rate is 60 cps. An experimenter inserts an experiment into the core, and the count rate decreases to 30 cps. Given the initial Keff of the reactor was 0.9, what is the worth of the experiment?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. ∆ρ = - 0.14",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. ∆ρ = + 0.14",
+            "correct": false,
+            "feedback": "Incorrect. REF: CR1 / CR2 = (1 – K_eff2) / (1 – K_eff1) → 60 / 30 = (1 – K_eff2) / (1 – 0.9) Therefore K_eff2 = 0.8 ∆ρ = K_eff2 – K_eff1 / K_eff2 · K_eff1 = (0.8 – 0.9)/(0.8· 0.9) = -0.13888."
+            },
+            {   "answer": "c. ∆ρ = - 0.42",
+            "correct": false,
+            "feedback": "Incorrect. REF: CR1 / CR2 = (1 – K_eff2) / (1 – K_eff1) → 60 / 30 = (1 – K_eff2) / (1 – 0.9) Therefore K_eff2 = 0.8 ∆ρ = K_eff2 – K_eff1 / K_eff2 · K_eff1 = (0.8 – 0.9)/(0.8· 0.9) = -0.13888."
+            },
+            {   "answer": "d. ∆ρ = + 0.42",
+            "correct": false,
+            "feedback": "Incorrect. REF: CR1 / CR2 = (1 – K_eff2) / (1 – K_eff1) → 60 / 30 = (1 – K_eff2) / (1 – 0.9) Therefore K_eff2 = 0.8 ∆ρ = K_eff2 – K_eff1 / K_eff2 · K_eff1 = (0.8 – 0.9)/(0.8· 0.9) = -0.13888."
+            }
+        ]
+    },
+    {
+        "question": "Question 19-03/8/2024 The probability of neutron interaction per cm of travel in a material is defined as __________.",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. a neutron flux",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, Volume 1, Section 2.5.2, page 2-43." 
+            },
+            {   "answer": "b. a mean free path",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, Volume 1, Section 2.5.2, page 2-43."
+            },
+            {   "answer": "c. a microscopic cross section",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, Volume 1, Section 2.5.2, page 2-43."
+            },
+            {   "answer": "d. a macroscopic cross section",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },{
+        "question": "Question 20-03/8/2024 A reactor is shutdown from an extended operation at full power, which ONE of the following is the principal source of heat in the reactor?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Subcritical reaction of photoneutrons.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1, Enabling Objective 4.9, pages 61-62." 
+            },
+            {   "answer": "b. Production of delayed neutrons.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Spontaneous fission of U^238",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1, Enabling Objective 4.9, pages 61-62."
+            },
+            {   "answer": "d. Decay of fission fragments.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1, Enabling Objective 4.9, pages 61-62."
+            }
+        ]
+    }
+]

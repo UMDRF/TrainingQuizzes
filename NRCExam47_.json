@@ -1,0 +1,442 @@
+[
+    {
+        "question": "Question 1-10/28/1999 The MITR-11 uses light water for a coolant and moderator and heavy water for a reflector because:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Light water has a much higher heat capacity and heavy water is a good neutron scatterer.",
+            "correct": false,
+            "feedback": "Incorrect REF: MIT RSM 10.9"
+            },
+            {   "answer": "b. Light water is a good neutron scatterer and heavy water absorbs few neutrons.",
+            "correct": true,
+            "feedback": "Correct."
+            },
+            {   "answer": "c. Light water absorbs few neutrons and heavy water is a good neutron scatterer.",
+            "correct": false,
+            "feedback": "Incorrect REF: MIT RSM 10.9"
+            },
+            {   "answer": "d. Light water has a much higher heat capacity and heavy water absorbs few neutrons.",
+            "correct": false,
+            "feedback": "Incorrect REF: MIT RSM 10.9"
+            }
+        ]
+    },
+    {
+        "question": "Question 2-10/28/1999 Which of the following would occur if an in-core sample that is a neutron absorber and which is initially at the bottom of the in-core sample tube with the reactor critical were pulled up through the core and out?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Positive reactivity is added.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT RSM 10.1 on Axial flux profile and MIT Notes on Nuclear Instrumentation, p. 23" 
+            },
+            {   "answer": "b. Negative reactivity is added.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT RSM 10.1 on Axial flux profile and MIT Notes on Nuclear Instrumentation, p. 23"
+            },
+            {   "answer": "c. Positive then negative reactivity is added.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT RSM 10.1 on Axial flux profile and MIT Notes on Nuclear Instrumentation, p. 23"
+            },
+            {   "answer": "d. Negative then positive reactivity is added.",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 3-10/28/1999 The method for determining Calculated Thermal Power is described by:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Primary power plus reflector power plus shield power.",
+            "correct": true,
+            "feedback": "Correct." 
+            },
+            {   "answer": "b.Primary power plus reflector power minus shield power.",
+            "correct": false,
+            "feedback": "Incorrect. REF: PM 2.4, p 5."
+            },
+            {   "answer": "c. Primary power plus shield power minus reflector power.",
+            "correct": false,
+            "feedback": "Incorrect. REF: PM 2.4, p 5."
+            },
+            {   "answer": "d. Primary power minus reflector power minus shield power.",
+            "correct": false,
+            "feedback": "Incorrect. REF: PM 2.4, p 5."
+            }
+        ]
+    },
+    {
+        "question": "Question 4-10/28/1999 As primary coolant temperature increases, control rod worth:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. decreases due to lower reflector efficiency.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes, Reactivity Feedback, Section 5."
+            },
+            {   "answer": "b. decreases due to higher neutron absorption in the moderator.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes, Reactivity Feedback, Section 5."
+            },
+            {   "answer": "c. increases due to the increase in thermal diffusion length.",
+            "correct": true,
+            "feedback": "Correct."
+            },
+            {   "answer": "d. remains the same due to constant poison cross-section of the control rods.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes, Reactivity Feedback, Section 5."
+            }
+        ]
+    },
+    {
+        "question": "Question 5-10/28/1999 The peak differential reactivity worth of the shim blades occurs at the midpoints of their calibration curves, but the peak differential reactivity worth of the regulating rod occurs at the bottom of its calibration curve because:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. the regulating rod is made of cadmium and the shim blades of boron-impregnated stainless steel.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT RSM 1.6.2."
+            },
+            {   "answer": "b. the regulating rod is shadowed by the shim bank when it is above the bank height.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT RSM 1.6.2."
+            },
+            {   "answer": "c. the regulating rod is a cylinder, while the blades are paddle-shaped.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT RSM 1.6.2."
+            },
+            {   "answer": "d. the 'full-in' position of the regulating blade is six inches above that of the shim blades.",
+            "correct": true,
+            "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "Question 6-10/28/1999 Which ONE of the following factors in the six factor formula is altered upon changing the coolant temperature?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Fast fission factor.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes on Reactivity Feedback, pg. 18"
+            },
+            {   "answer": "b. Reproduction factor.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes on Reactivity Feedback, pg. 18"
+            },
+            {   "answer": "c. Non-leakage factor.",
+            "correct": true,
+            "feedback": "Correct."
+            },
+            {   "answer": "d. Resonance escape probability.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes on Reactivity Feedback, pg. 18"
+            }
+        ]
+    },
+    {
+        "question": "Question 7-10/28/1999 The Doppler effect is described by the:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. blue glow seen around the fuel elements.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes, Reactivity Feedback and Fig 4.2b."
+            },
+            {   "answer": "b. broadening of resonance peaks as fuel temperature increases.",
+            "correct": true,
+            "feedback": "Correct."
+            },
+            {   "answer": "c. slower response time in comparison to moderator temperature feedback.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes, Reactivity Feedback and Fig 4.2b."
+            },
+            {   "answer": "d. spectral shift of Uranium-235 as moderator temperature increases.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes, Reactivity Feedback and Fig 4.2b."
+            }
+        ]
+    },
+    {
+        "question": "Question 8-10/28/1999 For a doubling time of 25 seconds the corresponding reactor period is:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 25 seconds",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes on Reactor Kinetics, pg. 18. Doubling Time = 0.693 x Period = 25 seconds, Period = 36 seconds"
+            },
+            {   "answer": "b. 36 seconds",
+            "correct": true,
+            "feedback": "Correct."
+            },
+            {   "answer": "c. 50 seconds",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes on Reactor Kinetics, pg. 18. Doubling Time = 0.693 x Period = 25 seconds, Period = 36 seconds"
+            },
+            {   "answer": "d. 81 seconds",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes on Reactor Kinetics, pg. 18. Doubling Time = 0.693 x Period = 25 seconds, Period = 36 seconds"
+            }
+        ]
+    },
+    {
+        "question": "Question 9-10/28/1999 The major source of neutrons used for routine startups of the MITR-11 is from:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Alpha decay of Uranium-238.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes, Reactor Startup, p 7."
+            },
+            {   "answer": "b. Antimony-Beryllium (Sb-Be) source.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes, Reactor Startup, p 7."
+            },
+            {   "answer": "c. Plutonium-Beryllium (Pu-Be) source.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes, Reactor Startup, p 7."
+            },
+            {   "answer": "d. Photo-neutrons produced by interaction of gamma rays with heavy water.",
+            "correct": true,
+            "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "Question 10-10/28/1999 In a subcritical reactor, K eff is increased from 0.861 to 0.946. Which ONE of the following is the amount of reactivity that was added to the reactor core?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 0.085 delta k/k",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes on Reactor Kinetics, pg. 2. p, = (0.861 - 1)10.861 = -0.161Ak/k; P2 = (0.946 - 1)/0.946 = -0.057Ak/k. Ap = p2 - p1 = -0.057 - (-0.161) = +0.104 delta k/k"
+            },
+            {   "answer": "b. 0.104 delta k/k",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. 0.161 delta k/k",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes on Reactor Kinetics, pg. 2. p, = (0.861 - 1)10.861 = -0.161Ak/k; P2 = (0.946 - 1)/0.946 = -0.057Ak/k. Ap = p2 - p1 = -0.057 - (-0.161) = +0.104 delta k/k"
+            },
+            {   "answer": "d. 0.218 delta k/k",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes on Reactor Kinetics, pg. 2. p, = (0.861 - 1)10.861 = -0.161Ak/k; P2 = (0.946 - 1)/0.946 = -0.057Ak/k. Ap = p2 - p1 = -0.057 - (-0.161) = +0.104 delta k/k"
+            }
+        ]
+    },
+    {
+        "question": "Question 11-10/28/1999 Given the following: Reactor operating at 5 MW, scram setpoint at 6 MW, scram delay time of I second, reactor period of 12.5 seconds. What will be the approximate reactor power at the time of the scram due to this reactivity excursion?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 6.1 MW",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Exam Bank# 19"
+            },
+            {   "answer": "b. 6.5 MW",
+            "correct": true,
+            "feedback": "Correct."
+            },
+            {   "answer": "c. 7.2 MW",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Exam Bank# 19"
+            },
+            {   "answer": "d. 12.5 MW",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Exam Bank# 19"
+            }
+        ]
+    },
+    {
+        "question": "Question 12-10/28/1999 As criticality is approached during a startup, blade withdrawal is made in smaller and smaller increments and with longer and longer intervals between withdrawals because:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. as the reactor approaches criticality, the number of neutron generations required to attain equilibrium increases.",
+            "correct": true,
+            "feedback": "Correct." 
+            },
+            {   "answer": "b. gamma rays begin to swamp the neutron signal in the nuclear detectors.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes on Subcritical Multiplication, pg. 10"
+            },
+            {   "answer": "c. the fraction of delayed neutrons appraches zero as criticality is approached.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes on Subcritical Multiplication, pg. 10"
+            },
+            {   "answer": "d. subcritical multiplication becomes less important.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes on Subcritical Multiplication, pg. 10"
+            }
+        ]
+    },
+    {
+        "question": "Question 13-10/28/1999 Delayed neutrons are essential to reactor safety because:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. more delayed neutrons are produced than prompt neutrons.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes on Reactor Kinetics, pp 8-10"
+            },
+            {   "answer": "b. delayed neutrons take longer to thermalize than do prompt neutrons, resulting in longer reactor periods during power changes.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes on Reactor Kinetics, pp 8-10"
+            },
+            {   "answer": "c. delayed neutrons are bom at different energies than prompt ones, thereby ensuring a broad neutron energy distribution.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes on Reactor Kinetics, pp 8-10"
+            },
+            {   "answer": "d. delayed neutrons increase the average neutron lifetime, resulting in a longer reactor period during power changes.",
+            "correct": true,
+            "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "Question 14-10/28/1999 Coolant flows through a reactor core at a rate of 50 GPM, resulting in a coolant temperature increase of 6 degrees F. The power of the reactor is:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 5.3 kW.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT PM 2.4.2 Power = (Mass flow rate)(Specific heat)(temperature increase). Power = (50 GPM)(8.34 Ibs/gallon)(1 Btu/lb-deg F)(6 deg F)(60 min/hour). Power = (150,120 Btu/hour)(1 kW/3413 Btu/hour) = 44.0 kW."
+            },
+            {   "answer": "b. 14.7 kW.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT PM 2.4.2 Power = (Mass flow rate)(Specific heat)(temperature increase). Power = (50 GPM)(8.34 Ibs/gallon)(1 Btu/lb-deg F)(6 deg F)(60 min/hour). Power = (150,120 Btu/hour)(1 kW/3413 Btu/hour) = 44.0 kW."
+            },
+            {   "answer": "c. 44.0 kW.",
+            "correct": true,
+            "feedback": "Correct."
+            },
+            {   "answer": "d. 329.1 kW.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT PM 2.4.2 Power = (Mass flow rate)(Specific heat)(temperature increase). Power = (50 GPM)(8.34 Ibs/gallon)(1 Btu/lb-deg F)(6 deg F)(60 min/hour). Power = (150,120 Btu/hour)(1 kW/3413 Btu/hour) = 44.0 kW."
+            }
+        ]
+    },
+    {
+        "question": "Question 15-10/28/1999 Of the approximately 200 Mev of energy released per fission event, the largest amount appears in the form of:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. gamma radiation.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Glasstone, Section 1.52"
+            },
+            {   "answer": "b. kinetic energy of prompt and delayed neutrons.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Glasstone, Section 1.52"
+            },
+            {   "answer": "c. kinetic energy of fission fragments.",
+            "correct": true,
+            "feedback": "Correct."
+            },
+            {   "answer": "d. alpha and beta radiation.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Glasstone, Section 1.52"
+            }
+        ]
+    },
+    {
+        "question": "Question 16-10/28/1999 The MITR-11 is normally refueled when the xenon-equilibrium shim bank height is 16-17 inches, in order to:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. avoid bumup of the upper portion of each element, thereby minimizing power peaking at the top of the core.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Examination of MITR-II Shim Bank and Xenon Reactivity Worth Curves" 
+            },
+            {   "answer": "b. avoid blade withdrawal above the 18 inch height of the regulating rod.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Examination of MITR-II Shim Bank and Xenon Reactivity Worth Curves" 
+            },
+            {   "answer": "c. avoid the possibility of being xenon-precluded should a restart following a scram be necessary.",
+            "correct": true,
+            "feedback": "Correct."
+            },
+            {   "answer": "d. maintain a uniform axial flux profile for the 3GV irradiation facilities.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Examination of MITR-II Shim Bank and Xenon Reactivity Worth Curves" 
+            }
+        ]
+    },
+    {
+        "question": "Question 17-10/28/1999 Which ONE of the following describes the behavior of xenon?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Xenon is produced from both fission and the decay of iodine.",
+            "correct": true,
+            "feedback": "Correct." 
+            },
+            {   "answer": "b. Xenon peaks upon shutdown and remains at the peak until power operation resumes.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes on Reactivity Feedback, pg. 21"
+            },
+            {   "answer": "c. Xenon reactivity worth varies linearly with reactor power.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes on Reactivity Feedback, pg. 21"
+            },
+            {   "answer": "d. Equilibrium xenon is worth 1 Beta.",
+            "correct": false,
+            "feedback": "Incorrect. REF: MIT Reactor Physics Notes on Reactivity Feedback, pg. 21"
+            }
+        ]
+    },
+    {
+        "question": "Question 18-10/28/1999 Which ONE of the following is the reason why it requires 24 hours of constant power operation before thermal equilibrium is attained in the MITR-11 reactor?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. The time required for equilibrium Xenon and Samarium conditions to be established.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Glasstone and Sesonske, Nuclear Reactor Engineering, Chapter 5, Section 5.114, p 272; MIT Exam Bank #48."
+            },
+            {   "answer": "b. The time required for the large volume of the Deuterium tank to heat up.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Glasstone and Sesonske, Nuclear Reactor Engineering, Chapter 5, Section 5.114, p 272; MIT Exam Bank #48."
+            },
+            {   "answer": "c. The shield coolant system has a small flowrate to accomplish adequate mixing before temperature is uniformly stabilized.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Glasstone and Sesonske, Nuclear Reactor Engineering, Chapter 5, Section 5.114, p 272; MIT Exam Bank #48."
+            },
+            {   "answer": "d. The graphite reflector has a large heat capacity and is slow to reach equilibrium temperature distribution.",
+            "correct": true,
+            "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "Question 19-10/28/1999 The term prompt critical refers to:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. the instantaneous jump in power due to a rod withdrawal.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 248." 
+            },
+            {   "answer": "b. a reactor which is critical using only prompt neutrons.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. a reactor which is critical using both prompt and delayed neutrons.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 248."
+            },
+            {   "answer": "d. a reactivity insertion which is less then β_eff.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 248."
+            }
+        ]
+    },
+    {
+        "question": "Question 20-10/28/1999 The fuel temperature coefficient of reactivity is -1.25E-4 delta k/k/deg.F. When a control rod with an average rod worth of 0.1% delta k/lkinch is withdrawn 10 inches, reactor power increases and becomes stable at a higher level. At this point, (ignoring any other temperature effects) the fuel temperature has:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 'increased by 80 deg.F.",
+            "correct": true,
+            "feedback": "Correct." 
+            },
+            {   "answer": "b. decreased by 80 deg.F.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Glasstone, Section 5.96"
+            },
+            {   "answer": "c. increased by 8 deg.F.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Glasstone, Section 5.96"
+            },
+            {   "answer": "d. decreased by 8 deg.F.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Glasstone, Section 5.96"
+            }
+        ]
+    }
+]

@@ -1,6 +1,7 @@
 [
     {
             "question": "Question 1-12/26/2017 Which ONE of the following correctly describes the SIX- FACTOR FORMULA?",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. K∞ = Keff * the reproduction factor",
                 "correct": false,
@@ -22,6 +23,7 @@
     },
     {
             "question": "Question 2-12/26/2017 Few minutes following a reactor scram of 90 watts, the reactor period has stabilized and the power level is decreasing at a CONSTANT rate. What is the power level one minute later from 5 watts?",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. 0.24 W",
                 "correct": false,
@@ -43,6 +45,7 @@
     },
     {
             "question": "Question 3-12/26/2017 Which ONE of the following is the MAIN reason for operating reactor with thermal neutrons instead of fast neutrons?",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. The fission cross section of the fuel is much higher for fast neutrons than thermal energy neutrons. Since fast neutrons are easier to cause fission, a reactor cannot control with fast neutrons.",
                 "correct": false,
@@ -64,6 +67,7 @@
     },
     {
             "question": "Question 4-12/26/2017 Which ONE of the following is a number of protons in the Uranium-235 nucleus (_92U^235)?",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. 92",
                 "correct": true,
@@ -85,6 +89,7 @@
     },
     {
             "question": "Question 6-12/26/2017 A reactor is subcritical with Keff of 0.955. Which ONE of the following is the MINIMUM reactivity ($) that must be added to produce PROMPT criticality? Given βeff=0.0073",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. $1.000",
                 "correct": false,
@@ -106,6 +111,7 @@
     },
     {
             "question": "Question 7-12/26/2017 The effective target area in cm2 presented by a single nucleus to an incident neutron beam is defined as:",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. a macroscopic cross section",
                 "correct": false,
@@ -127,6 +133,7 @@
     },
     {
             "question": "Question 8-12/26/2017 Delayed neutrons are produced by:",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. decay of N-16.",
                 "correct": false,
@@ -148,6 +155,7 @@
     },
     {
             "question": "Question 10-12/26/2017 Which ONE of the following atoms will cause a neutron to lose the most energy in an elastic collision?",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. U-238",
                 "correct": false,
@@ -169,6 +177,7 @@
     },
     {
             "question": "Question 13-12/26/2017 A reactor contains a neutron source that produces 1,000 neutrons/second. The reactor has a keff = 0.80. What is the stable total neutron production rate in the reactor?",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. 2,000 neutrons/sec",
                 "correct": false,
@@ -190,6 +199,7 @@
     },
     {
             "question": "Question 14-12/26/2017 Which ONE of the following changes will increase the core excess?",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. Insertion of an experiment containing cadmium.",
                 "correct": false,
@@ -211,6 +221,7 @@
     },
     {
             "question": "Question 15-12/26/2017 Which ONE is true about “subcritical multiplication”? As the reactor approaches criticality, the parameter",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. keff approaches zero.",
                 "correct": false,
@@ -232,6 +243,7 @@
     },
     {
             "question": "Question 16-12/26/2017 Which ONE of the following is the stable reactor period which will result in a power rise from 1% to 100% power in 1 minute?",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. 0.2 seconds",
                 "correct": false,
@@ -253,6 +265,7 @@
     },
     {
             "question": "Question 17-12/26/2017 When the reactor is at critical, what effect does Doppler Broadening for U-238 have on neutrons?",
+        "type": "multiple_choice",
         "answers": [
             {   "answer": "a. More absorption",
                 "correct": true,

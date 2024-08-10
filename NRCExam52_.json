@@ -1,0 +1,375 @@
+[
+    {
+        "question": "Question 2-09/27/2023 Which of the following radiation types has its penetrating ability through biological material impeded the greatest by its high specific ionization?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Alpha",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. Beta",
+            "correct": false,
+            "feedback": "Incorrect. REF: PSBR Training Manual Chapter 2.1.1 'Alpha Particle Interactions with Matter'"
+            },
+            {   "answer": "c. Gamma",
+            "correct": false,
+            "feedback": "Incorrect. REF: PSBR Training Manual Chapter 2.1.1 'Alpha Particle Interactions with Matter'"
+            },
+            {   "answer": "d. Neutron",
+            "correct": false,
+            "feedback": "Incorrect. REF: PSBR Training Manual Chapter 2.1.1 'Alpha Particle Interactions with Matter'"
+            }
+        ]
+    },
+    {
+        "question": "Question 3-09/27/2023 Which ONE of the following statements MOST correctly describe the prompt neutrons?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. They are the total fraction of all neutrons born.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook, Fundamentals of Nuclear Engineering, Volume 1, Module 1, Prompt and Delayed Neutrons, pg. 29" 
+            },
+            {   "answer": "b. They are released directly from fission within 10-13 seconds of the fission event.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. They are emitted immediately following the first beta decay of a fission fragment.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook, Fundamentals of Nuclear Engineering, Volume 1, Module 1, Prompt and Delayed Neutrons, pg. 29"
+            },
+            {   "answer": "d. They are responsible for the ability to control the rate at which power can rise in a reactor.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook, Fundamentals of Nuclear Engineering, Volume 1, Module 1, Prompt and Delayed Neutrons, pg. 29"
+            }
+        ]
+    },
+    {
+        "question": "Question 4-09/27/2023 Which ONE of the following is the most correct time period in which the MAXIMUM amount of Xe-135 will be present in the core?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 8 hours after a startup to 100% power",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2, pg. 41" 
+            },
+            {   "answer": "b.  8 hours after a scram from 100% power.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. 8 hours after a power increase from 50% to 100%.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2, pg. 41"
+            },
+            {   "answer": "d.  8 hours after a power decrease from 100% to 50%.",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2, pg. 41"
+            }
+        ]
+    },
+    {
+        "question": "Question 5-09/27/2023 Which ONE of the following describes the difference between reflectors and moderators?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Reflectors decrease core leakage while moderators thermalize neutrons.",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. Reflectors shield against neutrons while moderators decrease core leakage.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988 pg. 2-63."
+            },
+            {   "answer": "c. Reflectors decrease thermal leakage while moderators decrease fast leakage.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988 pg. 2-63."
+            },
+            {   "answer": "d. Reflectors thermalize neutrons while moderators decrease core leakage.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988 pg. 2-63."
+            }
+        ]
+    },{
+        "question": "Question 6-09/27/2023 Complete the following sentence: Due to greater neutron ______ and less ______ by D2O than by H2O, the power in the front of the core is enhanced when the reactor is operated against the D2O tank. (The enhancement produces a change in indications equivalent to about 10% of the indicated power level at 100 kW.)",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. reflection, absorption",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. absorption, reflection",
+            "correct": false,
+            "feedback": "Incorrect. REF: PSBR Training Manual Chapter 3, A.5 Operation of Reactor Against D2O Tank."
+            },
+            {   "answer": "c. capture, activation",
+            "correct": false,
+            "feedback": "Incorrect. REF: PSBR Training Manual Chapter 3, A.5 Operation of Reactor Against D2O Tank."
+            },
+            {   "answer": "d. activation, capture",
+            "correct": false,
+            "feedback": "Incorrect. REF: PSBR Training Manual Chapter 3, A.5 Operation of Reactor Against D2O Tank."
+            }
+        ]
+    },
+    {
+        "question": "Question 7-09/27/2023 The reactor has scrammed following an extended period of operation at full power. Which one of the following accounts for a majority of the heat generated one (1) hour after the scram?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Spontaneous fissions.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988 pg. 3-4." 
+            },
+            {   "answer": "b. Delayed neutron fissions",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988 pg. 3-4."
+            },
+            {   "answer": "c. Alpha fission product decay.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988 pg. 3-4."
+            },
+            {   "answer": "d. Beta fission product decay.",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 8-09/27/2023 As primary coolant temperature increases, control rod worth:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. decreases due to lower reflector efficiency.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988 pg. 6-1." 
+            },
+            {   "answer": "b. decreases due to higher neutron absorption in the moderator.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988 pg. 6-1."
+            },
+            {   "answer": "c. increases due to the increase in thermal diffusion length.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. remains the same due to constant poison cross-section of the control rods.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988 pg. 6-1."
+            }
+        ]
+    },
+    {
+        "question": "Question 9-09/27/2023 The moderator temperature coefficient for a reactor is -0.00082 ∆k/k/oF. What the total reactivity change caused by a temperature decrease of 10°F?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 0.0015 ∆k/k",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook Nuclear Physics & Reactor Theory, Vol. 2, Section 'Reactivity Coefficients and Reactivity Defect'." 
+            },
+            {   "answer": "b. 0.0028 ∆k/k",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook Nuclear Physics & Reactor Theory, Vol. 2, Section 'Reactivity Coefficients and Reactivity Defect'."
+            },
+            {   "answer": "c. 0.0041 ∆k/k",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Handbook Nuclear Physics & Reactor Theory, Vol. 2, Section 'Reactivity Coefficients and Reactivity Defect'."
+            },
+            {   "answer": "d. 0.0082 ∆k/k",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 10-09/27/2023 A few minutes following a reactor scram at full power, the reactor period has stabilized and the power level is decreasing at a CONSTANT rate. What is a reactor power level two minutes later from 1 kW?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 975 W",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P0 e-t/T = 1 kW * e(120sec/-80sec) = 1 kW * exp(-1.5) = 0.223 * 1 kW = 0.223 kW = 223 W" 
+            },
+            {   "answer": "b. 446 W",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P0 e-t/T = 1 kW * e(120sec/-80sec) = 1 kW * exp(-1.5) = 0.223 * 1 kW = 0.223 kW = 223 W"
+            },
+            {   "answer": "c. 223 W",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. 111 W",
+            "correct": false,
+            "feedback": "Incorrect. REF: P = P0 e-t/T = 1 kW * e(120sec/-80sec) = 1 kW * exp(-1.5) = 0.223 * 1 kW = 0.223 kW = 223 W"
+            }
+        ]
+    },
+    {
+        "question": "Question 11-09/27/2023 Reactor A increases power from 10% to 20% with a period of 25 seconds. Reactor B increases power from 80% to 100% with a period of also 25 seconds. Compared to Reactor A, the time required for the power increase of Reactor B is:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. longer than A.",
+            "correct": false,
+            "feedback": "Incorrect. REF: The power of reactor A increases by a factor of 2, while the power of reactor B increases by a factor of 1.25. Since the periods are the same (rate of change is the same), power increase B takes a shorter time." 
+            },
+            {   "answer": "b. exactly the same as A.",
+            "correct": false,
+            "feedback": "Incorrect. REF: The power of reactor A increases by a factor of 2, while the power of reactor B increases by a factor of 1.25. Since the periods are the same (rate of change is the same), power increase B takes a shorter time."
+            },
+            {   "answer": "c. twice that of A.",
+            "correct": false,
+            "feedback": "Incorrect. REF: The power of reactor A increases by a factor of 2, while the power of reactor B increases by a factor of 1.25. Since the periods are the same (rate of change is the same), power increase B takes a shorter time."
+            },
+            {   "answer": "d. shorter than A.",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 12-09/27/2023 A reactor is subcritical with a Keff of 0.955. A positive reactivity of 0.030 ∆k/k is inserted into the core, which ONE of the following best describes the reactor kinetics?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. The reactor is sub-critical.",
+            "correct": false,
+            "feedback": "Incorrect. REF: xxx" 
+            },
+            {   "answer": "b. The reactor is critical.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, pg. 3-21."
+            },
+            {   "answer": "c. The reactor is super-critical.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, pg. 3-21."
+            },
+            {   "answer": "d. The reactor is prompt-critical.",
+            "correct": false,
+            "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, pg. 3-21."
+            }
+        ]
+    },
+    {
+        "question": "Question 13-09/27/2023 Which ONE of the following conditions will increase the core excess of a reactor?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Fuel depletion",
+            "correct": false,
+            "feedback": "Incorrect. REF:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2, pg. 30." 
+            },
+            {   "answer": "b. Burnout of a burnable poison.",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "c. Insertion of a negative reactivity worth experiment.",
+            "correct": false,
+            "feedback": "Incorrect. REF:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2, pg. 30."
+            },
+            {   "answer": "d. Higher moderator temperature (assume negative temperature coefficient).",
+            "correct": false,
+            "feedback": "Incorrect. REF:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2, pg. 30."
+            }
+        ]
+    },
+    {
+        "question": "Question 16-09/27/2023 A reactor has been operating at full power for one week when a scram occurs. Twelve hours later, the reactor is brought critical and quickly raised to full power. Considering xenon effects only, to maintain a constant power level for the next few hours, control rods must be:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. Inserted.",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. maintained at the present position.",
+            "correct": false,
+            "feedback": "Incorrect. REF: PSBR Reactor Training Manual, Chapter 3 'Reactor Physics and Operating Characteristics', Pages 69 through 72."
+            },
+            {   "answer": "c. Withdrawn.",
+            "correct": false,
+            "feedback": "Incorrect. REF: PSBR Reactor Training Manual, Chapter 3 'Reactor Physics and Operating Characteristics', Pages 69 through 72."
+            },
+            {   "answer": "d. withdrawn, then inserted to the original position.",
+            "correct": false,
+            "feedback": "Incorrect. REF: PSBR Reactor Training Manual, Chapter 3 'Reactor Physics and Operating Characteristics', Pages 69 through 72."
+            }
+        ]
+    },
+    {
+        "question": "Question 17-09/27/2023 The reactor is operating at 100 KW. The reactor operator withdraws the regulating rod allowing power to increase. The operator then inserts the same rod to its original position, decreasing power. In comparison to the period due to the rod withdrawal, what will be the period due to the rod insertion? The period due to the rod insertion will be…",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. longer due to long lived delayed neutron precursors.",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. shorter due to long lived delayed neutron precursors.",
+            "correct": false,
+            "feedback": "Incorrect. REF: PSBR Reactor Training Manual – Chapter 3 'Reactor Physics and Operating Characteristics', pg. 101."
+            },
+            {   "answer": "c. same due to equal amounts of reactivity being added.",
+            "correct": false,
+            "feedback": "Incorrect. REF: PSBR Reactor Training Manual – Chapter 3 'Reactor Physics and Operating Characteristics', pg. 101."
+            },
+            {   "answer": "d. same due to equal reactivity rates from the rod.",
+            "correct": false,
+            "feedback": "Incorrect. REF: PSBR Reactor Training Manual – Chapter 3 'Reactor Physics and Operating Characteristics', pg. 101."
+            }
+        ]
+    },
+    {
+        "question": "Question 18-09/27/2023 The count rate is 50 cps. An experimenter inserts an experiment into the core, and the count rate decreases to 25 cps. Given the initial Keff of the reactor was 0.8, what is the worth of the experiment?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. ∆ρ = - 0.42",
+            "correct": true,
+            "feedback": "Correct" 
+            },
+            {   "answer": "b. ∆ρ = + 0.42",
+            "correct": false,
+            "feedback": "Incorrect. REF: CR1 / CR2 = (1 – K_eff2) / (1 – K_eff1) → 50 / 25 = (1 – K_eff2) / (1 – 0.8) Therefore K_eff2 = 0.6 ∆ρ = K_eff2 – K_eff1 / K_eff2 · K_eff1 = (0.6 – 0.8)/(0.6 · 0.8) = - 0.41667"
+            },
+            {   "answer": "c. ∆ρ = - 0.21",
+            "correct": false,
+            "feedback": "Incorrect. REF: CR1 / CR2 = (1 – K_eff2) / (1 – K_eff1) → 50 / 25 = (1 – K_eff2) / (1 – 0.8) Therefore K_eff2 = 0.6 ∆ρ = K_eff2 – K_eff1 / K_eff2 · K_eff1 = (0.6 – 0.8)/(0.6 · 0.8) = - 0.41667"
+            },
+            {   "answer": "d.  ∆ρ = + 0.21",
+            "correct": false,
+            "feedback": "Incorrect. REF: CR1 / CR2 = (1 – K_eff2) / (1 – K_eff1) → 50 / 25 = (1 – K_eff2) / (1 – 0.8) Therefore K_eff2 = 0.6 ∆ρ = K_eff2 – K_eff1 / K_eff2 · K_eff1 = (0.6 – 0.8)/(0.6 · 0.8) = - 0.41667"
+            }
+        ]
+    },
+    {
+        "question": "Question 19-09/27/2023 A reactor startup is in progress. Each control rod withdrawal is inserting exactly EQUAL amounts of reactivity. Select the EXPECTED neutron population and count rate response as 'K_eff' approaches 1.0. The change in neutron population per reactivity insertion is:",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. SMALLER, and it takes LESS time to reach a new equilibrium count rate.",
+            "correct": false,
+            "feedback": "Incorrect. REF: PSBR Reactor Training Manual – Chapter 3” Reactor Physics and Operating Characteristics”, pg. 93." 
+            },
+            {   "answer": "b. LARGER, and it takes LESS time to reach a new equilibrium count rate.",
+            "correct": false,
+            "feedback": "Incorrect. REF: PSBR Reactor Training Manual – Chapter 3” Reactor Physics and Operating Characteristics”, pg. 93."
+            },
+            {   "answer": "c. SMALLER, and it takes MORE time to reach a new equilibrium count rate.",
+            "correct": false,
+            "feedback": "Incorrect. REF: PSBR Reactor Training Manual – Chapter 3” Reactor Physics and Operating Characteristics”, pg. 93."
+            },
+            {   "answer": "d. LARGER, and it takes MORE time to reach a new equilibrium count rate.",
+            "correct": true,
+            "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "Question 20-09/27/2023 A reactor contains a neutron source that produces 10,000 neutrons/second. The reactor has a k_eff = 0.92. What is the stable total neutron production rate in the reactor?",
+            "type": "multiple_choice",
+            "answers": [
+            {   "answer": "a. 100,000 neutrons/sec",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Vol. 2, Module 4, EO 1.2, pg. 4" 
+            },
+            {   "answer": "b. 115,074 neutrons/sec",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Vol. 2, Module 4, EO 1.2, pg. 4"
+            },
+            {   "answer": "c. 125,000 neutrons/sec",
+            "correct": true,
+            "feedback": "Correct"
+            },
+            {   "answer": "d. 135,135 neutrons/sec",
+            "correct": false,
+            "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Vol. 2, Module 4, EO 1.2, pg. 4"
+            }
+        ]
+    }
+]

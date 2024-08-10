@@ -1,6 +1,7 @@
 [
     {
             "question": "Question 1-06/04/2020 What effect does moderator temperature have on neutron population?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. As the density of the moderator decreases, less moderation occurs and more neutrons leaks from the core.",
                 "correct": true,
@@ -22,6 +23,7 @@
     },
     {
             "question": "Question 2-06/04/2020 Which ONE of the following is the major source of energy released during fission?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Absorption of prompt gamma rays",
                 "correct": false,
@@ -43,6 +45,7 @@
     },
     {
             "question": "Question 3-06/04/2020 Five minutes after shutting down the reactor, reactor power is 3 x 10^6 counts per minute (cpm). Which ONE of the following is the count rate you would expect two minutes later?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. 1 x 10^6 cpm",
                 "correct": false,
@@ -64,6 +67,7 @@
     },
     {
             "question": "Question 4-06/04/2020 What is β?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. The fractional change in neutron population per generation",
                 "correct": false,
@@ -85,6 +89,7 @@
     },
     {
             "question": "Question 6-06/04/2020 Which ONE of the following conditions will DECREASE the core excess reactivity?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Fuel depletion",
                 "correct": true,
@@ -106,6 +111,7 @@
     },
     {
             "question": "Question 8-06/04/2020 Which ONE of the following is the direct result of using heavy water for a reflector and light water as a moderator?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Less xenon accumulation.",
                 "correct": false,
@@ -127,6 +133,7 @@
     },
     {
             "question": "Question 11-06/04/2020 During a fuel loading of the core, as the reactor approaches criticality, the value of 1/M:",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Increases toward one.",
                 "correct": false,
@@ -148,6 +155,7 @@
     },
     {
             "question": "Question 12-06/04/2020 If the multiplication factor, k, is increased from 0.800 to 0.950, the amount of reactivity added is:",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. 0.532 k/k",
                 "correct": false,
@@ -169,6 +177,7 @@
     },
     {
             "question": "Question 13-06/04/2020 Which factors of the six-factor formula are affected by an INCREASE in core moderator temperature and how are they affected? Lf - Fast non-leakage probability Lt – Thermal non- leakage probability ɛ - Fast fission factor p – Resonance escape probability η – Reproduction factor f – Thermal utilization factor",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. ↓Lf, ↓Lt, ↓p, ↑f",
                 "correct": true,
@@ -190,6 +199,7 @@
     },
     {
             "question": "Question 14-06/04/2020 Which ONE of the following isotopes will readily absorb neutrons when it interacts with neutrons?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Hydrogen-1",
                 "correct": false,
@@ -211,6 +221,7 @@
     },
     {
             "question": "Question 15-06/04/2020 Which ONE of the following parameters is MOST significant in determining the differential rod worth of a control rod?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Rod speed",
                 "correct": false,
@@ -232,6 +243,7 @@
     },
     {
             "question": "Question 16-06/04/2020 Which type of neutron interaction (light nuclei) is most effective in moderating fast neutrons to thermal neutrons?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Neutron capture",
                 "correct": false,
@@ -253,6 +265,7 @@
     },
     {
             "question": "Question 17-06/04/2020 A reactor with keff = 0.8 contributes 1000 neutrons in the first generation. Changing from first generation to third generation, what is the total number of neutrons produced in all three generations?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. 2040 neutrons",
                 "correct": false,
@@ -274,6 +287,7 @@
     },
     {
             "question": "Question 18-06/04/2020 Reactor is critical. What would be the corresponding keff when removing 0.03 ∆k/k from its criticality?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. 0.9244",
                 "correct": false,
@@ -295,6 +309,7 @@
     },
     {
             "question": "Question 19-06/04/2020 The reactor is on a CONSTANT positive period. Which ONE of the following power changes will take the LONGEST time to complete?",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. From 100 kW to 150 kW",
                 "correct": false,
@@ -316,6 +331,7 @@
     },
     {
             "question": "Question 20-06/04/2020 Which ONE of the following is the definition of Differential Control Rod Worth? Reactivity:",
+        "type": "multiple_choice"
         "answers": [
             {   "answer": "a. Due to the control rod position (k/k)",
                 "correct": false,
