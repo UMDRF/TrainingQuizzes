@@ -1,0 +1,470 @@
+[
+    {
+        "answers": [
+            {
+                "answer": "a. fast fission factor (\u03b5).",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            },
+            {
+                "answer": "b. thermal utilization factor (f).",
+                "correct": true,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            },
+            {
+                "answer": "c. neutron reproduction factor (\u03b7).",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            },
+            {
+                "answer": "d. resonance escape probability (p).",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            }
+        ],
+        "question": "Control Rod withdrawal predominantly changes Keff by changing the ...",
+        "type": "multiple choice"
+    },
+    {
+        "answers": [
+            {
+                "answer": "a. U235",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            },
+            {
+                "answer": "b. B10",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            },
+            {
+                "answer": "C. Sm149",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            },
+            {
+                "answer": "d. Xe",
+                "correct": true,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            }
+        ],
+        "question": "Which ONE of the following isotopes has the largest microscopic cross-section for absorption for thermal neutrons?",
+        "type": "multiple choice"
+    },
+    {
+        "answers": [
+            {
+                "answer": "a. Keff = 1; \u0394k/k (\u03c1) = 1",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            },
+            {
+                "answer": "b. Keff = 1; \u0394k/k (\u03c1) = 0",
+                "correct": true,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            },
+            {
+                "answer": "c. Keff = 0; \u0394k/k (\u03c1) = 1",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            },
+            {
+                "answer": "d. Keff = 0; \u0394k/k (\u03c1) = 0",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            }
+        ],
+        "question": "Which ONE of the following conditions describes a critical reactor?",
+        "type": "multiple choice"
+    },
+    {
+        "answers": [
+            {
+                "answer": "a. 0.91",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7 CR1/CR2 = (1-keff2)/(1 - keff1) (1 - keff2) = (1 - 0.90) \u00d7 30/60 = 0.1 \u00d7 30/60 = 0.05 1- keff = 0.05 or keff = 0.95"
+            },
+            {
+                "answer": "b. 0.925",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7 CR1/CR2 = (1-keff2)/(1 - keff1) (1 - keff2) = (1 - 0.90) \u00d7 30/60 = 0.1 \u00d7 30/60 = 0.05 1- keff = 0.05 or keff = 0.95"
+            },
+            {
+                "answer": "c. 0.95",
+                "correct": true,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7 CR1/CR2 = (1-keff2)/(1 - keff1) (1 - keff2) = (1 - 0.90) \u00d7 30/60 = 0.1 \u00d7 30/60 = 0.05 1- keff = 0.05 or keff = 0.95"
+            },
+            {
+                "answer": "d. 0.975",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7 CR1/CR2 = (1-keff2)/(1 - keff1) (1 - keff2) = (1 - 0.90) \u00d7 30/60 = 0.1 \u00d7 30/60 = 0.05 1- keff = 0.05 or keff = 0.95"
+            }
+        ],
+        "question": "Initially Nuclear Instrumentation is reading 30 CPS and the reactor has a Keff of 0.90. You add",
+        "type": "multiple choice"
+    },
+    {
+        "answers": [
+            {
+                "answer": "a. > 1 MeV",
+                "correct": false,
+                "feedback": "Glasstone, S., Nuclear Reactor Engineering, Kreiger Publishing, Malabar: Florida, 1991. 3rd Edition. pg. 13"
+            },
+            {
+                "answer": "b. 100 KeV \u2013 1 MeV",
+                "correct": false,
+                "feedback": "Glasstone, S., Nuclear Reactor Engineering, Kreiger Publishing, Malabar: Florida, 1991. 3rd Edition. pg. 13"
+            },
+            {
+                "answer": "c. 1 eV \u2013 100 KeV",
+                "correct": false,
+                "feedback": "Glasstone, S., Nuclear Reactor Engineering, Kreiger Publishing, Malabar: Florida, 1991. 3rd Edition. pg. 13"
+            },
+            {
+                "answer": "d. < 1 eV",
+                "correct": true,
+                "feedback": "Glasstone, S., Nuclear Reactor Engineering, Kreiger Publishing, Malabar: Florida, 1991. 3rd Edition. pg. 13"
+            }
+        ],
+        "question": "What is the kinetic energy range of a thermal neutron?",
+        "type": "multiple choice"
+    },
+    {
+        "answers": [
+            {
+                "answer": "a. 5.6 inches in",
+                "correct": false,
+                "feedback": "The temperature increase will result in a change in reactivity of: -2.5 \u00d7 10-4 \u0394K/K/C \u00d7 50C = -1.25 \u00d7 10-2 \u0394K/K. Since the temperature rise results in a negative reactivity insertion, the control rod will need to drive out to add positive reactivity. D = (1.25 \u00d7 10-2 \u0394K/K) \u00f7 (5.895 \u00d7 10-3 \u0394K/K/inch) = 2.12 inches"
+            },
+            {
+                "answer": "b. 2.1 inches out",
+                "correct": false,
+                "feedback": "The temperature increase will result in a change in reactivity of: -2.5 \u00d7 10-4 \u0394K/K/C \u00d7 50C = -1.25 \u00d7 10-2 \u0394K/K. Since the temperature rise results in a negative reactivity insertion, the control rod will need to drive out to add positive reactivity. D = (1.25 \u00d7 10-2 \u0394K/K) \u00f7 (5.895 \u00d7 10-3 \u0394K/K/inch) = 2.12 inches"
+            },
+            {
+                "answer": "c. 0.5 inches in",
+                "correct": false,
+                "feedback": "The temperature increase will result in a change in reactivity of: -2.5 \u00d7 10-4 \u0394K/K/C \u00d7 50C = -1.25 \u00d7 10-2 \u0394K/K. Since the temperature rise results in a negative reactivity insertion, the control rod will need to drive out to add positive reactivity. D = (1.25 \u00d7 10-2 \u0394K/K) \u00f7 (5.895 \u00d7 10-3 \u0394K/K/inch) = 2.12 inches"
+            },
+            {
+                "answer": "d. 4.3 inches out",
+                "correct": false,
+                "feedback": "The temperature increase will result in a change in reactivity of: -2.5 \u00d7 10-4 \u0394K/K/C \u00d7 50C = -1.25 \u00d7 10-2 \u0394K/K. Since the temperature rise results in a negative reactivity insertion, the control rod will need to drive out to add positive reactivity. D = (1.25 \u00d7 10-2 \u0394K/K) \u00f7 (5.895 \u00d7 10-3 \u0394K/K/inch) = 2.12 inches"
+            }
+        ],
+        "question": "Suppose the temperature coefficient of a core is -2.5 \u00d7 10",
+        "type": "multiple choice"
+    },
+    {
+        "answers": [
+            {
+                "answer": "a. The ratio of the number of neutrons produced by fast fission to the number produced by thermal fission.",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            },
+            {
+                "answer": "b. The ratio of the number of neutrons produced by thermal fission to the number produced by fast fission.",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            },
+            {
+                "answer": "c. The ratio of the number of neutrons produced by fast fission to the number produced by fast and thermal fission.",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            },
+            {
+                "answer": "d. The ratio of the number of neutrons produced by fast and thermal fission to the number produced by thermal fission.",
+                "correct": true,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            }
+        ],
+        "question": "Which one of the following is the definition of the FAST FISSION FACTOR? ",
+        "type": "multiple choice"
+    },
+    {
+        "answers": [
+            {
+                "answer": "a. Neutron Flux (nv)",
+                "correct": true,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            },
+            {
+                "answer": "b. Neutron Density (nd)",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            },
+            {
+                "answer": "c. Neutron Population (np)",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            },
+            {
+                "answer": "d. Neutron Impact Potential (nip)",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            }
+        ],
+        "question": "The number of neutrons passing through a one square centimeter of target material per second is the definition of which one of the following?",
+        "type": "multiple choice"
+    },
+    {
+        "answers": [
+            {
+                "answer": "",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7 P = P0 et/\u03c4"
+            },
+            {
+                "answer": ", ln(65/15) = 30sec/\u03c4 \u03c4 = (30 sec)/(ln 4.3333) = 20.456",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7 P = P0 et/\u03c4"
+            },
+            {
+                "answer": "c. 21 seconds",
+                "correct": true,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7 P = P0 et/\u03c4"
+            },
+            {
+                "answer": "d. 28 seconds",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7 P = P0 et/\u03c4"
+            }
+        ],
+        "question": "Reactor Power increases from 15 watts to 65 watts in 30 seconds. The period of the reactor is:",
+        "type": "multiple choice"
+    },
+    {
+        "answers": [
+            {
+                "answer": "a. supercritical.",
+                "correct": false,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Page 3-20. Initial Reactivity = (K-1)/K = (0.955 -1)/0.955 = - 0.047 delta k/k After reactivity insertion, net reactivity = - 0.047 + 0.035 = - 0.012 delta k/k"
+            },
+            {
+                "answer": "b. exactly critical.",
+                "correct": false,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Page 3-20. Initial Reactivity = (K-1)/K = (0.955 -1)/0.955 = - 0.047 delta k/k After reactivity insertion, net reactivity = - 0.047 + 0.035 = - 0.012 delta k/k"
+            },
+            {
+                "answer": "c. subcritical.",
+                "correct": true,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Page 3-20. Initial Reactivity = (K-1)/K = (0.955 -1)/0.955 = - 0.047 delta k/k After reactivity insertion, net reactivity = - 0.047 + 0.035 = - 0.012 delta k/k"
+            },
+            {
+                "answer": "d. prompt critical.",
+                "correct": false,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Page 3-20. Initial Reactivity = (K-1)/K = (0.955 -1)/0.955 = - 0.047 delta k/k After reactivity insertion, net reactivity = - 0.047 + 0.035 = - 0.012 delta k/k"
+            }
+        ],
+        "question": "A reactor is subcritical with a Keff of 0.955. A positive reactivity of 3.5% delta k/k is inserted into the core. At this point, the reactor is:",
+        "type": "multiple choice"
+    },
+    {
+        "answers": [
+            {
+                "answer": "a. remains unchanged.",
+                "correct": false,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Page 4-8."
+            },
+            {
+                "answer": "b. increases because prompt neutrons are being produced at a faster rate.",
+                "correct": false,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Page 4-8."
+            },
+            {
+                "answer": "c. increases because delayed neutron precursors are being produced at a faster rate.",
+                "correct": false,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Page 4-8."
+            },
+            {
+                "answer": "d. decreases because delayed neutrons are being produced from precursors that were formed at a lower power level.",
+                "correct": true,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Page 4-8."
+            }
+        ],
+        "question": "During the time when reactor power increases, the delayed neutron fraction, \u03b2:",
+        "type": "multiple choice"
+    },
+    {
+        "answers": [
+            {
+                "answer": "a. DRW relates the worth of the rod per increment of movement to rod position. IRW \u0002relates the total reactivity added by the rod to rod position.",
+                "correct": true,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Pages 7-1 thru 7-5."
+            },
+            {
+                "answer": "b. DRW relates the time rate of reactivity change to rod position. IRW relates the total reactivity in the core to the time rate of reactivity change.",
+                "correct": false,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Pages 7-1 thru 7-5."
+            },
+            {
+                "answer": "c. IRW relates the worth of the rod per increment of movement to rod position. DRW relates the total reactivity added by the rod to rod position.",
+                "correct": false,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Pages 7-1 thru 7-5."
+            },
+            {
+                "answer": "d. IRW is the slope of the DRW at a given rod position.",
+                "correct": false,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Pages 7-1 thru 7-5."
+            }
+        ],
+        "question": "Which ONE of the following statements describes the difference between Differential Rod Worth (DRW) and Integral Rod Worth (IRW)?",
+        "type": "multiple choice"
+    },
+    {
+        "answers": [
+            {
+                "answer": "a. Neutron flux will be higher for the first startup.",
+                "correct": true,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Pages 5-14 thru 5-19."
+            },
+            {
+                "answer": "b. Neutron flux will be higher for the second startup.",
+                "correct": false,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Pages 5-14 thru 5-19."
+            },
+            {
+                "answer": "c. The first startup will result in a higher rod position (rods further out of the core).",
+                "correct": false,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Pages 5-14 thru 5-19."
+            },
+            {
+                "answer": "d. The second startup will result in a higher rod position (rods further out of the core).",
+                "correct": false,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Pages 5-14 thru 5-19."
+            }
+        ],
+        "question": "Two different neutron sources were used during two reactor startups. The source used in the first startup emits ten times as many neutrons as the source used in the second startup. Assume all other factors are the same for the second startup. Which ONE of the following states the expected result at criticality?",
+        "type": "multiple choice"
+    },
+    {
+        "answers": [
+            {
+                "answer": "a. 29 sec",
+                "correct": false,
+                "feedback": "ln (2) = -time/\u03c4 \u03c4 = time/(ln(2)) = 60.59 \u2248 61 seconds"
+            },
+            {
+                "answer": "b. 42 sec",
+                "correct": false,
+                "feedback": "ln (2) = -time/\u03c4 \u03c4 = time/(ln(2)) = 60.59 \u2248 61 seconds"
+            },
+            {
+                "answer": "c. 61 sec",
+                "correct": true,
+                "feedback": "ln (2) = -time/\u03c4 \u03c4 = time/(ln(2)) = 60.59 \u2248 61 seconds"
+            },
+            {
+                "answer": "d. 84 sec",
+                "correct": false,
+                "feedback": "ln (2) = -time/\u03c4 \u03c4 = time/(ln(2)) = 60.59 \u2248 61 seconds"
+            }
+        ],
+        "question": "When performing rod calibrations, many facilities pull the rod out a given increment, then measure the time for reactor power to double (doubling time), then calculate the reactor period. If the doubling time is 42 seconds, what is the reactor period?",
+        "type": "multiple choice"
+    },
+    {
+        "answers": [
+            {
+                "answer": "a. During reactor operation, Xenon concentration is dependent on reactor power level.",
+                "correct": false,
+                "feedback": "Reactor Theory (Nuclear Parameters), Enabling Objectives 4.1 through 4.15"
+            },
+            {
+                "answer": "b. Following shutdown, Samarium concentration will increase to some value then stabilize.",
+                "correct": false,
+                "feedback": "Reactor Theory (Nuclear Parameters), Enabling Objectives 4.1 through 4.15"
+            },
+            {
+                "answer": "c. During reactor operation, Samarium concentration is independent of reactor power level.",
+                "correct": true,
+                "feedback": "Reactor Theory (Nuclear Parameters), Enabling Objectives 4.1 through 4.15"
+            },
+            {
+                "answer": "d. Following shutdown, Xenon concentration will initially increase to some value then decrease exponentially.",
+                "correct": false,
+                "feedback": "Reactor Theory (Nuclear Parameters), Enabling Objectives 4.1 through 4.15"
+            }
+        ],
+        "question": "Which ONE of the following statements concerning reactor poisons is NOT true?",
+        "type": "multiple choice"
+    },
+    {
+        "answers": [
+            {
+                "answer": "a. 35Br87 \u2192 33As83",
+                "correct": true,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            },
+            {
+                "answer": "b. 35Br87 \u2192 35Br87",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            },
+            {
+                "answer": "c. 35Br87 \u2192 34Se86",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            },
+            {
+                "answer": "d. 35Br87 \u2192 36Kr87",
+                "correct": false,
+                "feedback": "Burn, R., Introduction to Nuclear Reactor Operations, \u00a9 1988, \u00a7"
+            }
+        ],
+        "question": "Which ONE of the following is an example of alpha decay?",
+        "type": "multiple choice"
+    },
+    {
+        "answers": [
+            {
+                "answer": "a. The instantaneous change in power level due to withdrawing a control rod.",
+                "correct": true,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Page 4-21."
+            },
+            {
+                "answer": "b. A reactor which has attained criticality on prompt neutrons alone.",
+                "correct": false,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Page 4-21."
+            },
+            {
+                "answer": "c. A reactor which is critical using both prompt and delayed neutrons.",
+                "correct": false,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Page 4-21."
+            },
+            {
+                "answer": "d. A negative reactivity insertion which is less than Keff.",
+                "correct": false,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Page 4-21."
+            }
+        ],
+        "question": "Which ONE of the following describes the term prompt jump?",
+        "type": "multiple choice"
+    },
+    {
+        "answers": [
+            {
+                "answer": "a. A reflector increases the fast non-leakage factor and a moderator increases the thermal utilization factor.",
+                "correct": true,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Page 3-16."
+            },
+            {
+                "answer": "b. A reflector increases the neutron production factor and a moderator increases the fast fission factor.",
+                "correct": false,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Page 3-16."
+            },
+            {
+                "answer": "c. A reflector decreases the thermal utilization factor and a moderator increases the fast fission factor.",
+                "correct": false,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Page 3-16."
+            },
+            {
+                "answer": "d. A reflector decreases the neutron production factor and a moderator decreases the fast nonleakage factor.",
+                "correct": false,
+                "feedback": "Burn, Introduction to Nuclear Reactor Operations, Page 3-16."
+            }
+        ],
+        "question": "Which ONE of the following describes the difference between a moderator and reflector?",
+        "type": "multiple choice"
+    }
+]
