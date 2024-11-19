@@ -1,0 +1,522 @@
+[
+  {
+    "question": "A.01 [1.0 point] (1.0) Which ONE of the following is true concerning the differences between prompt and delayed neutrons?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Prompt neutrons account for less than one percent of the neutron population while delayed neutrons account for approximately ninety-nine percent of the neutron population.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Training Manual, Page 2-16."
+      },
+      {
+        "answer": "b. Prompt neutrons are released during fast fissions while delayed neutrons are released during thermal fissions.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Training Manual, Page 2-16."
+      },
+      {
+        "answer": "c. Prompt neutrons are released during the fission process while delayed neutrons are released during the decay of fission products.",
+        "correct": true,
+        "feedback": "Correct. Reference: Reactor Training Manual, Page 2-16."
+      },
+      {
+        "answer": "d. Prompt neutrons are the dominating factor in determining the reactor period while delayed neutrons have little effect on the reactor period.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Training Manual, Page 2-16."
+      }
+    ]
+  },
+  {
+    "question": "A.02 [1.0 point] (2.0) A reactor scram has resulted in the instantaneous insertion of .006 ∆K/K of negative reactivity. Which one of the following is the stable negative reactor period resulting from the scram?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 45 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 4.6"
+      },
+      {
+        "answer": "b. 56 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 4.6"
+      },
+      {
+        "answer": "c. 80 seconds",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 4.6"
+      },
+      {
+        "answer": "d. 112 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 4.6"
+      }
+    ]
+  },
+  {
+    "question": "A.03 [1.0 point] (3.0) Which ONE of the following isotopes has the largest microscopic cross-section for absorption for thermal neutrons?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Sm149",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, J. “Introduction to Nuclear Engineering” p. 738 Sm149 (41,000 b); U235 (687 b); Xe135 (2.65 x 106 b); B10 (3840 b)"
+      },
+      {
+        "answer": "b. U235",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, J. “Introduction to Nuclear Engineering” p. 738 Sm149 (41,000 b); U235 (687 b); Xe135 (2.65 x 106 b); B10 (3840 b)"
+      },
+      {
+        "answer": "c. Xe135",
+        "correct": true,
+        "feedback": "Correct. Reference: Lamarsh, J. “Introduction to Nuclear Engineering” p. 738 Sm149 (41,000 b); U235 (687 b); Xe135 (2.65 x 106 b); B10 (3840 b)"
+      },
+      {
+        "answer": "d. B10",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, J. “Introduction to Nuclear Engineering” p. 738 Sm149 (41,000 b); U235 (687 b); Xe135 (2.65 x 106 b); B10 (3840 b)"
+      }
+    ]
+  },
+  {
+    "question": "A.04 [1.0 point] (4.0) When the excess reactivity (Kex) exceeds the delayed neutron fraction (β), a reactor is said to be:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Subcritical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Bevelacqua, J.  2009.  Basic Health Physics.  p.391"
+      },
+      {
+        "answer": "b. Critical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Bevelacqua, J.  2009.  Basic Health Physics.  p.391"
+      },
+      {
+        "answer": "c. Within its shutdown margin requirements",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Bevelacqua, J.  2009.  Basic Health Physics.  p.391"
+      },
+      {
+        "answer": "d. Prompt critical",
+        "correct": true,
+        "feedback": "Correct. Reference: Bevelacqua, J.  2009.  Basic Health Physics.  p.391"
+      }
+    ]
+  },
+  {
+    "question": "A.05 [1.0 point] (5.0) Complete the following sentence. A dollar ($) is a unit of reactivity, where one dollar ($1) is equal to the .",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Delayed neutron precursor decay constant (λ).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Theory (Neutron Characteristics) DOE-HDBK- 1019/1-93 PROMPT AND DELAYED NEUTRON"
+      },
+      {
+        "answer": "b. Effective delayed neutron precursor decay constant (λeff).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Theory (Neutron Characteristics) DOE-HDBK- 1019/1-93 PROMPT AND DELAYED NEUTRON"
+      },
+      {
+        "answer": "c. Delayed neutron fraction (β).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Theory (Neutron Characteristics) DOE-HDBK- 1019/1-93 PROMPT AND DELAYED NEUTRON"
+      },
+      {
+        "answer": "d. Effective delayed neutron fraction (βeff).",
+        "correct": true,
+        "feedback": "Correct. Reference: Reactor Theory (Neutron Characteristics) DOE-HDBK- 1019/1-93 PROMPT AND DELAYED NEUTRON"
+      }
+    ]
+  },
+  {
+    "question": "A.06 [1.0 point] (6.0) In accordance with the PSBR Technical Specifications, the term \"Shutdown Margin\" describes:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the time required for the rods to fully insert",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSBR Technical Specifications, Section 1.1.42."
+      },
+      {
+        "answer": "b. the departure from K-effective = 1.00",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSBR Technical Specifications, Section 1.1.42."
+      },
+      {
+        "answer": "c. the amount of subcriticality, considering the worth of all rods",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSBR Technical Specifications, Section 1.1.42."
+      },
+      {
+        "answer": "d. the amount of subcriticality with the most reactive rod fully withdrawn",
+        "correct": true,
+        "feedback": "Correct. Reference: PSBR Technical Specifications, Section 1.1.42."
+      }
+    ]
+  },
+  {
+    "question": "A.07 [1.0 point] (7.0) The count rate is 50 cps. An experimenter inserts an experiment into the core, and the count rate decreases to 25 cps. Given the initial Keff of the reactor was 0.8, what is the worth of the experiment?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. ∆ρ = - 0.42",
+        "correct": true,
+        "feedback": "Correct. Reference: CR1 / CR2 = (1 – Keff2) / (1 – Keff1) → 50 / 25 = (1 – Keff2) / (1 – 0.8) Therefore Keff2 = 0.6 ∆ρ = Keff2 – Keff1 / Keff2 · Keff1 = (0.6 – 0.8)/(0.6 · 0.8) = - 0.41667"
+      },
+      {
+        "answer": "b. ∆ρ = + 0.42",
+        "correct": false,
+        "feedback": "Incorrect. Reference: CR1 / CR2 = (1 – Keff2) / (1 – Keff1) → 50 / 25 = (1 – Keff2) / (1 – 0.8) Therefore Keff2 = 0.6 ∆ρ = Keff2 – Keff1 / Keff2 · Keff1 = (0.6 – 0.8)/(0.6 · 0.8) = - 0.41667"
+      },
+      {
+        "answer": "c. ∆ρ = - 0.21",
+        "correct": false,
+        "feedback": "Incorrect. Reference: CR1 / CR2 = (1 – Keff2) / (1 – Keff1) → 50 / 25 = (1 – Keff2) / (1 – 0.8) Therefore Keff2 = 0.6 ∆ρ = Keff2 – Keff1 / Keff2 · Keff1 = (0.6 – 0.8)/(0.6 · 0.8) = - 0.41667"
+      },
+      {
+        "answer": "d. ∆ρ = + 0.21",
+        "correct": false,
+        "feedback": "Incorrect. Reference: CR1 / CR2 = (1 – Keff2) / (1 – Keff1) → 50 / 25 = (1 – Keff2) / (1 – 0.8) Therefore Keff2 = 0.6 ∆ρ = Keff2 – Keff1 / Keff2 · Keff1 = (0.6 – 0.8)/(0.6 · 0.8) = - 0.41667"
+      }
+    ]
+  },
+  {
+    "question": "A.08 [1.0 point] (8.0) The following graph for U-235 depicts……",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. neutron energy distribution in the moderator",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Manual Vol. 1, pg. 57"
+      },
+      {
+        "answer": "b. axial flux distribution in the core",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Manual Vol. 1, pg. 57"
+      },
+      {
+        "answer": "c. radial flux distribution in the core",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Manual Vol. 1, pg. 57"
+      },
+      {
+        "answer": "d. fission product yield distribution",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Manual Vol. 1, pg. 57"
+      }
+    ]
+  },
+  {
+    "question": "A.09 [1.0 point] (9.0) A nuclear reactor startup is being performed by adding equal amounts of positive reactivity and waiting for neutron population to stabilize. As the reactor approaches criticality, the numerical change in stable neutron population after each reactivity addition , and the time required for the neutron population to stabilize after each reactivity addition .",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. increases; remains the same",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Question ID #P1766, NRC Generic Fundamentals Examination Question Bank—PWR2010"
+      },
+      {
+        "answer": "b. increases; increases",
+        "correct": true,
+        "feedback": "Correct. Reference: Question ID #P1766, NRC Generic Fundamentals Examination Question Bank—PWR2010"
+      },
+      {
+        "answer": "c. remains the same; remains the same",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Question ID #P1766, NRC Generic Fundamentals Examination Question Bank—PWR2010"
+      },
+      {
+        "answer": "d. remains the same; increases",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Question ID #P1766, NRC Generic Fundamentals Examination Question Bank—PWR2010"
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1.0 point] (10.0) Complete the following sentence. In a nuclear reactor, 95% of all Xenon production is directly produced through the .",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Decay of I-135",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "b. Fission of U-235",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "c. Beta decay of Cs-135",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "d. Fission of U-238",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      }
+    ]
+  },
+  {
+    "question": "A.11 [1.0 point] (11.0) As primary coolant temperature increases, control rod worth:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. decreases due to lower reflector efficiency.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Training Manual - Reactivity Feedback"
+      },
+      {
+        "answer": "b. decreases due to higher neutron absorption in the moderator.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Training Manual - Reactivity Feedback"
+      },
+      {
+        "answer": "c. increases due to the increase in thermal diffusion length.",
+        "correct": true,
+        "feedback": "Correct. Reference: Reactor Training Manual - Reactivity Feedback"
+      },
+      {
+        "answer": "d. remains the same due to constant poison cross-section of the control rods.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Training Manual - Reactivity Feedback"
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1.0 point] (12.0) Excess reactivity is the amount of reactivity:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. associated with samples.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Glasstone and Sesonske, Nuclear Reactor Engineering, Chapter 5, Section 5.114"
+      },
+      {
+        "answer": "b. needed to achieve prompt criticality.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Glasstone and Sesonske, Nuclear Reactor Engineering, Chapter 5, Section 5.114"
+      },
+      {
+        "answer": "c. available above that which is required to make the reactor subcritical.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Glasstone and Sesonske, Nuclear Reactor Engineering, Chapter 5, Section 5.114"
+      },
+      {
+        "answer": "d. available above that which is required to keep the reactor critical.",
+        "correct": true,
+        "feedback": "Correct. Reference: Glasstone and Sesonske, Nuclear Reactor Engineering, Chapter 5, Section 5.114"
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1.0 point] (13.0) You are conducting a reactor startup after installing 2 new fuel assemblies in the core. Given the following rod withdrawal data, estimate the rod position when criticality would occur. The initial count rate on the nuclear instrumentation prior to rod withdrawal is 55 cps.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 11 in",
+        "correct": false,
+        "feedback": "Incorrect. Reference:"
+      },
+      {
+        "answer": "b. 13 in",
+        "correct": true,
+        "feedback": "Correct. Reference:"
+      },
+      {
+        "answer": "c. 15 in",
+        "correct": false,
+        "feedback": "Incorrect. Reference:"
+      },
+      {
+        "answer": "d. 20 in",
+        "correct": false,
+        "feedback": "Incorrect. Reference:"
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1.0 point] (14.0) You are performing a 50 Watt Critical Rod Position. Given the following data, calculate what the Shutdown Margin, as defined by Technical Specifications, is in a clean cold core.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. $0.66",
+        "correct": false,
+        "feedback": "Incorrect. Reference: SDM = Critical worth – Most reactive Rod worth remaining out of core SDM = 8.03-3.97 = $4.06"
+      },
+      {
+        "answer": "b. $3.29",
+        "correct": false,
+        "feedback": "Incorrect. Reference: SDM = Critical worth – Most reactive Rod worth remaining out of core SDM = 8.03-3.97 = $4.06"
+      },
+      {
+        "answer": "c. $4.06",
+        "correct": true,
+        "feedback": "Correct. Reference: SDM = Critical worth – Most reactive Rod worth remaining out of core SDM = 8.03-3.97 = $4.06"
+      },
+      {
+        "answer": "d. $4.63",
+        "correct": false,
+        "feedback": "Incorrect. Reference: SDM = Critical worth – Most reactive Rod worth remaining out of core SDM = 8.03-3.97 = $4.06"
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1.0 point] (15.0) In a subcritical reactor, K eff is increased from 0.861 to 0.946. Which ONE of the following is the amount of reactivity that was added to the reactor core?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.085 delta k/k",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Training Manual - Reactor Kinectics"
+      },
+      {
+        "answer": "b. 0.104 delta k/k",
+        "correct": true,
+        "feedback": "Correct. Reference: Reactor Training Manual - Reactor Kinectics"
+      },
+      {
+        "answer": "c. 0.161 delta k/k",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Training Manual - Reactor Kinectics"
+      },
+      {
+        "answer": "d. 0.218 delta k/k.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Training Manual - Reactor Kinectics"
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1.0 point] (16.0) If reactor power is increasing by a decade every minute, it has a period of:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 13 sec",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering,  Kreiger Publishing, Malabar, Florida, 1991, P = Poet/T    10 = 1e60/T ln 10 = 60/T 2.3 = 60/T T = 60/2.3 T = 26 seconds"
+      },
+      {
+        "answer": "b. 26 sec",
+        "correct": true,
+        "feedback": "Correct. Reference: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering,  Kreiger Publishing, Malabar, Florida, 1991, P = Poet/T    10 = 1e60/T ln 10 = 60/T 2.3 = 60/T T = 60/2.3 T = 26 seconds"
+      },
+      {
+        "answer": "c. 52 sec",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering,  Kreiger Publishing, Malabar, Florida, 1991, P = Poet/T    10 = 1e60/T ln 10 = 60/T 2.3 = 60/T T = 60/2.3 T = 26 seconds"
+      },
+      {
+        "answer": "d. 65 sec",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering,  Kreiger Publishing, Malabar, Florida, 1991, P = Poet/T    10 = 1e60/T ln 10 = 60/T 2.3 = 60/T T = 60/2.3 T = 26 seconds"
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1.0 point] (17.0) With the reactor critical at 10 KW a rod is pulled to insert a positive reactivity of $0.18. Which one of the following will be the stable reactor period as a result of this reactivity insertion?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 10 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactivity added = $0.18 x .007 = 0.00126 τ = (β-ρ)/λeffρ ="
+      },
+      {
+        "answer": "b. 45 seconds",
+        "correct": true,
+        "feedback": "Correct. Reference: Reactivity added = $0.18 x .007 = 0.00126 τ = (β-ρ)/λeffρ ="
+      },
+      {
+        "answer": "c. 55 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactivity added = $0.18 x .007 = 0.00126 τ = (β-ρ)/λeffρ ="
+      },
+      {
+        "answer": "d. 65 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactivity added = $0.18 x .007 = 0.00126 τ = (β-ρ)/λeffρ ="
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1.0 point] (18.0) Which ONE of the following conditions will INCREASE the core excess of a reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Higher moderator temperature (assume negative temperature coefficient)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "b. Insertion of a negative reactivity worth experiment",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "c. Burnout of a burnable poison",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "d. Fuel depletion",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1.0 point] (19.0) Following the reactor started up and it has been at 100% power for 3 hours. The Reactor Operator notes that several small control rod withdrawals are required to maintain power at 100%. Which of the following is the reason for the rod withdrawals?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fuel temperatures are decreasing.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Training Manual - Reactor Physics and Kinetics"
+      },
+      {
+        "answer": "b. Xenon is building in to equilibrium concentration.",
+        "correct": true,
+        "feedback": "Correct. Reference: Reactor Training Manual - Reactor Physics and Kinetics"
+      },
+      {
+        "answer": "c. Pool water temperatures are decreasing.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Training Manual - Reactor Physics and Kinetics"
+      },
+      {
+        "answer": "d. Samarium is burning out from equilibrium concentration.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Training Manual - Reactor Physics and Kinetics"
+      }
+    ]
+  },
+  {
+    "question": "A.20 [1.0 point] (20.0) Given: Primary coolant flow rate is 500 gallons/minute and secondary flow rate is 700 gallons/minute. The ∆T across the primary side of the heat exchanger is 13̊F and secondary inlet temperature to the heat exchanger is 73̊F. Assuming both the primary and secondary coolants have the same Cp value, which ONE of the following is the secondary outlet temperature?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 82̊ F",
+        "correct": true,
+        "feedback": "Correct. Reference: ∆Tsec= (Flowpri/Flowsec) x ∆Tpri ∆Tsec= (500/700) x 13°F = 9.28°F Secondary outlet = 73°F + 9.28°F = 82.3°F"
+      },
+      {
+        "answer": "b. 85̊ F",
+        "correct": false,
+        "feedback": "Incorrect. Reference: ∆Tsec= (Flowpri/Flowsec) x ∆Tpri ∆Tsec= (500/700) x 13°F = 9.28°F Secondary outlet = 73°F + 9.28°F = 82.3°F"
+      },
+      {
+        "answer": "c. 89̊ F",
+        "correct": false,
+        "feedback": "Incorrect. Reference: ∆Tsec= (Flowpri/Flowsec) x ∆Tpri ∆Tsec= (500/700) x 13°F = 9.28°F Secondary outlet = 73°F + 9.28°F = 82.3°F"
+      },
+      {
+        "answer": "d. 91̊ F",
+        "correct": false,
+        "feedback": "Incorrect. Reference: ∆Tsec= (Flowpri/Flowsec) x ∆Tpri ∆Tsec= (500/700) x 13°F = 9.28°F Secondary outlet = 73°F + 9.28°F = 82.3°F"
+      }
+    ]
+  }
+]

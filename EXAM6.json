@@ -1,0 +1,522 @@
+[
+    {
+        "question": "QUESTION A.01 [1.0 point, 0.25 each] Identify whether each of the following conditions will INCREASE or DECREASE the shutdown margin of a reactor.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Raising moderator temperature (Assume negative temperature coefficient). INCREASE",
+                "correct": true,
+                "feedback": "Correct. Reference: DOE Fundamentals Handbook, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 3.6."
+            },
+            {
+                "answer": "b. Insertion of a cadmium foil to the reactor core. INCREASE",
+                "correct": true,
+                "feedback": "Correct. Reference: DOE Fundamentals Handbook, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 3.6."
+            },
+            {
+                "answer": "c. Replacing an old fuel with a new fuel. DECREASE",
+                "correct": true,
+                "feedback": "Correct. Reference: DOE Fundamentals Handbook, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 3.6."
+            },
+            {
+                "answer": "d. Burnout of a burnable poison. DECREASE",
+                "correct": true,
+                "feedback": "Correct. Reference: DOE Fundamentals Handbook, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 3.6."
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.02 [1.0 point] Which ONE of the following statement best defines the reactor excess reactivity? The reactor excess reactivity is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. a measure of the additional fuel loaded to overcome fission product poisoning.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 6.2."
+            },
+            {
+                "answer": "b. a measure of remaining control rod worth when the reactor is exactly critical.",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 6.2."
+            },
+            {
+                "answer": "c. the combined control rod negative reactivity worth required to keep the reactor shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 6.2."
+            },
+            {
+                "answer": "d. the maximum reactivity by which the reactor can be shutdown with one control rod fully withdrawn.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 6.2."
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.03 [1.0 point, 0.25 each] Replace “X” with the type of decay necessary (Alpha, Beta, Gamma or Neutron emission) to produce the following reactions.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 92U238 → 90Th234 + Alpha",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.8."
+            },
+            {
+                "answer": "b. 83Bi203 → 82Pb203 + Beta",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.8."
+            },
+            {
+                "answer": "c. 2He4 + 4Be9 → 6C12 + Neutron",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.8."
+            },
+            {
+                "answer": "d. 84Po210 → 82Pb206 + Alpha",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.8."
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.04 [1.0 point] Given the thermal neutron flux (Ø) is 1.0 × 10^13 neutrons/cm^2/second, and the macroscopic cross-section (Σf) for fission is 0.1 cm^-1. The fission rate is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 1.0 × 10^12 fissions/cm/second",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Fission rate = thermal flux (Ø) × macroscopic cross-section (Σf) = 1.0 × 10^13 × 0.1 cm^-1 = 1.0 × 10^12 neutrons/cm^3/second. Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.6.2."
+            },
+            {
+                "answer": "b. 1.0 × 10^14 fissions/cm/second",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Fission rate = thermal flux (Ø) × macroscopic cross-section (Σf) = 1.0 × 10^13 × 0.1 cm^-1 = 1.0 × 10^12 neutrons/cm^3/second. Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.6.2."
+            },
+            {
+                "answer": "c. 1.0 × 10^12 fissions/cm^3/second",
+                "correct": true,
+                "feedback": "Correct. Reference: Fission rate = thermal flux (Ø) × macroscopic cross-section (Σf) = 1.0 × 10^13 × 0.1 cm^-1 = 1.0 × 10^12 neutrons/cm^3/second. Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.6.2."
+            },
+            {
+                "answer": "d. 1.0 × 10^14 fissions/cm^3/second",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Fission rate = thermal flux (Ø) × macroscopic cross-section (Σf) = 1.0 × 10^13 × 0.1 cm^-1 = 1.0 × 10^12 neutrons/cm^3/second. Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.6.2."
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.05 [1.0 point] If the multiplication factor, k, is increased from 0.800 to 0.950, the amount of reactivity added is: (given: beta effect = 0.007)",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. $2.1",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21. ∆ρ = (k_eff1 - k_eff2) / (k_eff1 × k_eff2) = (0.95 - 0.8) / (0.8 × 0.95) = 0.197, or $0.197/0.007 = $28."
+            },
+            {
+                "answer": "b. $2.8",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21. ∆ρ = (k_eff1 - k_eff2) / (k_eff1 × k_eff2) = (0.95 - 0.8) / (0.8 × 0.95) = 0.197, or $0.197/0.007 = $28."
+            },
+            {
+                "answer": "c. $21",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21. ∆ρ = (k_eff1 - k_eff2) / (k_eff1 × k_eff2) = (0.95 - 0.8) / (0.8 × 0.95) = 0.197, or $0.197/0.007 = $28."
+            },
+            {
+                "answer": "d. $28",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21. ∆ρ = (k_eff1 - k_eff2) / (k_eff1 × k_eff2) = (0.95 - 0.8) / (0.8 × 0.95) = 0.197, or $0.197/0.007 = $28."
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.06 [1.0 point] Reactor power is rising on a 30 second period. Approximately how long will it take for power to triple?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 11 seconds",
+                "correct": false,
+                "feedback": "Incorrect. Reference: P = P0 * e^(t/T) → ln(3) = time / 30 seconds → time = ln(3) × 30 sec. 1.1 × 30 ≈ 33 sec."
+            },
+            {
+                "answer": "b. 33 seconds",
+                "correct": true,
+                "feedback": "Correct. Reference: P = P0 * e^(t/T) → ln(3) = time / 30 seconds → time = ln(3) × 30 sec. 1.1 × 30 ≈ 33 sec."
+            },
+            {
+                "answer": "c. 66 seconds",
+                "correct": false,
+                "feedback": "Incorrect. Reference: P = P0 * e^(t/T) → ln(3) = time / 30 seconds → time = ln(3) × 30 sec. 1.1 × 30 ≈ 33 sec."
+            },
+            {
+                "answer": "d. 80 seconds",
+                "correct": false,
+                "feedback": "Incorrect. Reference: P = P0 * e^(t/T) → ln(3) = time / 30 seconds → time = ln(3) × 30 sec. 1.1 × 30 ≈ 33 sec."
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.07 [1.0 point] The number of neutrons passing through a one square centimeter of target material per second is described as:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Microscopic cross section.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Neutron flux is defined as the number of neutrons passing through a unit area per unit time."
+            },
+            {
+                "answer": "b. Macroscopic cross section.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Neutron flux is defined as the number of neutrons passing through a unit area per unit time."
+            },
+            {
+                "answer": "c. Neutron Flux.",
+                "correct": true,
+                "feedback": "Correct. Reference: Neutron flux is defined as the number of neutrons passing through a unit area per unit time."
+            },
+            {
+                "answer": "d. Fission rate.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Neutron flux is defined as the number of neutrons passing through a unit area per unit time."
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.08 [1.0 point] You are assigned to check the operation of a new nuclear instrumentation channel. A few minutes following a reactor scram at full power, the reactor period has stabilized and the power level is decreasing at a CONSTANT rate. What is the time for power to decrease by a factor of 10? (Note: conversion may be needed)",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 3 minutes",
+                "correct": true,
+                "feedback": "Correct. Reference: P/P0 = e^(-T/τ) → ln(0.1) = -T(time)/τ(-80 sec), Time = ln(0.1) × -80 sec = 184 seconds ≈ 3 minutes."
+            },
+            {
+                "answer": "b. 60 minutes",
+                "correct": false,
+                "feedback": "Incorrect. Reference: P/P0 = e^(-T/τ) → ln(0.1) = -T(time)/τ(-80 sec), Time = ln(0.1) × -80 sec = 184 seconds ≈ 3 minutes."
+            },
+            {
+                "answer": "c. 80 minutes",
+                "correct": false,
+                "feedback": "Incorrect. Reference: P/P0 = e^(-T/τ) → ln(0.1) = -T(time)/τ(-80 sec), Time = ln(0.1) × -80 sec = 184 seconds ≈ 3 minutes."
+            },
+            {
+                "answer": "d. 184 minutes",
+                "correct": false,
+                "feedback": "Incorrect. Reference: P/P0 = e^(-T/τ) → ln(0.1) = -T(time)/τ(-80 sec), Time = ln(0.1) × -80 sec = 184 seconds ≈ 3 minutes."
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.09 [1.0 point] Shown below is a trace of reactor period as a function of time. Between points A and B reactor power is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. continually increasing.",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.3."
+            },
+            {
+                "answer": "b. continually decreasing.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.3."
+            },
+            {
+                "answer": "c. increasing, then decreasing.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.3."
+            },
+            {
+                "answer": "d. constant.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.3."
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.10 [1.0 point] A reactor is slightly supercritical, with the thermal utilization factor = 0.700. A control rod is inserted to bring the reactor back to critical. Assuming all other factors remain unchanged, the new value for the thermal utilization factor is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.698",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1."
+            },
+            {
+                "answer": "b. 0.702",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1."
+            },
+            {
+                "answer": "c. 0.704",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1."
+            },
+            {
+                "answer": "d. 0.706",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1."
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.11 [1.0 point] Delayed neutrons are considered to cause “fission” easier than prompt neutrons because delayed neutrons have a:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. higher energies than prompt fission neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1."
+            },
+            {
+                "answer": "b. higher fast non-leakage probability.",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1."
+            },
+            {
+                "answer": "c. lower reproduction factor.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1."
+            },
+            {
+                "answer": "d. lower thermal utilization factor.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1."
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.12 [1.0 point] Two critical reactors at low power are identical except that Reactor 1 has a beta fraction of 0.0072 and Reactor 2 has a beta fraction of 0.0060. An equal amount of positive reactivity is inserted into both reactors. Which ONE of the following will be the response of Reactor 1 compared to Reactor 2?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The final power level will be lower.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.9."
+            },
+            {
+                "answer": "b. The final power level will be higher.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.9."
+            },
+            {
+                "answer": "c. The resulting period will be longer.",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.9."
+            },
+            {
+                "answer": "d. The resulting period will be shorter.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.9."
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.13 [1.0 point]\nA reactor is critical at 18.1 inches on a controlling rod. The controlling rod is withdrawn to 18.4 inches. The reactivity inserted is 14.4 cents. What is the differential rod worth?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 14.4 cents/inch at 18.25 inches.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 7.3"
+            },
+            {
+                "answer": "b. 48 cents/inch at 18.4 inches.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 7.3"
+            },
+            {
+                "answer": "c. 48 cents/inch at 18.25 inches.",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 7.3"
+            },
+            {
+                "answer": "d. 14.4 cents/inch only between 18.1 and 18.4 inches.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 7.3"
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.14 [1.0 point]\nWhich ONE of the following atoms will cause a neutron to lose the most energy in an elastic collision?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. U-238",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.5.3"
+            },
+            {
+                "answer": "b. Ar-40",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.5.3"
+            },
+            {
+                "answer": "c. O-16",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.5.3"
+            },
+            {
+                "answer": "d. H-1",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.5.3"
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.15 [1.0 point]\nYou are conducting a reactor startup after installing 2 new fuel assemblies in the core. Given the following rod withdrawal data, estimate the rod position when criticality would occur. The initial count rate on the nuclear instrumentation prior to rod withdrawal is 55 cps.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 10 in",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 5.5 -5.7"
+            },
+            {
+                "answer": "b. 11 in",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 5.5 -5.7"
+            },
+            {
+                "answer": "c. 12 in",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 5.5 -5.7"
+            },
+            {
+                "answer": "d. 13 in",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 5.5 -5.7"
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.16 [1.0 point]\nThe reactor is critical at 10 watts. A rod is withdrawn to insert a positive reactivity of $0.18. Which ONE of the following will be the stable reactor period as a result of this reactivity insertion? Given beta effective = 0.007",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 10 seconds",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Reactivity added = $0.18 x .007 = 0.00126 τ = (β-ρ)/λeffρ = 0.007 - 0.00126 = 45.6 seconds (0.1) (0.00126)"
+            },
+            {
+                "answer": "b. 46 seconds",
+                "correct": true,
+                "feedback": "Correct. Reference: Reactivity added = $0.18 x .007 = 0.00126 τ = (β-ρ)/λeffρ = 0.007 - 0.00126 = 45.6 seconds (0.1) (0.00126)"
+            },
+            {
+                "answer": "c. 55 seconds",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Reactivity added = $0.18 x .007 = 0.00126 τ = (β-ρ)/λeffρ = 0.007 - 0.00126 = 45.6 seconds (0.1) (0.00126)"
+            },
+            {
+                "answer": "d. 66 seconds",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Reactivity added = $0.18 x .007 = 0.00126 τ = (β-ρ)/λeffρ = 0.007 - 0.00126 = 45.6 seconds (0.1) (0.00126)"
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.17 [1.0 point]\nGiven the following Core Reactivity Data (not at MUTR): Which one of the following is the calculated shutdown margin that would satisfy the Technical Specification Minimum Shutdown Margin? Assume that all rods are scrammable.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. $1.2",
+                "correct": true,
+                "feedback": "Correct. Reference: Shutdown = Total rod worth – rod excess. Minimum SDM = Shutdown – highest worth of control rod."
+            },
+            {
+                "answer": "b. $4.2",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Shutdown = Total rod worth – rod excess. Minimum SDM = Shutdown – highest worth of control rod."
+            },
+            {
+                "answer": "c. $4.3",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Shutdown = Total rod worth – rod excess. Minimum SDM = Shutdown – highest worth of control rod."
+            },
+            {
+                "answer": "d. $8.5",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Shutdown = Total rod worth – rod excess. Minimum SDM = Shutdown – highest worth of control rod."
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.18 [1.0 point]\nWhich ONE of the following is the principal source of energy (heat generation) in the reactor following a reactor shutdown from extended operation at 100% power?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Fission product beta and gamma decay.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.2.1"
+            },
+            {
+                "answer": "b. Xenon concentration buildup.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.2.1"
+            },
+            {
+                "answer": "c. Spontaneous fission of U-238.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.2.1"
+            },
+            {
+                "answer": "d. Decay of fission products.",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.2.1"
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.19 [1.0 point]\nWhich ONE of the following describes the response of the subcritical reactor to equal insertions of positive reactivity as the reactor approaches critical? Each reactivity insertion causes:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. a SMALLER increase in the neutron flux, resulting in a LONGER time to reach equilibrium.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: NRC Standard Question"
+            },
+            {
+                "answer": "b. a SMALLER increase in the neutron flux, resulting in a SHORTER time to reach equilibrium.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: NRC Standard Question"
+            },
+            {
+                "answer": "c. a LARGER increase in the neutron flux, resulting in a LONGER time to reach equilibrium.",
+                "correct": true,
+                "feedback": "Correct. Reference: NRC Standard Question"
+            },
+            {
+                "answer": "d. a LARGER increase in the neutron flux, resulting in a SHORTER time to reach equilibrium.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: NRC Standard Question"
+            }
+        ]
+    },
+    {
+        "question": "QUESTION A.20 [1.0 point]\nWhich ONE of the following factors of the Six Factor formula is most affected by changing the core materials?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Thermal Utilization Factor (f)",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1"
+            },
+            {
+                "answer": "b. Reproduction Factor (η)",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1"
+            },
+            {
+                "answer": "c. Fast Fission Factor (ε)",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1"
+            },
+            {
+                "answer": "d. Fast Non-Leakage Factor (Lf)",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1"
+            }
+        ]
+    }
+]

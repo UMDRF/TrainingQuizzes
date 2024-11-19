@@ -1,0 +1,522 @@
+[
+    {
+        "question": "QUESTION: 001 (1.00) Given a source strength of 100 neutrons per second (N/sec) and a multiplication factor of 0.8, the expected neutron count rate would be:",
+        "type": "multiple_choice",
+        "answers": [
+            {   
+                "answer": "a. 125 N/sec",
+                "correct": false,
+                "feedback": "Incorrect. REF: C.R. = S/(1 - Keff)  C.R. = 100/(1 - 0.8) = 100/0.2 = 500 N/sec."
+            },
+            {   
+                "answer": "b. 250 N/sec",
+                "correct": false,
+                "feedback": "Incorrect. REF: C.R. = S/(1 - Keff)  C.R. = 100/(1 - 0.8) = 100/0.2 = 500 N/sec."
+            },
+            {   
+                "answer": "c. 400 N/sec",
+                "correct": false,
+                "feedback": "Incorrect. REF: C.R. = S/(1 - Keff)  C.R. = 100/(1 - 0.8) = 100/0.2 = 500 N/sec."
+            },
+            {   
+                "answer": "d. 500 N/sec",
+                "correct": true,
+                "feedback": "Correct. REF: C.R. = S/(1 - Keff)  C.R. = 100/(1 - 0.8) = 100/0.2 = 500 N/sec."
+            }
+        ]
+    },
+    {
+        "question": "QUESTION: 002 (1.00) With the reactor critical at 10 KW a rod is pulled to insert a positive reactivity of 0.00126 K/K. Which one of the following will be the stable reactor period as a result of this reactivity insertion?",
+        "type": "multiple_choice",
+        "answers": [
+            {   
+                "answer": "a. 10 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: T = ( - )/ eff = .0075 - .00126 = 49.5 seconds"
+            },
+            {   
+                "answer": "b. 50 seconds",
+                "correct": true,
+                "feedback": "Correct. REF: T = ( - )/ eff = .0075 - .00126 = 49.5 seconds"
+            },
+            {   
+                "answer": "c. 60 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: T = ( - )/ eff = .0075 - .00126 = 49.5 seconds"
+            },
+            {   
+                "answer": "d. 70 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: T = ( - )/ eff = .0075 - .00126 = 49.5 seconds"
+            }
+        ]
+    },
+    {
+        "question": "QUESTION: 003 (1.00) An initial count rate of 100 is doubled five times during a startup. Assuming an initial Keff of 0.950, which one of the following is the new Keff?",
+        "type": "multiple_choice",
+        "answers": [
+            {   
+                "answer": "a. 0.957",
+                "correct": false,
+                "feedback": "Incorrect. REF: CR1 (1-Keff1) = CR2 (1 - Keff2"
+            },
+            {   
+                "answer": "b. 0.979",
+                "correct": false,
+                "feedback": "Incorrect. REF: CR1 (1-Keff1) = CR2 (1 - Keff2)."
+            },
+            {   
+                "answer": "c. 0.985",
+                "correct": false,
+                "feedback": "Incorrect. REF: CR1 (1-Keff1) = CR2 (1 - Keff2)."
+            },
+            {   
+                "answer": "d. 0.998",
+                "correct": true,
+                "feedback": "Correct. REF: CR1 (1-Keff1) = CR2 (1 - Keff2)."
+            }
+        ]
+    },
+    {
+        "question": "QUESTION: 004 (1.00) Consider two identical critical reactors, with the exception that one has a beta of 0.0072 and the other has a beta of 0.0060. Each reactor is operating at 10 watts. Which one of the following compares the response of the reactors to a +0.1% delta k/k reactivity insertion?",
+        "type": "multiple_choice",
+        "answers": [
+            {   
+                "answer": "a. The resulting period will be shorter for the reactor with the 0.0072 beta fraction",
+                "correct": false,
+                "feedback": "Incorrect. REF: REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, §§ 3.2.2 — 3.2.3"
+            },
+            {   
+                "answer": "b. The resulting period will be shorter for the reactor with the 0.0060 beta fraction",
+                "correct": true,
+                "feedback": "Correct. REF: REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, §§ 3.2.2 — 3.2.3"
+            },
+            {   
+                "answer": "c. The resulting power level will be higher for the reactor with the 0.0072 beta fraction",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, §§ 3.2.2 — 3.2.3"
+            },
+            {   
+                "answer": "d. The resulting power level will be higher for the reactor with the 0.0060 beta fraction",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, §§ 3.2.2 — 3.2.3"
+            }
+        ]
+    },
+    {
+        "question": "005 (2.00, 0.5 each) Match the terms in column A with the correct definition in column B",
+        "type": "matching",
+        "columns": {
+            "A": [
+                { "term": "a. Fast Neutrons" },
+                { "term": "b. Prompt Neutrons" },
+                { "term": "c. Slow Neutrons" },
+                { "term": "d. Delayed Neutrons" }
+            ],
+            "B": [
+                { "definition": "1. Neutrons released promptly from fission." },
+                { "definition": "2. High energy neutrons." },
+                { "definition": "3. Neutrons released from decay after fission." },
+                { "definition": "4. Low energy neutrons." }
+            ]
+        },
+        "answers": [
+            {
+                "pairing": {
+                    "term": "a. Fast Neutrons",
+                    "definition": "2. High energy neutrons."
+                },
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 3.2.2 Delayed Neutrons."
+            },
+            {
+                "pairing": {
+                    "term": "b. Prompt Neutrons",
+                    "definition": "1. Neutrons released promptly from fission."
+                },
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 3.2.2 Delayed Neutrons."
+            },
+            {
+                "pairing": {
+                    "term": "c. Slow Neutrons",
+                    "definition": "4. Low energy neutrons."
+                },
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 3.2.2 Delayed Neutrons."
+            },
+            {
+                "pairing": {
+                    "term": "d. Delayed Neutrons",
+                    "definition": "3. Neutrons released from decay after fission."
+                },
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 3.2.2 Delayed Neutrons."
+            }
+        ]
+    },
+    {
+        "question": "006 (1.00) The reactor is critical and increasing in power. Power has increased from 20 watts to 80 watts in 60 seconds. How long will it take at this rate for power to increase from 0.080 KW to 160 KW?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.5 minute",
+                "correct": false,
+                "feedback": "Incorrect.REFERENCE: P = P₀e^(t/T); 80 = 20e^(60/T), T = 43.28 sec. For 160 KW: 1.6 x 10^5 watts = 80e^(t/43.28), t = 329 sec = 5.5 minutes."
+            },
+            {
+                "answer": "b. 2.5 minutes",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P = P₀e^(t/T); 80 = 20e^(60/T), T = 43.28 sec. For 160 KW: 1.6 x 10^5 watts = 80e^(t/43.28), t = 329 sec = 5.5 minutes."
+            },
+            {
+                "answer": "c. 5.5 minutes",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: P = P₀e^(t/T); 80 = 20e^(60/T), T = 43.28 sec. For 160 KW: 1.6 x 10^5 watts = 80e^(t/43.28), t = 329 sec = 5.5 minutes."
+            },
+            {
+                "answer": "d. 10.5 minutes",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P = P₀e^(t/T); 80 = 20e^(60/T), T = 43.28 sec. For 160 KW: 1.6 x 10^5 watts = 80e^(t/43.28), t = 329 sec = 5.5 minutes."
+            }
+        ]
+    },
+    {
+        "question": "007 (1.00) A reactor with an initial population of 24000 neutrons is operating with Keff = 1.01. Of the CHANGE in population from the current generation to the next generation, how many are prompt neutrons?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 25",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: 24000 x 1.01 = 24240 neutrons in next generation. 24240 - 24000 = 240 neutrons added, minus 0.7% delayed neutron fraction = 238 prompt neutrons added."
+            },
+            {
+                "answer": "b. 238",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: 24000 x 1.01 = 24240 neutrons in next generation. 24240 - 24000 = 240 neutrons added, minus 0.7% delayed neutron fraction = 238 prompt neutrons added."
+            },
+            {
+                "answer": "c. 2500",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: 24000 x 1.01 = 24240 neutrons in next generation. 24240 - 24000 = 240 neutrons added, minus 0.7% delayed neutron fraction = 238 prompt neutrons added."
+            },
+            {
+                "answer": "d. 24240",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: 24000 x 1.01 = 24240 neutrons in next generation. 24240 - 24000 = 240 neutrons added, minus 0.7% delayed neutron fraction = 238 prompt neutrons added."
+            }
+        ]
+    },
+    {
+        "question": "008 (1.00) Which one of the following conditions would INCREASE the shutdown margin of a reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Inserting an experiment adding positive reactivity.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 6.2.3, p. 6-4."
+            },
+            {
+                "answer": "b. Lowering moderator temperature if the moderator temperature coefficient is negative.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 6.2.3, p. 6-4."
+            },
+            {
+                "answer": "c. Depletion of a burnable poison.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 6.2.3, p. 6-4."
+            },
+            {
+                "answer": "d. Depletion of uranium fuel.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 6.2.3, p. 6-4."
+            }
+        ]
+    },
+    {
+        "question": "009 (1.00) Which one of the following is the PRIMARY reason that delayed neutrons are so effective at controlling reactor power?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Delayed neutrons make up a very large fraction of the fission neutrons in the core.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, §§ 3.2.2 — 3.2.3"
+            },
+            {
+                "answer": "b. Delayed neutrons have a much longer mean lifetime than prompt neutrons.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, §§ 3.2.2 — 3.2.3"
+            },
+            {
+                "answer": "c. Delayed neutrons are born at thermal energies.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, §§ 3.2.2 — 3.2.3"
+            },
+            {
+                "answer": "d. Delayed neutrons are born at lower energies than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, §§ 3.2.2 — 3.2.3"
+            }
+        ]
+    },
+    {
+        "question": "010 (1.00) Which one of the following is the principal source of heat in the reactor after a shutdown from extended operation at 1 MW?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Production of delayed neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 4.9, pp. 4-23 — 4-26."
+            },
+            {
+                "answer": "b. Kinetic energy of fission fragments",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 4.9, pp. 4-23 — 4-26."
+            },
+            {
+                "answer": "c. Spontaneous fission of U-238",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 4.9, pp. 4-23 — 4-26."
+            },
+            {
+                "answer": "d. Gamma interactions",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 4.9, pp. 4-23 — 4-26."
+            }
+        ]
+    },
+    {
+        "question": "011 (1.00) The following data was obtained during a reactor fuel load. No. of Elements: 0, 8, 16, 24, 32, 40; Detector A (cps): 20, 28, 30, 32, 42, 80. Which one of the following represents the number of fuel elements predicted to reach criticality?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 48",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.5, pp. 5-18 — 5-25."
+            },
+            {
+                "answer": "b. 52",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.5, pp. 5-18 — 5-25."
+            },
+            {
+                "answer": "c. 56",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.5, pp. 5-18 — 5-25."
+            },
+            {
+                "answer": "d. 60",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.5, pp. 5-18 — 5-25."
+            }
+        ]
+    },
+    {
+        "question": "012 (1.00) Following 8 hours at 1 MW, the reactor operator reduces reactor power to 50%. Rod control is placed in manual mode and all rod motion is stopped. Which one of the following describes the response of reactor power, without any further operator actions, and the PRIMARY reason for its response?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Power increases due to the burnout of xenon.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1 — 8.4, pp. 8-3 — 8-14."
+            },
+            {
+                "answer": "b. Power increases due to the burnout of samarium.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1 — 8.4, pp. 8-3 — 8-14."
+            },
+            {
+                "answer": "c. Power decreases due to the buildup of xenon.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1 — 8.4, pp. 8-3 — 8-14."
+            },
+            {
+                "answer": "d. Power decreases due to the buildup of samarium.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1 — 8.4, pp. 8-3 — 8-14."
+            }
+        ]
+    },
+    {
+        "question": "013 (1.00) Which one of the following is a correct statement concerning the factors affecting control rod worth?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Fuel burn up causes the rod worth for periphery rods to decrease.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 7.2 & 7.3, pp. 7-1 — 7-10."
+            },
+            {
+                "answer": "b. Fuel burn up causes the rod worth to increase in the center of the core.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 7.2 & 7.3, pp. 7-1 — 7-10."
+            },
+            {
+                "answer": "c. The withdrawal of a rod causes the rod worth of the remaining inserted rods to increase.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 7.2 & 7.3, pp. 7-1 — 7-10."
+            },
+            {
+                "answer": "d. As Rx power increases rod worth increases.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 7.2 & 7.3, pp. 7-1 — 7-10."
+            }
+        ]
+    },
+    {
+        "question": "014 (1.00) Pool temperature increases by 20F. Given Tmoderator = -0.0005 K/K/F and an average regulating rod worth of 0.004 K/K/inch. By how much and in what direction did the regulating rod move to compensate for the temperature change?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.25 inches in",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: +20F × -0.0005 K/K/F = -0.01 K/K. To compensate, the rod must add +0.01 K/K. +0.01 K/K ÷ +0.004 K/K/inch = +2.5 inches."
+            },
+            {
+                "answer": "b. 0.25 inches out",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: +20F × -0.0005 K/K/F = -0.01 K/K. To compensate, the rod must add +0.01 K/K. +0.01 K/K ÷ +0.004 K/K/inch = +2.5 inches."
+            },
+            {
+                "answer": "c. 2.5 inches in",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: +20F × -0.0005 K/K/F = -0.01 K/K. To compensate, the rod must add +0.01 K/K. +0.01 K/K ÷ +0.004 K/K/inch = +2.5 inches."
+            },
+            {
+                "answer": "d. 2.5 inches out",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: +20F × -0.0005 K/K/F = -0.01 K/K. To compensate, the rod must add +0.01 K/K. +0.01 K/K ÷ +0.004 K/K/inch = +2.5 inches."
+            }
+        ]
+    },
+    {
+        "question": "015 (1.00) Which ONE of the following statements describes the subcritical reactor response as Keff approaches unity?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. A LARGER change in neutron level results from a given change in Keff and a SHORTER period of time is required to reach the equilibrium neutron level for a given change in Keff.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Chapt. 5, pp. 5-1 — 5-28."
+            },
+            {
+                "answer": "b. A LARGER change in neutron level results from a given change in Keff and a LONGER period of time is required to reach the equilibrium neutron level for a given change in Keff.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Chapt. 5, pp. 5-1 — 5-28."
+            },
+            {
+                "answer": "c. A SMALLER change in neutron level results from a given change in Keff and a SHORTER period of time is required to reach the equilibrium neutron level for a given change in Keff.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Chapt. 5, pp. 5-1 — 5-28."
+            },
+            {
+                "answer": "d. A SMALLER change in neutron level results from a given change in Keff and a LONGER period of time is required to reach the equilibrium neutron level for a given change in Keff.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Chapt. 5, pp. 5-1 — 5-28."
+            }
+        ]
+    },
+    {
+        "question": "016 (1.00) An experiment to be placed in the central thimble has been wrapped in cadmium. Which one of the following types of radiation will be most effectively blocked by the cadmium wrapping?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Thermal neutrons",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, 1991, § 10.34, pp. 639."
+            },
+            {
+                "answer": "b. Fast neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, 1991, § 10.34, pp. 639."
+            },
+            {
+                "answer": "c. Gamma rays",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, 1991, § 10.34, pp. 639."
+            },
+            {
+                "answer": "d. X-rays",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, 1991, § 10.34, pp. 639."
+            }
+        ]
+    },
+    {
+        "question": "017 (1.00) A thin foil target of 10% copper atoms and 90% aluminum atoms is in a thermal neutron beam. Given σ_Al = 3.79 barns, σ_Cu = 0.23 barns, α_Al = 7.90 barns, and α_Cu = 1.49 barns, which ONE of the following reactions has the highest probability of occurring? A neutron...",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. scattering reaction with aluminum.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, 1991, § 2.108 – 2.114, pp. 77 – 80."
+            },
+            {
+                "answer": "b. scattering reaction with copper.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, 1991, § 2.108 – 2.114, pp. 77 – 80."
+            },
+            {
+                "answer": "c. absorption in aluminum.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, 1991, § 2.108 – 2.114, pp. 77 – 80."
+            },
+            {
+                "answer": "d. absorption in copper.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, 1991, § 2.108 – 2.114, pp. 77 – 80."
+            }
+        ]
+    },
+    {
+        "question": "018 (1.00) The reactor is operating at 500 KW in steady-state and in manual mode. Which one of the following describes the stable reactor period if a control rod drops fully into the core and no operator action is taken?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. -34 seconds due to the rapid decrease in prompt neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: The amount of reactivity inserted by the blade is much larger than beta; therefore, maximum stable negative period of -80 seconds results."
+            },
+            {
+                "answer": "b. -34 seconds due to the rapid decay of the short-lived delayed neutron precursors",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: The amount of reactivity inserted by the blade is much larger than beta; therefore, maximum stable negative period of -80 seconds results."
+            },
+            {
+                "answer": "c. -80 seconds due to the slowing down length of prompt neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: The amount of reactivity inserted by the blade is much larger than beta; therefore, maximum stable negative period of -80 seconds results."
+            },
+            {
+                "answer": "d. -80 seconds due to the decay half-life of the long-lived delayed neutron precursors",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: The amount of reactivity inserted by the blade is much larger than beta; therefore, maximum stable negative period of -80 seconds results."
+            }
+        ]
+    },
+    {
+        "question": "019 (1.00) Which one of the following factors in the 'six factor' formula is the most strongly affected by the Negative Temperature Coefficient?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The fast fission factor",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, 1991, § 5.98, p. 264."
+            },
+            {
+                "answer": "b. The thermal utilization factor",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, 1991, § 5.98, p. 264."
+            },
+            {
+                "answer": "c. The resonance escape probability",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, 1991, § 5.98, p. 264."
+            },
+            {
+                "answer": "d. The thermal non-leakage probability",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, 1991, § 5.98, p. 264."
+            }
+        ]
+    }
+]
