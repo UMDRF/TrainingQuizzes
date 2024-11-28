@@ -1,6 +1,6 @@
 [
     {
-        "question": "QUESTION A.01 [1.0 point, 0.25 each] Identify whether each of the following conditions will INCREASE or DECREASE the shutdown margin of a reactor.",
+        "question": "A.01 [1.0 point, 0.25 each] Identify whether each of the following conditions will INCREASE or DECREASE the shutdown margin of a reactor.",
         "type": "multiple_choice",
         "answers": [
             {
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "question": "QUESTION A.02 [1.0 point] Which ONE of the following statement best defines the reactor excess reactivity? The reactor excess reactivity is:",
+        "question": "A.02 [1.0 point] Which ONE of the following statement best defines the reactor excess reactivity? The reactor excess reactivity is:",
         "type": "multiple_choice",
         "answers": [
             {
@@ -52,7 +52,7 @@
         ]
     },
     {
-        "question": "QUESTION A.03 [1.0 point, 0.25 each] Replace “X” with the type of decay necessary (Alpha, Beta, Gamma or Neutron emission) to produce the following reactions.",
+        "question": "A.03 [1.0 point, 0.25 each] Replace “X” with the type of decay necessary (Alpha, Beta, Gamma or Neutron emission) to produce the following reactions.",
         "type": "multiple_choice",
         "answers": [
             {
@@ -78,7 +78,7 @@
         ]
     },
     {
-        "question": "QUESTION A.04 [1.0 point] Given the thermal neutron flux (Ø) is 1.0 × 10^13 neutrons/cm^2/second, and the macroscopic cross-section (Σf) for fission is 0.1 cm^-1. The fission rate is:",
+        "question": "A.04 [1.0 point] Given the thermal neutron flux (Ø) is 1.0 × 10^13 neutrons/cm^2/second, and the macroscopic cross-section (Σf) for fission is 0.1 cm^-1. The fission rate is:",
         "type": "multiple_choice",
         "answers": [
             {
@@ -104,7 +104,7 @@
         ]
     },
     {
-        "question": "QUESTION A.05 [1.0 point] If the multiplication factor, k, is increased from 0.800 to 0.950, the amount of reactivity added is: (given: beta effect = 0.007)",
+        "question": "A.05 [1.0 point] If the multiplication factor, k, is increased from 0.800 to 0.950, the amount of reactivity added is: (given: beta effect = 0.007)",
         "type": "multiple_choice",
         "answers": [
             {
@@ -130,7 +130,7 @@
         ]
     },
     {
-        "question": "QUESTION A.06 [1.0 point] Reactor power is rising on a 30 second period. Approximately how long will it take for power to triple?",
+        "question": "A.06 [1.0 point] Reactor power is rising on a 30 second period. Approximately how long will it take for power to triple?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -156,7 +156,7 @@
         ]
     },
     {
-        "question": "QUESTION A.07 [1.0 point] The number of neutrons passing through a one square centimeter of target material per second is described as:",
+        "question": "A.07 [1.0 point] The number of neutrons passing through a one square centimeter of target material per second is described as:",
         "type": "multiple_choice",
         "answers": [
             {
@@ -182,7 +182,7 @@
         ]
     },
     {
-        "question": "QUESTION A.08 [1.0 point] You are assigned to check the operation of a new nuclear instrumentation channel. A few minutes following a reactor scram at full power, the reactor period has stabilized and the power level is decreasing at a CONSTANT rate. What is the time for power to decrease by a factor of 10? (Note: conversion may be needed)",
+        "question": "A.08 [1.0 point] You are assigned to check the operation of a new nuclear instrumentation channel. A few minutes following a reactor scram at full power, the reactor period has stabilized and the power level is decreasing at a CONSTANT rate. What is the time for power to decrease by a factor of 10? (Note: conversion may be needed)",
         "type": "multiple_choice",
         "answers": [
             {
@@ -208,7 +208,7 @@
         ]
     },
     {
-        "question": "QUESTION A.09 [1.0 point] Shown below is a trace of reactor period as a function of time. Between points A and B reactor power is:",
+        "question": "A.09 [1.0 point] Shown below is a trace of reactor period as a function of time. Between points A and B reactor power is:",
         "type": "multiple_choice",
         "answers": [
             {
@@ -234,7 +234,7 @@
         ]
     },
     {
-        "question": "QUESTION A.10 [1.0 point] A reactor is slightly supercritical, with the thermal utilization factor = 0.700. A control rod is inserted to bring the reactor back to critical. Assuming all other factors remain unchanged, the new value for the thermal utilization factor is:",
+        "question": "A.10 [1.0 point] A reactor is slightly supercritical, with the thermal utilization factor = 0.700. A control rod is inserted to bring the reactor back to critical. Assuming all other factors remain unchanged, the new value for the thermal utilization factor is:",
         "type": "multiple_choice",
         "answers": [
             {
@@ -260,7 +260,7 @@
         ]
     },
     {
-        "question": "QUESTION A.11 [1.0 point] Delayed neutrons are considered to cause “fission” easier than prompt neutrons because delayed neutrons have a:",
+        "question": "A.11 [1.0 point] Delayed neutrons are considered to cause “fission” easier than prompt neutrons because delayed neutrons have a:",
         "type": "multiple_choice",
         "answers": [
             {
@@ -286,7 +286,7 @@
         ]
     },
     {
-        "question": "QUESTION A.12 [1.0 point] Two critical reactors at low power are identical except that Reactor 1 has a beta fraction of 0.0072 and Reactor 2 has a beta fraction of 0.0060. An equal amount of positive reactivity is inserted into both reactors. Which ONE of the following will be the response of Reactor 1 compared to Reactor 2?",
+        "question": "A.12 [1.0 point] Two critical reactors at low power are identical except that Reactor 1 has a beta fraction of 0.0072 and Reactor 2 has a beta fraction of 0.0060. An equal amount of positive reactivity is inserted into both reactors. Which ONE of the following will be the response of Reactor 1 compared to Reactor 2?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -312,7 +312,7 @@
         ]
     },
     {
-        "question": "QUESTION A.13 [1.0 point]\nA reactor is critical at 18.1 inches on a controlling rod. The controlling rod is withdrawn to 18.4 inches. The reactivity inserted is 14.4 cents. What is the differential rod worth?",
+        "question": "A.13 [1.0 point]\nA reactor is critical at 18.1 inches on a controlling rod. The controlling rod is withdrawn to 18.4 inches. The reactivity inserted is 14.4 cents. What is the differential rod worth?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -338,7 +338,7 @@
         ]
     },
     {
-        "question": "QUESTION A.14 [1.0 point]\nWhich ONE of the following atoms will cause a neutron to lose the most energy in an elastic collision?",
+        "question": "A.14 [1.0 point]\nWhich ONE of the following atoms will cause a neutron to lose the most energy in an elastic collision?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -364,7 +364,7 @@
         ]
     },
     {
-        "question": "QUESTION A.15 [1.0 point]\nYou are conducting a reactor startup after installing 2 new fuel assemblies in the core. Given the following rod withdrawal data, estimate the rod position when criticality would occur. The initial count rate on the nuclear instrumentation prior to rod withdrawal is 55 cps.",
+        "question": "A.15 [1.0 point]\nYou are conducting a reactor startup after installing 2 new fuel assemblies in the core. Given the following rod withdrawal data, estimate the rod position when criticality would occur. The initial count rate on the nuclear instrumentation prior to rod withdrawal is 55 cps.",
         "type": "multiple_choice",
         "answers": [
             {
@@ -390,7 +390,7 @@
         ]
     },
     {
-        "question": "QUESTION A.16 [1.0 point]\nThe reactor is critical at 10 watts. A rod is withdrawn to insert a positive reactivity of $0.18. Which ONE of the following will be the stable reactor period as a result of this reactivity insertion? Given beta effective = 0.007",
+        "question": "A.16 [1.0 point]\nThe reactor is critical at 10 watts. A rod is withdrawn to insert a positive reactivity of $0.18. Which ONE of the following will be the stable reactor period as a result of this reactivity insertion? Given beta effective = 0.007",
         "type": "multiple_choice",
         "answers": [
             {
@@ -416,7 +416,7 @@
         ]
     },
     {
-        "question": "QUESTION A.17 [1.0 point]\nGiven the following Core Reactivity Data (not at MUTR): Which one of the following is the calculated shutdown margin that would satisfy the Technical Specification Minimum Shutdown Margin? Assume that all rods are scrammable.",
+        "question": "A.17 [1.0 point]\nGiven the following Core Reactivity Data (not at MUTR): Which one of the following is the calculated shutdown margin that would satisfy the Technical Specification Minimum Shutdown Margin? Assume that all rods are scrammable.",
         "type": "multiple_choice",
         "answers": [
             {
@@ -442,7 +442,7 @@
         ]
     },
     {
-        "question": "QUESTION A.18 [1.0 point]\nWhich ONE of the following is the principal source of energy (heat generation) in the reactor following a reactor shutdown from extended operation at 100% power?",
+        "question": "A.18 [1.0 point]\nWhich ONE of the following is the principal source of energy (heat generation) in the reactor following a reactor shutdown from extended operation at 100% power?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -468,7 +468,7 @@
         ]
     },
     {
-        "question": "QUESTION A.19 [1.0 point]\nWhich ONE of the following describes the response of the subcritical reactor to equal insertions of positive reactivity as the reactor approaches critical? Each reactivity insertion causes:",
+        "question": "A.19 [1.0 point]\nWhich ONE of the following describes the response of the subcritical reactor to equal insertions of positive reactivity as the reactor approaches critical? Each reactivity insertion causes:",
         "type": "multiple_choice",
         "answers": [
             {
@@ -494,7 +494,7 @@
         ]
     },
     {
-        "question": "QUESTION A.20 [1.0 point]\nWhich ONE of the following factors of the Six Factor formula is most affected by changing the core materials?",
+        "question": "A.20 [1.0 point]\nWhich ONE of the following factors of the Six Factor formula is most affected by changing the core materials?",
         "type": "multiple_choice",
         "answers": [
             {
