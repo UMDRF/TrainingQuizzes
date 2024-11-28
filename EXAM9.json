@@ -1,6 +1,6 @@
 [
     {
-        "question": "Question 1- [1.0 point] A reactor is at full power when the operator immediately scrams all control rods into the core. This insertion will cause:",
+        "question": "A.1 [1.0 point] A reactor is at full power when the operator immediately scrams all control rods into the core. This insertion will cause:",
         "type": "multiple_choice",
         "answers": [
             {
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "question": "Question 2- [1.0 point] Which ONE of the following explains why delayed neutrons enhance the ability to control reactor power?",
+        "question": "A.2 [1.0 point] Which ONE of the following explains why delayed neutrons enhance the ability to control reactor power?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -52,7 +52,7 @@
         ]
     },
     {
-        "question": "Question 3- [1.0 point] A reactor with Keff = 0.8 produces 1000 neutrons in the first generation. After three generations, how many neutrons are there?",
+        "question": "A.3 [1.0 point] A reactor with Keff = 0.8 produces 1000 neutrons in the first generation. After three generations, how many neutrons are there?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -78,7 +78,7 @@
         ]
     },
     {
-        "question": "Question A.4 [1.0 point] Which ONE of the following will be the resulting stable reactor period when a $0.25 reactivity insertion is made into an exactly critical reactor core? Neglect any effects from prompt. Given β=0.0070 and λ=0.1.",
+        "question": "A.4 [1.0 point] Which ONE of the following will be the resulting stable reactor period when a $0.25 reactivity insertion is made into an exactly critical reactor core? Neglect any effects from prompt. Given β=0.0070 and λ=0.1.",
         "type": "multiple_choice",
         "answers": [
             {
@@ -104,33 +104,33 @@
         ]
     },
     {
-        "question": "Question A.5 [1.0 point] A nuclear reactor startup is being performed by adding EQUAL amounts of positive reactivity and waiting for neutron population to stabilize. As the reactor approaches criticality, the Neutron Multiplication, Keff, will __________ after each reactivity addition; and the time required for the neutron population to STABILIZE will ___________ after each reactivity addition.",
+        "question": "A.5 [1.0 point] A nuclear reactor startup is being performed by adding EQUAL amounts of positive reactivity and waiting for neutron population to stabilize. As the reactor approaches criticality, the Neutron Multiplication, Keff, will __________ after each reactivity addition; and the time required for the neutron population to STABILIZE will ___________ after each reactivity addition.",
         "type": "multiple_choice",
         "answers": [
             {
                 "answer": "a. decrease; decrease",
                 "correct": false,
-                "feedback": "Incorrect. Reference: NRC Standard Question."
+                "feedback": "Incorrect. Reference: NRC Standard A.."
             },
             {
                 "answer": "b. increase; increase",
                 "correct": true,
-                "feedback": "Correct. Reference: NRC Standard Question."
+                "feedback": "Correct. Reference: NRC Standard A.."
             },
             {
                 "answer": "c. increase; decrease",
                 "correct": false,
-                "feedback": "Incorrect. Reference: NRC Standard Question."
+                "feedback": "Incorrect. Reference: NRC Standard A.."
             },
             {
                 "answer": "d. remains the same; increase",
                 "correct": false,
-                "feedback": "Incorrect. Reference: NRC Standard Question."
+                "feedback": "Incorrect. Reference: NRC Standard A.."
             }
         ]
     },
     {
-        "question": "Question A.6 [1.0 point] Given the following Core Reactivity Data during startup:\n\nControl Rod | Total Rod Worth ($) | Rod Worth removed at 5 watts critical ($)\n- SAFE/SHIM Rod 1: 3.00, 2.00\n- REG Rod (scrammable): 1.50, 0.50\n- SAFE/SHIM Rod 2: 2.50, 1.00\n- TRANS Rod: 4.00, 3.20\n\nThe TECHNICAL SPECIFICATION LIMIT for Shutdown Margin for this core is:",
+        "question": "A.6 [1.0 point] Given the following Core Reactivity Data during startup:\n\nControl Rod | Total Rod Worth ($) | Rod Worth removed at 5 watts critical ($)\n- SAFE/SHIM Rod 1: 3.00, 2.00\n- REG Rod (scrammable): 1.50, 0.50\n- SAFE/SHIM Rod 2: 2.50, 1.00\n- TRANS Rod: 4.00, 3.20\n\nThe TECHNICAL SPECIFICATION LIMIT for Shutdown Margin for this core is:",
         "type": "multiple_choice",
         "answers": [
             {
@@ -156,7 +156,7 @@
         ]
     },
     {
-        "question": "Question A.7 [1.0 point] Which ONE of the following best describes the alpha decay of a nuclide?",
+        "question": "A.7 [1.0 point] Which ONE of the following best describes the alpha decay of a nuclide?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -182,7 +182,7 @@
         ]
     },
     {
-        "question": "Question A.8 [1.0 point, 0.25 each] Fill out the blank with INCREASE or DECREASE due to effects of moderator temperature increase.\n\na. Slowing down length _____________.\nb. Thermal non-leakage _____________.\nc. Fast non-leakage _____________.\nd. Rod worth _____________.",
+        "question": "A.8 [1.0 point, 0.25 each] Fill out the blank with INCREASE or DECREASE due to effects of moderator temperature increase.\n\na. Slowing down length _____________.\nb. Thermal non-leakage _____________.\nc. Fast non-leakage _____________.\nd. Rod worth _____________.",
         "type": "fill_in_the_blank",
         "answers": [
             {
@@ -208,7 +208,7 @@
         ]
     },
     {
-        "question": "Question A.9 [1.0 point] You are the reactor operator performing two pulsing operations. The first pulse has a reactivity worth of $1.20 which results in a peak power of 200 MW. If the second pulse has a reactivity worth of $2.00, the corresponding peak power is:\n\nGiven: β=0.0070",
+        "question": "A.9 [1.0 point] You are the reactor operator performing two pulsing operations. The first pulse has a reactivity worth of $1.20 which results in a peak power of 200 MW. If the second pulse has a reactivity worth of $2.00, the corresponding peak power is:\n\nGiven: β=0.0070",
         "type": "multiple_choice",
         "answers": [
             {
@@ -234,7 +234,7 @@
         ]
     },
     {
-        "question": "QUESTION A.10 [1.0 point] Which ONE of the following physical characteristics of the TRIGA fuel is the MAIN contributor for the prompt negative temperature coefficient?",
+        "question": "A.10 [1.0 point] Which ONE of the following physical characteristics of the TRIGA fuel is the MAIN contributor for the prompt negative temperature coefficient?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -260,7 +260,7 @@
         ]
     },
     {
-        "question": "QUESTION A.11 [1.0 point] Which of the following is the definition for reactivity (ρ)?",
+        "question": "A.11 [1.0 point] Which of the following is the definition for reactivity (ρ)?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -286,7 +286,7 @@
         ]
     },
     {
-        "question": "QUESTION A.12 [1.0 point] Prompt neutrons are produced by:",
+        "question": "A.12 [1.0 point] Prompt neutrons are produced by:",
         "type": "multiple_choice",
         "answers": [
             {
@@ -312,7 +312,7 @@
         ]
     },
     {
-        "question": "QUESTION A.13 [1.0 point] The reactor is critical. The reactor operator accidentally inserts an experiment in the core and Keff changes to 1.010. What is the period of the reactor? Given a prompt neutron lifetime (l*) of 1 x 10^-4 seconds.",
+        "question": "A.13 [1.0 point] The reactor is critical. The reactor operator accidentally inserts an experiment in the core and Keff changes to 1.010. What is the period of the reactor? Given a prompt neutron lifetime (l*) of 1 x 10^-4 seconds.",
         "type": "multiple_choice",
         "answers": [
             {
@@ -338,7 +338,7 @@
         ]
     },
     {
-        "question": "QUESTION A.14 [1.0 point] In a subcritical reactor with Keff of 0.931, a reactivity worth of 0.017 Δk is inserted into the reactor core. Which ONE of the following is the NEW Keff?",
+        "question": "A.14 [1.0 point] In a subcritical reactor with Keff of 0.931, a reactivity worth of 0.017 Δk is inserted into the reactor core. Which ONE of the following is the NEW Keff?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -364,7 +364,7 @@
         ]
     },
     {
-        "question": "QUESTION A.15 [1.0 point] Which one of the following describes the difference between a moderator and a reflector?",
+        "question": "A.15 [1.0 point] Which one of the following describes the difference between a moderator and a reflector?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -390,33 +390,33 @@
         ]
     },
     {
-        "question": "QUESTION A.16 [1.0 point] Which ONE of the following is the most correct reason for having an installed neutron source within the core? An installed neutron source is very important during startup because without a neutron source...",
+        "question": "A.16 [1.0 point] Which ONE of the following is the most correct reason for having an installed neutron source within the core? An installed neutron source is very important during startup because without a neutron source...",
         "type": "multiple_choice",
         "answers": [
             {
                 "answer": "a. the chain reaction in the reactor core would NOT start",
                 "correct": false,
-                "feedback": "Incorrect. Reference: NRC Standard Question."
+                "feedback": "Incorrect. Reference: NRC Standard A.."
             },
             {
                 "answer": "b. the startup channel would NEVER indicate neutron population",
                 "correct": false,
-                "feedback": "Incorrect. Reference: NRC Standard Question."
+                "feedback": "Incorrect. Reference: NRC Standard A.."
             },
             {
                 "answer": "c. the compensating voltage on the source range detector doesn’t work",
                 "correct": false,
-                "feedback": "Incorrect. Reference: NRC Standard Question."
+                "feedback": "Incorrect. Reference: NRC Standard A.."
             },
             {
                 "answer": "d. the reactor could result in a sudden increase in power if the control rods were pulled out far enough",
                 "correct": true,
-                "feedback": "Correct. Reference: NRC Standard Question. The neutron source prevents an uncontrolled power increase by allowing neutron monitoring during startup."
+                "feedback": "Correct. Reference: NRC Standard A.. The neutron source prevents an uncontrolled power increase by allowing neutron monitoring during startup."
             }
         ]
     },
     {
-        "question": "QUESTION A.17 [1.0 point] Reactor power is increasing by a factor of 5 every minute. The reactor period is:",
+        "question": "A.17 [1.0 point] Reactor power is increasing by a factor of 5 every minute. The reactor period is:",
         "type": "multiple_choice",
         "answers": [
             {
@@ -442,7 +442,7 @@
         ]
     },
     {
-        "question": "QUESTION A.18 [1.0 point] The reactor is shutdown. Which ONE of the following correctly describes the reactor behavior when a reactivity worth of $1.00 is inserted to the reactor core?",
+        "question": "A.18 [1.0 point] The reactor is shutdown. Which ONE of the following correctly describes the reactor behavior when a reactivity worth of $1.00 is inserted to the reactor core?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -468,7 +468,7 @@
         ]
     },
     {
-        "question": "QUESTION A.19 [1.0 point] The reactor is on a CONSTANT positive period. Which ONE of the following power changes will take the longest time to complete?",
+        "question": "A.19 [1.0 point] The reactor is on a CONSTANT positive period. Which ONE of the following power changes will take the longest time to complete?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -494,28 +494,28 @@
         ]
     },
     {
-        "question": "QUESTION A.20 [1.0 point] Which ONE of the following statements correctly describes thermal neutrons?",
+        "question": "A.20 [1.0 point] Which ONE of the following statements correctly describes thermal neutrons?",
         "type": "multiple_choice",
         "answers": [
             {
                 "answer": "a. A neutron that experiences a linear decrease in energy as the temperature of the moderator increases.",
                 "correct": false,
-                "feedback": "Incorrect. Reference: NRC Standard Question."
+                "feedback": "Incorrect. Reference: NRC Standard A.."
             },
             {
                 "answer": "b. A neutron that experiences no net change in energy after several collisions with atoms of the moderator.",
                 "correct": true,
-                "feedback": "Correct. Reference: NRC Standard Question. Thermal neutrons achieve thermal equilibrium with the moderator, resulting in no net change in energy after many collisions."
+                "feedback": "Correct. Reference: NRC Standard A.. Thermal neutrons achieve thermal equilibrium with the moderator, resulting in no net change in energy after many collisions."
             },
             {
                 "answer": "c. A neutron that experiences an increase in energy levels after collisions with larger atoms of the moderator.",
                 "correct": false,
-                "feedback": "Incorrect. Reference: NRC Standard Question."
+                "feedback": "Incorrect. Reference: NRC Standard A.."
             },
             {
                 "answer": "d. A neutron at resonant epithermal energy levels that causes fissions to occur in U-238.",
                 "correct": false,
-                "feedback": "Incorrect. Reference: NRC Standard Question."
+                "feedback": "Incorrect. Reference: NRC Standard A.."
             }
         ]
     }
