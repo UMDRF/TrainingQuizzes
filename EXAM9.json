@@ -110,22 +110,22 @@
             {
                 "answer": "a. decrease; decrease",
                 "correct": false,
-                "feedback": "Incorrect. Reference: NRC Standard A.."
+                "feedback": "Incorrect. Reference: NRC Standard Question"
             },
             {
                 "answer": "b. increase; increase",
                 "correct": true,
-                "feedback": "Correct. Reference: NRC Standard A.."
+                "feedback": "Correct. Reference: NRC Standard Question"
             },
             {
                 "answer": "c. increase; decrease",
                 "correct": false,
-                "feedback": "Incorrect. Reference: NRC Standard A.."
+                "feedback": "Incorrect. Reference: NRC Standard Question"
             },
             {
                 "answer": "d. remains the same; increase",
                 "correct": false,
-                "feedback": "Incorrect. Reference: NRC Standard A.."
+                "feedback": "Incorrect. Reference: NRC Standard Question"
             }
         ]
     },
@@ -396,22 +396,22 @@
             {
                 "answer": "a. the chain reaction in the reactor core would NOT start",
                 "correct": false,
-                "feedback": "Incorrect. Reference: NRC Standard A.."
+                "feedback": "Incorrect. Reference: NRC Standard Question"
             },
             {
                 "answer": "b. the startup channel would NEVER indicate neutron population",
                 "correct": false,
-                "feedback": "Incorrect. Reference: NRC Standard A.."
+                "feedback": "Incorrect. Reference: NRC Standard Question"
             },
             {
                 "answer": "c. the compensating voltage on the source range detector doesn’t work",
                 "correct": false,
-                "feedback": "Incorrect. Reference: NRC Standard A.."
+                "feedback": "Incorrect. Reference: NRC Standard Question"
             },
             {
                 "answer": "d. the reactor could result in a sudden increase in power if the control rods were pulled out far enough",
                 "correct": true,
-                "feedback": "Correct. Reference: NRC Standard A.. The neutron source prevents an uncontrolled power increase by allowing neutron monitoring during startup."
+                "feedback": "Correct. Reference: NRC Standard Question The neutron source prevents an uncontrolled power increase by allowing neutron monitoring during startup."
             }
         ]
     },
@@ -500,22 +500,22 @@
             {
                 "answer": "a. A neutron that experiences a linear decrease in energy as the temperature of the moderator increases.",
                 "correct": false,
-                "feedback": "Incorrect. Reference: NRC Standard A.."
+                "feedback": "Incorrect. Reference: NRC Standard Question"
             },
             {
                 "answer": "b. A neutron that experiences no net change in energy after several collisions with atoms of the moderator.",
                 "correct": true,
-                "feedback": "Correct. Reference: NRC Standard A.. Thermal neutrons achieve thermal equilibrium with the moderator, resulting in no net change in energy after many collisions."
+                "feedback": "Correct. Reference: NRC Standard Question Thermal neutrons achieve thermal equilibrium with the moderator, resulting in no net change in energy after many collisions."
             },
             {
                 "answer": "c. A neutron that experiences an increase in energy levels after collisions with larger atoms of the moderator.",
                 "correct": false,
-                "feedback": "Incorrect. Reference: NRC Standard A.."
+                "feedback": "Incorrect. Reference: NRC Standard Question"
             },
             {
                 "answer": "d. A neutron at resonant epithermal energy levels that causes fissions to occur in U-238.",
                 "correct": false,
-                "feedback": "Incorrect. Reference: NRC Standard A.."
+                "feedback": "Incorrect. Reference: NRC Standard Question"
             }
         ]
     }
