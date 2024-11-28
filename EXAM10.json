@@ -1,6 +1,6 @@
 [
     {
-        "question": "QUESTION A.01 [1.0 point] Which ONE of the following is the stable reactor period which will result in a power rise from 50% to 100% power in 5 seconds?",
+        "question": "A.01 [1.0 point] Which ONE of the following is the stable reactor period which will result in a power rise from 50% to 100% power in 5 seconds?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "question": "QUESTION A.02 [1.0 point] What effect does Doppler Broadening for U-238 have on neutrons in a critical core?",
+        "question": "A.02 [1.0 point] What effect does Doppler Broadening for U-238 have on neutrons in a critical core?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -52,7 +52,7 @@
         ]
     },
     {
-        "question": "QUESTION A.03 [1.0 point, 0.25 each] Match the following Neutron Interactions (each used only once)",
+        "question": "A.03 [1.0 point, 0.25 each] Match the following Neutron Interactions (each used only once)",
         "type": "matching",
         "prompts": [
             {
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "question": "QUESTION A.04 [1.0 point] Which ONE of the following most accurately describes the reason that fission products such as Xenon-135 and Samarium-149 have the most substantial impact in reactor design and operation?",
+        "question": "A.04 [1.0 point] Which ONE of the following most accurately describes the reason that fission products such as Xenon-135 and Samarium-149 have the most substantial impact in reactor design and operation?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -118,7 +118,7 @@
         ]
     },
     {
-        "question": "QUESTION A.05 [1.0 point] The following shows part of a decay chain for the radioactive element Pa-234: 91Pa234 → 92U234 This decay chain is an example of _______ decay.",
+        "question": "A.05 [1.0 point] The following shows part of a decay chain for the radioactive element Pa-234: 91Pa234 → 92U234 This decay chain is an example of _______ decay.",
         "type": "multiple_choice",
         "answers": [
             {
@@ -144,7 +144,7 @@
         ]
     },
     {
-        "question": "QUESTION A.06 [1.0 point] What is the result in a potential elastic scattering reaction between a neutron and a target nucleus?",
+        "question": "A.06 [1.0 point] What is the result in a potential elastic scattering reaction between a neutron and a target nucleus?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -170,7 +170,7 @@
         ]
     },
     {
-        "question": "QUESTION A.07 [1.0 point] Which ONE of the following is the MAJOR source of energy released during fission?",
+        "question": "A.07 [1.0 point] Which ONE of the following is the MAJOR source of energy released during fission?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -196,7 +196,7 @@
         ]
     },
     {
-        "question": "QUESTION A.08 [1.0 point] Which ONE of the following parameters is MOST significant in determining the differential rod worth of a control rod?",
+        "question": "A.08 [1.0 point] Which ONE of the following parameters is MOST significant in determining the differential rod worth of a control rod?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -222,7 +222,7 @@
         ]
     },
     {
-        "question": "QUESTION A.09 [1.0 point] Which ONE of the following best defines the reactor excess reactivity?",
+        "question": "A.09 [1.0 point] Which ONE of the following best defines the reactor excess reactivity?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -248,7 +248,7 @@
         ]
     },
     {
-        "question": "QUESTION A.10 [1.0 point] What is the condition of the reactor when k = 1/(1-ρ)?",
+        "question": "A.10 [1.0 point] What is the condition of the reactor when k = 1/(1-ρ)?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -274,7 +274,7 @@
         ]
     },
     {
-        "question": "QUESTION A.11 [1.0 point] Given a source strength of 150 neutrons per second (N/sec) and a multiplication factor of 0.85, which ONE of the following is the expected stable neutron count rate?",
+        "question": "A.11 [1.0 point] Given a source strength of 150 neutrons per second (N/sec) and a multiplication factor of 0.85, which ONE of the following is the expected stable neutron count rate?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -300,7 +300,7 @@
         ]
     },
     {
-        "question": "QUESTION A.12 [1.0 point] Which ONE of the following is the definition of the effective neutron multiplication factor (k-eff)?",
+        "question": "A.12 [1.0 point] Which ONE of the following is the definition of the effective neutron multiplication factor (k-eff)?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -326,7 +326,7 @@
         ]
     },
     {
-        "question": "QUESTION A.13 [1.0 point] What is the average number of neutrons produced from every fission of Uranium-235 with thermal neutrons?",
+        "question": "A.13 [1.0 point] What is the average number of neutrons produced from every fission of Uranium-235 with thermal neutrons?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -352,7 +352,7 @@
         ]
     },
     {
-        "question": "QUESTION A.14 [1.0 point] Which ONE of the following conditions would INCREASE the shutdown margin of a reactor?",
+        "question": "A.14 [1.0 point] Which ONE of the following conditions would INCREASE the shutdown margin of a reactor?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -378,7 +378,7 @@
         ]
     },
     {
-        "question": "QUESTION A.15 [1.0 point] The reactor is on a CONSTANT positive period. Which ONE of the following power changes will take the SHORTEST time to complete?",
+        "question": "A.15 [1.0 point] The reactor is on a CONSTANT positive period. Which ONE of the following power changes will take the SHORTEST time to complete?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -404,7 +404,7 @@
         ]
     },
     {
-        "question": "QUESTION A.16 [1.0 point] Which ONE of the following statements best describes the effects of an increase in moderator temperature on neutron multiplication?",
+        "question": "A.16 [1.0 point] Which ONE of the following statements best describes the effects of an increase in moderator temperature on neutron multiplication?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -430,7 +430,7 @@
         ]
     },
     {
-        "question": "QUESTION A.17 [1.0 point] How high will the reactor power get given the lowest of the reactor high power scrams set point is 110%, the scram delay time is 0.5 seconds, the reactor is operating at 100% power prior to the scram, and the reactor period is positive 20 second?",
+        "question": "A.17 [1.0 point] How high will the reactor power get given the lowest of the reactor high power scrams set point is 110%, the scram delay time is 0.5 seconds, the reactor is operating at 100% power prior to the scram, and the reactor period is positive 20 second?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -456,7 +456,7 @@
         ]
     },
     {
-        "question": "QUESTION A.18 [1.0 point] Reactor is critical. What would be the corresponding keff when removing 0.05 ∆k/k from its criticality?",
+        "question": "A.18 [1.0 point] Reactor is critical. What would be the corresponding keff when removing 0.05 ∆k/k from its criticality?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -482,7 +482,7 @@
         ]
     },
     {
-        "question": "QUESTION A.19 [1.0 point] Which ONE of the following is defined as the balance between production of neutrons and their absorption in the core for which core leakage can be neglected?",
+        "question": "A.19 [1.0 point] Which ONE of the following is defined as the balance between production of neutrons and their absorption in the core for which core leakage can be neglected?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -508,7 +508,7 @@
         ]
     },
     {
-        "question": "QUESTION A.20 [1.0 point] Delayed neutrons contribute more to reactor stability than prompt neutrons because they ________ the average neutron generation time and are born at a ________ kinetic energy.",
+        "question": "A.20 [1.0 point] Delayed neutrons contribute more to reactor stability than prompt neutrons because they ________ the average neutron generation time and are born at a ________ kinetic energy.",
         "type": "multiple_choice",
         "answers": [
             {
