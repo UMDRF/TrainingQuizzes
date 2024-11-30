@@ -1,6 +1,6 @@
 [
   {
-    "question": "A.01 [1.0 point] The reactor is operating at 100 W with a fuel temperature of 60 °F. When a control rod with an average rod worth of 0.2% delta k/k/inch is withdrawn by 2 inches, reactor power increases and becomes stable at a higher level. What is the final fuel temperature? Given the fuel temperature coefficient of reactivity of -1.25 E-4 ∆ k/k/ °F.  Given: Fuel temperature change * fuel temperature coefficient = - reactivity of rod",
+    "question": "A.1 [1.0 point] The reactor is operating at 100 W with a fuel temperature of 60 °F. When a control rod with an average rod worth of 0.2% delta k/k/inch is withdrawn by 2 inches, reactor power increases and becomes stable at a higher level. What is the final fuel temperature? Given the fuel temperature coefficient of reactivity of -1.25 E-4 ∆ k/k/ °F.  Given: Fuel temperature change * fuel temperature coefficient = - reactivity of rod",
     "type": "multiple_choice",
     "answers": [
       {
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "question": "A.02 [1.0 point] Which ONE of the following is the correct reason why a reactor gets a negative 80-second period following a reactor scram?",
+    "question": "A.2 [1.0 point] Which ONE of the following is the correct reason why a reactor gets a negative 80-second period following a reactor scram?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "question": "A.03 [1.0 point] What is the meaning of any point on a differential rod worth curve?",
+    "question": "A.3 [1.0 point] What is the meaning of any point on a differential rod worth curve?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "question": "A.04 [1.0 point] What is the reactor period if the reactor power is increasing by a factor of 5 every 2 minutes?",
+    "question": "A.4 [1.0 point] What is the reactor period if the reactor power is increasing by a factor of 5 every 2 minutes?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -104,7 +104,7 @@
     ]
   },
   {
-    "question": "A.05 [1.0 point] Which ONE of the following directly produces 95% of all Xenon in a nuclear reactor?",
+    "question": "A.5 [1.0 point] Which ONE of the following directly produces 95% of all Xenon in a nuclear reactor?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -130,7 +130,7 @@
     ]
   },
   {
-    "question": "A.06 [1.0 point] To thermalize neutrons in the MURR reactor core, which ONE of the following materials is mainly used?",
+    "question": "A.6 [1.0 point] To thermalize neutrons in the MURR reactor core, which ONE of the following materials is mainly used?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -156,7 +156,7 @@
     ]
   },
   {
-    "question": "A.07 [1.0 point] The Uranium-238 nucleus (<sup>238</sup><sub>92</sub>U) has a number of neutrons of _____.",
+    "question": "A.7 [1.0 point] The Uranium-238 nucleus (<sup>238</sup><sub>92</sub>U) has a number of neutrons of _____.",
     "type": "multiple_choice",
     "answers": [
       {
@@ -182,7 +182,7 @@
     ]
   },
   {
-    "question": "A.08 [1.0 point] A reactor is subcritical with a Keff of 0.945. A positive reactivity of 0.055 ∆k/k is inserted into the core, which ONE of the following best describes the reactor kinetics?",
+    "question": "A.8 [1.0 point] A reactor is subcritical with a Keff of 0.945. A positive reactivity of 0.055 ∆k/k is inserted into the core, which ONE of the following best describes the reactor kinetics?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -208,7 +208,7 @@
     ]
   },
   {
-    "question": "A.09 [1.0 point] Giving a Reactor A with a Keff of 0.1 and a Reactor B with a Keff of 0.8, if a Keff is increased by 0.15 for each reactor (Keff of Reactor A = 0.25 and B=0.95), the amount of reactivity added in Reactor A is ______ in Reactor B for the same increment of 0.15.",
+    "question": "A.9 [1.0 point] Giving a Reactor A with a Keff of 0.1 and a Reactor B with a Keff of 0.8, if a Keff is increased by 0.15 for each reactor (Keff of Reactor A = 0.25 and B=0.95), the amount of reactivity added in Reactor A is ______ in Reactor B for the same increment of 0.15.",
     "type": "multiple_choice",
     "answers": [
       {
