@@ -1,6 +1,6 @@
 [
     {
-        "question": "A.01 [1.0 point, 0.25 each] Identify whether each of the following conditions will INCREASE or DECREASE the shutdown margin of a reactor.",
+        "question": "A.1 [1.0 point, 0.25 each] Identify whether each of the following conditions will INCREASE or DECREASE the shutdown margin of a reactor.",
         "type": "multiple_choice",
         "answers": [
             {
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "question": "A.02 [1.0 point] Which ONE of the following statement best defines the reactor excess reactivity? The reactor excess reactivity is:",
+        "question": "A.2 [1.0 point] Which ONE of the following statement best defines the reactor excess reactivity? The reactor excess reactivity is:",
         "type": "multiple_choice",
         "answers": [
             {
@@ -52,7 +52,7 @@
         ]
     },
     {
-        "question": "A.03 [1.0 point, 0.25 each] Replace “X” with the type of decay necessary (Alpha, Beta, Gamma or Neutron emission) to produce the following reactions.",
+        "question": "A.3 [1.0 point, 0.25 each] Replace “X” with the type of decay necessary (Alpha, Beta, Gamma or Neutron emission) to produce the following reactions.",
         "type": "multiple_choice",
         "answers": [
             {
@@ -78,7 +78,7 @@
         ]
     },
     {
-        "question": "A.04 [1.0 point] Given the thermal neutron flux (Ø) is 1.0 × 10^13 neutrons/cm^2/second, and the macroscopic cross-section (Σf) for fission is 0.1 cm^-1. The fission rate is:",
+        "question": "A.4 [1.0 point] Given the thermal neutron flux (Ø) is 1.0 × 10^13 neutrons/cm^2/second, and the macroscopic cross-section (Σf) for fission is 0.1 cm^-1. The fission rate is:",
         "type": "multiple_choice",
         "answers": [
             {
@@ -104,7 +104,7 @@
         ]
     },
     {
-        "question": "A.05 [1.0 point] If the multiplication factor, k, is increased from 0.800 to 0.950, the amount of reactivity added is: (given: beta effect = 0.007)",
+        "question": "A.5 [1.0 point] If the multiplication factor, k, is increased from 0.800 to 0.950, the amount of reactivity added is: (given: beta effect = 0.007)",
         "type": "multiple_choice",
         "answers": [
             {
@@ -130,7 +130,7 @@
         ]
     },
     {
-        "question": "A.06 [1.0 point] Reactor power is rising on a 30 second period. Approximately how long will it take for power to triple?",
+        "question": "A.6 [1.0 point] Reactor power is rising on a 30 second period. Approximately how long will it take for power to triple?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -156,7 +156,7 @@
         ]
     },
     {
-        "question": "A.07 [1.0 point] The number of neutrons passing through a one square centimeter of target material per second is described as:",
+        "question": "A.7 [1.0 point] The number of neutrons passing through a one square centimeter of target material per second is described as:",
         "type": "multiple_choice",
         "answers": [
             {
@@ -182,7 +182,7 @@
         ]
     },
     {
-        "question": "A.08 [1.0 point] You are assigned to check the operation of a new nuclear instrumentation channel. A few minutes following a reactor scram at full power, the reactor period has stabilized and the power level is decreasing at a CONSTANT rate. What is the time for power to decrease by a factor of 10? (Note: conversion may be needed)",
+        "question": "A.8 [1.0 point] You are assigned to check the operation of a new nuclear instrumentation channel. A few minutes following a reactor scram at full power, the reactor period has stabilized and the power level is decreasing at a CONSTANT rate. What is the time for power to decrease by a factor of 10? (Note: conversion may be needed)",
         "type": "multiple_choice",
         "answers": [
             {
@@ -208,7 +208,7 @@
         ]
     },
     {
-        "question": "A.09 [1.0 point] Shown below is a trace of reactor period as a function of time. Between points A and B reactor power is:",
+        "question": "A.9 [1.0 point] Shown below is a trace of reactor period as a function of time. Between points A and B reactor power is:",
         "type": "multiple_choice",
         "answers": [
             {
