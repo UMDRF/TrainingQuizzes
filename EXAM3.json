@@ -1,6 +1,6 @@
 [
   {
-    "question": "A.001 [1.0 point] {1.0} A 1/M curve is being generated as fuel is loaded into the core. After some fuel elements have been loaded, the count rate existing at that time is taken to be the new initial count rate, Co. Additional elements are then loaded and the inverse count rate ratio continues to decrease. As a result of changing the initial count rate:",
+    "question": "A.1 [1.0 point] {1.0} A 1/M curve is being generated as fuel is loaded into the core. After some fuel elements have been loaded, the count rate existing at that time is taken to be the new initial count rate, Co. Additional elements are then loaded and the inverse count rate ratio continues to decrease. As a result of changing the initial count rate:",
     "type": "multiple_choice",
     "answers": [
       {
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "question": "A.002 [1.0 point] {2.0} A reactor is critical at 18.1 inches on a controlling rod. The controlling rod is withdrawn to 18.4 inches. The reactivity inserted is 14.4 cents. What is the differential rod worth?",
+    "question": "A.2 [1.0 point] {2.0} A reactor is critical at 18.1 inches on a controlling rod. The controlling rod is withdrawn to 18.4 inches. The reactivity inserted is 14.4 cents. What is the differential rod worth?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "question": "A.003 [1.0 point] {3.0} Two critical reactors at low power are identical except that Reactor 1 has a beta fraction of 0.0072 and Reactor 2 has a beta fraction of 0.0060. An equal amount of positive reactivity is inserted into both reactors. Which ONE of the following will be the response of Reactor 2 compared to Reactor 1?",
+    "question": "A.3 [1.0 point] {3.0} Two critical reactors at low power are identical except that Reactor 1 has a beta fraction of 0.0072 and Reactor 2 has a beta fraction of 0.0060. An equal amount of positive reactivity is inserted into both reactors. Which ONE of the following will be the response of Reactor 2 compared to Reactor 1?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "question": "A.004 [1.0 point] {4.0} Which ONE of the following describes the response of the subcritical reactor to equal insertions of positive reactivity as the reactor approaches critical? Each reactivity insertion causes:",
+    "question": "A.4 [1.0 point] {4.0} Which ONE of the following describes the response of the subcritical reactor to equal insertions of positive reactivity as the reactor approaches critical? Each reactivity insertion causes:",
     "type": "multiple_choice",
     "answers": [
       {
@@ -104,7 +104,7 @@
     ]
   },
   {
-    "question": "A.005 [1.0 point] {5.0} During the neutron cycle from one generation to the next, several processes occur that may increase or decrease the available number of neutrons. Which ONE of the following factors describes an INCREASE in the number of neutrons during the cycle?",
+    "question": "A.5 [1.0 point] {5.0} During the neutron cycle from one generation to the next, several processes occur that may increase or decrease the available number of neutrons. Which ONE of the following factors describes an INCREASE in the number of neutrons during the cycle?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -130,7 +130,7 @@
     ]
   },
   {
-    "question": "A.006 [1.0 point] {6.0} The effective neutron multiplication factor, Keff, is defined as:",
+    "question": "A.6 [1.0 point] {6.0} The effective neutron multiplication factor, Keff, is defined as:",
     "type": "multiple_choice",
     "answers": [
       {
@@ -156,7 +156,7 @@
     ]
   },
   {
-    "question": "A.007 [1.0 point] {7.0} Which ONE of the following parameter changes will require control rod INSERTION to maintain constant power level following the change?",
+    "question": "A.7 [1.0 point] {7.0} Which ONE of the following parameter changes will require control rod INSERTION to maintain constant power level following the change?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -182,7 +182,7 @@
     ]
   },
   {
-    "question": "A.008 [1.0 point] {8.0} Which ONE of the following is the time period during which the MAXIMUM amount of Xenon-135 will be present in the core?",
+    "question": "A.8 [1.0 point] {8.0} Which ONE of the following is the time period during which the MAXIMUM amount of Xenon-135 will be present in the core?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -208,7 +208,7 @@
     ]
   },
   {
-    "question": "A.009 [1.0 point] {9.0} The reactor is operating in the automatic mode at 50% power. A problem in the secondary cooling system causes the primary coolant temperature to increase by 5 degrees F. Given that the primary coolant temperature coefficient is 7.0x10-5 Δ k/k/deg. F and the differential rod worth of the regulating rod is 8.75x10-5 Δk/k/inch, the change in the position of the regulating rod will be:",
+    "question": "A.9 [1.0 point] {9.0} The reactor is operating in the automatic mode at 50% power. A problem in the secondary cooling system causes the primary coolant temperature to increase by 5 degrees F. Given that the primary coolant temperature coefficient is 7.0x10-5 Δ k/k/deg. F and the differential rod worth of the regulating rod is 8.75x10-5 Δk/k/inch, the change in the position of the regulating rod will be:",
     "type": "multiple_choice",
     "answers": [
       {
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "question": "A.010 [1.0 point] {10.0} Reactor period is at 26 seconds. How long will it take to increase power from 10 kilowatts to 100 kilowatts?",
+    "question": "A.10 [1.0 point] {10.0} Reactor period is at 26 seconds. How long will it take to increase power from 10 kilowatts to 100 kilowatts?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -260,7 +260,7 @@
     ]
   },
   {
-    "question": "A.011 [1.0 point] {11.0} Which ONE of the following is an example of alpha (α) decay?",
+    "question": "A.11 [1.0 point] {11.0} Which ONE of the following is an example of alpha (α) decay?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -286,7 +286,7 @@
     ]
   },
   {
-    "question": "A.012 [1.0 point] {12.0} Keff for the reactor is 0.95. What is the shutdown margin for this condition? (I am NOT looking for Technical Specification definition)",
+    "question": "A.12 [1.0 point] {12.0} Keff for the reactor is 0.95. What is the shutdown margin for this condition? (I am NOT looking for Technical Specification definition)",
     "type": "multiple_choice",
     "answers": [
       {
@@ -312,7 +312,7 @@
     ]
   },
   {
-    "question": "A.013 [1.0 point] {13.0} The reactor had a shutdown margin of 1.75% Δk/k, and a source range count rate of 15 counts per minute. After placing samples in the reactor the count rate increased to 30 counts per minute. What is the worth of the sample?",
+    "question": "A.13 [1.0 point] {13.0} The reactor had a shutdown margin of 1.75% Δk/k, and a source range count rate of 15 counts per minute. After placing samples in the reactor the count rate increased to 30 counts per minute. What is the worth of the sample?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -338,7 +338,7 @@
     ]
   },
   {
-    "question": "A.014 [1.0 point] {14.0} The main source of heat in the reactor one hour after shutdown is due to:",
+    "question": "A.14 [1.0 point] {14.0} The main source of heat in the reactor one hour after shutdown is due to:",
     "type": "multiple_choice",
     "answers": [
       {
@@ -364,7 +364,7 @@
     ]
   },
   {
-    "question": "A.015 [1.0 point] {15.0} For U235, the thermal fission cross-section is 582 barns, and the capture cross-section is 99 barns. When a thermal neutron is absorbed by U235, the probability that a fission will occur is:",
+    "question": "A.15 [1.0 point] {15.0} For U235, the thermal fission cross-section is 582 barns, and the capture cross-section is 99 barns. When a thermal neutron is absorbed by U235, the probability that a fission will occur is:",
     "type": "multiple_choice",
     "answers": [
       {
@@ -390,7 +390,7 @@
     ]
   },
   {
-    "question": "A.016 [1.0 point] {16.0} Which ONE of the following factors is the most significant in determining the differential worth of a control rod?",
+    "question": "A.16 [1.0 point] {16.0} Which ONE of the following factors is the most significant in determining the differential worth of a control rod?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -416,7 +416,7 @@
     ]
   },
   {
-    "question": "A.017 [1.0 point] {17.0} When performing rod calibrations, many facilities pull the rod out a given increment, then measure the time for reactor power to double (doubling time), then calculate the reactor period. If the doubling time is 42 seconds, what is the reactor period?",
+    "question": "A.17 [1.0 point] {17.0} When performing rod calibrations, many facilities pull the rod out a given increment, then measure the time for reactor power to double (doubling time), then calculate the reactor period. If the doubling time is 42 seconds, what is the reactor period?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -442,7 +442,7 @@
     ]
   },
   {
-    "question": "A.018 [1.0 point, 0.25 each] {18.0} Match each type of neutron in column A with the correct definition in column B.",
+    "question": "A.18 [1.0 point, 0.25 each] {18.0} Match each type of neutron in column A with the correct definition in column B.",
     "type": "matching",
     "answers": [
       {
@@ -468,7 +468,7 @@
     ]
   },
   {
-    "question": "A.019 [1.0 point] {19.0} A reactor is subcritical with a Keff of 0.955. A positive reactivity of 4.9% delta k/k is inserted into the core. At this point, the reactor is:",
+    "question": "A.19 [1.0 point] {19.0} A reactor is subcritical with a Keff of 0.955. A positive reactivity of 4.9% delta k/k is inserted into the core. At this point, the reactor is:",
     "type": "multiple_choice",
     "answers": [
       {
@@ -494,7 +494,7 @@
     ]
   },
   {
-    "question": "A.020 [1.0 point] {20.0} A characteristic peculiar to TRIGA fuel is that it has a relatively large (and quickly acting):",
+    "question": "A.20 [1.0 point] {20.0} A characteristic peculiar to TRIGA fuel is that it has a relatively large (and quickly acting):",
     "type": "multiple_choice",
     "answers": [
       {
