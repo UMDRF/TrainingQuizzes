@@ -1,6 +1,6 @@
 [
   {
-    "question": "A.01 [1.0 point] Which ONE of the following is defined as the balance between production of neutrons and their absorption in the core for which core leakage can be neglected?",
+    "question": "A.1 [1.0 point] Which ONE of the following is defined as the balance between production of neutrons and their absorption in the core for which core leakage can be neglected?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "question": "A.02 [1.0 point] A fast neutron will lose the most energy in a collision with which ONE of the following atoms?",
+    "question": "A.2 [1.0 point] A fast neutron will lose the most energy in a collision with which ONE of the following atoms?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "question": "A.03 [1.0 point, 0.25 each] Match the following statements in Column A with the result in Column B to complete the following statements. Answers in Column B may be used once, more than once, or not at all. As moderator temperature increases, [Column A] [Column B].",
+    "question": "A.3 [1.0 point, 0.25 each] Match the following statements in Column A with the result in Column B to complete the following statements. Answers in Column B may be used once, more than once, or not at all. As moderator temperature increases, [Column A] [Column B].",
     "type": "matching",
     "answers": [
       {
@@ -82,7 +82,7 @@
     ]
   },
   {
-    "question": "A.04 [1.0 point] A subcritical reactor, keff is increased from 0.876 to 0.914. Which ONE of the following is the amount of reactivity that was added to the core?",
+    "question": "A.4 [1.0 point] A subcritical reactor, keff is increased from 0.876 to 0.914. Which ONE of the following is the amount of reactivity that was added to the core?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "question": "A.05 [1.0 point, 0.25 each] Replace “X” with the type of decay necessary (Alpha, Beta, Gamma or Neutron emission) to produce the following reactions. Choices may be used once, more than once, or not at all.",
+    "question": "A.5 [1.0 point, 0.25 each] Replace “X” with the type of decay necessary (Alpha, Beta, Gamma or Neutron emission) to produce the following reactions. Choices may be used once, more than once, or not at all.",
     "type": "matching",
     "answers": [
       {
@@ -138,7 +138,7 @@
     ]
   },
   {
-    "question": "A.06 [1.0 point] The primary purpose of the ____________ material is thermalizing neutrons.",
+    "question": "A.6 [1.0 point] The primary purpose of the ____________ material is thermalizing neutrons.",
     "type": "multiple_choice",
     "answers": [
       {
@@ -164,7 +164,7 @@
     ]
   },
   {
-    "question": "A.07 [1.0 point] Which ONE of the following is an example of a FISSILE material?",
+    "question": "A.7 [1.0 point] Which ONE of the following is an example of a FISSILE material?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -190,7 +190,7 @@
     ]
   },
   {
-    "question": "A.08 [1.0 point] Given the thermal neutron flux (Ø) is 1.0 × 1013 neutrons/cm2/second, and the macroscopic cross-section (Σf) for fission is 0.1 cm-1. The fission rate is:",
+    "question": "A.8 [1.0 point] Given the thermal neutron flux (Ø) is 1.0 × 1013 neutrons/cm2/second, and the macroscopic cross-section (Σf) for fission is 0.1 cm-1. The fission rate is:",
     "type": "multiple_choice",
     "answers": [
       {
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "question": "A.09 [1.0 point] Given a reactor period of 17 seconds, how long will it take for reactor power to quadruple?",
+    "question": "A.9 [1.0 point] Given a reactor period of 17 seconds, how long will it take for reactor power to quadruple?",
     "type": "multiple_choice",
     "answers": [
       {
