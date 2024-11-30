@@ -1,6 +1,6 @@
 [
     {
-        "question": "QUESTION: 001 (1.00) Given a source strength of 100 neutrons per second (N/sec) and a multiplication factor of 0.8, the expected neutron count rate would be:",
+        "question": "A.1 (1.00) Given a source strength of 100 neutrons per second (N/sec) and a multiplication factor of 0.8, the expected neutron count rate would be:",
         "type": "multiple_choice",
         "answers": [
             {   
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "question": "QUESTION: 002 (1.00) With the reactor critical at 10 KW a rod is pulled to insert a positive reactivity of 0.00126 K/K. Which one of the following will be the stable reactor period as a result of this reactivity insertion?",
+        "question": "A.2 (1.00) With the reactor critical at 10 KW a rod is pulled to insert a positive reactivity of 0.00126 K/K. Which one of the following will be the stable reactor period as a result of this reactivity insertion?",
         "type": "multiple_choice",
         "answers": [
             {   
@@ -52,7 +52,7 @@
         ]
     },
     {
-        "question": "QUESTION: 003 (1.00) An initial count rate of 100 is doubled five times during a startup. Assuming an initial Keff of 0.950, which one of the following is the new Keff?",
+        "question": "A.3 (1.00) An initial count rate of 100 is doubled five times during a startup. Assuming an initial Keff of 0.950, which one of the following is the new Keff?",
         "type": "multiple_choice",
         "answers": [
             {   
@@ -78,7 +78,7 @@
         ]
     },
     {
-        "question": "QUESTION: 004 (1.00) Consider two identical critical reactors, with the exception that one has a beta of 0.0072 and the other has a beta of 0.0060. Each reactor is operating at 10 watts. Which one of the following compares the response of the reactors to a +0.1% delta k/k reactivity insertion?",
+        "question": "A.4 (1.00) Consider two identical critical reactors, with the exception that one has a beta of 0.0072 and the other has a beta of 0.0060. Each reactor is operating at 10 watts. Which one of the following compares the response of the reactors to a +0.1% delta k/k reactivity insertion?",
         "type": "multiple_choice",
         "answers": [
             {   
@@ -104,7 +104,7 @@
         ]
     },
     {
-        "question": "005 (2.00, 0.5 each) Match the terms in column A with the correct definition in column B",
+        "question": "A.5 (2.00, 0.5 each) Match the terms in column A with the correct definition in column B",
         "type": "matching",
         "columns": {
             "A": [
@@ -156,7 +156,7 @@
         ]
     },
     {
-        "question": "006 (1.00) The reactor is critical and increasing in power. Power has increased from 20 watts to 80 watts in 60 seconds. How long will it take at this rate for power to increase from 0.080 KW to 160 KW?",
+        "question": "A.6 (1.00) The reactor is critical and increasing in power. Power has increased from 20 watts to 80 watts in 60 seconds. How long will it take at this rate for power to increase from 0.080 KW to 160 KW?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -182,7 +182,7 @@
         ]
     },
     {
-        "question": "007 (1.00) A reactor with an initial population of 24000 neutrons is operating with Keff = 1.01. Of the CHANGE in population from the current generation to the next generation, how many are prompt neutrons?",
+        "question": "A.7 (1.00) A reactor with an initial population of 24000 neutrons is operating with Keff = 1.01. Of the CHANGE in population from the current generation to the next generation, how many are prompt neutrons?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -208,7 +208,7 @@
         ]
     },
     {
-        "question": "008 (1.00) Which one of the following conditions would INCREASE the shutdown margin of a reactor?",
+        "question": "A.8 (1.00) Which one of the following conditions would INCREASE the shutdown margin of a reactor?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -234,7 +234,7 @@
         ]
     },
     {
-        "question": "009 (1.00) Which one of the following is the PRIMARY reason that delayed neutrons are so effective at controlling reactor power?",
+        "question": "A.9 (1.00) Which one of the following is the PRIMARY reason that delayed neutrons are so effective at controlling reactor power?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -260,7 +260,7 @@
         ]
     },
     {
-        "question": "010 (1.00) Which one of the following is the principal source of heat in the reactor after a shutdown from extended operation at 1 MW?",
+        "question": "A.10 (1.00) Which one of the following is the principal source of heat in the reactor after a shutdown from extended operation at 1 MW?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -286,7 +286,7 @@
         ]
     },
     {
-        "question": "011 (1.00) The following data was obtained during a reactor fuel load. No. of Elements: 0, 8, 16, 24, 32, 40; Detector A (cps): 20, 28, 30, 32, 42, 80. Which one of the following represents the number of fuel elements predicted to reach criticality?",
+        "question": "A.11 (1.00) The following data was obtained during a reactor fuel load. No. of Elements: 0, 8, 16, 24, 32, 40; Detector A (cps): 20, 28, 30, 32, 42, 80. Which one of the following represents the number of fuel elements predicted to reach criticality?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -312,7 +312,7 @@
         ]
     },
     {
-        "question": "012 (1.00) Following 8 hours at 1 MW, the reactor operator reduces reactor power to 50%. Rod control is placed in manual mode and all rod motion is stopped. Which one of the following describes the response of reactor power, without any further operator actions, and the PRIMARY reason for its response?",
+        "question": "A.12 (1.00) Following 8 hours at 1 MW, the reactor operator reduces reactor power to 50%. Rod control is placed in manual mode and all rod motion is stopped. Which one of the following describes the response of reactor power, without any further operator actions, and the PRIMARY reason for its response?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -338,7 +338,7 @@
         ]
     },
     {
-        "question": "013 (1.00) Which one of the following is a correct statement concerning the factors affecting control rod worth?",
+        "question": "A.13 (1.00) Which one of the following is a correct statement concerning the factors affecting control rod worth?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -364,7 +364,7 @@
         ]
     },
     {
-        "question": "014 (1.00) Pool temperature increases by 20F. Given Tmoderator = -0.0005 K/K/F and an average regulating rod worth of 0.004 K/K/inch. By how much and in what direction did the regulating rod move to compensate for the temperature change?",
+        "question": "A.14 (1.00) Pool temperature increases by 20F. Given Tmoderator = -0.0005 K/K/F and an average regulating rod worth of 0.004 K/K/inch. By how much and in what direction did the regulating rod move to compensate for the temperature change?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -390,7 +390,7 @@
         ]
     },
     {
-        "question": "015 (1.00) Which ONE of the following statements describes the subcritical reactor response as Keff approaches unity?",
+        "question": "A.15 (1.00) Which ONE of the following statements describes the subcritical reactor response as Keff approaches unity?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -416,7 +416,7 @@
         ]
     },
     {
-        "question": "016 (1.00) An experiment to be placed in the central thimble has been wrapped in cadmium. Which one of the following types of radiation will be most effectively blocked by the cadmium wrapping?",
+        "question": "A.16 (1.00) An experiment to be placed in the central thimble has been wrapped in cadmium. Which one of the following types of radiation will be most effectively blocked by the cadmium wrapping?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -442,7 +442,7 @@
         ]
     },
     {
-        "question": "017 (1.00) A thin foil target of 10% copper atoms and 90% aluminum atoms is in a thermal neutron beam. Given σ_Al = 3.79 barns, σ_Cu = 0.23 barns, α_Al = 7.90 barns, and α_Cu = 1.49 barns, which ONE of the following reactions has the highest probability of occurring? A neutron...",
+        "question": "A.17 (1.00) A thin foil target of 10% copper atoms and 90% aluminum atoms is in a thermal neutron beam. Given σ_Al = 3.79 barns, σ_Cu = 0.23 barns, α_Al = 7.90 barns, and α_Cu = 1.49 barns, which ONE of the following reactions has the highest probability of occurring? A neutron...",
         "type": "multiple_choice",
         "answers": [
             {
@@ -468,7 +468,7 @@
         ]
     },
     {
-        "question": "018 (1.00) The reactor is operating at 500 KW in steady-state and in manual mode. Which one of the following describes the stable reactor period if a control rod drops fully into the core and no operator action is taken?",
+        "question": "A.18 (1.00) The reactor is operating at 500 KW in steady-state and in manual mode. Which one of the following describes the stable reactor period if a control rod drops fully into the core and no operator action is taken?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -494,7 +494,7 @@
         ]
     },
     {
-        "question": "019 (1.00) Which one of the following factors in the 'six factor' formula is the most strongly affected by the Negative Temperature Coefficient?",
+        "question": "A.19 (1.00) Which one of the following factors in the 'six factor' formula is the most strongly affected by the Negative Temperature Coefficient?",
         "type": "multiple_choice",
         "answers": [
             {
