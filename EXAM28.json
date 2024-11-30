@@ -1,6 +1,6 @@
 [
     {
-        "question": "A.01 [1.0 point] (1.0) Which ONE of the following is accurate concerning control rod worth?",
+        "question": "A.1 [1.0 point] (1.0) Which ONE of the following is accurate concerning control rod worth?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "question": "A.02 [1.0 point] (2.0) The reactor is on a CONSTANT positive period. Which ONE of the following power changes will take the longest time to complete?",
+        "question": "A.2 [1.0 point] (2.0) The reactor is on a CONSTANT positive period. Which ONE of the following power changes will take the longest time to complete?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -52,7 +52,7 @@
         ]
     },
     {
-        "question": "A.03 [1.0 point] (3.0) After a week of full power operation, Xenon will reach its peak following a shutdown in approximately:",
+        "question": "A.3 [1.0 point] (3.0) After a week of full power operation, Xenon will reach its peak following a shutdown in approximately:",
         "type": "multiple_choice",
         "answers": [
             {
@@ -78,7 +78,7 @@
         ]
     },
     {
-        "question": "A.04 [1.0 point] (4.0) A thermal neutron is a neutron which:",
+        "question": "A.4 [1.0 point] (4.0) A thermal neutron is a neutron which:",
         "type": "multiple_choice",
         "answers": [
             {
@@ -104,7 +104,7 @@
         ]
     },
     {
-        "question": "A.05 [1.0 point] (5.0) Control Rod withdrawal predominantly changes Keff by changing the ...",
+        "question": "A.5 [1.0 point] (5.0) Control Rod withdrawal predominantly changes Keff by changing the ...",
         "type": "multiple_choice",
         "answers": [
             {
@@ -130,7 +130,7 @@
         ]
     },
     {
-        "question": "A.06 [1.0 point] (6.0) Suppose the temperature coefficient of a core is -2.5 × 10⁻⁴ ∆K/K/°C and the average control rod worth of the regulating control rod is 5.895 × 10⁻³ ∆K/K/inch. If the temperature INCREASES by 50°C, what will the automatic control command the regulating rod to do? Select the answer that is closest to the calculated value.",
+        "question": "A.6 [1.0 point] (6.0) Suppose the temperature coefficient of a core is -2.5 × 10⁻⁴ ∆K/K/°C and the average control rod worth of the regulating control rod is 5.895 × 10⁻³ ∆K/K/inch. If the temperature INCREASES by 50°C, what will the automatic control command the regulating rod to do? Select the answer that is closest to the calculated value.",
         "type": "multiple_choice",
         "answers": [
             {
@@ -156,7 +156,7 @@
         ]
     },
     {
-        "question": "A.07 [1.0 point] (7.0) Which one of the following describes how delayed neutrons affect control of the reactor?",
+        "question": "A.7 [1.0 point] (7.0) Which one of the following describes how delayed neutrons affect control of the reactor?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -182,7 +182,7 @@
         ]
     },
     {
-        "question": "A.08 [1.0 point] (8.0) You enter the control room and note that all nuclear instrumentation shows a steady neutron level, and no rods are in motion. Which ONE of the following conditions CANNOT be true?",
+        "question": "A.8 [1.0 point] (8.0) You enter the control room and note that all nuclear instrumentation shows a steady neutron level, and no rods are in motion. Which ONE of the following conditions CANNOT be true?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -208,7 +208,7 @@
         ]
     },
     {
-        "question": "A.09 [1.0 point, 0.25 each] (9.0) The reactor is operating at full power. A malfunction of equipment in the secondary cooling system causes primary temperature to increase by 10°C. Fill out the blank with INCREASE or DECREASE due to temperature effects.",
+        "question": "A.9 [1.0 point, 0.25 each] (9.0) The reactor is operating at full power. A malfunction of equipment in the secondary cooling system causes primary temperature to increase by 10°C. Fill out the blank with INCREASE or DECREASE due to temperature effects.",
         "type": "fill_in_the_blank",
         "answers": [
             {
