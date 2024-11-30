@@ -1,6 +1,6 @@
 [
   {
-    "question": "A.01 [1.0 point] (1.0) Which ONE of the following isotopes has the LARGEST thermal neutron microscopic cross section?",
+    "question": "A.1 [1.0 point] (1.0) Which ONE of the following isotopes has the LARGEST thermal neutron microscopic cross section?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "question": "A.02 [1.0 point] (1.0) Match each term in column A with the correct definition in column B. (Answers used only once) Column A             Column B a. Prompt Neutron      1. A neutron in equilibrium with its surroundings. b. Fast Neutron        2. A neutron born directly from fission. c. Thermal Neutron     3. A neutron born due to decay of a fission product. d. Delayed Neutron     4. A neutron at an energy level greater than its surroundings.",
+    "question": "A.2 [1.0 point] (1.0) Match each term in column A with the correct definition in column B. (Answers used only once) Column A             Column B a. Prompt Neutron      1. A neutron in equilibrium with its surroundings. b. Fast Neutron        2. A neutron born directly from fission. c. Thermal Neutron     3. A neutron born due to decay of a fission product. d. Delayed Neutron     4. A neutron at an energy level greater than its surroundings.",
     "type": "matching",
     "answers": [
       {
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "question": "A.03 [1.0 point] (1.0) Five minutes after shutting down the reactor, reactor power is 3 × 10⁶ counts per minute (cpm). Which ONE of the following is the count rate you would expect three minutes later?",
+    "question": "A.3 [1.0 point] (1.0) Five minutes after shutting down the reactor, reactor power is 3 × 10⁶ counts per minute (cpm). Which ONE of the following is the count rate you would expect three minutes later?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "question": "A.04 [1.0 point] (1.0) Which ONE of the following describes the difference between reflectors and moderators?",
+    "question": "A.4 [1.0 point] (1.0) Which ONE of the following describes the difference between reflectors and moderators?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -104,7 +104,7 @@
     ]
   },
   {
-    "question": "A.05 [1.0 point] (1.0) During a startup you increase reactor power from 100 watts to 195 watts in a minute. Which ONE of the following is reactor period?",
+    "question": "A.5 [1.0 point] (1.0) During a startup you increase reactor power from 100 watts to 195 watts in a minute. Which ONE of the following is reactor period?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -130,7 +130,7 @@
     ]
   },
   {
-    "question": "A.06 [1.0 point] (1.0) An element decays at a rate of 20% per day. What is its half-life?",
+    "question": "A.6 [1.0 point] (1.0) An element decays at a rate of 20% per day. What is its half-life?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -156,7 +156,7 @@
     ]
   },
   {
-    "question": "A.07 [1.0 point] (1.0) Which ONE of the following algebraic terms is the effective multiplication factor (Keff)?",
+    "question": "A.7 [1.0 point] (1.0) Which ONE of the following algebraic terms is the effective multiplication factor (Keff)?",
     "type": "multiple_choice",
     "answers": [
       {
@@ -182,7 +182,7 @@
     ]
   },
   {
-    "question": "A.08 [1.0 point] (1.0) Which of the following changes in reactor power would take the LONGEST time? Assume the reactor is on a constant period.",
+    "question": "A.8 [1.0 point] (1.0) Which of the following changes in reactor power would take the LONGEST time? Assume the reactor is on a constant period.",
     "type": "multiple_choice",
     "answers": [
       {
@@ -208,7 +208,7 @@
     ]
   },
   {
-    "question": "A.09 [1.0 point] (1.0) The following graph for U-235 depicts……",
+    "question": "A.9 [1.0 point] (1.0) The following graph for U-235 depicts……",
     "type": "multiple_choice",
     "answers": [
       {
