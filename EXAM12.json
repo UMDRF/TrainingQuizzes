@@ -1,0 +1,522 @@
+[
+  {
+    "question": "A.01 [1.0 point] Energy Yield (ΔQ) from a nuclear fission reaction is in the range of (or is approximately):",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. < 1 eV",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh 3rd, Table 3.6, pg. 88"
+      },
+      {
+        "answer": "b. 1.86 keV",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh 3rd, Table 3.6, pg. 88"
+      },
+      {
+        "answer": "c. 200 MeV",
+        "correct": true,
+        "feedback": "Correct. Reference: Lamarsh 3rd, Table 3.6, pg. 88"
+      },
+      {
+        "answer": "d. 1000 MeV",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh 3rd, Table 3.6, pg. 88"
+      }
+    ]
+  },
+  {
+    "question": "A.02 [1.0 point] A reactor is subcritical if:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. ρ = 1.0",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Table 3.5, pg. 3-22"
+      },
+      {
+        "answer": "b. Keff < 1.0 or ρ < 0.0",
+        "correct": true,
+        "feedback": "Correct. Reference: Burns, Table 3.5, pg. 3-22"
+      },
+      {
+        "answer": "c. K∞= 1.0, ρ = β",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Table 3.5, pg. 3-22"
+      },
+      {
+        "answer": "d. Keff > 1.0 or ρ > 0.0",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Table 3.5, pg. 3-22"
+      }
+    ]
+  },
+  {
+    "question": "A.03 [1.0 point] What is the meaning of any point on a differential rod worth curve? Represents",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The amount of reactivity that one inch of rod motion would insert at that position in the core.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burns, Example 7.2 (b), pg. 7-4"
+      },
+      {
+        "answer": "b. The zero reactivity when the rod is on the bottom and the positive reactivity being added as the rod is withdrawn.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Example 7.2 (b), pg. 7-4"
+      },
+      {
+        "answer": "c. The negative reactivity added as the rod is inserted.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Example 7.2 (b), pg. 7-4"
+      },
+      {
+        "answer": "d. The cumulative area under the differential curve starting from the bottom of the core.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Example 7.2 (b), pg. 7-4"
+      }
+    ]
+  },
+  {
+    "question": "A.04 [1.0 point] Which ONE of the following changes does not require a movement of control rods in order to maintain constant reactor power?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Pool water temperature decrease",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Problem 7.7.4, pg. 7-17"
+      },
+      {
+        "answer": "b. U-235 burnup",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Problem 7.7.4, pg. 7-17"
+      },
+      {
+        "answer": "c. Xe-135 buildup",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Problem 7.7.4, pg. 7-17"
+      },
+      {
+        "answer": "d. N-16 formation",
+        "correct": true,
+        "feedback": "Correct. Reference: Burns, Problem 7.7.4, pg. 7-17"
+      }
+    ]
+  },
+  {
+    "question": "A.05 [1.0 point] The effective multiplication factor (Keff) can be determined by dividing the number of neutrons produced from fission in the fourth generation by the number of neutrons produced from fission in the _________ generation.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. First",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 3.3.1, pg. 3-16"
+      },
+      {
+        "answer": "b. Second",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 3.3.1, pg. 3-16"
+      },
+      {
+        "answer": "c. Third",
+        "correct": true,
+        "feedback": "Correct. Reference: Burns, Section 3.3.1, pg. 3-16"
+      },
+      {
+        "answer": "d. Fifth",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 3.3.1, pg. 3-16"
+      }
+    ]
+  },
+  {
+    "question": "A.06 [1.0 point] Because the temperature of the fuel reacts immediately to changes in reactor power, the Fuel Temperature Coefficient is also called the:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Prompt Temperature Coefficient",
+        "correct": true,
+        "feedback": "Correct. Reference: Lamarsh 3rd ed., Section 7.4, pg. 367"
+      },
+      {
+        "answer": "b. Moderator Temperature Coefficient",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh 3rd ed., Section 7.4, pg. 367"
+      },
+      {
+        "answer": "c. Nuclear Doppler Effect",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh 3rd ed., Section 7.4, pg. 367"
+      },
+      {
+        "answer": "d. Void Coefficient",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh 3rd ed., Section 7.4, pg. 367"
+      }
+    ]
+  },
+  {
+    "question": "A.07 [1.0 point, 0.25 each] Match the items in Column A with the isotopes in Column B. The most important fission product poison is 135Xe. The process that show how this isotope is formed and its decay is:\nColumn A\tColumn B\n1.  135 Ba\n2.  135 Cs\n3.  135 I\n4.  135 Te",
+    "type": "matching",
+    "answers": [
+      {
+        "columnA": "1",
+        "columnB": "4",
+        "feedback": "Reference: Lamarsh 3rd ed., Section 7.5, pg. 377, Burns, F1gure 8.1, pg. 8-6"
+      },
+      {
+        "columnA": "2",
+        "columnB": "3",
+        "feedback": "Reference: Lamarsh 3rd ed., Section 7.5, pg. 377, Burns, F1gure 8.1, pg. 8-6"
+      },
+      {
+        "columnA": "3",
+        "columnB": "2",
+        "feedback": "Reference: Lamarsh 3rd ed., Section 7.5, pg. 377, Burns, F1gure 8.1, pg. 8-6"
+      },
+      {
+        "columnA": "4",
+        "columnB": "1",
+        "feedback": "Reference: Lamarsh 3rd ed., Section 7.5, pg. 377, Burns, F1gure 8.1, pg. 8-6"
+      }
+    ]
+  },
+  {
+    "question": "A.08 [1.0 point] Delayed neutrons contribute more to reactor stability than prompt neutrons because they ________ the average neutron generation time and are born at a __________ kinetic energy.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Decrease, lower",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 3.2.4, pg. 3-12 and Section 3.4.4, pg. 3-33"
+      },
+      {
+        "answer": "b. Increase, lower",
+        "correct": true,
+        "feedback": "Correct. Reference: Burns, Section 3.2.4, pg. 3-12 and Section 3.4.4, pg. 3-33"
+      },
+      {
+        "answer": "c. Decrease, higher",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 3.2.4, pg. 3-12 and Section 3.4.4, pg. 3-33"
+      },
+      {
+        "answer": "d. Increase,  higher",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 3.2.4, pg. 3-12 and Section 3.4.4, pg. 3-33"
+      }
+    ]
+  },
+  {
+    "question": "A.09 [1.0 point] The neutron interaction in the reactor core that is MOST efficient in thermalizing fast neutrons occurs with the:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Hydrogen atoms in the water molecules.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burns, Section 6.4.1, pg. 6-5"
+      },
+      {
+        "answer": "b. Nitrogen-16 from Oxygen.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 6.4.1, pg. 6-5"
+      },
+      {
+        "answer": "c. Boron atoms in the control rods.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 6.4.1, pg. 6-5"
+      },
+      {
+        "answer": "d. Aluminum atoms in the fuel cladding.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 6.4.1, pg. 6-5"
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1.0 point] Which ONE of the following is the description of a thermal neutron?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. A neutron possessing thermal rather than kinetic energy.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Glasstone, Sesonske, Nuclear Reactor Engineering, Section 1.32, pg. 11"
+      },
+      {
+        "answer": "b. The primary source of thermal energy increase in the reactor coolant during reactor operation.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Glasstone, Sesonske, Nuclear Reactor Engineering, Section 1.32, pg. 11"
+      },
+      {
+        "answer": "c. A neutron that experiences no net change in energy after several collisions with atoms of the diffusing media.",
+        "correct": true,
+        "feedback": "Correct. Reference: Glasstone, Sesonske, Nuclear Reactor Engineering, Section 1.32, pg. 11"
+      },
+      {
+        "answer": "d. A neutron that has been produced in a significant time (on the order of seconds) after its initiating fission took place.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Glasstone, Sesonske, Nuclear Reactor Engineering, Section 1.32, pg. 11"
+      }
+    ]
+  },
+  {
+    "question": "A.11 [1.0 point] Fuel is being loaded into the core. The operator is using a 1/M plot to monitor core loading. Which ONE of the following conditions would result in a non-conservative prediction of core critical mass, i.e., the reactor would reach criticality prior to the predicted critical mass?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The detector is too far away from the source and the fuel.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, Section 5.5, pg. 5-18\nA detector that is too far from the source and fuel will underestimate the effects of adding fuel, since the measured counts will not appreciably increase with each fuel element addition."
+      },
+      {
+        "answer": "b. The detector is too close to the source and the fuel.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Section 5.5, pg. 5-18\nA detector that is too far from the source and fuel will underestimate the effects of adding fuel, since the measured counts will not appreciably increase with each fuel element addition."
+      },
+      {
+        "answer": "c. Excessive time is allowed between fuel elements being loaded.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Section 5.5, pg. 5-18\nA detector that is too far from the source and fuel will underestimate the effects of adding fuel, since the measured counts will not appreciably increase with each fuel element addition."
+      },
+      {
+        "answer": "d. A fuel element is placed between the source and the detector.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Section 5.5, pg. 5-18\nA detector that is too far from the source and fuel will underestimate the effects of adding fuel, since the measured counts will not appreciably increase with each fuel element addition."
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1.0 point] What order process is the radioactive decay differential equation?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Zero",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, 2.4.6, pg. 2-30\nMathematically, radioactive decay can be represented by the first order, linear differential equation dA/dt = -λA where A is the number density of radioactive atoms of a substance and λ is called the decay constant."
+      },
+      {
+        "answer": "b. First",
+        "correct": true,
+        "feedback": "Correct. Reference: Burns, 2.4.6, pg. 2-30\nMathematically, radioactive decay can be represented by the first order, linear differential equation dA/dt = -λA where A is the number density of radioactive atoms of a substance and λ is called the decay constant."
+      },
+      {
+        "answer": "c. Second",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, 2.4.6, pg. 2-30\nMathematically, radioactive decay can be represented by the first order, linear differential equation dA/dt = -λA where A is the number density of radioactive atoms of a substance and λ is called the decay constant."
+      },
+      {
+        "answer": "d. Third",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, 2.4.6, pg. 2-30\nMathematically, radioactive decay can be represented by the first order, linear differential equation dA/dt = -λA where A is the number density of radioactive atoms of a substance and λ is called the decay constant."
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1.0 point] Which ONE of the following is the major source of heat generation after an operating reactor has been shut down and cooled down for several days?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Resonance capture",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook, NP-03, pg. 34"
+      },
+      {
+        "answer": "b. Fission fragment decay",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Handbook, NP-03, pg. 34"
+      },
+      {
+        "answer": "c. Delayed neutron reactions",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook, NP-03, pg. 34"
+      },
+      {
+        "answer": "d. Corrosion product activation",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook, NP-03, pg. 34"
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1.0 point] Which ONE of the following is the primary mechanism for transferring heat through the cladding of a fuel rod?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Conduction",
+        "correct": true,
+        "feedback": "Correct. Reference: Lamarsh 3rd, Section 8.3, pg. 417"
+      },
+      {
+        "answer": "b. Convection",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh 3rd, Section 8.3, pg. 417"
+      },
+      {
+        "answer": "c. Radiation",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh 3rd, Section 8.3, pg. 417"
+      },
+      {
+        "answer": "d. Mass Transfer",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh 3rd, Section 8.3, pg. 417"
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1.0 point] The reaction 54Xe135   →   _____ + 55Cs135 is an example of:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Alpha Decay",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, NP-01, pg. 24"
+      },
+      {
+        "answer": "b. Beta Decay",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, NP-01, pg. 24"
+      },
+      {
+        "answer": "c. Gamma Emission",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, NP-01, pg. 24"
+      },
+      {
+        "answer": "d. Electron Capture",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, NP-01, pg. 24"
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1.0 point] What is the effect of delayed neutrons on the neutron flux decay following a scram from full power?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Adds negative reactivity creating a greater shutdown margin.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 4.10.12, pg. 4-32 to 4-33"
+      },
+      {
+        "answer": "b. Adds positive reactivity due to the fuel temperature decrease following the scram.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 4.10.12, pg. 4-32 to 4-33"
+      },
+      {
+        "answer": "c. Limits the final rate at which power decreases to a -80 second period.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burns, Section 4.10.12, pg. 4-32 to 4-33"
+      },
+      {
+        "answer": "d. Decreases the mean neutron lifetime.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 4.10.12, pg. 4-32 to 4-33"
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1.0 point] Several processes occur that may increase or decrease the available number of neutrons. Select from the following the six-factor formula term that describes an INCREASE in the number of neutrons during the cycle.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Thermal utilization factor",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 3.2, pg. 3-13 to 3-18"
+      },
+      {
+        "answer": "b. Resonance escape probability",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 3.2, pg. 3-13 to 3-18"
+      },
+      {
+        "answer": "c. Thermal non-leakage probability",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 3.2, pg. 3-13 to 3-18"
+      },
+      {
+        "answer": "d. Reproduction factor",
+        "correct": true,
+        "feedback": "Correct. Reference: Burns, Section 3.2, pg. 3-13 to 3-18"
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1.0 point] The Beryllium-9 in the facility installed neutron source undergoes a __________ reaction.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fusion",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Volume 1, NP-02, pg. 3"
+      },
+      {
+        "answer": "b. Alpha-Neutron",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Volume 1, NP-02, pg. 3"
+      },
+      {
+        "answer": "c. Gamma-Neutron",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Volume 1, NP-02, pg. 3"
+      },
+      {
+        "answer": "d. Spontaneous Fission",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Volume 1, NP-02, pg. 3"
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1.0 point] If Beta for U-235 is 0.0065 and Beta effective is approximately 0.007, how does this difference affect reactor period in the reactor period equation, T=(β-p)/λp? This difference produces a _________ for a given addition of reactivity with Beta effective.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Longer period",
+        "correct": true,
+        "feedback": "Correct. Reference: Burns, Example 3.4.3, pg. 3-32, 3-33\nIn the reactor period equation, T=(β-p)/λp, if Beta effective is used instead of Beta for U-235, the term (βeff-p) is larger giving a longer period."
+      },
+      {
+        "answer": "b. Shorter period",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Example 3.4.3, pg. 3-32, 3-33\nIn the reactor period equation, T=(β-p)/λp, if Beta effective is used instead of Beta for U-235, the term (βeff-p) is larger giving a longer period."
+      },
+      {
+        "answer": "c. Stable period",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Example 3.4.3, pg. 3-32, 3-33\nIn the reactor period equation, T=(β-p)/λp, if Beta effective is used instead of Beta for U-235, the term (βeff-p) is larger giving a longer period."
+      },
+      {
+        "answer": "d. Decay constant (λ) increase",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Example 3.4.3, pg. 3-32, 3-33\nIn the reactor period equation, T=(β-p)/λp, if Beta effective is used instead of Beta for U-235, the term (βeff-p) is larger giving a longer period."
+      }
+    ]
+  },
+  {
+    "question": "A.20 [1.0 point] Which ONE of the following factors has the LEAST effect on Keff?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fuel burnup",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 3.3.2, pg. 3-18"
+      },
+      {
+        "answer": "b. Increase in fuel temperature",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 3.3.2, pg. 3-18"
+      },
+      {
+        "answer": "c. Increase in moderator temperature",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 3.3.2, pg. 3-18"
+      },
+      {
+        "answer": "d. Xenon and samarium fission products",
+        "correct": true,
+        "feedback": "Correct. Reference: Burns, Section 3.3.2, pg. 3-18"
+      }
+    ]
+  }
+]
