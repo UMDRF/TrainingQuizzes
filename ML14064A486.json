@@ -1,0 +1,526 @@
+[
+  {
+    "question": "A.001 [1.0 point] (1.0) In a subcritical reactor, Keff is increased from 0.861 to 0.946. Which ONE of the following is the amount of reactivity that was added to the reactor core?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.085 ΔK/K",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "b. 0.104 ΔK/K",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "answer": "c. 0.161 ΔK/K",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "d. 0.218 ΔK/K",
+        "correct": false,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.002 [1.0 point] {2.0} You enter the control room and note that ALL nuclear instrumentation show a STEADY NEUTRON LEVEL, and no rods are in motion. Which ONE of the following conditions CANNOT be true?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The reactor is critical.",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "b. The reactor is sub-critical.",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "c. The reactor is super-critical.",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "answer": "d. The neutron source has been removed from the core.",
+        "correct": false,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.003 [1.0 point] {3.0} The neutron microscopic cross-section for absorption σa generally…",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. increases as neutron energy increases.",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "b. decreases as neutron energy increases.",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "answer": "c. increases as the mass of the target nucleus increases.",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "d. decreases as the mass of the target nucleus increases.",
+        "correct": false,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.004 [1.0 point] (4.0) The term \"Prompt Critical\" refers to:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the instantaneous jump in power due to a rod withdrawal",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "b. a reactor which is supercritical using only prompt neutrons",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "answer": "c. a reactor which is critical using both prompt and delayed neutrons",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "d. a reactivity insertion which is less than βeff",
+        "correct": false,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.005 [1.0 point] (5.0) Which ONE of the following describes the difference between reflectors and moderators?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Reflectors decrease core leakage while moderators thermalize neutrons",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "answer": "b. Reflectors shield against neutrons while moderators decrease core leakage",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "c. Reflectors decrease thermal leakage while moderators decrease fast leakage",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "d. Reflectors thermalize neutrons while moderators decrease core leakage",
+        "correct": false,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.006 [1.0 points, 0.25 each] {6.0} Match type of radiation (Column A) with the proper penetrating power (Column B).   Column A     Column B  a. Gamma   1. Stopped by thin sheet of paper  b. Beta    2. Stopped by thin sheet of metal  c. Alpha    3. Best shielded by light (low-z) material  d. Neutron   4. Best shielded by heavy (high-z) material",
+    "type": "matching",
+    "answers": [
+      {
+        "columnA": "a. Gamma",
+        "columnB": "4. Best shielded by heavy (high-z) material",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "columnA": "b. Beta",
+        "columnB": "2. Stopped by thin sheet of metal",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "columnA": "c. Alpha",
+        "columnB": "1. Stopped by thin sheet of paper",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "columnA": "d. Neutron",
+        "columnB": "3. Best shielded by light (low-z) material",
+        "correct": true,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.007 [1.0 point] {7.0} Given that the NBSR is shutdown with a Keff of 0.84, and βeff is 0.008. Calculate the amount of reactivity required to achieve criticality.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 12.8$",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "b. 16$",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "c. 24$",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "answer": "d. 30$",
+        "correct": false,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.008 [1.0 point] {8.0} Which ONE of the following is the reason that Xenon Peaks after a shutdown?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Iodine decays faster than Xenon decays",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "answer": "b. Promethium decays faster than Xenon decays",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "c. Xenon decays faster than Iodine decays",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "d. Xenon decays faster than Promethium",
+        "correct": false,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.009 [1.0 point] {9.0} To make a just critical reactor “PROMPT CRITICAL”, by definition you must add reactivity equal to …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. τeff",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "b. λeff",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "c. βeff",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "answer": "d. Keff",
+        "correct": false,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.010 [1.0 point] (10.0) Which ONE of the following is the time period in which the maximum amount of Xe135 will be present in the core?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 7 to 11 hours after a startup to 100% power",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "b. 3 to 6 hours after a power increase from 50% to 100%.",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "c. 3 to 6 hours after a power decrease from 100% to 50%.",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "d. 7 to 11 hours after a scram from 100%",
+        "correct": true,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.011 [1.0 point] (11.0) Which ONE of the following statements describes the Nuclear Instrumentation response for a rod withdrawal while the reactor is subcritical? (Assume the reactor remains subcritical)",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Count rate will rapidly increase (prompt jump), then gradually increase to a new stable value.",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "answer": "b. Count rate will rapidly increase (prompt jump), then gradually decrease to the initial value.",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "c. Count rate will rapidly increase (prompt jump) to a new stable value.",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "d. Count rate will not change until criticality is reached.",
+        "correct": false,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.012 [1.0 point] (12.0) Which ONE of the four listed factors (of the six-factor formula) is greater than one for the NIST reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fast Fission Factor (ε)",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "answer": "b. Thermal Utilization Factor (f)",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "c. Thermal Non-Leakage probability (£th)",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "d. Resonance Escape probability (p)",
+        "correct": false,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.013 [1.0 point] {130} NI-1 is indicating 50 cps. An experimenter inserts an experiment into the core, and NI-1 indication decreases to 25 cps. Given the initial Keff of the reactor was 0.8, what is the worth of the experiment?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. negative 0.42",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "answer": "b. positive 0.42",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "c. negative 0.21",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "d. positive 0.21",
+        "correct": false,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.014 [1.0 point] {14.0} Given the lowest of the high power scrams is 124%, and the scram time is 0.5 sec. Approximately how high will reactor power get with a 20 second period? (NOTE: this is a theory question, there is no relation to Tech. Spec. limit.)",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 124%",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "b. 127%",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "answer": "c. 131%",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "d. 200%",
+        "correct": false,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.015 [1.0 point] {15.0} Which ONE of the following is the dominant factor in determining differential rod worth?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Rod speed",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "b. Total Reactor Power",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "c. Axial and Radial Flux",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "answer": "d. Delayed neutron fraction",
+        "correct": false,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.016 [1.0 point] {16.0} With the reactor on a CONSTANT period, which ONE of the following transients will take the LONGEST time to complete? A reactor increase from …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 1 to 5% of full power.",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "answer": "b. 10 to 20% of full power.",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "c. 20 to 35% of full power.",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "d. 40 to 60% of full power.",
+        "correct": false,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.017 [1.0 point] {17.0} Which ONE of the following is the MAJOR source of energy released from the fission process?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Kinetic energy of the fission fragments",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "answer": "b. Kinetic energy of the fission neutrons",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "c. Decay of the fission fragments",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "d. Prompt gamma rays",
+        "correct": false,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.018 [1.0 point] {18.0} The term PROMPT JUMP refers to …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the instantaneous change in power due to moving a control element.",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "answer": "b. a reactor which has attained criticality on prompt neutrons alone.",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "c. a reactor which is critical using both prompt and delayed neutrons.",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "d. a negative reactivity insertion which is greater than βeff.",
+        "correct": false,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.019 [1.0 point] {19.0} Most nuclear text books list the delayed neutron fraction (β) as being 0.0065Δρ. Most research reactors however have an effective delayed neutron fraction (βeffective) of 0.0070 Δρ. Which ONE of the following is the reason for this difference?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Delayed neutrons are born at higher energies than prompt neutrons resulting in a greater worth for the neutrons.",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "b. Delayed neutrons are born at lower energies than prompt neutrons resulting in a greater worth for the neutrons.",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "answer": "c. The fuel includes U238 which via neutron absorption becomes Pu239 which has a larger β for fission.",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "d. The fuel includes U238 which has a relatively large β for fast fission.",
+        "correct": false,
+        "feedback": ""
+      }
+    ]
+  },
+  {
+    "question": "A.020 [1.0 point] {20.0} A fast neutron will lose the most energy in a collision with which ONE of the following atoms?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. H1",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "answer": "b. H2",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "c. C12",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "answer": "d. U238",
+        "correct": false,
+        "feedback": ""
+      }
+    ]
+  }
+]

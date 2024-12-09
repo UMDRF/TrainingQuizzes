@@ -1,0 +1,522 @@
+[
+  {
+    "question": "A.1 [1.0] Shortly after a reactor trip, reactor power indicates 0.5% where a stable negative period is attained.  Reactor power will be reduced to 0.05% in approximately _______ seconds.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 90",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.47"
+      },
+      {
+        "answer": "b. 180",
+        "correct": true,
+        "feedback": "Correct. REF: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.47"
+      },
+      {
+        "answer": "c. 270",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.47"
+      },
+      {
+        "answer": "d. 360",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.47"
+      }
+    ]
+  },
+  {
+    "question": "A.2 [1.0] The following data was obtained during a reactor fuel load.\nNo. of Elements Detector A (cps)\n0 20\n8 28\n16 30\n24 32\n32 42\n40 80\nWhich one of the following represents the number of fuel elements predicted to reach criticality?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 48",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, §§ 3.161 — 3.163"
+      },
+      {
+        "answer": "b. 52",
+        "correct": true,
+        "feedback": "Correct. REF: Glasstone, S. and Sesonske, §§ 3.161 — 3.163"
+      },
+      {
+        "answer": "c. 56",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, §§ 3.161 — 3.163"
+      },
+      {
+        "answer": "d. 60",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, §§ 3.161 — 3.163"
+      }
+    ]
+  },
+  {
+    "question": "A.3 [1.0] An initial count rate of 100 is doubled five times during startup.  Assuming an initial Keff = 0.950, what is the new Keff?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.957",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske,§ 3.161 — 3.163\n1/32 (1 - 0.95) = 1 - Keff2  ---   1 - 0.05/32 = Keff2   ---    Keff2 = 0.9984"
+      },
+      {
+        "answer": "b. 0.979",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske,§ 3.161 — 3.163\n1/32 (1 - 0.95) = 1 - Keff2  ---   1 - 0.05/32 = Keff2   ---    Keff2 = 0.9984"
+      },
+      {
+        "answer": "c. 0.988",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske,§ 3.161 — 3.163\n1/32 (1 - 0.95) = 1 - Keff2  ---   1 - 0.05/32 = Keff2   ---    Keff2 = 0.9984"
+      },
+      {
+        "answer": "d. 0.998",
+        "correct": true,
+        "feedback": "Correct. REF: Glasstone, S. and Sesonske,§ 3.161 — 3.163\n1/32 (1 - 0.95) = 1 - Keff2  ---   1 - 0.05/32 = Keff2   ---    Keff2 = 0.9984"
+      }
+    ]
+  },
+  {
+    "question": "A.4 [1.0] Which one of the following is the MAXIMUM amount of reactivity that can be promptly inserted into the reactor WITHOUT causing the reactor to go \"Prompt Critical\"?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 100 mβ",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, § 5.55. k = 1 / (1- β)  k = 1  when  ρ = β"
+      },
+      {
+        "answer": "b. 500 mβ",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, § 5.55. k = 1 / (1- β)  k = 1  when  ρ = β"
+      },
+      {
+        "answer": "c. 750 mβ",
+        "correct": true,
+        "feedback": "Correct. REF: Glasstone, S. and Sesonske, § 5.55. k = 1 / (1- β)  k = 1  when  ρ = β"
+      },
+      {
+        "answer": "d. 1900 mβ",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, § 5.55. k = 1 / (1- β)  k = 1  when  ρ = β"
+      }
+    ]
+  },
+  {
+    "question": "A.5 [1.0] The reactor is shut down by 0.05 ΔK/K, this would correspond to Keff of:\na. 0.9995.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.9995.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, § 3.44 & § 5.9. p=(k-1)/k; p= -0.05; -0.05k = k-1; 1 = k-(-0.05k) = k(1+0.05); k=1/1.05; k=0.9524"
+      },
+      {
+        "answer": "b. 0.9524.",
+        "correct": true,
+        "feedback": "Correct. REF: Glasstone, S. and Sesonske, § 3.44 & § 5.9. p=(k-1)/k; p= -0.05; -0.05k = k-1; 1 = k-(-0.05k) = k(1+0.05); k=1/1.05; k=0.9524"
+      },
+      {
+        "answer": "c. 0.7750.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, § 3.44 & § 5.9. p=(k-1)/k; p= -0.05; -0.05k = k-1; 1 = k-(-0.05k) = k(1+0.05); k=1/1.05; k=0.9524"
+      },
+      {
+        "answer": "d. 0.0500.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, § 3.44 & § 5.9. p=(k-1)/k; p= -0.05; -0.05k = k-1; 1 = k-(-0.05k) = k(1+0.05); k=1/1.05; k=0.9524"
+      }
+    ]
+  },
+  {
+    "question": "A.6 [1.0] Which one of the following is the effect due to an INCREASE in water temperature?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Neutron spectrum hardens due to less moderation.",
+        "correct": true,
+        "feedback": "Correct. REF: Glasstone, S. and Sesonske §§  7.131 — 7.155."
+      },
+      {
+        "answer": "b. Neutron spectrum softens due to increased leakage.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske §§  7.131 — 7.155."
+      },
+      {
+        "answer": "c. Reactivity increases due to less leakage.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske §§  7.131 — 7.155."
+      },
+      {
+        "answer": "d. Reactivity decreases due to more moderation.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske §§  7.131 — 7.155."
+      }
+    ]
+  },
+  {
+    "question": "A.7 [1.0] A reactor is subcritical with a shutdown margin of 0.0526 ΔK/K.  The addition of a reactor experiment increases the indicated count rate from 10 cps to 20 cps.  Which one of the following is the new Keff of the reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. .53",
+        "correct": false,
+        "feedback": "Incorrect. REF: SDM = (1-Keff)/Keff  → Keff = 1/(SDM + 1) = 1/(.0526 + 1) = .95\nCR1/CR2 = (1 - Keff2) / (1 - Keff1) → 10/20 = (1 - Keff2) / (1 - 0.95)\n(0.5) x (0.05)  = (1 -  Keff2) → Keff2 = 1 - (0.5)(0.05) =  0.975"
+      },
+      {
+        "answer": "b. .90",
+        "correct": false,
+        "feedback": "Incorrect. REF: SDM = (1-Keff)/Keff  → Keff = 1/(SDM + 1) = 1/(.0526 + 1) = .95\nCR1/CR2 = (1 - Keff2) / (1 - Keff1) → 10/20 = (1 - Keff2) / (1 - 0.95)\n(0.5) x (0.05)  = (1 -  Keff2) → Keff2 = 1 - (0.5)(0.05) =  0.975"
+      },
+      {
+        "answer": "c. .975",
+        "correct": true,
+        "feedback": "Correct. REF: SDM = (1-Keff)/Keff  → Keff = 1/(SDM + 1) = 1/(.0526 + 1) = .95\nCR1/CR2 = (1 - Keff2) / (1 - Keff1) → 10/20 = (1 - Keff2) / (1 - 0.95)\n(0.5) x (0.05)  = (1 -  Keff2) → Keff2 = 1 - (0.5)(0.05) =  0.975"
+      },
+      {
+        "answer": "d. 1.02",
+        "correct": false,
+        "feedback": "Incorrect. REF: SDM = (1-Keff)/Keff  → Keff = 1/(SDM + 1) = 1/(.0526 + 1) = .95\nCR1/CR2 = (1 - Keff2) / (1 - Keff1) → 10/20 = (1 - Keff2) / (1 - 0.95)\n(0.5) x (0.05)  = (1 -  Keff2) → Keff2 = 1 - (0.5)(0.05) =  0.975"
+      }
+    ]
+  },
+  {
+    "question": "A.8 [1.0] Which one of the following statements describes how fuel temperature affects the core operating characteristics?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fuel temperature increase will decrease the resonance escape probability.",
+        "correct": true,
+        "feedback": "Correct. REF: Glasstone, S. and Sesonske, § 5.98"
+      },
+      {
+        "answer": "b. Fuel temperature decrease results in Doppler Broadening of U238 and Pu240 resonance peaks and the decrease of resonance escape probability.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, § 5.98"
+      },
+      {
+        "answer": "c. Decrease in fuel temperature will increase neutron absorption by U238 and Pu240.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, § 5.98"
+      },
+      {
+        "answer": "d. Fuel temperature increase results in Doppler Broadening of U238 and PU240 resonance peaks and the decrease of neutron absorption during moderation.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, § 5.98"
+      }
+    ]
+  },
+  {
+    "question": "A.9 [1.0] Which statement illustrates a characteristic of Subcritical Multiplication?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. As Keff approaches unity (1), for the same increase in Keff, a greater increase in neutron population occurs.",
+        "correct": true,
+        "feedback": "Correct. REF: Glasstone, S. and Sesonske, §§ 3.161 — 3.163"
+      },
+      {
+        "answer": "b. The number of neutrons gained per generation gets larger for each succeeding generation.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, §§ 3.161 — 3.163"
+      },
+      {
+        "answer": "c. The number of fission neutrons remain constant for each generation.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, §§ 3.161 — 3.163"
+      },
+      {
+        "answer": "d. The number of source neutrons decreases for each generation.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, §§ 3.161 — 3.163"
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1.0] Select the statement that describes why neutron sources are used in reactor cores.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Increase the count rate by an amount equal to the source contribution.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, §§ 2.70 — 2.74"
+      },
+      {
+        "answer": "b. Increase the count rate by 1/M (M = Subcritical Multiplication Factor).",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, §§ 2.70 — 2.74"
+      },
+      {
+        "answer": "c. Provide adequate excess reactivity for experiments.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, §§ 2.70 — 2.74"
+      },
+      {
+        "answer": "d. Provide a neutron level high enough to be monitored by source range instrumentation.",
+        "correct": true,
+        "feedback": "Correct. REF: Glasstone, S. and Sesonske, §§ 2.70 — 2.74"
+      }
+    ]
+  },
+  {
+    "question": "A.11 [1.0] With the reactor critical at 50% power, the reactor operator withdraws the regulating rod.  As power increases, a stable doubling time (DT) of 24 seconds is recorded.  (Assume a λ of 0.1 sec-1 and a β of .0070) Which one of the following is the reactivity added to the core by the operator?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.14% ΔK/K",
+        "correct": false,
+        "feedback": "Incorrect. REF: T = (β-ρ)/λρ T = t/ln 2 = 24/.693 = 34.6 seconds\n34.6 = .0070 - ρ/0.1 x ρ 3.46 = .007-ρ/ρ ρ(3.46+1)= .007 ρ = .007/4.46 = .00157 = .16% ΔK/K"
+      },
+      {
+        "answer": "b. 0.16% ΔK/K",
+        "correct": true,
+        "feedback": "Correct. REF: T = (β-ρ)/λρ T = t/ln 2 = 24/.693 = 34.6 seconds\n34.6 = .0070 - ρ/0.1 x ρ 3.46 = .007-ρ/ρ ρ(3.46+1)= .007 ρ = .007/4.46 = .00157 = .16% ΔK/K"
+      },
+      {
+        "answer": "c. 0.18% ΔK/K",
+        "correct": false,
+        "feedback": "Incorrect. REF: T = (β-ρ)/λρ T = t/ln 2 = 24/.693 = 34.6 seconds\n34.6 = .0070 - ρ/0.1 x ρ 3.46 = .007-ρ/ρ ρ(3.46+1)= .007 ρ = .007/4.46 = .00157 = .16% ΔK/K"
+      },
+      {
+        "answer": "d. 0.20% ΔK/K",
+        "correct": false,
+        "feedback": "Incorrect. REF: T = (β-ρ)/λρ T = t/ln 2 = 24/.693 = 34.6 seconds\n34.6 = .0070 - ρ/0.1 x ρ 3.46 = .007-ρ/ρ ρ(3.46+1)= .007 ρ = .007/4.46 = .00157 = .16% ΔK/K"
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1.0] The term \"Shutdown Margin\" describes:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the time required for the blades to fully insert",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 6.2.3"
+      },
+      {
+        "answer": "b. the departure from Keff = 1.00",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 6.2.3"
+      },
+      {
+        "answer": "c. the amount of reactivity by which the reactor is subcritical",
+        "correct": true,
+        "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 6.2.3"
+      },
+      {
+        "answer": "d. the amount of reactivity inserted by all the rods except the most reactive blade and the regulating rod.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 6.2.3"
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1.0] An experiment to be placed in the central thimble has been wrapped in cadmium. Which one of the following types of radiation will be most effectively blocked by the cadmium wrapping?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Thermal neutrons",
+        "correct": true,
+        "feedback": "Correct. REF: Glasstone, S. and Sesonske, 1991, § 10.34"
+      },
+      {
+        "answer": "b. Fast neutrons",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, 1991, § 10.34"
+      },
+      {
+        "answer": "c. Gamma rays",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, 1991, § 10.34"
+      },
+      {
+        "answer": "d. X-rays",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, 1991, § 10.34"
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1.0] Assuming the Samarium worth is 0.006 ΔK/K at full power, which one of the following is the Samarium worth 10 days after shutdown from full power?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Essentially zero.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, § 5.81 — 5.83"
+      },
+      {
+        "answer": "b. It increases by a factor of 2.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, § 5.81 — 5.83"
+      },
+      {
+        "answer": "c. Less than 0.006 ΔK/K but greater than zero.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, § 5.81 — 5.83"
+      },
+      {
+        "answer": "d. Greater than 0.006 ΔK/K",
+        "correct": true,
+        "feedback": "Correct. REF: Glasstone, S. and Sesonske, § 5.81 — 5.83"
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1.0] Which one of the following factors is the most significant in determining the differential worth of a control rod?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The rod speed.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory Volume 2, Module 3, Enabling Objective 5.4"
+      },
+      {
+        "answer": "b. Reactor power.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory Volume 2, Module 3, Enabling Objective 5.4"
+      },
+      {
+        "answer": "c. The flux shape.",
+        "correct": true,
+        "feedback": "Correct. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory Volume 2, Module 3, Enabling Objective 5.4"
+      },
+      {
+        "answer": "d. The amount of fuel in the core.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory Volume 2, Module 3, Enabling Objective 5.4"
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1.0] The reactor is shutdown after an extended, 24 hours, run at 240 kilowatts.  Which one of the following is the time it takes for the MAXIMUM Xenon concentration to be achieved?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0 to 1 hours",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1 —8.4"
+      },
+      {
+        "answer": "b. 2 to 6 hours",
+        "correct": true,
+        "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1 —8.4"
+      },
+      {
+        "answer": "c. 8 to 12 hours",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1 —8.4"
+      },
+      {
+        "answer": "d. 18 to 22 hours",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1 —8.4"
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1.0] The MIT Reactor is operating at 5 MW and the reactor scram is set for 110% of full power.  What will be the power at the time of the scram if a nuclear excursion creates a 0.5 second period and the scram delay time is 1.0 second after 110% is reached?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 9 MW",
+        "correct": false,
+        "feedback": "Incorrect. REF: Pf = Po et/T = 5.5 MW e(1 sec/0.5 sec) = 40.6 MW"
+      },
+      {
+        "answer": "b. 15 MW",
+        "correct": false,
+        "feedback": "Incorrect. REF: Pf = Po et/T = 5.5 MW e(1 sec/0.5 sec) = 40.6 MW"
+      },
+      {
+        "answer": "c. 32 MW",
+        "correct": false,
+        "feedback": "Incorrect. REF: Pf = Po et/T = 5.5 MW e(1 sec/0.5 sec) = 40.6 MW"
+      },
+      {
+        "answer": "d. 40 MW",
+        "correct": true,
+        "feedback": "Correct. REF: Pf = Po et/T = 5.5 MW e(1 sec/0.5 sec) = 40.6 MW"
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1.0] Which one of the following is the reason why it takes approximately 24 hours of constant power operation before thermal equilibrium is attained in the MITR-II reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The time required for equilibrium Xenon and Samarium conditions to be established.",
+        "correct": false,
+        "feedback": "Incorrect. REF: RSM 6.4"
+      },
+      {
+        "answer": "b. The time required for the large volume of the Deuterium tank to heat up.",
+        "correct": false,
+        "feedback": "Incorrect. REF: RSM 6.4"
+      },
+      {
+        "answer": "c. The graphite reflector has a large heat capacity and is slow to reach equilibrium temperature distribution.",
+        "correct": true,
+        "feedback": "Correct. REF: RSM 6.4"
+      },
+      {
+        "answer": "d. The shield coolant system has a small flowrate to accomplish adequate mixing before temperature is uniformly stabilized.",
+        "correct": false,
+        "feedback": "Incorrect. REF: RSM 6.4"
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1.0] The reactor has been operating at 100% power for the past 20 days. Which one of the following is the primary source of heat generation in the core 30 SECONDS following a reactor scram from 100% power?\na. Fission from the longest lived delayed neutron precursors.\nb. Fission resulting from installed source neutrons.\nc. Beta and gamma heating from fission decay products.\nd. Beta and gamma heating from fission generated by installed neutron sources.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fission from the longest lived delayed neutron precursors.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, §§ 2.213 — 2.219"
+      },
+      {
+        "answer": "b. Fission resulting from installed source neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, §§ 2.213 — 2.219"
+      },
+      {
+        "answer": "c. Beta and gamma heating from fission decay products.",
+        "correct": true,
+        "feedback": "Correct. REF: Glasstone, S. and Sesonske, §§ 2.213 — 2.219"
+      },
+      {
+        "answer": "d. Beta and gamma heating from fission generated by installed neutron sources.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, §§ 2.213 — 2.219"
+      }
+    ]
+  },
+  {
+    "question": "A.20 [1.0] Which one of the following statements is FALSE?\na. An increasing concentration in the reactor core of Xe-135 reduces the thermal utilization factor, f, and hence the multiplication factor, Keff, of the reactor core.\nb. Xe-135 is produced both directly as a fission product and as the result of a decay chain from other fission products.\nc. A good approximation for determining the production in a reactor core of Xe-135 is to assume that the Xe-135 is produced from the decay of Cs-135.\nd. The removal rate of Xe-135 is due to the neutron absorption rate in Xe-135 atoms and due to the radioactive decay of Xe-135 atoms.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. An increasing concentration in the reactor core of Xe-135 reduces the thermal utilization factor, f, and hence the multiplication factor, Keff, of the reactor core.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, §§ 5.56 — 5.80"
+      },
+      {
+        "answer": "b. Xe-135 is produced both directly as a fission product and as the result of a decay chain from other fission products.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, §§ 5.56 — 5.80"
+      },
+      {
+        "answer": "c. A good approximation for determining the production in a reactor core of Xe-135 is to assume that the Xe-135 is produced from the decay of Cs-135.",
+        "correct": true,
+        "feedback": "Correct. REF: Glasstone, S. and Sesonske, §§ 5.56 — 5.80"
+      },
+      {
+        "answer": "d. The removal rate of Xe-135 is due to the neutron absorption rate in Xe-135 atoms and due to the radioactive decay of Xe-135 atoms.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone, S. and Sesonske, §§ 5.56 — 5.80"
+      }
+    ]
+  }
+]

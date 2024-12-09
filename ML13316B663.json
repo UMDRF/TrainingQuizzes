@@ -1,0 +1,522 @@
+[
+  {
+    "question": "A.001 [1.0 point] {1.0} During a fuel loading of the core, as the reactor approaches criticality, the value of 1/M:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Increases toward one",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Module 4, ℞ Theory (℞ Operations), E.O. 1.4, pg. 7 and DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Volumes 1 and 2, January 1993."
+      },
+      {
+        "answer": "b. Decreases toward one",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Module 4, ℞ Theory (℞ Operations), E.O. 1.4, pg. 7 and DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Volumes 1 and 2, January 1993."
+      },
+      {
+        "answer": "c. Increases toward infinity",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Module 4, ℞ Theory (℞ Operations), E.O. 1.4, pg. 7 and DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Volumes 1 and 2, January 1993."
+      },
+      {
+        "answer": "d. Decreases toward zero",
+        "correct": true,
+        "feedback": "Correct. Reference: Module 4, ℞ Theory (℞ Operations), E.O. 1.4, pg. 7 and DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Volumes 1 and 2, January 1993."
+      }
+    ]
+  },
+  {
+    "question": "A.002 [1.0 point] {2.0} Which one of the following accurately details a factor contributing to Xenon balance within the reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Most Xe135 is formed by fission.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z"
+      },
+      {
+        "answer": "b. Te135 is a fission product which quickly decays to I135.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z"
+      },
+      {
+        "answer": "c. Within approximately 8 hours after startup, Xe135 has reached its equilibrium value.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z"
+      },
+      {
+        "answer": "d. Several minutes following a reactor shutdown, Xe level is increasing because I135 is not being produced.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z"
+      }
+    ]
+  },
+  {
+    "question": "A.003 [1.0 point] {3.0} Given a fuel temperature coefficient of -1.25 × 10-4 ΔK/K/°C.  When a control rod with an average worth of 0.1% ΔK/K/inch is withdrawn 10 inches, reactor power increases and becomes stable at a higher level.  At this point fuel temperature has … (neglect power coefficient)",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. increased by 80°C",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. decreased by 80°C",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. increased by 8°C",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. decreased by 8°C",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.004 [1.0 point] {4.0} Which ONE of the following conditions will DECREASE the shutdown margin of a reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Increase moderator temperature (Assume negative temperature coefficient)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC question"
+      },
+      {
+        "answer": "b. Insertion of a negative reactivity worth experiment",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC question"
+      },
+      {
+        "answer": "c. Burnout of a burnable poison",
+        "correct": true,
+        "feedback": "Correct. Reference: Standard NRC question"
+      },
+      {
+        "answer": "d. Fuel depletion",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC question"
+      }
+    ]
+  },
+  {
+    "question": "A.005 [1.0 point] {5.0} Reactor power is rising on a 30 second period.  Approximately how long will it take for power to double?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 15 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, P = P0 et/T  –> ln (2) = time ÷ 30 sec –> time = ln (2) x 30 sec. 0.693 x 30  ≈ 0.7 x 30 ≈ 21 sec"
+      },
+      {
+        "answer": "b. 21 seconds",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, P = P0 et/T  –> ln (2) = time ÷ 30 sec –> time = ln (2) x 30 sec. 0.693 x 30  ≈ 0.7 x 30 ≈ 21 sec"
+      },
+      {
+        "answer": "c. 30 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, P = P0 et/T  –> ln (2) = time ÷ 30 sec –> time = ln (2) x 30 sec. 0.693 x 30  ≈ 0.7 x 30 ≈ 21 sec"
+      },
+      {
+        "answer": "d. 60 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, P = P0 et/T  –> ln (2) = time ÷ 30 sec –> time = ln (2) x 30 sec. 0.693 x 30  ≈ 0.7 x 30 ≈ 21 sec"
+      }
+    ]
+  },
+  {
+    "question": "A.006 [1.0 point] {6.0} Reactor power is increasing on a constant positive reactor period.  Which ONE of the following power changes would finish in the shortest time?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a.   5% power – from 1% to 6%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume"
+      },
+      {
+        "answer": "b. 10% power – from 10% to 20%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume"
+      },
+      {
+        "answer": "c. 15% power – from 20% to 35%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume"
+      },
+      {
+        "answer": "d. 20% power – from 40% to 60%",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume"
+      }
+    ]
+  },
+  {
+    "question": "A.007 [1.0 point] {7.0} The Moderating Ratio measures the effectiveness of a moderator by combining the scattering cross section, the absorption cross section, and the average energy loss per collision.  The Moderating Ratio is expressed as:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. (absorption cross section)x(scattering cross section)/(average energy loss per collision).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 2, Neutron Moderation,  page 28."
+      },
+      {
+        "answer": "b. (absorption cross section)x(average energy loss per collision)/(scattering cross section).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 2, Neutron Moderation,  page 28."
+      },
+      {
+        "answer": "c. (scattering cross section)x(absorption cross section)x(average energy loss per collision).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 2, Neutron Moderation,  page 28."
+      },
+      {
+        "answer": "d. (average energy loss per collision)x(scattering cross section)/(absorption cross section).",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Module 2, Neutron Moderation,  page 28."
+      }
+    ]
+  },
+  {
+    "question": "A.008 [1.0 point] {8.0} Inelastic scattering can be described as a process whereby a neutron collides with a nucleus and:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. reappears with a lower kinetic energy, with the nucleus emitting a gamma ray.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Module 1, Neutron Interactions,  page 45."
+      },
+      {
+        "answer": "b. reappears with the same kinetic energy it had prior to the collision.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 1, Neutron Interactions,  page 45."
+      },
+      {
+        "answer": "c. is absorbed by the nucleus, with the nucleus emitting a gamma ray.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 1, Neutron Interactions,  page 45."
+      },
+      {
+        "answer": "d. reappears with a higher kinetic energy, with the nucleus absorbing a gamma ray.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 1, Neutron Interactions,  page 45."
+      }
+    ]
+  },
+  {
+    "question": "A.009 [1.0 point] {9.0} Which ONE of the following describes the difference between prompt and delayed neutrons?  Prompt neutrons …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. account for less than 1% of the neutron population, while delayed neutrons account for the rest.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. are released only during fast-fission events, while delayed neutrons are released during the decay process.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. are released during the fission process (fast & thermal), while delayed neutrons are released during the decay process.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. are the dominating factor in determining reactor period, while delayed neutrons have little effect on reactor period.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.010 [1.0 point] {10.0} To make a just critical reactor “PROMPT CRITICAL”, by definition you must add reactivity equal to",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. τeff",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 2.8"
+      },
+      {
+        "answer": "b. λeff",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 2.8"
+      },
+      {
+        "answer": "c. βeff",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 2.8"
+      },
+      {
+        "answer": "d. Keff",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 2.8"
+      }
+    ]
+  },
+  {
+    "question": "A.011 [1.0 point] {11.0} What is the period that would cause reactor power to double in 40 seconds?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 3.7 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z  P = P0 et/T   ln(P/P0) = t/T  T= t/ln(P/P0)  T = 30 sec/(ln(2)) = 30/0.693 = 57.7 sec"
+      },
+      {
+        "answer": "b. 27.7 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z  P = P0 et/T   ln(P/P0) = t/T  T= t/ln(P/P0)  T = 30 sec/(ln(2)) = 30/0.693 = 57.7 sec"
+      },
+      {
+        "answer": "c. 57.7 seconds",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z  P = P0 et/T   ln(P/P0) = t/T  T= t/ln(P/P0)  T = 30 sec/(ln(2)) = 30/0.693 = 57.7 sec"
+      },
+      {
+        "answer": "d. 80.0 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z  P = P0 et/T   ln(P/P0) = t/T  T= t/ln(P/P0)  T = 30 sec/(ln(2)) = 30/0.693 = 57.7 sec"
+      }
+    ]
+  },
+  {
+    "question": "A.012 [1.0 point] {12.0} A reactor has a moderator temperature coefficient of reactivity is 1.0 x 10-4 ΔK/K/ C.  If the average coolant temperature decreases by 10C, a regulating rod with a differential rod worth of 0.05%ΔK/K/inch must be ______________ to maintain the same power.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. inserted 2 inches",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. withdrawn 2 inches",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. inserted 0.5 inches",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. withdrawn 0.5 inches",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.013 [1.0 point] {13.0} A reactor is subcritical with a Keff of 0.955.  If you add 4.5% Δk/k of positive reactivity into the core, the reactor will be …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. subcritical",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 1.3"
+      },
+      {
+        "answer": "b. exactly critical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 1.3"
+      },
+      {
+        "answer": "c. supercritical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 1.3"
+      },
+      {
+        "answer": "d. prompt critical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 1.3"
+      }
+    ]
+  },
+  {
+    "question": "A.014 [1.0 point] {14.0} The PRIMARY reason that a neutron source is installed in the reactor is to …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. allow for testing and irradiation of experiments when the core is shutdown.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1, Reactor Theory (Reactor Operations), Enabling Objective 3.1"
+      },
+      {
+        "answer": "b. supply the neutrons required to start the chain reaction for subsequent reactor startups.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1, Reactor Theory (Reactor Operations), Enabling Objective 3.1"
+      },
+      {
+        "answer": "c. provide a neutron level high enough to be monitored for a controlled reactor startup.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1, Reactor Theory (Reactor Operations), Enabling Objective 3.1"
+      },
+      {
+        "answer": "d. increase the excess reactivity of the reactor which reduces the frequency for refueling.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1, Reactor Theory (Reactor Operations), Enabling Objective 3.1"
+      }
+    ]
+  },
+  {
+    "question": "A.015 [1.0 point] {15.0} Which ONE of the following describes the difference between a moderator and reflector?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. A reflector increases the fast non-leakage factor and a moderator increases the thermal utilization factor.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), pp. 25-26"
+      },
+      {
+        "answer": "b. A reflector increases the neutron production factor and a moderator increases the fast fission factor.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), pp. 25-26"
+      },
+      {
+        "answer": "c. A reflector decreases the thermal utilization factor and a moderator increases the fast fission factor.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), pp. 25-26"
+      },
+      {
+        "answer": "d. A reflector decreases the neutron production factor and a moderator decreases the fast non-leakage factor.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), pp. 25-26"
+      }
+    ]
+  },
+  {
+    "question": "A.016 [1.0 point] {16.0} A few minutes after a reactor scram period has steadied and reactor power is at 5 × 105 counts/minute.  Three minutes later you would expect reactor power to be at …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5 × 106 counts/minute.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: This is an 80 second period which implies power decreases by ~ ⅓ decade per minute, in 3 minutes power will decrease by 1 decade.  DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2"
+      },
+      {
+        "answer": "b. 1 × 105 counts/minute.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: This is an 80 second period which implies power decreases by ~ ⅓ decade per minute, in 3 minutes power will decrease by 1 decade.  DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2"
+      },
+      {
+        "answer": "c. 5 × 104 counts/minute.",
+        "correct": true,
+        "feedback": "Correct. Reference: This is an 80 second period which implies power decreases by ~ ⅓ decade per minute, in 3 minutes power will decrease by 1 decade.  DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2"
+      },
+      {
+        "answer": "d. 1 × 105 counts/minute.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: This is an 80 second period which implies power decreases by ~ ⅓ decade per minute, in 3 minutes power will decrease by 1 decade.  DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2"
+      }
+    ]
+  },
+  {
+    "question": "A.017 [1.0 point] {17.0} A reactor has a count rate of 45 cps with a Keff of 0.965. Which one of the following is the Keff of this reactor when the count rate increases to 90 cps?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.9800",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 45(1-Keff1) = 90(1 –Keff2) Keff2 = 0.9825"
+      },
+      {
+        "answer": "b. 0.9825",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 45(1-Keff1) = 90(1 –Keff2) Keff2 = 0.9825"
+      },
+      {
+        "answer": "c. 0.9850",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 45(1-Keff1) = 90(1 –Keff2) Keff2 = 0.9825"
+      },
+      {
+        "answer": "d. 0.9875",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 45(1-Keff1) = 90(1 –Keff2) Keff2 = 0.9825"
+      }
+    ]
+  },
+  {
+    "question": "A.018 [1.0 point] {18.0} Which ONE of the following is the correct definition of βeffective?  The number of delayed neutrons compared to the total number of neutrons per generation …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. corrected for resonance escape.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 2.2"
+      },
+      {
+        "answer": "b. corrected for leakage.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 2.2"
+      },
+      {
+        "answer": "c. corrected for time after the fission event.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 2.2"
+      },
+      {
+        "answer": "d. corrected for both leakage and resonance escape.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 2.2"
+      }
+    ]
+  },
+  {
+    "question": "A.019 [1.0 point] {19.0} Which ONE of the following factors is the most significant in determining the differential worth of a control rod?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The rod speed.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, (Reactor Operations), Enabling Objective 5.4"
+      },
+      {
+        "answer": "b. Reactor power.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, (Reactor Operations), Enabling Objective 5.4"
+      },
+      {
+        "answer": "c. The flux shape.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, (Reactor Operations), Enabling Objective 5.4"
+      },
+      {
+        "answer": "d. The amount of fuel in the core.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, (Reactor Operations), Enabling Objective 5.4"
+      }
+    ]
+  },
+  {
+    "question": "A.020 [1.0 point] {20.0} During a reactor startup, the count rate is increasing linearly on a logarithmic scale, with no rod motion.  This means that:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the reactor is subcritical and the count rate increase is due to the buildup of delayed neutron precursors.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 4, Reactor Kinetics, page 14."
+      },
+      {
+        "answer": "b. the reactor is subcritical and the count rate increase is due to source neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 4, Reactor Kinetics, page 14."
+      },
+      {
+        "answer": "c. the reactor is critical and the count rate increase is due to source neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 4, Reactor Kinetics, page 14."
+      },
+      {
+        "answer": "d. the reactor is supercritical.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Module 4, Reactor Kinetics, page 14."
+      }
+    ]
+  }
+]

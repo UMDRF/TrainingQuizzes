@@ -1,0 +1,524 @@
+[
+  {
+    "question": "A.1 [1.0 point] The following graph for U-235 depicts……",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. differential rod worth curve in the core",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Manual Vol. 1, pg. 57"
+      },
+      {
+        "answer": "b. distribution of fission product yield",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: DOE Manual Vol. 1, pg. 57"
+      },
+      {
+        "answer": "c. radial flux distribution in the core",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Manual Vol. 1, pg. 57"
+      },
+      {
+        "answer": "d. neutron energy distribution in the moderator",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Manual Vol. 1, pg. 57"
+      }
+    ]
+  },
+  {
+    "question": "A.2 [1.0 point] You're increasing reactor power on a steady +26 second period.  How long will it take to increase power by a factor of 10?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 1 minute",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988 ln (P/P0) × period = time, ln(10) × 26 = 2.30 × 26 = 59.9 ≈ 60 seconds = 1 min."
+      },
+      {
+        "answer": "b. 3 minutes",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988 ln (P/P0) × period = time, ln(10) × 26 = 2.30 × 26 = 59.9 ≈ 60 seconds = 1 min."
+      },
+      {
+        "answer": "c. 5 minutes",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988 ln (P/P0) × period = time, ln(10) × 26 = 2.30 × 26 = 59.9 ≈ 60 seconds = 1 min."
+      },
+      {
+        "answer": "d. 60 minutes",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988 ln (P/P0) × period = time, ln(10) × 26 = 2.30 × 26 = 59.9 ≈ 60 seconds = 1 min."
+      }
+    ]
+  },
+  {
+    "question": "A.3 [1.0 point] Which ONE of the following is a number of neutrons in the tritium nucleus (1T3  or 1 H3)?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 1",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Nuclides and Isotopes N = A – Z 3-1 = 2"
+      },
+      {
+        "answer": "b. 2",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Nuclides and Isotopes N = A – Z 3-1 = 2"
+      },
+      {
+        "answer": "c. 3",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Nuclides and Isotopes N = A – Z 3-1 = 2"
+      },
+      {
+        "answer": "d. 4",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Nuclides and Isotopes N = A – Z 3-1 = 2"
+      }
+    ]
+  },
+  {
+    "question": "A.4 [1.0 point] The MIT Reactor is critical at 100 W.  A reactor operator makes a mistake by inserting a sample worth of 1.5 beta into the reactor core.  Which ONE of the following best describes the values of Keff and ρ during the power increment?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a.   Keff = 1 and ρ = 1",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "b.   Keff > 1 and ρ > 1",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "c. Keff > 1 and 0 < ρ < β-eff",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "d. Keff > 1 and β-eff < ρ < 1",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      }
+    ]
+  },
+  {
+    "question": "A.5 [1.0 point] Which ONE of the following is the correct amount of reactivity added if the multiplication factor, k, is increased from 0.800 to 0.950?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.150",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21. In order to solve the question A.07, the applicant can use one of the following methods: At k=0.8; ρ = ∆Keff/Keff or ρ = Keff-1/Keff = -0.2/0.8 =-0.25.  At k=0.95, ρ =-0.05/0.95  ρ = -0.053.  The difference between ρ is the answer ,i.e. -0.053-(-0.25)=0.197 ∆ ρ = ρ1 – ρ2 where ρ1 = Keff1-1/Keff1 and ρ2 = Keff2-1/Keff2.  Substitute ρ1 and ρ2 with Keff1 and Keff2 into the equation above, the result is ∆ρ = keff1-keff2/(keff1 x keff2) = 0.95-0.8 /(0.8*0.95)=0.197"
+      },
+      {
+        "answer": "b. 0.158",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21. In order to solve the question A.07, the applicant can use one of the following methods: At k=0.8; ρ = ∆Keff/Keff or ρ = Keff-1/Keff = -0.2/0.8 =-0.25.  At k=0.95, ρ =-0.05/0.95  ρ = -0.053.  The difference between ρ is the answer ,i.e. -0.053-(-0.25)=0.197 ∆ ρ = ρ1 – ρ2 where ρ1 = Keff1-1/Keff1 and ρ2 = Keff2-1/Keff2.  Substitute ρ1 and ρ2 with Keff1 and Keff2 into the equation above, the result is ∆ρ = keff1-keff2/(keff1 x keff2) = 0.95-0.8 /(0.8*0.95)=0.197"
+      },
+      {
+        "answer": "c. 0.188",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21. In order to solve the question A.07, the applicant can use one of the following methods: At k=0.8; ρ = ∆Keff/Keff or ρ = Keff-1/Keff = -0.2/0.8 =-0.25.  At k=0.95, ρ =-0.05/0.95  ρ = -0.053.  The difference between ρ is the answer ,i.e. -0.053-(-0.25)=0.197 ∆ ρ = ρ1 – ρ2 where ρ1 = Keff1-1/Keff1 and ρ2 = Keff2-1/Keff2.  Substitute ρ1 and ρ2 with Keff1 and Keff2 into the equation above, the result is ∆ρ = keff1-keff2/(keff1 x keff2) = 0.95-0.8 /(0.8*0.95)=0.197"
+      },
+      {
+        "answer": "d. 0.197",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21. In order to solve the question A.07, the applicant can use one of the following methods: At k=0.8; ρ = ∆Keff/Keff or ρ = Keff-1/Keff = -0.2/0.8 =-0.25.  At k=0.95, ρ =-0.05/0.95  ρ = -0.053.  The difference between ρ is the answer ,i.e. -0.053-(-0.25)=0.197 ∆ ρ = ρ1 – ρ2 where ρ1 = Keff1-1/Keff1 and ρ2 = Keff2-1/Keff2.  Substitute ρ1 and ρ2 with Keff1 and Keff2 into the equation above, the result is ∆ρ = keff1-keff2/(keff1 x keff2) = 0.95-0.8 /(0.8*0.95)=0.197"
+      }
+    ]
+  },
+  {
+    "question": "A.6 [1.0 point] Which ONE of the following correctly describes the SIX-FACTOR FORMULA at MITR?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. K∞ = Keff * the thermal utilization factor",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+      },
+      {
+        "answer": "b. K∞ = Keff * the total leakage probability",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+      },
+      {
+        "answer": "c. Keff = K∞ * the total non-leakage probability",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+      },
+      {
+        "answer": "d. Keff = K∞ * (the resonance escape probability * the reproduction factor)",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+      }
+    ]
+  },
+  {
+    "question": "A.7 [1.0 point] Which ONE of the following describes the term PROMPT DROP?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. A reactor is subcritical at negative 80-second period",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."
+      },
+      {
+        "answer": "b. A reactor has attained criticality on prompt neutrons alone",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."
+      },
+      {
+        "answer": "c. The instantaneous change in power level due to inserting a control rod",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."
+      },
+      {
+        "answer": "d. The instantaneous change in power level due to withdrawing a control rod",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."
+      }
+    ]
+  },
+  {
+    "question": "A.8 [1.0 point] Which ONE of the following is the MAIN reason for operating reactor with thermal neutrons instead of fast neutrons?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The atomic weight of thermal neutrons is larger than fast neutrons, so thermal neutrons are easily to slow down and be captured by the fuel.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE:   Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39"
+      },
+      {
+        "answer": "b. The neutron lifetime of thermal neutrons is longer than fast neutrons, so the fuel has enough time to capture thermal neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE:   Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39"
+      },
+      {
+        "answer": "c. Fast neutrons give off higher radiation than thermal neutrons. Reactor needs to reduce radiation limit by using thermal neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE:   Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39"
+      },
+      {
+        "answer": "d. The fission cross section of the fuel is much higher for thermal energy neutrons than fast neutrons.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE:   Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39"
+      }
+    ]
+  },
+  {
+    "question": "A.9 [1.0 point] Which ONE of the following is the MINIMUM amount of reactivity that makes the MITR (finite) critical reactor to be a prompt critical reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the shutdown margin",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.6"
+      },
+      {
+        "answer": "b. the β-effective value",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.6"
+      },
+      {
+        "answer": "c. 1.0 % ΔK/K",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.6"
+      },
+      {
+        "answer": "d. the factor of “e”",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.6"
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1.0 point] A few minutes following a reactor scram, the reactor period has stabilized and the power level is decreasing at a CONSTANT rate.  Given that reactor power at time tconstant is 400 kW power, what will it be five minutes later?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 1.5 kW",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P = P0 e-t/T = 400 kW * e(300sec/-80sec) = 400 kW * exp(-3.75) = 0.0235 * 400 kW = 9.4 KW"
+      },
+      {
+        "answer": "b. 4.7 kW",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P = P0 e-t/T = 400 kW * e(300sec/-80sec) = 400 kW * exp(-3.75) = 0.0235 * 400 kW = 9.4 KW"
+      },
+      {
+        "answer": "c. 9.4 kW",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: P = P0 e-t/T = 400 kW * e(300sec/-80sec) = 400 kW * exp(-3.75) = 0.0235 * 400 kW = 9.4 KW"
+      },
+      {
+        "answer": "d. 110.0 kW",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P = P0 e-t/T = 400 kW * e(300sec/-80sec) = 400 kW * exp(-3.75) = 0.0235 * 400 kW = 9.4 KW"
+      }
+    ]
+  },
+  {
+    "question": "A.11 [1.0 point] Which ONE of the following best describes the MAJOR contributor to the production and depletion of Xenon at 1 MW power?  Major production of Xe-135 comes __________ and major depletion of Xe-135 is due to ____________.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Directly from fission/Neutron absorption",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.2"
+      },
+      {
+        "answer": "b. Directly from fission/Radioactive Decay",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.2"
+      },
+      {
+        "answer": "c. Radioactive decay of Iodine/Neutron absorption",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.2"
+      },
+      {
+        "answer": "d. Radioactive decay of Cesium/Radioactive Decay",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.2"
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1.0 point] The following data was obtained during a reactor fuel load. The total number of elements required to achieve criticality is between:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 16 -17 elements",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 5.5, page  5-18-5-25."
+      },
+      {
+        "answer": "b. 18 -19 elements",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 5.5, page  5-18-5-25."
+      },
+      {
+        "answer": "c. 20 -21 elements",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 5.5, page  5-18-5-25."
+      },
+      {
+        "answer": "d. 22 -23 elements",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 5.5, page  5-18-5-25."
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1.0 point] Reactor power is increasing on a constant positive reactor period.  Which ONE of the following power changes would reach its demand power in the shortest time?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5 W power from 1 W to 6 W",
+        "correct": false,
+        "feedback": "Incorrect. Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Section 3.3"
+      },
+      {
+        "answer": "b. 10 KW power from 10 KW to 20 KW",
+        "correct": false,
+        "feedback": "Incorrect. Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Section 3.3"
+      },
+      {
+        "answer": "c. 15 KW power from 20 KW to 35 KW",
+        "correct": false,
+        "feedback": "Incorrect. Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Section 3.3"
+      },
+      {
+        "answer": "d. 200 KW power from 400 KW to 600 KW",
+        "correct": true,
+        "feedback": "Correct. Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Section 3.3"
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1.0 point] Which ONE of the following core arrangements (I through IV) would likely provide the most accurate fuel loading for the 1/M plot?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. I",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, Section 5.5, 1988"
+      },
+      {
+        "answer": "b. II",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, Section 5.5, 1988"
+      },
+      {
+        "answer": "c. III",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, Section 5.5, 1988"
+      },
+      {
+        "answer": "d. IV",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, Section 5.5, 1988"
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1.0 point] The reactor is operating in the automatic mode at 5 MW with the regulating rod at 11 inches.  A malfunction of equipment in the secondary cooling system causes primary temperature to decrease by 10 °C.  Disregarding any other automated system design features, the new position of the regulating rod is between: Given the negative temperature coefficient =- 0.05 beta per °C And the integral worth curve attached",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a.   6.0 -7.0 inches",
+        "correct": true,
+        "feedback": "Correct.  REFERENCE:  The temperature decrease has added positive 0.50 beta to the reactor.  To maintain 5 MW, the Reg rod must be inserted 0.5 beta to the core.  Using the integral rod worth curve, with the Reg rod initially at 11 in (≈.9 beta ), the new rod height at 0.9 -0.5 = 0.4 beta ( ≈6.2 in)."
+      },
+      {
+        "answer": "b.   8.0 - 9.0 inches",
+        "correct": false,
+        "feedback": "Incorrect.  REFERENCE:  The temperature decrease has added positive 0.50 beta to the reactor.  To maintain 5 MW, the Reg rod must be inserted 0.5 beta to the core.  Using the integral rod worth curve, with the Reg rod initially at 11 in (≈.9 beta ), the new rod height at 0.9 -0.5 = 0.4 beta ( ≈6.2 in)."
+      },
+      {
+        "answer": "c.   10.0 – 11.0 inches",
+        "correct": false,
+        "feedback": "Incorrect.  REFERENCE:  The temperature decrease has added positive 0.50 beta to the reactor.  To maintain 5 MW, the Reg rod must be inserted 0.5 beta to the core.  Using the integral rod worth curve, with the Reg rod initially at 11 in (≈.9 beta ), the new rod height at 0.9 -0.5 = 0.4 beta ( ≈6.2 in)."
+      },
+      {
+        "answer": "d.   15.0 – 16.0 inches",
+        "correct": false,
+        "feedback": "Incorrect.  REFERENCE:  The temperature decrease has added positive 0.50 beta to the reactor.  To maintain 5 MW, the Reg rod must be inserted 0.5 beta to the core.  Using the integral rod worth curve, with the Reg rod initially at 11 in (≈.9 beta ), the new rod height at 0.9 -0.5 = 0.4 beta ( ≈6.2 in)."
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1.0 point] Which ONE of the following isotopes has the LEAST thermal neutron cross section?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Cd-112",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table2.5, page 2-59."
+      },
+      {
+        "answer": "b. Sm-149",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table2.5, page 2-59."
+      },
+      {
+        "answer": "c. Xe-135",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table2.5, page 2-59."
+      },
+      {
+        "answer": "d. U-235",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table2.5, page 2-59."
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1.0 point] Which ONE of the following describes the difference between prompt and delayed neutrons?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. are released during U-238 interacts with fast neutrons, while delayed neutrons are released during U-235 interacts with thermal neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988"
+      },
+      {
+        "answer": "b. account for less than 1% of the neutron population, while delayed neutrons account for the rest.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988"
+      },
+      {
+        "answer": "c. are released during the fission process, while delayed neutrons are released during the decay process.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988"
+      },
+      {
+        "answer": "d. are the dominating factor in determining reactor period, while delayed neutrons have no effect on reactor period.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988"
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1.0 point] Which ONE of the following conditions will DECREASE the Core Excess of a reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a.  Lowering moderator temperature (assume negative temperature coefficient)",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: decreasing the reactivity worth in the core will decrease the core excess."
+      },
+      {
+        "answer": "b.  Insertion of a positive reactivity worth experiment",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: decreasing the reactivity worth in the core will decrease the core excess."
+      },
+      {
+        "answer": "c.  Burnout of a burnable poison",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: decreasing the reactivity worth in the core will decrease the core excess."
+      },
+      {
+        "answer": "d.  Fuel depletion",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: decreasing the reactivity worth in the core will decrease the core excess."
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1.0 point] The effective target area in cm2 presented by a single nucleus to an incident neutron beam is defined as:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. a microscopic cross section",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.2"
+      },
+      {
+        "answer": "b. a macroscopic cross section",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.2"
+      },
+      {
+        "answer": "c. a mean free path",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.2"
+      },
+      {
+        "answer": "d. a neutron flux",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.2"
+      }
+    ]
+  },
+  {
+    "question": "A.20 [1.0 point] A reactor is subcritical with Keff of 0.955.  Which ONE of the following is the MINIMUM reactivity (DK/K) that must be added to produce PROMPT criticality?  Given βeff=0.0078",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.0052",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: from k=0.955 to criticality (k=1), Dρ = (k-1)/k = -0.047 Dk/k or Dρ = 0.047 Dk/k needed to reach criticality.  From criticality to JUST prompt, Dk/k = βeff required, so minimum reactivity added to produce prompt criticality will be: 0.047+0.0078= 0.0548"
+      },
+      {
+        "answer": "b. 0.0078",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: from k=0.955 to criticality (k=1), Dρ = (k-1)/k = -0.047 Dk/k or Dρ = 0.047 Dk/k needed to reach criticality.  From criticality to JUST prompt, Dk/k = βeff required, so minimum reactivity added to produce prompt criticality will be: 0.047+0.0078= 0.0548"
+      },
+      {
+        "answer": "c. 0.0518",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: from k=0.955 to criticality (k=1), Dρ = (k-1)/k = -0.047 Dk/k or Dρ = 0.047 Dk/k needed to reach criticality.  From criticality to JUST prompt, Dk/k = βeff required, so minimum reactivity added to produce prompt criticality will be: 0.047+0.0078= 0.0548"
+      },
+      {
+        "answer": "d. 0.0548",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: from k=0.955 to criticality (k=1), Dρ = (k-1)/k = -0.047 Dk/k or Dρ = 0.047 Dk/k needed to reach criticality.  From criticality to JUST prompt, Dk/k = βeff required, so minimum reactivity added to produce prompt criticality will be: 0.047+0.0078= 0.0548"
+      }
+    ]
+  }
+]
+
+ 

@@ -1,0 +1,475 @@
+[
+  {
+    "question": "A.1 With the reactor on a constant positive period, which ONE of the following power changes will take the SHORTEST time?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "5% power - from 1% to 6% power.",
+        "correct": true,
+        "feedback": "Correct. Reference: P = Poet/Τ"
+      },
+      {
+        "answer": "10% power - from 10% to 20% power.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = Poet/Τ"
+      },
+      {
+        "answer": "15% power - from 20% to 35% power.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = Poet/Τ"
+      },
+      {
+        "answer": "20% power - from 40% to 60% power.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = Poet/Τ"
+      }
+    ]
+  },
+  {
+    "question": "A.2 What is the normal AGN-201 neutron startup source for a startup when the reactor has only been shut down for a few hours?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "Gamma produced from Po results in a neutron from Li-10",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Safety Analysis Report, dated November 23, 1995, pg. 48."
+      },
+      {
+        "answer": "Spontaneous fission from U-238",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Safety Analysis Report, dated November 23, 1995, pg. 48."
+      },
+      {
+        "answer": "Beta produced from fuel results in a neutron from C-12",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Safety Analysis Report, dated November 23, 1995, pg. 48."
+      },
+      {
+        "answer": "Alpha produced from Ra results in a neutron from Be-9",
+        "correct": true,
+        "feedback": "Correct. Reference: Safety Analysis Report, dated November 23, 1995, pg. 48."
+      }
+    ]
+  },
+  {
+    "question": "A.3 The reactor is initially subcritical with a Keff of 0.94.  Two (2) safety rods worth a total of 2.4% delta k/k are inserted into the core.  Which ONE of the following is the new K eff?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "0.950",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 336. Initial reactivity = (0.94 - 1)/0.94 = -0.0638 delta k/k;   + .024 delta k/k added by safety rods Final reactivity =  -.0638 + .024= -0.0398 delta k/k; Keff   = 1/(1 - [-0.0398])= 0.9617"
+      },
+      {
+        "answer": "0.954",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 336. Initial reactivity = (0.94 - 1)/0.94 = -0.0638 delta k/k;   + .024 delta k/k added by safety rods Final reactivity =  -.0638 + .024= -0.0398 delta k/k; Keff   = 1/(1 - [-0.0398])= 0.9617"
+      },
+      {
+        "answer": "0.962",
+        "correct": true,
+        "feedback": "Correct. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 336. Initial reactivity = (0.94 - 1)/0.94 = -0.0638 delta k/k;   + .024 delta k/k added by safety rods Final reactivity =  -.0638 + .024= -0.0398 delta k/k; Keff   = 1/(1 - [-0.0398])= 0.9617"
+      },
+      {
+        "answer": "0.971",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 336. Initial reactivity = (0.94 - 1)/0.94 = -0.0638 delta k/k;   + .024 delta k/k added by safety rods Final reactivity =  -.0638 + .024= -0.0398 delta k/k; Keff   = 1/(1 - [-0.0398])= 0.9617"
+      }
+    ]
+  },
+  {
+    "question": "A.4 A reactor is operating at criticality.  Instantaneously, all of the delayed neutrons are suddenly removed from the reactor.  The Keff of the reactor in this state would be approximately:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "1.007",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 340."
+      },
+      {
+        "answer": "0.993",
+        "correct": true,
+        "feedback": "Correct. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 340."
+      },
+      {
+        "answer": "0.000",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 340."
+      },
+      {
+        "answer": "1.000",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 340."
+      }
+    ]
+  },
+  {
+    "question": "A.5 Which ONE of the following is the direct source of delayed neutrons in the fission process?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "Decay of the fission product daughters",
+        "correct": true,
+        "feedback": "Correct. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 87."
+      },
+      {
+        "answer": "Spontaneous fissioning of the fission products",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 87."
+      },
+      {
+        "answer": "Absorption by 238U",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 87."
+      },
+      {
+        "answer": "Fissioning of 235U",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 87."
+      }
+    ]
+  },
+  {
+    "question": "A.6 Which condition below describes a critical reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "K = 1; ∆K/K = 1",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition."
+      },
+      {
+        "answer": "K = 1; ∆K/K = 0",
+        "correct": true,
+        "feedback": "Correct. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition."
+      },
+      {
+        "answer": "K = 0; ∆K/K = 1",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition."
+      },
+      {
+        "answer": "K = 0; ∆K/K = 0",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition."
+      }
+    ]
+  },
+  {
+    "question": "A.7 A reactor with a negative fuel temperature reactivity coefficient is critical at full power.  A control rod is removed and the power decreases to a lower steady-state value.  The reactivity of the reactor at the lower power level is zero because:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "the positive reactivity due to the fuel temperature decrease balances the negative reactivity due to the control rod removal.",
+        "correct": true,
+        "feedback": "Correct. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 365."
+      },
+      {
+        "answer": "the negative reactivity due to the fuel temperature decrease balances the negative reactivity due to the control rod removal.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 365."
+      },
+      {
+        "answer": "the positive reactivity due to the fuel temperature increase balances the negative reactivity due to the control rod removal.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 365."
+      },
+      {
+        "answer": "the negative reactivity due to the fuel temperature increase balances the negative reactivity due to the control rod removal.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, page 365."
+      }
+    ]
+  },
+  {
+    "question": "A.8 Match each term in column A with the correct definition in column B.\nColumn A   Column B\na. Prompt Neutron 1. a neutron in equilibrium with its surroundings.\nb. Fast Neutron  2. a neutron born directly from fission.\nc. Thermal Neutron 3. a neutron born due to decay of a fission product.\nd. Delayed Neutron 4. a neutron at an energy level greater than its surroundings.",
+    "type": "matching",
+    "answers": [
+      {
+        "match": "a",
+        "correct": "2",
+        "feedback": "Correct. Reference: Standard NRC Question"
+      },
+      {
+        "match": "b",
+        "correct": "4",
+        "feedback": "Correct. Reference: Standard NRC Question"
+      },
+      {
+        "match": "c",
+        "correct": "1",
+        "feedback": "Correct. Reference: Standard NRC Question"
+      },
+      {
+        "match": "d",
+        "correct": "3",
+        "feedback": "Correct. Reference: Standard NRC Question"
+      }
+    ]
+  },
+  {
+    "question": "A.9 Given the following data, which ONE of the following is the closest to the half-life of the material?\nTIME     ACTIVITY\n0      2400 cps\n10 min.    1757 cps\n20 min.    1286 cps\n30 min.    941 cps\n60 min.    369 cps",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "11 minutes",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Volume 1, Module 1, Enabling Objective 2.5. A = A0 e-λT  (22 minutes)."
+      },
+      {
+        "answer": "22 minutes",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Volume 1, Module 1, Enabling Objective 2.5. A = A0 e-λT  (22 minutes)."
+      },
+      {
+        "answer": "44 minutes",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Volume 1, Module 1, Enabling Objective 2.5. A = A0 e-λT  (22 minutes)."
+      },
+      {
+        "answer": "51 minutes",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Volume 1, Module 1, Enabling Objective 2.5. A = A0 e-λT  (22 minutes)."
+      }
+    ]
+  },
+  {
+    "question": "A.10 Which of the following does NOT affect the Effective Multiplication Factor (Keff)?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "The moderator-to-fuel ratio.",
+        "correct": false,
+        "feedback": "Incorrect. REF:"
+      },
+      {
+        "answer": "The physical dimensions of the core.",
+        "correct": false,
+        "feedback": "Incorrect. REF:"
+      },
+      {
+        "answer": "The strength of the installed neutron source.",
+        "correct": true,
+        "feedback": "Correct. REF:"
+      },
+      {
+        "answer": "The current time in core life.",
+        "correct": false,
+        "feedback": "Incorrect. REF:"
+      }
+    ]
+  },
+  {
+    "question": "A.11 The neutron interaction in the reactor core that is MOST efficient in thermalizing fast neutrons occurs with the:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "Hydrogen atoms in the polyethylene molecules",
+        "correct": true,
+        "feedback": "Correct. REF:"
+      },
+      {
+        "answer": "Carbon atoms in the polyethylene molecules",
+        "correct": false,
+        "feedback": "Incorrect. REF:"
+      },
+      {
+        "answer": "Uranium atoms in the fuel",
+        "correct": false,
+        "feedback": "Incorrect. REF:"
+      },
+      {
+        "answer": "Oxygen atoms in the fuel",
+        "correct": false,
+        "feedback": "Incorrect. REF:"
+      }
+    ]
+  },
+  {
+    "question": "A.12 The total amount of reactivity added by inserting or withdrawing a control rod from a reference height to any other rod height is called?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "differential rod worth",
+        "correct": true,
+        "feedback": "Correct. REF:"
+      },
+      {
+        "answer": "shutdown reactivity",
+        "correct": false,
+        "feedback": "Incorrect. REF:"
+      },
+      {
+        "answer": "integral rod worth",
+        "correct": false,
+        "feedback": "Incorrect. REF:"
+      },
+      {
+        "answer": "reference reactivity",
+        "correct": false,
+        "feedback": "Incorrect. REF:"
+      }
+    ]
+  },
+  {
+    "question": "A.13 For most materials the neutron microscopic cross-section for absorption Fa generally …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "increases as neutron energy increases",
+        "correct": false,
+        "feedback": "Incorrect. REF:"
+      },
+      {
+        "answer": "decreases as neutron energy increases",
+        "correct": true,
+        "feedback": "Correct. REF:"
+      },
+      {
+        "answer": "increases as target nucleus mass increases",
+        "correct": false,
+        "feedback": "Incorrect. REF:"
+      },
+      {
+        "answer": "decreases as target nucleus mass increases",
+        "correct": false,
+        "feedback": "Incorrect. REF:"
+      }
+    ]
+  },
+  {
+    "question": "A.14 Reactor power is rising on a 30 second period. Approximately how long will it take for power to double?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "35 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REF:    P = POEt/T ––> ln(2) = time ÷ 100 seconds –> time = ln (2) x 100 sec. 0.693 x 100 ≈ 0.7 x 100 ≈ 70 sec."
+      },
+      {
+        "answer": "50 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REF:    P = POEt/T ––> ln(2) = time ÷ 100 seconds –> time = ln (2) x 100 sec. 0.693 x 100 ≈ 0.7 x 100 ≈ 70 sec."
+      },
+      {
+        "answer": "70 seconds",
+        "correct": true,
+        "feedback": "Correct. REF:    P = POEt/T ––> ln(2) = time ÷ 100 seconds –> time = ln (2) x 100 sec. 0.693 x 100 ≈ 0.7 x 100 ≈ 70 sec."
+      },
+      {
+        "answer": "100 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REF:    P = POEt/T ––> ln(2) = time ÷ 100 seconds –> time = ln (2) x 100 sec. 0.693 x 100 ≈ 0.7 x 100 ≈ 70 sec."
+      }
+    ]
+  },
+  {
+    "question": "A.15 Several processes occur that may increase or decrease the available number of neutrons.  SELECT from the following the six-factor formula term that describes an INCREASE in the number of neutrons during the cycle.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "Thermal utilization factor (f).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+      },
+      {
+        "answer": "Resonance escape probability (p).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+      },
+      {
+        "answer": "Thermal non-leakage probability (£th).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+      },
+      {
+        "answer": "Reproduction factor (η).",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+      }
+    ]
+  },
+  {
+    "question": "A.16 The effective neutron multiplication factor, Keff, is defined as:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "absorption/(production + leakage)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 3, page 8."
+      },
+      {
+        "answer": "(production + leakage)/absorption",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 3, page 8."
+      },
+      {
+        "answer": "(absorption + leakage)/production",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 3, page 8."
+      },
+      {
+        "answer": "production/(absorption + leakage)",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Module 3, page 8."
+      }
+    ]
+  },
+  {
+    "question": "A.17 Given a mother isotope of (35Br87), identify each of the daughter isotopes as a result of α, β+, β-, γ, or n, decay.\na. 33As83\nb. 34Se87\nc.  35Br86\nd. 35Br87\ne. 36Kr87",
+    "type": "matching",
+    "answers": [
+      {
+        "match": "a",
+        "correct": "α",
+        "feedback": "Correct. Reference: STD NRC question."
+      },
+      {
+        "match": "b",
+        "correct": "β+",
+        "feedback": "Correct. Reference: STD NRC question."
+      },
+      {
+        "match": "c",
+        "correct": "n",
+        "feedback": "Correct. Reference: STD NRC question."
+      },
+      {
+        "match": "d",
+        "correct": "γ",
+        "feedback": "Correct. Reference: STD NRC question."
+      },
+      {
+        "match": "e",
+        "correct": "β-",
+        "feedback": "Correct. Reference: STD NRC question."
+      }
+    ]
+  },
+  {
+    "question": "A.18 The number of neutrons passing through a one square centimeter of target material per second is the definition of which one of the following?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "Neutron Population (np)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+      },
+      {
+        "answer": "Neutron Impact Potential (nip)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+      },
+      {
+        "answer": "Neutron Flux (nv)",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+      },
+      {
+        "answer": "Neutron Density (nd)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory"
+      }
+    ]
+  }
+]
