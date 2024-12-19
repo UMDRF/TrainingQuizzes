@@ -1,0 +1,522 @@
+[
+  {
+    "question": "A.1[1.0 point] (1.0) The reactor is operating at steady state full power when the Rotary Specimen Rack (RSR) floods, as a result reactor power would:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. increase",
+        "correct": false,
+        "feedback": "Incorrect. REF: KSU Exam 4/28/93"
+      },
+      {
+        "answer": "b. decrease",
+        "correct": true,
+        "feedback": "Correct. REF: KSU Exam 4/28/93"
+      },
+      {
+        "answer": "c. remain constant",
+        "correct": false,
+        "feedback": "Incorrect. REF: KSU Exam 4/28/93"
+      },
+      {
+        "answer": "d. initially increase then return back to its initial value",
+        "correct": false,
+        "feedback": "Incorrect. REF: KSU Exam 4/28/93"
+      }
+    ]
+  },
+  {
+    "question": "A.2 [1.0 point] (1.0) During a fuel loading, if the fuel elements are loaded to the core one by one starting near the source and proceeding toward the detector, which ONE of the following statements describes the effect of this loading sequence on the 1/M plot?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The sequence has no effect on the 1/M plot.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Theory of Operation, Multiplication & Criticality"
+      },
+      {
+        "answer": "b. The 1/M plot will have a less angular slope, predicting criticality for a larger number of elements.",
+        "correct": true,
+        "feedback": "Correct. REF: Theory of Operation, Multiplication & Criticality"
+      },
+      {
+        "answer": "c. The 1/M plot will have a steeper slope, initially predicting criticality for a fewer number of elements.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Theory of Operation, Multiplication & Criticality"
+      },
+      {
+        "answer": "d. The 1/M plot will approach infinity. Predicting criticality would be difficult.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Theory of Operation, Multiplication & Criticality"
+      }
+    ]
+  },
+  {
+    "question": "A.3 [1.0 point] (1.0) Which ONE of the following describes how delayed neutrons affect control of the reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. More delayed neutrons are produced than prompt neutrons resulting in a longer time to reach a stable subcritical countrate.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Period - Reactivity Relationships"
+      },
+      {
+        "answer": "b. Delayed neutrons are born at higher energies than prompt neutrons resulting in a shorter reactor period from increased leakage.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Period - Reactivity Relationships"
+      },
+      {
+        "answer": "c. Delayed neutrons take longer to thermalize than prompt neutrons resulting in a longer reactor period.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Period - Reactivity Relationships"
+      },
+      {
+        "answer": "d. Delayed neutrons increase the average neutron lifetime resulting in a longer reactor period.",
+        "correct": true,
+        "feedback": "Correct. REF: Period - Reactivity Relationships"
+      }
+    ]
+  },
+  {
+    "question": "A.4 [1.0 point] (1.0) With the reactor on a constant positive period, which ONE of the following power changes will take the SHORTEST time?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5% power - from 1% to 6% power",
+        "correct": false,
+        "feedback": "Incorrect. REF: P = P0 e<sup>t/Τ</sup>"
+      },
+      {
+        "answer": "b. 10% power - from 10% to 20% power",
+        "correct": false,
+        "feedback": "Incorrect. REF: P = P0 e<sup>t/Τ</sup>"
+      },
+      {
+        "answer": "c. 15% power - from 20% to 35% power",
+        "correct": false,
+        "feedback": "Incorrect. REF: P = P0 e<sup>t/Τ</sup>"
+      },
+      {
+        "answer": "d. 20% power - from 40% to 60% power",
+        "correct": true,
+        "feedback": "Correct. REF: P = P0 e<sup>t/Τ</sup>"
+      }
+    ]
+  },
+  {
+    "question": "A.5 [1.0 point] (1.0) Given a source strength of 10 neutrons per second (N/sec) and a multiplication factor (Keff) of 0.8, the expected stable neutron count rate would be?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 80 N/sec",
+        "correct": false,
+        "feedback": "Incorrect. REF: CR=S/(1-K) = 10/0.2 = 50 N/sec"
+      },
+      {
+        "answer": "b. 250 N/sec",
+        "correct": false,
+        "feedback": "Incorrect. REF: CR=S/(1-K) = 10/0.2 = 50 N/sec"
+      },
+      {
+        "answer": "c. 50 N/sec",
+        "correct": true,
+        "feedback": "Correct. REF: CR=S/(1-K) = 10/0.2 = 50 N/sec"
+      },
+      {
+        "answer": "d. 80 N/sec",
+        "correct": false,
+        "feedback": "Incorrect. REF: CR=S/(1-K) = 10/0.2 = 50 N/sec"
+      }
+    ]
+  },
+  {
+    "question": "A.6 [1.0 point] (1.0) The primary reason a neutron source is installed in the core is to:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. allow for testing and irradiation experiments when the reactor is shutdown",
+        "correct": false,
+        "feedback": "Incorrect. REF: Theory of Operation, Multiplication & Criticality"
+      },
+      {
+        "answer": "b. supply the neutrons required to start the chain reaction for subsequent reactor startups",
+        "correct": false,
+        "feedback": "Incorrect. REF: Theory of Operation, Multiplication & Criticality"
+      },
+      {
+        "answer": "c. provide a neutron level high enough to be monitored for a controlled reactor startup",
+        "correct": true,
+        "feedback": "Correct. REF: Theory of Operation, Multiplication & Criticality"
+      },
+      {
+        "answer": "d. increase the excess reactivity of the reactor which reduces the frequency for refueling",
+        "correct": false,
+        "feedback": "Incorrect. REF: Theory of Operation, Multiplication & Criticality"
+      }
+    ]
+  },
+  {
+    "question": "A.7 [1.0 point] (1.0) Which ONE of the following describes the reason for the constant rate of power change several minutes after a reactor scram from full power?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The decay of the longer lived delayed neutron precursors.",
+        "correct": true,
+        "feedback": "Correct. REF: Theory of Operation, Period - Reactivity Relationships"
+      },
+      {
+        "answer": "b. The reactivity added by the fuel temperature coefficient.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Theory of Operation, Period - Reactivity Relationships"
+      },
+      {
+        "answer": "c. The decay of fission products producing photoneutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Theory of Operation, Period - Reactivity Relationships"
+      },
+      {
+        "answer": "d. The subcritical multiplication of source neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Theory of Operation, Period - Reactivity Relationships"
+      }
+    ]
+  },
+  {
+    "question": "A.8 [1.0 point] (1.0) Which ONE of the following describes the time period in which the maximum amount of Xe-135 will be present in the core?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 4 to 6 hours after a power decrease from 10% to 50%",
+        "correct": false,
+        "feedback": "Incorrect. REF: Theory of Operation, Poison Compensation"
+      },
+      {
+        "answer": "b. 4 to 6 hours after a power increase from 50% to 10%",
+        "correct": false,
+        "feedback": "Incorrect. REF: Theory of Operation, Poison Compensation"
+      },
+      {
+        "answer": "c. 6 to 11 hours after a startup to 10% power",
+        "correct": false,
+        "feedback": "Incorrect. REF: Theory of Operation, Poison Compensation"
+      },
+      {
+        "answer": "d. 6 to 11 hours after shutdown from 8 hours of 10% power operation",
+        "correct": true,
+        "feedback": "Correct. REF: Theory of Operation, Poison Compensation"
+      }
+    ]
+  },
+  {
+    "question": "A.9 [1.0 point] (1.0) Which ONE of the following coefficients will respond first to turn power during a power increase from 50% power?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fuel Temperature",
+        "correct": true,
+        "feedback": "Correct. REF: Theory of Operation, Temperature Compensation"
+      },
+      {
+        "answer": "b. Moderator Temperature",
+        "correct": false,
+        "feedback": "Incorrect. REF: Theory of Operation, Temperature Compensation"
+      },
+      {
+        "answer": "c. Power",
+        "correct": false,
+        "feedback": "Incorrect. REF: Theory of Operation, Temperature Compensation"
+      },
+      {
+        "answer": "d. Void",
+        "correct": false,
+        "feedback": "Incorrect. REF: Theory of Operation, Temperature Compensation"
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1.0 point] (1.0) Which ONE of the following terms of the six factor formula is most affected by \"Poisons\"?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fast Fission Factor",
+        "correct": false,
+        "feedback": "Incorrect. REF: Theory of Operation, Poison Compensation"
+      },
+      {
+        "answer": "b. Reproduction Factor",
+        "correct": false,
+        "feedback": "Incorrect. REF: Theory of Operation, Poison Compensation"
+      },
+      {
+        "answer": "c. Thermal Utilization Factor",
+        "correct": true,
+        "feedback": "Correct. REF: Theory of Operation, Poison Compensation"
+      },
+      {
+        "answer": "d. Thermal Non Leakage Probability",
+        "correct": false,
+        "feedback": "Incorrect. REF: Theory of Operation, Poison Compensation"
+      }
+    ]
+  },
+  {
+    "question": "A.11 [1.0 point] (1.0) The reactor is shutdown by 0.05 ΔK/K, this would correspond to a Keff of:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.9995",
+        "correct": false,
+        "feedback": "Incorrect. REF: ρ = (Keff-1)/Keff; k=0.9524"
+      },
+      {
+        "answer": "b. 0.9524",
+        "correct": true,
+        "feedback": "Correct. REF: ρ = (Keff-1)/Keff; k=0.9524"
+      },
+      {
+        "answer": "c. 0.7750",
+        "correct": false,
+        "feedback": "Incorrect. REF: ρ = (Keff-1)/Keff; k=0.9524"
+      },
+      {
+        "answer": "d. 0.050",
+        "correct": false,
+        "feedback": "Incorrect. REF: ρ = (Keff-1)/Keff; k=0.9524"
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1.0 point] (1.0) The principal source of heat following a scram from full power is from:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. delayed neutrons",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, p 313."
+      },
+      {
+        "answer": "b. the installed source",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, p 313."
+      },
+      {
+        "answer": "c. fission product decay",
+        "correct": true,
+        "feedback": "Correct. REF: Lamarsh, Introduction to Nuclear Engineering, p 313."
+      },
+      {
+        "answer": "d. radioactive decay of structural material",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, p 313."
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1.0 point] (1.0) With a 30 second period, power would double in approximately:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 15 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REF: P = P0 e<sup>t/Τ</sup>; Ln2=t/30; 0.693=t/30; t=20.8"
+      },
+      {
+        "answer": "b. 21 seconds",
+        "correct": true,
+        "feedback": "Correct. REF: P = P0 e<sup>t/Τ</sup>; Ln2=t/30; 0.693=t/30; t=20.8"
+      },
+      {
+        "answer": "c. 30 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REF: P = P0 e<sup>t/Τ</sup>; Ln2=t/30; 0.693=t/30; t=20.8"
+      },
+      {
+        "answer": "d. 60 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REF: P = P0 e<sup>t/Τ</sup>; Ln2=t/30; 0.693=t/30; t=20.8"
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1.0 point] (1.0) For a thermal reactor, a reflector is used to:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. absorb excess high energy neutrons",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh, Section 6.6, p 221."
+      },
+      {
+        "answer": "b. provide the media for slowing down neutrons",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh, Section 6.6, p 221."
+      },
+      {
+        "answer": "c. absorb excess thermal and fast neutrons",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh, Section 6.6, p 221."
+      },
+      {
+        "answer": "d. reduce the amount of fuel required to achieve criticality",
+        "correct": true,
+        "feedback": "Correct. REF: Lamarsh, Section 6.6, p 221."
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1.0 point] (1.0) Which ONE of the following is associated with the most amount of energy from fission?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Kinetic energy of fission products",
+        "correct": true,
+        "feedback": "Correct. REF: KSU Exam 4/28/93"
+      },
+      {
+        "answer": "b. Fission product gamma energy",
+        "correct": false,
+        "feedback": "Incorrect. REF: KSU Exam 4/28/93"
+      },
+      {
+        "answer": "c. Fission product beta energy",
+        "correct": false,
+        "feedback": "Incorrect. REF: KSU Exam 4/28/93"
+      },
+      {
+        "answer": "d. Fast neutron energy",
+        "correct": false,
+        "feedback": "Incorrect. REF: KSU Exam 4/28/93"
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1.0 point] (1.0) If a control rod withdrawal for a reactor startup is conducted without the source inserted, which ONE of the following is the result? Assume the rod withdrawal rate is the same as a normal startup, criticality will:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. occur at a lower count rate than normal",
+        "correct": true,
+        "feedback": "Correct. REF: CR1(1-Keff1) = CR2(1-Keff2); If initial CR low then as Keff approaches 1.0, so will the resultant CR."
+      },
+      {
+        "answer": "b. occur at a higher count rate than normal",
+        "correct": false,
+        "feedback": "Incorrect. REF: CR1(1-Keff1) = CR2(1-Keff2); If initial CR low then as Keff approaches 1.0, so will the resultant CR."
+      },
+      {
+        "answer": "c. occur much later than normal",
+        "correct": false,
+        "feedback": "Incorrect. REF: CR1(1-Keff1) = CR2(1-Keff2); If initial CR low then as Keff approaches 1.0, so will the resultant CR."
+      },
+      {
+        "answer": "d. not occur",
+        "correct": false,
+        "feedback": "Incorrect. REF: CR1(1-Keff1) = CR2(1-Keff2); If initial CR low then as Keff approaches 1.0, so will the resultant CR."
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1.0 point] (1.0) Which one of the following reactivity insertions above \"just critical\" on delayed neutrons will make the reactor \"just prompt critical\"?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.1%",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh pg. 286"
+      },
+      {
+        "answer": "b. 1%",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh pg. 286"
+      },
+      {
+        "answer": "c. 10 cents",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh pg. 286"
+      },
+      {
+        "answer": "d. 1 dollar",
+        "correct": true,
+        "feedback": "Correct. REF: Lamarsh pg. 286"
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1.0 point] (1.0) Which ONE of the following factors is the most significant in determining the differential worth of a control rod?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The rod speed",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh, Section 7.2, p 270."
+      },
+      {
+        "answer": "b. Reactor power",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh, Section 7.2, p 270."
+      },
+      {
+        "answer": "c. The flux shape",
+        "correct": true,
+        "feedback": "Correct. REF: Lamarsh, Section 7.2, p 270."
+      },
+      {
+        "answer": "d. The amount of fuel in the core",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh, Section 7.2, p 270."
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1.0 point] (1.0) Using the normal operating parameters associated with the TRIGA cooling systems and with a primary side temperature difference of 6 °C, the temperature difference across the SECONDARY side of the heat exchanger would be:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 2.9 °C",
+        "correct": false,
+        "feedback": "Incorrect. REF: Q=MCpΔT; Qp=Qs; (110 gpm)Cp(6C)= 176Cp(X); X = 660/176 = 3.8 degrees-C."
+      },
+      {
+        "answer": "b. 3.8 °C",
+        "correct": true,
+        "feedback": "Correct. REF: Q=MCpΔT; Qp=Qs; (110 gpm)Cp(6C)= 176Cp(X); X = 660/176 = 3.8 degrees-C."
+      },
+      {
+        "answer": "c. 9.6 °C",
+        "correct": false,
+        "feedback": "Incorrect. REF: Q=MCpΔT; Qp=Qs; (110 gpm)Cp(6C)= 176Cp(X); X = 660/176 = 3.8 degrees-C."
+      },
+      {
+        "answer": "d. 10.5 °C",
+        "correct": false,
+        "feedback": "Incorrect. REF: Q=MCpΔT; Qp=Qs; (110 gpm)Cp(6C)= 176Cp(X); X = 660/176 = 3.8 degrees-C."
+      }
+    ]
+  },
+  {
+    "question": "A.20 [1.0 point] (1.0) [DELETED] The TRIGA reactor is not allowed to be pulsed from power levels above 1kw. The reason for this requirement is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The additional fast neutron flux from the pulse could dangerously embrittle fuel cladding.",
+        "correct": false,
+        "feedback": "Incorrect. REF: KSU SAR Section 7"
+      },
+      {
+        "answer": "b. The additional heat from the pulse could cause pool temperature limits to exceed operating specifications.",
+        "correct": false,
+        "feedback": "Incorrect. REF: KSU SAR Section 7"
+      },
+      {
+        "answer": "c. The additional thermal neutron flux from the pulse could dangerously embrittle fuel cladding.",
+        "correct": false,
+        "feedback": "Incorrect. REF: KSU SAR Section 7"
+      },
+      {
+        "answer": "d. The additional heat from the pulse could cause fuel temperature limits to be exceeded.",
+        "correct": true,
+        "feedback": "Correct. REF: KSU SAR Section 7"
+      }
+    ]
+  }
+]

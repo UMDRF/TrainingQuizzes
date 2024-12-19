@@ -1,0 +1,522 @@
+[
+  {  
+    "question": "A.001  [1.0 point]  (1.0) This decay chain is a good example of ___ decay.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Alpha",
+        "correct": true,
+        "feedback": "Correct. Referecne:  DOE  Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "b. Beta",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  DOE  Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "c. Gamma",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  DOE  Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "d. Neutron",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  DOE  Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      }
+    ]
+  },
+  {
+    "question": "A.002  [1.0 point]  (2.0) A nuclear reactor startup is being performed by adding equal amounts of positive reactivity and waiting for neutron population to stabilize. As the reactor approaches criticality, the numerical change in stable neutron population after each reactivity addition __________, and the time required for the neutron population to stabilize after each reactivity addition ___________.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. increases; remains the same",
+        "correct": false,
+        "feedback": "Incorrect. Referecne: NRC Generic Fundamentals Examination Question Bank—PWR2010"
+      },
+      {
+        "answer": "b. increases; increases",
+        "correct": true,
+        "feedback": "Correct. Referecne: NRC Generic Fundamentals Examination Question Bank—PWR2010"
+      },
+      {
+        "answer": "c. remains the same; remains the same",
+        "correct": false,
+        "feedback": "Incorrect. Referecne: NRC Generic Fundamentals Examination Question Bank—PWR2010"
+      },
+      {
+        "answer": "d. remains the same; increases",
+        "correct": false,
+        "feedback": "Incorrect. Referecne: NRC Generic Fundamentals Examination Question Bank—PWR2010"
+      }
+    ]
+  },
+  {
+    "question": "A.003  [1.0 point]  (3.0) Which ONE of the following statements is the most correct regarding a characteristic of subcritical multiplication?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The number of neutrons gained per generation doubles for each succeeding generation.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne: DOE Handbook, Vol 2, Section 2.0 If CR2 is twice CR1, then to be equal, (1-Keff2) must be half of (1-Keff1)."
+      },
+      {
+        "answer": "b. A constant neutron population is achieved when the total number of neutrons produced in one generation is equal to the number of source neutrons in the next generation.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne: DOE Handbook, Vol 2, Section 2.0 If CR2 is twice CR1, then to be equal, (1-Keff2) must be half of (1-Keff1)."
+      },
+      {
+        "answer": "c. For equal reactivity additions, it takes less time for the equilibrium subcritical neutron\npopulation level to be reached as Keff approaches one.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne: DOE Handbook, Vol 2, Section 2.0 If CR2 is twice CR1, then to be equal, (1-Keff2) must be half of (1-Keff1)."
+      },
+      {
+        "answer": "d. Doubling the indicated power will reduce the margin to criticality by approximately one-half.",
+        "correct": true,
+        "feedback": "Correct. Referecne: DOE Handbook, Vol 2, Section 2.0 If CR2 is twice CR1, then to be equal, (1-Keff2) must be half of (1-Keff1)."
+      }
+    ]
+  },
+  {
+    "question": "A.004  [1.0 point]  (4.0) Given the following diagram, which of the following most correctly describe the condition of the reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The prompt jump occurs because the production rate of delayed neutrons abruptly changes as reactivity is added.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  PSBR Training Manual, Chapter 2.22"
+      },
+      {
+        "answer": "b. At T=15s, the reactor is considered prompt critical.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  PSBR Training Manual, Chapter 2.22"
+      },
+      {
+        "answer": "c. After the prompt jump, the rate of change of power cannot increase any more rapidly\nthan the built-in time delay the neutron precursor half-lives allow.",
+        "correct": true,
+        "feedback": "Correct. Referecne:  PSBR Training Manual, Chapter 2.22"
+      },
+      {
+        "answer": "d. Shortly after T=0s, the reactor power is immediately turned due to the rise in moderator temperature.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  PSBR Training Manual, Chapter 2.22"
+      }
+    ]
+  },
+  {
+    "question": "A.005  [1.0 point]  (5.0) Given a critical nuclear reactor operating below the point of adding heat (POAH), what reactivity effects are associated with reaching the POAH?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. There are no reactivity effects because the reactor is critical.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "b. The increase in fuel temperature will begin to create a positive reactivity effect.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "c. The decrease in fuel temperature will begin to create a negative reactivity effect.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "d. The increase in fuel temperature will begin to create a negative reactivity effect.",
+        "correct": true,
+        "feedback": "Correct. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      }
+    ]
+  },
+  {
+    "question": "A.006  [1.0 point]  (6.0) Which one of the following most correctly completes the following as the reason for having an installed neutron source within the core?   A startup without an installed neutron source...",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. could result in a very short period due to the reactor going critical before neutron population built up high enough to be read on nuclear instrumentation.",
+        "correct": true,
+        "feedback": "Correct. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "b. is impossible as there would be no neutrons available to start up the reactor.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "c. would be very slow due to the long time to build up neutron population from so low a level.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "d. can be compensated for by adjusting the compensating voltage on the source range\ndetector.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      }
+    ]
+  },
+  {
+    "question": "A.007  [1.0 point]  (7.0) Which ONE of the following conditions will INCREASE the core excess of a nuclear reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Higher moderator temperature (assume negative temperature coefficient)",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "b. Insertion of a negative reactivity worth experiment",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "c. Burnout of a burnable poison",
+        "correct": true,
+        "feedback": "Correct. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "d. Fuel depletion",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      }
+    ]
+  },
+  {
+    "question": "A.008  [1.0 point]  (8.0) Given the associated graph, which of the following answers best describe the neutron behavior within Region II?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The neutron cross section is inversely proportional to the neutron velocity (1/V)",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "b. The neutron cross section decreases steadily with increasing neutron energy (1/E).",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "c. Neutrons of specific energy levels (e.g., 50 ev, 100 kev) have a greater potential for leakage from the reactor core",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "d. Neutrons of specific energy levels (e.g., 50 ev, 100 kev) are more likely to be readily absorbed than neutrons at other energy levels.",
+        "correct": true,
+        "feedback": "Correct. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      }
+    ]
+  },
+  {
+    "question": "A.009  [1.0 point]  (9.0) The effective neutron multiplication factor, Keff, for a critical reactor is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Equal to ∞.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "b. Equal to 1.",
+        "correct": true,
+        "feedback": "Correct. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "c. Equal to the effective delayed neutron fraction.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "d. Any value < 1.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      }
+    ]
+  },
+  {
+    "question": "A.010  [1.0 point]  (10.0) ________________ releases the most amount of energy during an average fission event.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fission product recoil",
+        "correct": true,
+        "feedback": "Correct. Referecne:  PSBR Training Manual, Chapter 2 “Principles of Reactor Operation”, p.2"
+      },
+      {
+        "answer": "b. Fission product decay",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  PSBR Training Manual, Chapter 2 “Principles of Reactor Operation”, p.2"
+      },
+      {
+        "answer": "c. Fast neutrons",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  PSBR Training Manual, Chapter 2 “Principles of Reactor Operation”, p.2"
+      },
+      {
+        "answer": "d. Prompt gammas",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  PSBR Training Manual, Chapter 2 “Principles of Reactor Operation”, p.2"
+      }
+    ]
+  },
+  {
+    "question": "A.011  [1.0 point]  (11.0) Using the associated graph which of the following best describes what happens to the concentration of Xenon (Xe)-135 from point A to B?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The concentration of Iodine-135 was at a higher equilibrium level at 100% power and is therefore producing Xe-135 at a higher rate until it reaches a maximum value 7-8 hours later.",
+        "correct": true,
+        "feedback": "Correct. Referecne: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "b. The concentration of Xe-135 reaches a maximum\nvalue 40 hours after the down power transient and will decrease to a new, higher equilibrium value until it reaches a maximum value  equilibrium",
+        "correct": false,
+        "feedback": "Incorrect. Referecne: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "c. The insertion of control rods displaces the axial\nreactor flux causing an increased production rate of xenon gas until it reaches a maximum value 7-8 hours after the down power transient.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "d. The decay rate of fission product, Cesium-135\nincreases due to the down power transient which increases the concentration of Xe-135 to a maximum value 40 hours later.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      }
+    ]
+  },
+  {
+    "question": "A.012  [1.0 point]  (12.0) A reactor with Keff = 0.8 contributes 1000 neutrons in the first generation.  When progressing from the FIRST generation to the SECOND generation, how many TOTAL neutrons are there after the SECOND generation?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 1250",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6 2nd generation=n + K*n=1000+800=1800 neutrons"
+      },
+      {
+        "answer": "b. 1600",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6 2nd generation=n + K*n=1000+800=1800 neutrons"
+      },
+      {
+        "answer": "c. 1800",
+        "correct": true,
+        "feedback": "Correct. Referecne:  Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6 2nd generation=n + K*n=1000+800=1800 neutrons"
+      },
+      {
+        "answer": "d. 2000",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6 2nd generation=n + K*n=1000+800=1800 neutrons"
+      }
+    ]
+  },
+  {
+    "question": "A.013  [1.0 point]  (13.0) Refer to the associated figure which includes drawings for three 1/M plots labeled A, B, and C  Plot B shows an ideal approach to criticality.  Therefore, the least conservative approach to criticality is represented by plot _____ and could possibly be the result of recording count rates at ________ time intervals after incremental fuel loading steps compared to the situations represented by the other plots.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. A; shorter",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  PSU Training Manual, Section 2.7 “Critical Mass Experiment”"
+      },
+      {
+        "answer": "b. A; longer",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  PSU Training Manual, Section 2.7 “Critical Mass Experiment”"
+      },
+      {
+        "answer": "c. C; shorter",
+        "correct": true,
+        "feedback": "Correct. Referecne:  PSU Training Manual, Section 2.7 “Critical Mass Experiment”"
+      },
+      {
+        "answer": "d. C; longer",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  PSU Training Manual, Section 2.7 “Critical Mass Experiment”"
+      }
+    ]
+  },
+  {
+    "question": "A.014  [1.0 point]  (14.0) Which is the correct definition of shutdown margin?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The reactor is in a cold xenon-free condition, with the most reactive blade and the regulating rod full out, the reflector dumped, and all samples in their most reactive positions.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  T.S. 3.9"
+      },
+      {
+        "answer": "b. The reactor is in a cold xenon-free condition, with the most reactive blade and the regulating rod full in, the reflector dumped, and all samples in their most reactive positions.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  T.S. 3.9"
+      },
+      {
+        "answer": "c. The reactor can be made subcritical by at least 1% delta K/K in a cold xenon-free condition, with the most reactive blade and the regulating rod full out, and all samples in their most reactive positions.",
+        "correct": true,
+        "feedback": "Correct. Referecne:  T.S. 3.9"
+      },
+      {
+        "answer": "d. The reactor is in a cold xenon loaded condition, with the most reactive blade and the regulating rod full out, the reflector dumped, and all samples in their least reactive positions.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  T.S. 3.9"
+      }
+    ]
+  },
+  {
+    "question": "A.015  [1.0 point]  (15.0) The reactor is operating at 100 KW.  The reactor operator withdraws the Regulating Rod adding 250 mβ of reactivity and allowing power to increase.  The operator then inserts the same rod to its original position, decreasing power.  In comparison to the rod withdrawal, the rod insertion will result in:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. a longer period due to long lived delayed neutron precursors.",
+        "correct": true,
+        "feedback": "Correct. Referecne:"
+      },
+      {
+        "answer": "b. a shorter period due to long lived delayed neutron precursors.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:"
+      },
+      {
+        "answer": "c. the same period due to equal amounts of reactivity being added.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:"
+      },
+      {
+        "answer": "d. the same period due to equal reactivity rates from the rod.",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:"
+      }
+    ]
+  },
+  {
+    "question": "A.016  [1.0 point]  (16.0) Moving the control blades, primarily changes reactivity in the reactor by changing which ONE of the four factors?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fast Fission Factor (ε)",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:"
+      },
+      {
+        "answer": "b. Reproduction Factor (η)",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:"
+      },
+      {
+        "answer": "c. Resonance Escape Probability (p)",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:"
+      },
+      {
+        "answer": "d. Thermal Utilization Factor (f)",
+        "correct": true,
+        "feedback": "Correct. Referecne:"
+      }
+    ]
+  },
+  {
+    "question": "A.017  [1.0 point]  (17.0) The table provided lists data taken during a core loading. Estimate the number of fuel elements needed to go critical.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 24",
+        "correct": true,
+        "feedback": "Correct. Referecne:  Standard NRC question"
+      },
+      {
+        "answer": "b. 27",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  Standard NRC question"
+      },
+      {
+        "answer": "c. 30",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  Standard NRC question"
+      },
+      {
+        "answer": "d. 38",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  Standard NRC question"
+      }
+    ]
+  },
+  {
+    "question": "A.018  [1.0 point]  (18.0) Given the data in the table to the right, which ONE of the following is the closest to the half-life of the material?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 11 minutes",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  Reactor Training Manual -Reactivity"
+      },
+      {
+        "answer": "b. 22 minutes",
+        "correct": true,
+        "feedback": "Correct. Referecne:  Reactor Training Manual -Reactivity"
+      },
+      {
+        "answer": "c. 44 minutes",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  Reactor Training Manual -Reactivity"
+      },
+      {
+        "answer": "d. 51 minutes",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  Reactor Training Manual -Reactivity"
+      }
+    ]
+  },
+  {
+    "question": "A.019  [1.0 point]  (19.0) In a subcritical reactor, K eff is increased from 0.861 to 0.946. Which ONE of the following is the amount of reactivity that was added to the reactor core?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.085 delta k/k",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  Reactor Physics Notes, Reactivity Kinetics, pg. 2  .1 = (0.861 - 1)/0.861 = -0.161.k/k; .2 = (0.946 - 1)/0.946 = -0.057.k/k  .. = .2 -.1 = -0.057 - (-0.161) = +0.104 delta k/k"
+      },
+      {
+        "answer": "b. 0.104 delta k/k",
+        "correct": true,
+        "feedback": "Correct. Referecne:  Reactor Physics Notes, Reactivity Kinetics, pg. 2  .1 = (0.861 - 1)/0.861 = -0.161.k/k; .2 = (0.946 - 1)/0.946 = -0.057.k/k  .. = .2 -.1 = -0.057 - (-0.161) = +0.104 delta k/k"
+      },
+      {
+        "answer": "c. 0.161 delta k/k",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  Reactor Physics Notes, Reactivity Kinetics, pg. 2  .1 = (0.861 - 1)/0.861 = -0.161.k/k; .2 = (0.946 - 1)/0.946 = -0.057.k/k  .. = .2 -.1 = -0.057 - (-0.161) = +0.104 delta k/k"
+      },
+      {
+        "answer": "d. 0.218 delta k/k",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  Reactor Physics Notes, Reactivity Kinetics, pg. 2  .1 = (0.861 - 1)/0.861 = -0.161.k/k; .2 = (0.946 - 1)/0.946 = -0.057.k/k  .. = .2 -.1 = -0.057 - (-0.161) = +0.104 delta k/k"
+      }
+    ]
+  },
+  {
+    "question": "A.020  [1.0 point]  (20.0) A fissile material is one which will fission upon the absorption of a THERMAL neutron. Which ONE of following listed isotopes is not a fissile material?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. U233",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  Glasstone and Sesonske, Third Ed. § 1.45"
+      },
+      {
+        "answer": "b. U235",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  Glasstone and Sesonske, Third Ed. § 1.45"
+      },
+      {
+        "answer": "c. Pu239",
+        "correct": false,
+        "feedback": "Incorrect. Referecne:  Glasstone and Sesonske, Third Ed. § 1.45"
+      },
+      {
+        "answer": "d. Th232",
+        "correct": true,
+        "feedback": "Correct. Referecne:  Glasstone and Sesonske, Third Ed. § 1.45"
+      }
+    ]
+  }
+]  

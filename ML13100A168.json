@@ -1,0 +1,522 @@
+[
+  {
+    "question": "A.001 [1.0 point] (1.0) Which ONE of the following is an example of neutron decay?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 35Br87 → 33As83",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      },
+      {
+        "answer": "b. 35Br87 → 35Br86",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      },
+      {
+        "answer": "c. 35Br87 → 34Se86",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      },
+      {
+        "answer": "d. 35Br87 → 36Kr87",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      }
+    ]
+  },
+  {
+    "question": "A.002 [1.0 point] (2.0) The reactor is operating at a constant power level with equilibrium xenon. You double Reactor power. The equilibrium xenon level at the higher power level will be …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the same as at the lower power level.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 3, Xenon, page 37."
+      },
+      {
+        "answer": "b. higher than its value at the lower power level, but not twice as high.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Module 3, Xenon, page 37."
+      },
+      {
+        "answer": "c. twice as high.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 3, Xenon, page 37."
+      },
+      {
+        "answer": "d. more than twice as high.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 3, Xenon, page 37."
+      }
+    ]
+  },
+  {
+    "question": "A.003 [1.0 point] (3.0) The reactor is at a power of 1 watt, with a 26 second stable period. How long will it take for power to reach 1000 watts?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. ≈180 seconds",
+        "correct": true,
+        "feedback": "Correct. Reference: Primary Reference, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 2.1."
+      },
+      {
+        "answer": "b. ≈153 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Primary Reference, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 2.1."
+      },
+      {
+        "answer": "c. ≈121 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Primary Reference, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 2.1."
+      },
+      {
+        "answer": "d. ≈78 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Primary Reference, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 2.1."
+      }
+    ]
+  },
+  {
+    "question": "A.004 [1.0 point] (4.0) If the primary flow rate is 3700 gpm and the ΔT across the primary side of the heat exchanger is 15.5°F, what is the power being transferred to the secondary side of the heat exchanger? (Assume no losses to the ambient surroundings, including the pool).",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 12 megawatts",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      },
+      {
+        "answer": "b. 10 megawatts",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      },
+      {
+        "answer": "c. 8 megawatts",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      },
+      {
+        "answer": "d. 6 megawatts",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      }
+    ]
+  },
+  {
+    "question": "A.005 [1.0 point] (5.0) The reactor is subcritical with a Keff of 0.96 and 30 counts per second indicated. After a fuel element is removed the count rate drops to 10 counts per second. No other changes have occurred. What is the Keff of the core with the fuel element removed?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.9733",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z."
+      },
+      {
+        "answer": "b. 0.8800",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z."
+      },
+      {
+        "answer": "c. 0.8400",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z."
+      },
+      {
+        "answer": "d. 0.8000",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z."
+      }
+    ]
+  },
+  {
+    "question": "A.006 [1.0 point] (6.0) Which one of the following factors is most easily varied by the reactor operator?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. reproduction factor",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z."
+      },
+      {
+        "answer": "b. fast fission factor",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z."
+      },
+      {
+        "answer": "c. fast non-leakage probability",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z."
+      },
+      {
+        "answer": "d. thermal utilization factor",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z."
+      }
+    ]
+  },
+  {
+    "question": "A.007 [1.0 point] (7.0) Which ONE of the following statements correctly describes a characteristic of subcritical multiplication?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The number of neutrons gained per generation doubles for each succeeding generation.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 4, Subcritical Multiplication, page 6."
+      },
+      {
+        "answer": "b. A constant neutron population is achieved when the total number of neutrons produced in one generation is equal to the number of source neutrons added in the next generation.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 4, Subcritical Multiplication, page 6."
+      },
+      {
+        "answer": "c. For equal reactivity additions, it requires less time for the equilibrium neutron population to be reached.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 4, Subcritical Multiplication, page 6."
+      },
+      {
+        "answer": "d. When the indicated count rate doubles, the margin to criticality has been reduced by approximately one-half.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Module 4, Subcritical Multiplication, page 6."
+      }
+    ]
+  },
+  {
+    "question": "A.008 [1.0 point] (8.0) Five minutes following a reactor shutdown, the source range monitor is reading 3 × 10^6 counts/minute. Which ONE of the following is the count rate you would expect to see three minutes later?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 10^6 counts/minute",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC Question."
+      },
+      {
+        "answer": "b. 8 × 10^5 counts/minute",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC Question."
+      },
+      {
+        "answer": "c. 5 × 10^5 counts/minute",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC Question."
+      },
+      {
+        "answer": "d. 3 × 10^5 counts/minute",
+        "correct": true,
+        "feedback": "Correct. Reference: Standard NRC Question."
+      }
+    ]
+  },
+  {
+    "question": "A.009 [1.0 point] (9.0) By definition, an exactly critical reactor can be made prompt critical by adding positive reactivity equal to …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the shutdown margin",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      },
+      {
+        "answer": "b. the Kexcess margin",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      },
+      {
+        "answer": "c. the βeff value",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      },
+      {
+        "answer": "d. 1.0 %ΔK/K.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      }
+    ]
+  },
+  {
+    "question": "A.010 [1.0 point] (10.0) Which of the following statements correctly describe the influence of DELAYED NEUTRONS on the neutron life cycle? Delayed neutrons …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. increase the time required for PU239 to moderate the fission process.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z."
+      },
+      {
+        "answer": "b. decrease the time required for the neutron population to change between generations.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z."
+      },
+      {
+        "answer": "c. increase the time required for the neutron population to change between generations.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z."
+      },
+      {
+        "answer": "d. decrease the amount of reflection possible with a steel reflector.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z."
+      }
+    ]
+  },
+  {
+    "question": "A.011 [1.0 point, ¼ each] (11.0) Identify each isotope as being produced by the irradiation of air, irradiation of water, or is a fission product.",
+    "type": "matching",
+    "answers": [
+      {
+        "answer": "a. N16",
+        "correct": true,
+        "feedback": "Correct: Produced by irradiation of water. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      },
+      {
+        "answer": "b. Ar41",
+        "correct": true,
+        "feedback": "Correct: Produced by irradiation of air. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      },
+      {
+        "answer": "c. H3",
+        "correct": true,
+        "feedback": "Correct: Produced by irradiation of water. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      },
+      {
+        "answer": "d. Xe135",
+        "correct": true,
+        "feedback": "Correct: Produced as a fission product. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      }
+    ]
+  },
+  {
+    "question": "A.012 [1.0 point] (12.0) Delayed neutrons comprise approximately what percent of all neutrons produced in the reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.65%",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z."
+      },
+      {
+        "answer": "b. 1.3%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z."
+      },
+      {
+        "answer": "c. 6.5%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z."
+      },
+      {
+        "answer": "d. 13%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z."
+      }
+    ]
+  },
+  {
+    "question": "A.013 [1.0 point] (13) Which ONE of the following atoms will cause a neutron to lose the most energy in an elastic collision?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Uranium238",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reference 1, Volume 1, Module 2, Interaction of Radiation with Matter, p. 65."
+      },
+      {
+        "answer": "b. Carbon12",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reference 1, Volume 1, Module 2, Interaction of Radiation with Matter, p. 65."
+      },
+      {
+        "answer": "c. Hydrogen2",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reference 1, Volume 1, Module 2, Interaction of Radiation with Matter, p. 65."
+      },
+      {
+        "answer": "d. Hydrogen1",
+        "correct": true,
+        "feedback": "Correct. Reference: Reference 1, Volume 1, Module 2, Interaction of Radiation with Matter, p. 65."
+      }
+    ]
+  },
+  {
+    "question": "A.014 [1.0 point] (14) Which ONE of the following describes the MAJOR contributors to the production and depletion of Xenon respectively in the core shortly (less than an hour) after SHUTDOWN?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Radioactive decay of Iodine; Radioactive Decay",
+        "correct": true,
+        "feedback": "Correct. Reference: Reference 1, Volume 2, Module 3, Production and Removal of Xenon, p. 35."
+      },
+      {
+        "answer": "b. Radioactive decay of Iodine; Neutron Absorption",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reference 1, Volume 2, Module 3, Production and Removal of Xenon, p. 35."
+      },
+      {
+        "answer": "c. Directly from fission due to delayed neutrons; Radioactive Decay",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reference 1, Volume 2, Module 3, Production and Removal of Xenon, p. 35."
+      },
+      {
+        "answer": "d. Directly from fission due to delayed neutrons; Neutron Absorption",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reference 1, Volume 2, Module 3, Production and Removal of Xenon, p. 35."
+      }
+    ]
+  },
+  {
+    "question": "A.015 [1.0 point] (15) Which ONE of the following is the correct reason burnable poison is added to the core?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. To minimize the effects of a rod withdrawal accident.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reference 1, Volume 2, Module 3, Fixed Burnable Poisons, p. 30."
+      },
+      {
+        "answer": "b. To increase the power achievable for a given core size.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reference 1, Volume 2, Module 3, Fixed Burnable Poisons, p. 30."
+      },
+      {
+        "answer": "c. To allow addition of additional fuel to compensate for burnup.",
+        "correct": true,
+        "feedback": "Correct. Reference: Reference 1, Volume 2, Module 3, Fixed Burnable Poisons, p. 30."
+      },
+      {
+        "answer": "d. To decrease the effects of Xenon and Samarium on the core.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reference 1, Volume 2, Module 3, Fixed Burnable Poisons, p. 30."
+      }
+    ]
+  },
+  {
+    "question": "A.016 [1.0 point] (16) Reactor power is increasing by a factor of 10 every minute. The reactor period is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 65 seconds.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 4, Reactor Kinetics, page 17."
+      },
+      {
+        "answer": "b. 52 seconds.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 4, Reactor Kinetics, page 17."
+      },
+      {
+        "answer": "c. 26 seconds.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Module 4, Reactor Kinetics, page 17. Reactor Period = 26/Startup Rate."
+      },
+      {
+        "answer": "d. 13 seconds.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 4, Reactor Kinetics, page 17."
+      }
+    ]
+  },
+  {
+    "question": "A.017 [1.0 point] (17) A 1/M curve is being generated as fuel is loaded into the core. After some fuel elements have been loaded, the count rate existing at that time is taken to be the new initial count rate, Co. Additional elements are then loaded and the inverse count rate ratio continues to decrease. As a result of changing the initial count rate:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. criticality will occur with the same number of elements loaded as if there were no change in the initial count rate.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Module 4, Subcritical Multiplication, page 6."
+      },
+      {
+        "answer": "b. criticality will occur earlier (i.e., with fewer elements loaded).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 4, Subcritical Multiplication, page 6."
+      },
+      {
+        "answer": "c. criticality will occur later (i.e., with more elements loaded).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 4, Subcritical Multiplication, page 6."
+      },
+      {
+        "answer": "d. criticality will be completely unpredictable.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 4, Subcritical Multiplication, page 6."
+      }
+    ]
+  },
+  {
+    "question": "A.018 [1.0 point] (18) A reactor is operating at a constant power level of 250 kW. The fission rate of this reactor is approximately:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.78x10^12 fissions/sec.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 2, Reaction Rates, page 20."
+      },
+      {
+        "answer": "b. 1.56x10^14 fissions/sec.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 2, Reaction Rates, page 20."
+      },
+      {
+        "answer": "c. 0.78x10^16 fissions/sec.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Module 2, Reaction Rates, page 20. 250 kW = 1.562x10^18 Mev/sec. (1.562x10^18 Mev/sec)/(200 Mev/fission) = 0.78x10^16 fissions/sec."
+      },
+      {
+        "answer": "d. 3.90x10^18 fissions/sec.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 2, Reaction Rates, page 20."
+      }
+    ]
+  },
+  {
+    "question": "A.019 [1.0 point] (19.0) A reactor with an initial population of 1x10^8 neutrons is operating with Keff = 1.001. Considering only the increase in neutron population, how many neutrons (of the increase) will be prompt when the neutron population changes from the current generation to the next? Assume β = 0.007.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 700.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 2, Prompt & Delayed Neutrons, page 29."
+      },
+      {
+        "answer": "b. 7,000.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 2, Prompt & Delayed Neutrons, page 29."
+      },
+      {
+        "answer": "c. 99,300.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Module 2, Prompt & Delayed Neutrons, page 29. Increase = 1.001x10^8 - 1x10^8 = 1x10^5. Prompt neutron population = 0.993x1x10^5 = 99,300."
+      },
+      {
+        "answer": "d. 100,000.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 2, Prompt & Delayed Neutrons, page 29."
+      }
+    ]
+  },
+  {
+    "question": "A.020 [1.0 point] (20.0) Which ONE of the following reactor changes requires a control rod INSERTION to return reactor power to its initial level following the change?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Formation of N16 in the coolant.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC Question."
+      },
+      {
+        "answer": "b. Removal of an experiment with positive reactivity from the reactor.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC Question."
+      },
+      {
+        "answer": "c. Buildup of Xe135",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC Question."
+      },
+      {
+        "answer": "d. A fault in the automatic system resulting in a primary coolant temperature decrease.",
+        "correct": true,
+        "feedback": "Correct. Reference: Standard NRC Question."
+      }
+    ]
+  }
+]  
