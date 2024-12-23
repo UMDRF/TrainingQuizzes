@@ -1,0 +1,522 @@
+[
+  {
+    "question": "A.01 [1.0 point] Shutdown Margin is defined as:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The negative reactivity inserted by an increase in moderator temperature within the core when the reactor is brought from zero to full power.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, example 6.2.3 (a), pg. 6-4"
+      },
+      {
+        "answer": "b. Provides a measure of excess reactivity available to overcome fission product buildup, fuel burnup, and power defect.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, example 6.2.3 (a), pg. 6-4"
+      },
+      {
+        "answer": "c. The amount of negative reactivity that would be added to a core if the rods in a critical, cold, clean reactor were fully inserted.",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, example 6.2.3 (a), pg. 6-4"
+      },
+      {
+        "answer": "d. The amount of reactivity available above what is required to keep the reactor critical.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, example 6.2.3 (a), pg. 6-4"
+      }
+    ]
+  },
+  {
+    "question": "A.02 [1.0 point] A reactor scram has resulted in the instantaneous insertion of 0.005 ΔK/K of negative reactivity. Which ONE of the following is the stable negative reactor period resulting from the scram?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 25 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burn, example 4.5(a), pg. 4-13 and 4-16"
+      },
+      {
+        "answer": "b. 54 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burn, example 4.5(a), pg. 4-13 and 4-16"
+      },
+      {
+        "answer": "c. 80 seconds",
+        "correct": true,
+        "feedback": "Correct. REF: Burn, example 4.5(a), pg. 4-13 and 4-16"
+      },
+      {
+        "answer": "d. 125 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burn, example 4.5(a), pg. 4-13 and 4-16"
+      }
+    ]
+  },
+  {
+    "question": "A.03 [1.0 point] Which ONE of the following is a correct representation of a beta particle?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. e10",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook volume1, NP-01, pg. 24"
+      },
+      {
+        "answer": "b. e10−",
+        "correct": true,
+        "feedback": "Correct. REF: DOE Handbook volume1, NP-01, pg. 24"
+      },
+      {
+        "answer": "c. β42",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook volume1, NP-01, pg. 24"
+      },
+      {
+        "answer": "d. e01",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook volume1, NP-01, pg. 24"
+      }
+    ]
+  },
+  {
+    "question": "A.04 [1.0 point] The count rate is 100 cps. An experimenter inserts an experiment into the core, and the count rate decreases to 70 cps. Given the initial Keff of the reactor was 0.9, what is the worth of the experiment?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Δρ = - 0.56",
+        "correct": true,
+        "feedback": "Correct. REF: CR1 / CR2 = (1 – Keff2) / (1 – Keff1)  100 / 70 = (1 – Keff2) / (1 – 0.90) Therefore Keff2 = 0.86 Δρ = Keff2 – Keff1 / Keff2 * Keff1 Δρ = (0.86 – 0.90) / (0.86 * 0.90) Δρ = - 0.558"
+      },
+      {
+        "answer": "b. Δρ = + 0.56",
+        "correct": false,
+        "feedback": "Incorrect. REF: CR1 / CR2 = (1 – Keff2) / (1 – Keff1)  100 / 70 = (1 – Keff2) / (1 – 0.90) Therefore Keff2 = 0.86 Δρ = Keff2 – Keff1 / Keff2 * Keff1 Δρ = (0.86 – 0.90) / (0.86 * 0.90) Δρ = - 0.558"
+      },
+      {
+        "answer": "c. Δρ = - 0.03",
+        "correct": false,
+        "feedback": "Incorrect. REF: CR1 / CR2 = (1 – Keff2) / (1 – Keff1)  100 / 70 = (1 – Keff2) / (1 – 0.90) Therefore Keff2 = 0.86 Δρ = Keff2 – Keff1 / Keff2 * Keff1 Δρ = (0.86 – 0.90) / (0.86 * 0.90) Δρ = - 0.558"
+      },
+      {
+        "answer": "d. Δρ = + 0.03",
+        "correct": false,
+        "feedback": "Incorrect. REF: CR1 / CR2 = (1 – Keff2) / (1 – Keff1)  100 / 70 = (1 – Keff2) / (1 – 0.90) Therefore Keff2 = 0.86 Δρ = Keff2 – Keff1 / Keff2 * Keff1 Δρ = (0.86 – 0.90) / (0.86 * 0.90) Δρ = - 0.558"
+      }
+    ]
+  },
+  {
+    "question": "A.05 [1.0 point] Which ONE of the following is the MAJOR source of energy released during fission?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Kinetic energy of the fission neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.2.1, and Table 3.2, pg. 3-4 and 3-5"
+      },
+      {
+        "answer": "b. Kinetic energy of the fission fragments.",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Section 3.2.1, and Table 3.2, pg. 3-4 and 3-5"
+      },
+      {
+        "answer": "c. Decay of the fission fragments.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.2.1, and Table 3.2, pg. 3-4 and 3-5"
+      },
+      {
+        "answer": "d. Prompt gamma rays.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.2.1, and Table 3.2, pg. 3-4 and 3-5"
+      }
+    ]
+  },
+  {
+    "question": "A.06 [1.0 point] Most text books list β for a U235 fueled reactor as 0.0065 ΔK/K and βeff as being 0.0075 ΔK/K. Why is βeff larger than β?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Delayed neutrons are born at higher energies than prompt neutrons resulting in a greater worth for these neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.2.4, pg. 3-12"
+      },
+      {
+        "answer": "b. Delayed neutrons are born at lower energies than prompt neutrons resulting in a less loss due to leakage for these neutrons.",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Section 3.2.4, pg. 3-12"
+      },
+      {
+        "answer": "c. The fuel includes U238 which has a relatively large for fast fission.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.2.4, pg. 3-12"
+      },
+      {
+        "answer": "d. Some U238 in the core becomes Pu239 (by neutron absorption) which has a larger for fission.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.2.4, pg. 3-12"
+      }
+    ]
+  },
+  {
+    "question": "A.07 [1.0 point] As the moderator temperature increases, the resonance escape probability ____________.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Increases, since the moderator becomes less dense.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 2nd edition, pg. 372 Burns, Section 3.3.2, pg. 3-18"
+      },
+      {
+        "answer": "b. Decreases, since the time required for a neutron to reach thermal energy increases.",
+        "correct": true,
+        "feedback": "Correct. REF: Lamarsh, Introduction to Nuclear Engineering, 2nd edition, pg. 372 Burns, Section 3.3.2, pg. 3-18"
+      },
+      {
+        "answer": "c. Remains constant, since the effect of moderator temperature change is relatively small.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 2nd edition, pg. 372 Burns, Section 3.3.2, pg. 3-18"
+      },
+      {
+        "answer": "d. Increases, since the moderator-to-fuel ratio increases.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 2nd edition, pg. 372 Burns, Section 3.3.2, pg. 3-18"
+      }
+    ]
+  },
+  {
+    "question": "A.08 [1.0 point] Two minutes following shutdown, reactor power is at 10 kW and decreases with a constant reactor period. Which ONE of the following is the correct power for three minutes later?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.5 kW",
+        "correct": false,
+        "feedback": "Incorrect. REF: P=Poet/τ x =10 kW* e180/-80 x = 10 kW *0.105 = 1.05 kW"
+      },
+      {
+        "answer": "b. 1.1 kW",
+        "correct": true,
+        "feedback": "Correct. REF: P=Poet/τ x =10 kW* e180/-80 x = 10 kW *0.105 = 1.05 kW"
+      },
+      {
+        "answer": "c. 3.3 kW",
+        "correct": false,
+        "feedback": "Incorrect. REF: P=Poet/τ x =10 kW* e180/-80 x = 10 kW *0.105 = 1.05 kW"
+      },
+      {
+        "answer": "d. 6.7 kW",
+        "correct": false,
+        "feedback": "Incorrect. REF: P=Poet/τ x =10 kW* e180/-80 x = 10 kW *0.105 = 1.05 kW"
+      }
+    ]
+  },
+  {
+    "question": "A.09 [1.0 point] Which ONE of the following is the time period in which the maximum amount of Xenon-135 will be present in the core? Peak Xenon is reached ____________.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 7 to 10 hours after a startup to 100% power.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 8.8.3 (d), pg. 8-24"
+      },
+      {
+        "answer": "b. 7 to 10 hours after shutdown.",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Section 8.8.3 (d), pg. 8-24"
+      },
+      {
+        "answer": "c. 4 to 6 hours after a power increase from 50% to 100%.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 8.8.3 (d), pg. 8-24"
+      },
+      {
+        "answer": "d. 4 to 6 hours after a power decrease from 100% to 50%.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 8.8.3 (d), pg. 8-24"
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1.0 point] Which ONE defines an integral rod worth curve?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Conforms to an axial flux shape.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 7.3, pg. 7-5 to 7-7"
+      },
+      {
+        "answer": "b. Any point on the curve represents the amount of reactivity that one inch of rod motion would insert at that position in the core.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 7.3, pg. 7-5 to 7-7"
+      },
+      {
+        "answer": "c. Represents the cumulative area under the differential curve starting from the bottom of the core.",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Section 7.3, pg. 7-5 to 7-7"
+      },
+      {
+        "answer": "d. Reactivity is highest at the top of the core and lowest at bottom of the core.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 7.3, pg. 7-5 to 7-7"
+      }
+    ]
+  },
+  {
+    "question": "A.11 [1.0 point] During a fuel loading of the core, as the reactor approaches criticality, the value of 1/M:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Increases toward one",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Table 5.5, pg. 5-15"
+      },
+      {
+        "answer": "b. Decreases toward one",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Table 5.5, pg. 5-15"
+      },
+      {
+        "answer": "c. Increases toward infinity",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Table 5.5, pg. 5-15"
+      },
+      {
+        "answer": "d. Decreases toward zero",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Table 5.5, pg. 5-15"
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1.0 point] INELASTIC scattering is the process by which a neutron collides with a nucleus and:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Recoils with the same kinetic energy it had prior to the collision.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook volume1, NP-01, pg. 45"
+      },
+      {
+        "answer": "b. Recoils with a lower kinetic energy than it had prior to the collision, with the nucleus emitting a gamma ray.",
+        "correct": true,
+        "feedback": "Correct. REF: DOE Handbook volume1, NP-01, pg. 45"
+      },
+      {
+        "answer": "c. Is absorbed, with the nucleus emitting a gamma ray.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook volume1, NP-01, pg. 45"
+      },
+      {
+        "answer": "d. Recoils with a higher kinetic energy than it had prior to the collision, with the nucleus emitting a gamma ray.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook volume1, NP-01, pg. 45"
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1.0 point] Two critical reactors at low power are identical except that Reactor 1 has a beta fraction of 0.0072 and Reactor 2 has a beta fraction of 0.0060. An equal amount of positive reactivity is inserted into both reactors. Which ONE of the following will be the response of Reactor 2 compared to Reactor 1?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The resulting power level will be lower.",
+        "correct": false,
+        "feedback": "Incorrect. REF: T = (l*/ρ) + [(β - ρ )/ λeff ρ]"
+      },
+      {
+        "answer": "b. The resulting power level will be higher.",
+        "correct": false,
+        "feedback": "Incorrect. REF: T = (l*/ρ) + [(β - ρ )/ λeff ρ]"
+      },
+      {
+        "answer": "c. The resulting period will be longer.",
+        "correct": false,
+        "feedback": "Incorrect. REF: T = (l*/ρ) + [(β - ρ )/ λeff ρ]"
+      },
+      {
+        "answer": "d. The resulting period will be shorter.",
+        "correct": true,
+        "feedback": "Correct. REF: T = (l*/ρ) + [(β - ρ )/ λeff ρ]"
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1.0 point] Core Excess Reactivity changes with:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fuel Element Burnup",
+        "correct": true,
+        "feedback": "Correct. REF: Harrer, Nuclear Reactor Control Engineering, pg. 398-399 Burns, Section 6.1, pg. 6-1 and Example 6.2.1(a), pg. 6-2"
+      },
+      {
+        "answer": "b. Control Rod Height",
+        "correct": false,
+        "feedback": "Incorrect. REF: Harrer, Nuclear Reactor Control Engineering, pg. 398-399 Burns, Section 6.1, pg. 6-1 and Example 6.2.1(a), pg. 6-2"
+      },
+      {
+        "answer": "c. Neutron Energy Level",
+        "correct": false,
+        "feedback": "Incorrect. REF: Harrer, Nuclear Reactor Control Engineering, pg. 398-399 Burns, Section 6.1, pg. 6-1 and Example 6.2.1(a), pg. 6-2"
+      },
+      {
+        "answer": "d. Reactor Power Level",
+        "correct": false,
+        "feedback": "Incorrect. REF: Harrer, Nuclear Reactor Control Engineering, pg. 398-399 Burns, Section 6.1, pg. 6-1 and Example 6.2.1(a), pg. 6-2"
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1.0 point] The reactor is critical at 5 watts. Which ONE of the following correctly describes the reactor behavior when a reactivity worth of 0.50 % ΔK/K is IMMEDIATELY inserted to the reactor core?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Subcritical",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burn, Section 4.2 0.5 % delta-K/K =0.005 delta-K/K <0.007, therefore reactor is supercritical"
+      },
+      {
+        "answer": "b. Critical",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burn, Section 4.2 0.5 % delta-K/K =0.005 delta-K/K <0.007, therefore reactor is supercritical"
+      },
+      {
+        "answer": "c. Supercritical",
+        "correct": true,
+        "feedback": "Correct. REF: Burn, Section 4.2 0.5 % delta-K/K =0.005 delta-K/K <0.007, therefore reactor is supercritical"
+      },
+      {
+        "answer": "d. Delayed critical",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burn, Section 4.2 0.5 % delta-K/K =0.005 delta-K/K <0.007, therefore reactor is supercritical"
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1.0 point] By definition, an exactly critical reactor can be made prompt critical by adding positive reactivity equal to:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The shutdown margin",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 4.2, pg. 4-1 and Figure 4.1, pg. 4-2"
+      },
+      {
+        "answer": "b. The Kexc margin",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 4.2, pg. 4-1 and Figure 4.1, pg. 4-2"
+      },
+      {
+        "answer": "c. The βeff value",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Section 4.2, pg. 4-1 and Figure 4.1, pg. 4-2"
+      },
+      {
+        "answer": "d. 1.0 % ΔK/K",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 4.2, pg. 4-1 and Figure 4.1, pg. 4-2"
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1.0 point] Which ONE of the following is the correct reason that delayed neutrons enhance control of the reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. There are more delayed neutrons than prompt neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.3.7, pg. 3-31 and Problem 3.4.4, pg. 3-33"
+      },
+      {
+        "answer": "b. Delayed neutrons increase the average neutron generation time.",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Section 3.3.7, pg. 3-31 and Problem 3.4.4, pg. 3-33"
+      },
+      {
+        "answer": "c. Delayed neutrons take longer to reach thermal equilibrium.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.3.7, pg. 3-31 and Problem 3.4.4, pg. 3-33"
+      },
+      {
+        "answer": "d. Delayed neutrons are born at higher energies than prompt neutrons and therefore have a greater effect.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.3.7, pg. 3-31 and Problem 3.4.4, pg. 3-33"
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1.0 point] Which ONE of the following describes the production of fission neutrons resulting from thermal neutrons being absorbed in the fuel?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fast Non-Leakage Probability (Lf)",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook volume 2, NP-03, pg. 13"
+      },
+      {
+        "answer": "b. Resonance Escape Probability (p)",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook volume 2, NP-03, pg. 13"
+      },
+      {
+        "answer": "c. Thermal Utilization Factor (f)",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook volume 2, NP-03, pg. 13"
+      },
+      {
+        "answer": "d. Reproduction Factor (η)",
+        "correct": true,
+        "feedback": "Correct. REF: DOE Handbook volume 2, NP-03, pg. 13"
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1.0 point] A subcritical reactor is being started up. A control blade is raised in four equal steps. Which ONE of the following statement most accurately describes the expected reactor response?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Power increases by the same amount for each withdrawal.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 5.3, pg. 5-7"
+      },
+      {
+        "answer": "b. Each withdrawal will add the same amount of reactivity.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 5.3, pg. 5-7"
+      },
+      {
+        "answer": "c. The time for power to stabilize after each successive withdrawal increases.",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Section 5.3, pg. 5-7"
+      },
+      {
+        "answer": "d. A lower critical rod height is attained by decreasing the time intervals between withdrawals.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 5.3, pg. 5-7"
+      }
+    ]
+  },
+  {
+    "question": "A.20 [1.0 point] Which ONE of the following describes the term prompt jump?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. A rapid rise in power level due to an increase in the production of prompt neutrons.",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Section 4.7, pg. 4-21"
+      },
+      {
+        "answer": "b. A reactor which has attained criticality on prompt neutrons alone.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 4.7, pg. 4-21"
+      },
+      {
+        "answer": "c. A reactor which is critical using both prompt and delayed neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 4.7, pg. 4-21"
+      },
+      {
+        "answer": "d. A negative reactivity insertion which is less than keff.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 4.7, pg. 4-21"
+      }
+    ]
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "question":" A.01 Which ONE is true about “subcritical multiplication”? As the reactor approaches criticality, the parameter",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. keff approaches zero.",
+        "correct": false,
+        "feedback": "REF:Burns, Table 5.5, pg. 5-15"
+      },
+      {
+        "answer": "b. 1/M approaches zero.",
+        "correct": true,
+        "feedback": "REF:Burns, Table 5.5, pg. 5-15"
+      },
+      {
+        "answer": "c. M approaches one.",
+        "correct": false,
+        "feedback": "REF:Burns, Table 5.5, pg. 5-15"
+      },
+      {
+        "answer": "d. ρ approaches infinity.",
+        "correct": false,
+        "feedback": "REF:Burns, Table 5.5, pg. 5-15"
+      }
+    ]
+  },
+  {
+    "question":" A.02 Which ONE of the following is the approximated time for xenon-135 to decay away to provide a clean, xenon free core, assuming the reactor ran for 1 week for 24 hours? _______ after shutdown.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 8 hours",
+        "correct": false,
+        "feedback": "REF:Burns, Section 8.4, pg. 8-10, Figure 8.3, pg. 8-11"
+      },
+      {
+        "answer": "b. 18 hours",
+        "correct": false,
+        "feedback": "REF:Burns, Section 8.4, pg. 8-10, Figure 8.3, pg. 8-11"
+      },
+      {
+        "answer": "c. 24 hours",
+        "correct": false,
+        "feedback": "REF:Burns, Section 8.4, pg. 8-10, Figure 8.3, pg. 8-11"
+      },
+      {
+        "answer": "d. 72 hours",
+        "correct": true,
+        "feedback": "REF:Burns, Section 8.4, pg. 8-10, Figure 8.3, pg. 8-11"
+      }
+    ]
+  },
+  {
+    "question":" A.03 The reactor is shutdown with a keff of 0.952. Initial power is 250 mW. The operator withdraws a control rod thereby adding 110 cents of reactivity. What would be the new power level? Given β=0.007.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 127 mW",
+        "correct": false,
+        "feedback": "REF: Given: Δk/k(1) = (keff1 -1)/keff1 = (0.952 -1) / 0.952 = -0.0504       Δk/k safety blade = $ * β = ($1.1) (0.0070) = $0.0077\nΔk/k (2) =   Δk/k (1) +  Δk/k safety blade = - 0.0504 + 0.0077 = - 0.0427 keff2= 1 / (1 -   Δk/k (2)) = 1 / (1 - (- 0.0427)) = 0.959 (1 – keff1)(CR1) = (1 – keff2)(CR2) = (1 - 0.952)(250mW) = (1 - 0.959) (CR2) CR2 = 293 mW"
+      },
+      {
+        "answer": "b. 214 mW",
+        "correct": false,
+        "feedback": "REF: Given: Δk/k(1) = (keff1 -1)/keff1 = (0.952 -1) / 0.952 = -0.0504       Δk/k safety blade = $ * β = ($1.1) (0.0070) = $0.0077\nΔk/k (2) =   Δk/k (1) +  Δk/k safety blade = - 0.0504 + 0.0077 = - 0.0427 keff2= 1 / (1 -   Δk/k (2)) = 1 / (1 - (- 0.0427)) = 0.959 (1 – keff1)(CR1) = (1 – keff2)(CR2) = (1 - 0.952)(250mW) = (1 - 0.959) (CR2) CR2 = 293 mW"
+      },
+      {
+        "answer": "c. 293 mW",
+        "correct": true,
+        "feedback": "REF: Given: Δk/k(1) = (keff1 -1)/keff1 = (0.952 -1) / 0.952 = -0.0504       Δk/k safety blade = $ * β = ($1.1) (0.0070) = $0.0077\nΔk/k (2) =   Δk/k (1) +  Δk/k safety blade = - 0.0504 + 0.0077 = - 0.0427 keff2= 1 / (1 -   Δk/k (2)) = 1 / (1 - (- 0.0427)) = 0.959 (1 – keff1)(CR1) = (1 – keff2)(CR2) = (1 - 0.952)(250mW) = (1 - 0.959) (CR2) CR2 = 293 mW"
+      },
+      {
+        "answer": "d. 525 mW",
+        "correct": false,
+        "feedback": "REF: Given: Δk/k(1) = (keff1 -1)/keff1 = (0.952 -1) / 0.952 = -0.0504       Δk/k safety blade = $ * β = ($1.1) (0.0070) = $0.0077\nΔk/k (2) =   Δk/k (1) +  Δk/k safety blade = - 0.0504 + 0.0077 = - 0.0427 keff2= 1 / (1 -   Δk/k (2)) = 1 / (1 - (- 0.0427)) = 0.959 (1 – keff1)(CR1) = (1 – keff2)(CR2) = (1 - 0.952)(250mW) = (1 - 0.959) (CR2) CR2 = 293 mW"
+      }
+    ]
+  },
+  {
+    "question":" A.04 Which ONE is true about \"excess reactivity\"?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Ensures that the reactor can be shut down from any condition of operation",
+        "correct": false,
+        "feedback": "REF:TS Section 3.1.4, pg. 15 (Answer for a and b is shutdown margin)    DOE Handbook part 2, module 3, p. 50 (Answer for c is control rod worth)"
+      },
+      {
+        "answer": "b. Ensures that the fuel temperature safety limit will not be exceeded",
+        "correct": false,
+        "feedback": "REF:TS Section 3.1.4, pg. 15 (Answer for a and b is shutdown margin)    DOE Handbook part 2, module 3, p. 50 (Answer for c is control rod worth)"
+      },
+      {
+        "answer": "c. Is the change in reactivity caused by control rod motion",
+        "correct": false,
+        "feedback": "REF:TS Section 3.1.4, pg. 15 (Answer for a and b is shutdown margin)    DOE Handbook part 2, module 3, p. 50 (Answer for c is control rod worth)"
+      },
+      {
+        "answer": "d. Is the amount of reactivity in excess of the amount of reactivity needed to make the reactor\ncritical",
+        "correct": true,
+        "feedback": "REF:TS Section 3.1.4, pg. 15 (Answer for a and b is shutdown margin)    DOE Handbook part 2, module 3, p. 50 (Answer for c is control rod worth)"
+      }
+    ]
+  },
+  {
+    "question":" A.05 What is the kinetic energy range of a thermal neutron?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. > 1 MeV",
+        "correct": false,
+        "feedback": "REF: DOE Fundamentals Handbook, Volume 1, Module 2, Neutron Moderation, pg. 23"
+      },
+      {
+        "answer": "b. 100 KeV – 1 MeV     ",
+        "correct": false,
+        "feedback": "REF: DOE Fundamentals Handbook, Volume 1, Module 2, Neutron Moderation, pg. 23"
+      },
+      {
+        "answer": "c. 1 eV – 100 KeV",
+        "correct": false,
+        "feedback": "REF: DOE Fundamentals Handbook, Volume 1, Module 2, Neutron Moderation, pg. 23"
+      },
+      {
+        "answer": "d. < 1 eV",
+        "correct": true,
+        "feedback": "REF: DOE Fundamentals Handbook, Volume 1, Module 2, Neutron Moderation, pg. 23"
+      }
+    ]
+  },
+  {
+    "question":" A.06 The ideal moderator has ___________ atomic mass for large fractional energy loss per collision; ___________ neutron scattering cross section, so the distance between collisions is small; and a ___________ absorption cross section so that the thermal utilization of the neutrons is dependent primarily on the characteristics of the fuel.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Low, low, high",
+        "correct": false,
+        "feedback": "REF:Reed Training Manual (September 2009), Section 7.4, pg. 113"
+      },
+      {
+        "answer": "b. Low, high, low",
+        "correct": true,
+        "feedback": "REF:Reed Training Manual (September 2009), Section 7.4, pg. 113"
+      },
+      {
+        "answer": "c. High, low, high",
+        "correct": false,
+        "feedback": "REF:Reed Training Manual (September 2009), Section 7.4, pg. 113"
+      },
+      {
+        "answer": "d. High, high, low",
+        "correct": false,
+        "feedback": "REF:Reed Training Manual (September 2009), Section 7.4, pg. 113"
+      }
+    ]
+  },
+  {
+    "question":" A.07 Which ONE is true about “reflectors”?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Produces neutrons",
+        "correct": false,
+        "feedback": "REF:  Reed Training Manual (September 2009), pg. 116"
+      },
+      {
+        "answer": "b. Have a high neutron absorption cross section",
+        "correct": false,
+        "feedback": "REF:  Reed Training Manual (September 2009), pg. 116"
+      },
+      {
+        "answer": "c. Limit the chain reaction by absorbing neutrons",
+        "correct": false,
+        "feedback": "REF:  Reed Training Manual (September 2009), pg. 116"
+      },
+      {
+        "answer": "d. Flatten the neutron flux profile of a reactor core",
+        "correct": true,
+        "feedback": "REF:  Reed Training Manual (September 2009), pg. 116"
+      }
+    ]
+  },
+  {
+    "question":" A.08 The term “macroscopic cross section” is defined as:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The average distance travelled by a neutron between interactions in a material.",
+        "correct": false,
+        "feedback": "REF: Burns, Section 2.5, pg. 2-36 to 2-47"
+      },
+      {
+        "answer": "b. An indication of energy loss per collision.",
+        "correct": false,
+        "feedback": "REF: Burns, Section 2.5, pg. 2-36 to 2-47"
+      },
+      {
+        "answer": "c. The probability of neutron interaction per centimeter of travel in a material.",
+        "correct": true,
+        "feedback": "REF: Burns, Section 2.5, pg. 2-36 to 2-47"
+      },
+      {
+        "answer": "d. The effective cross sectional area of a single nucleus presented to an oncoming neutron.",
+        "correct": false,
+        "feedback": "REF: Burns, Section 2.5, pg. 2-36 to 2-47"
+      }
+    ]
+  },
+  {
+    "question":" A.09 The reactor is operating at a constant power of 300kW. The reactor is scrammed by the sudden insertion of control rods worth 7% Δk/k in reactivity. What is the power (prompt drop) immediately after scram?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 100 kW",
+        "correct": false,
+        "feedback": "REF: Given P0 = 300 kW, then P1 =  = . .. . 300 = 29.18 kW"
+      },
+      {
+        "answer": "b. 60 kW",
+        "correct": false,
+        "feedback": "REF: Given P0 = 300 kW, then P1 =  = . .. . 300 = 29.18 kW"
+      },
+      {
+        "answer": "c. 30 kW",
+        "correct": true,
+        "feedback": "REF: Given P0 = 300 kW, then P1 =  = . .. . 300 = 29.18 kW"
+      },
+      {
+        "answer": "d. 10 kW",
+        "correct": false,
+        "feedback": "REF: Given P0 = 300 kW, then P1 =  = . .. . 300 = 29.18 kW"
+      }
+    ]
+  },
+  {
+    "question":" A.10 Which one of the following is the MAJOR source of energy released during fission?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Kinetic energy of the fission neutrons.",
+        "correct": false,
+        "feedback": "REF: Burns, Section 3.2.1, and Table 3.2, pg. 3-4 and 3-5"
+      },
+      {
+        "answer": "b. Kinetic energy of the fission fragments.",
+        "correct": true,
+        "feedback": "REF: Burns, Section 3.2.1, and Table 3.2, pg. 3-4 and 3-5"
+      },
+      {
+        "answer": "c. Decay of the fission fragments.",
+        "correct": false,
+        "feedback": "REF: Burns, Section 3.2.1, and Table 3.2, pg. 3-4 and 3-5"
+      },
+      {
+        "answer": "d. Prompt gamma rays.",
+        "correct": false,
+        "feedback": "REF: Burns, Section 3.2.1, and Table 3.2, pg. 3-4 and 3-5"
+      }
+    ]
+  },
+  {
+    "question":" A.11 You start with a cold critical reactor and you insert a control rod to change the keff=0.994.  How much reactivity was inserted by the control rods in units of cents? Given β=0.007.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. -86.2 ¢",
+        "correct": true,
+        "feedback": "REF:Given keff=1, then . . 0.006 ∆\n∆ $ ∆ ∆ . ∆. $0.862\n∆ ¢ ∆ $ 100 $0.862 100 86.2¢"
+      },
+      {
+        "answer": "b. -60.4 ¢",
+        "correct": false,
+        "feedback": "REF:Given keff=1, then . . 0.006 ∆\n∆ $ ∆ ∆ . ∆. $0.862\n∆ ¢ ∆ $ 100 $0.862 100 86.2¢"
+      },
+      {
+        "answer": "c. -0.862 ¢",
+        "correct": false,
+        "feedback": "REF:Given keff=1, then . . 0.006 ∆\n∆ $ ∆ ∆ . ∆. $0.862\n∆ ¢ ∆ $ 100 $0.862 100 86.2¢"
+      },
+      {
+        "answer": "d. -0.604 ¢",
+        "correct": false,
+        "feedback": "REF:Given keff=1, then . . 0.006 ∆\n∆ $ ∆ ∆ . ∆. $0.862\n∆ ¢ ∆ $ 100 $0.862 100 86.2¢"
+      }
+    ]
+  },
+  {
+    "question":" A.12 Which ONE of the following factors is not affected by the amount of moderator in the reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Thermal non-leakage probability.",
+        "correct": false,
+        "feedback": "REF: Reed Training Manual (September 2009), Section 10.5, pg. 167. The fuel utilization\nfactor (also called the reproduction factor) is not affected by the moderator since it is purely a function of the nuclear characteristics of 235U."
+      },
+      {
+        "answer": "b. Resonance escape probability.",
+        "correct": false,
+        "feedback": "REF: Reed Training Manual (September 2009), Section 10.5, pg. 167. The fuel utilization\nfactor (also called the reproduction factor) is not affected by the moderator since it is purely a function of the nuclear characteristics of 235U."
+      },
+      {
+        "answer": "c. Thermal utilization factor.",
+        "correct": false,
+        "feedback": "REF: Reed Training Manual (September 2009), Section 10.5, pg. 167. The fuel utilization\nfactor (also called the reproduction factor) is not affected by the moderator since it is purely a function of the nuclear characteristics of 235U."
+      },
+      {
+        "answer": "d. Reproduction factor.",
+        "correct": true,
+        "feedback": "REF: Reed Training Manual (September 2009), Section 10.5, pg. 167. The fuel utilization\nfactor (also called the reproduction factor) is not affected by the moderator since it is purely a function of the nuclear characteristics of 235U."
+      }
+    ]
+  },
+  {
+    "question":" A.13 You start with 1010 atoms of 60Co (t1/2 = 1,925.1 days). How many years will it take for the number of atoms to decay to 5 x 108 atoms?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 4.32 years",
+        "correct": false,
+        "feedback": "REF:N(t)=N0e\n-λt → N(t)/N0=e-λt → ln(N(t)/N0)=-λt     λ = ln(2)/t1/2\n.  / / \nt=22.9 years"
+      },
+      {
+        "answer": "b. 11.5 years",
+        "correct": false,
+        "feedback": "REF:N(t)=N0e\n-λt → N(t)/N0=e-λt → ln(N(t)/N0)=-λt     λ = ln(2)/t1/2\n.  / / \nt=22.9 years"
+      },
+      {
+        "answer": "c. 22.9 years",
+        "correct": true,
+        "feedback": "REF:N(t)=N0e\n-λt → N(t)/N0=e-λt → ln(N(t)/N0)=-λt     λ = ln(2)/t1/2\n.  / / \nt=22.9 years"
+      },
+      {
+        "answer": "d. 34.6 years",
+        "correct": false,
+        "feedback": "REF:N(t)=N0e\n-λt → N(t)/N0=e-λt → ln(N(t)/N0)=-λt     λ = ln(2)/t1/2\n.  / / \nt=22.9 years"
+      }
+    ]
+  },
+  {
+    "question":" A.14 Reactor period is defined as:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The time required for a reactor to change by a factor of e",
+        "correct": true,
+        "feedback": "REF:DOE Handbook part 2, module 4, pg. 21"
+      },
+      {
+        "answer": "b. The time required for the reactor power to double",
+        "correct": false,
+        "feedback": "REF:DOE Handbook part 2, module 4, pg. 21"
+      },
+      {
+        "answer": "c. The number of factors of ten that reactor power changes in one minute",
+        "correct": false,
+        "feedback": "REF:DOE Handbook part 2, module 4, pg. 21"
+      },
+      {
+        "answer": "d. The fraction of all neutrons that are born as delayed neutrons",
+        "correct": false,
+        "feedback": "REF:DOE Handbook part 2, module 4, pg. 21"
+      }
+    ]
+  },
+  {
+    "question":" A.15 Which ONE of the following has the lowest thermal neutron cross section?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Cd-113",
+        "correct": false,
+        "feedback": "REF:Burns, Table 2.5, pg. 2-59. Also, Table 8.1, pg. 8-2"
+      },
+      {
+        "answer": "b. Xe-135",
+        "correct": false,
+        "feedback": "REF:Burns, Table 2.5, pg. 2-59. Also, Table 8.1, pg. 8-2"
+      },
+      {
+        "answer": "c. Sm-149",
+        "correct": false,
+        "feedback": "REF:Burns, Table 2.5, pg. 2-59. Also, Table 8.1, pg. 8-2"
+      },
+      {
+        "answer": "d. U-235",
+        "correct": true,
+        "feedback": "REF:Burns, Table 2.5, pg. 2-59. Also, Table 8.1, pg. 8-2"
+      }
+    ]
+  },
+  {
+    "question":" A.16 Which ONE is true about the four factor formula?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Neutron leakages can be reduced by increasing the size of the core.",
+        "correct": false,
+        "feedback": "REF:Reed Training Manual (September 2009), equation 8.13, pg. 125"
+      },
+      {
+        "answer": "b. Neutron leakages can be reduced by using a reflector.",
+        "correct": false,
+        "feedback": "REF:Reed Training Manual (September 2009), equation 8.13, pg. 125"
+      },
+      {
+        "answer": "c. Neutron leakages can be reduced by increasing moderator temperature.",
+        "correct": false,
+        "feedback": "REF:Reed Training Manual (September 2009), equation 8.13, pg. 125"
+      },
+      {
+        "answer": "d. There is no leakage term. The reactor is considered to be infinite in size.",
+        "correct": true,
+        "feedback": "REF:Reed Training Manual (September 2009), equation 8.13, pg. 125"
+      }
+    ]
+  },
+  {
+    "question":" A.17 Which ONE defines an integral rod worth curve?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Conforms to an axial flux shape.",
+        "correct": false,
+        "feedback": "REF:Burn, Section 7.3, pg. 7-5 to 7-7"
+      },
+      {
+        "answer": "b. Represents the cumulative area under the differential curve starting from the bottom of the\ncore.",
+        "correct": true,
+        "feedback": "REF:Burn, Section 7.3, pg. 7-5 to 7-7"
+      },
+      {
+        "answer": "c. Any point on the curve represents the amount of reactivity that one inch of rod motion would insert at that position in the core.",
+        "correct": false,
+        "feedback": "REF:Burn, Section 7.3, pg. 7-5 to 7-7"
+      },
+      {
+        "answer": "d. Reactivity is highest at the top of the core and lowest at bottom of the core.",
+        "correct": false,
+        "feedback": "REF:Burn, Section 7.3, pg. 7-5 to 7-7"
+      }
+    ]
+  },
+  {
+    "question":" A.18 Which ONE of the following describes the term prompt jump?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. A rapid rise in power level due to an increase in the production of prompt neutrons.",
+        "correct": true,
+        "feedback": "REF:Burns, Section 4.7, pg. 4-21"
+      },
+      {
+        "answer": "b. A reactor which has attained criticality on prompt neutrons alone.",
+        "correct": false,
+        "feedback": "REF:Burns, Section 4.7, pg. 4-21"
+      },
+      {
+        "answer": "c. A reactor which is critical using both prompt and delayed neutrons.",
+        "correct": false,
+        "feedback": "REF:Burns, Section 4.7, pg. 4-21"
+      },
+      {
+        "answer": "d. A negative reactivity insertion which is less than keff.",
+        "correct": false,
+        "feedback": "REF:Burns, Section 4.7, pg. 4-21"
+      }
+    ]
+  },
+  {
+    "question":" A.19 Xenon-135 is formed directly by decay of ___________.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Iodine-135",
+        "correct": true,
+        "feedback": "REF:Burns, Figure 8.1, pg. 8-6"
+      },
+      {
+        "answer": "b. Tellurium-135",
+        "correct": false,
+        "feedback": "REF:Burns, Figure 8.1, pg. 8-6"
+      },
+      {
+        "answer": "c. Cesium -135",
+        "correct": false,
+        "feedback": "REF:Burns, Figure 8.1, pg. 8-6"
+      },
+      {
+        "answer": "d. Barium-135",
+        "correct": false,
+        "feedback": "REF:Burns, Figure 8.1, pg. 8-6"
+      }
+    ]
+  },
+  {
+    "question":" A.20 The term “delayed neutron” is defined as:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. A neutron born directly from fission.",
+        "correct": false,
+        "feedback": "REF:Burns, Section 3.2.2, pg. 3-7"
+      },
+      {
+        "answer": "b. A neutron in equilibrium with its surroundings.",
+        "correct": false,
+        "feedback": "REF:Burns, Section 3.2.2, pg. 3-7"
+      },
+      {
+        "answer": "c. A neutron born due to decay of a fission product.",
+        "correct": true,
+        "feedback": "REF:Burns, Section 3.2.2, pg. 3-7"
+      },
+      {
+        "answer": "d. A neutron at an energy level greater than its surroundings.",
+        "correct": false,
+        "feedback": "REF:Burns, Section 3.2.2, pg. 3-7"
+      }
+    ]
+  }
+]

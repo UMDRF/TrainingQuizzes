@@ -1,0 +1,470 @@
+[
+  {
+    "question": "A.001 [1.0 point] (1.0) After a week of full power operation, Xenon will reach its peak following a shutdown in approximately:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 6 hours",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. 12 hours",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. 24 hours",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. 48 hours",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.002 [1.0 point] (2.0) Which ONE of the following is the MAIN reason for operating with thermal neutrons instead of fast neutrons?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Increased neutron efficiency since thermal neutrons are less likely to leak out of the core than fast neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39"
+      },
+      {
+        "answer": "b. Neutron absorption in non fuel material increases exponentially as neutron energy increases.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39"
+      },
+      {
+        "answer": "c. The fission cross section of the fuel is much higher for thermal energy neutrons than fast neutrons.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39"
+      },
+      {
+        "answer": "d. Moderator temperature coefficient becomes positive as neutron energy increases.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39"
+      }
+    ]
+  },
+  {
+    "question": "A.003 [1.0 point] (3.0) A thermal neutron is a neutron which:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. is produced as a result of thermal fission.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, Pages 2-36, 2-45."
+      },
+      {
+        "answer": "b. possesses thermal rather than kinetic energy.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, Pages 2-36, 2-45."
+      },
+      {
+        "answer": "c. has been produced several seconds after its initiating fission occurred.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, Pages 2-36, 2-45."
+      },
+      {
+        "answer": "d. experiences no net change in its energy after several collisions with atoms of the diffusing medium.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, Introduction to Nuclear Reactor Operations, Pages 2-36, 2-45."
+      }
+    ]
+  },
+  {
+    "question": "A.004 [1.0 point] (4.0) Which ONE of the following factors in the six-factor formula is the simplest to vary by the operator?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. reproduction factor",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, Page 3-19."
+      },
+      {
+        "answer": "b. thermal utilization factor",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, Introduction to Nuclear Reactor Operations, Page 3-19."
+      },
+      {
+        "answer": "c. thermal non-leakage factor",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, Page 3-19."
+      },
+      {
+        "answer": "d. resonance escape probability",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, Page 3-19."
+      }
+    ]
+  },
+  {
+    "question": "A.005 [1.0 point] (5.0) About two minutes following a reactor scram, period has stabilized, and is decreasing at a CONSTANT rate. If reactor power is 10-5% full power what will the power be in three minutes?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5 × 10-6 % full power",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = P0 e-T/τ = 10-5 × e(-180sec/80sec) = 10-5 × e-2.25 = 0.1054 × 10-5 = 1.054 × 10-6"
+      },
+      {
+        "answer": "b. 2 × 10-6 % full power",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = P0 e-T/τ = 10-5 × e(-180sec/80sec) = 10-5 × e-2.25 = 0.1054 × 10-5 = 1.054 × 10-6"
+      },
+      {
+        "answer": "c. 10-6 % full power",
+        "correct": true,
+        "feedback": "Correct. Reference: P = P0 e-T/τ = 10-5 × e(-180sec/80sec) = 10-5 × e-2.25 = 0.1054 × 10-5 = 1.054 × 10-6"
+      },
+      {
+        "answer": "d. 5 × 10-7 % full power",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = P0 e-T/τ = 10-5 × e(-180sec/80sec) = 10-5 × e-2.25 = 0.1054 × 10-5 = 1.054 × 10-6"
+      }
+    ]
+  },
+  {
+    "question": "A.006 [1.0 point] (6.0) An experiment to be placed in the central thimble has been wrapped in cadmium. Which one of the following types of radiation will be most effectively blocked by the cadmium wrapping?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Thermal neutrons",
+        "correct": true,
+        "feedback": "Correct. Reference: NRC Standard Question."
+      },
+      {
+        "answer": "b. Fast neutrons",
+        "correct": false,
+        "feedback": "Incorrect. Reference: NRC Standard Question."
+      },
+      {
+        "answer": "c. Gamma rays",
+        "correct": false,
+        "feedback": "Incorrect. Reference: NRC Standard Question."
+      },
+      {
+        "answer": "d. X-rays",
+        "correct": false,
+        "feedback": "Incorrect. Reference: NRC Standard Question."
+      }
+    ]
+  },
+  {
+    "question": "A.007 [1.0 point] (7.0) Which ONE of the following is the MOST affected factor in the six factor formula due to fuel burnup?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fast fission factor",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2.2, page 3-18."
+      },
+      {
+        "answer": "b. Reproduction factor",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2.2, page 3-18."
+      },
+      {
+        "answer": "c. Thermal utilization factor",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2.2, page 3-18."
+      },
+      {
+        "answer": "d. Resonance escape probability",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2.2, page 3-18."
+      }
+    ]
+  },
+  {
+    "question": "A.008 [1.0 point] (8.0) The injection of a sample results in a 50 millisecond period. If the scram setpoint is 300 KILOWATTS and the scram delay time is 0.1 seconds, which ONE of the following is the peak power of the reactor at shutdown?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 250 kW",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, P = P0 et/τ, P = 300 kilowatts × e0.1/0.05 = 300 × e2 = 2216.7 kilowatts"
+      },
+      {
+        "answer": "b. 600 kW",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, P = P0 et/τ, P = 300 kilowatts × e0.1/0.05 = 300 × e2 = 2216.7 kilowatts"
+      },
+      {
+        "answer": "c. 900 kW",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, P = P0 et/τ, P = 300 kilowatts × e0.1/0.05 = 300 × e2 = 2216.7 kilowatts"
+      },
+      {
+        "answer": "d. 2200 kW",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, P = P0 et/τ, P = 300 kilowatts × e0.1/0.05 = 300 × e2 = 2216.7 kilowatts"
+      }
+    ]
+  },
+  {
+    "question": "A.009 [1.0 point] (9.0) In a just critical reactor, adding one dollar worth of reactivity will cause:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. A sudden drop in neutron flux.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Introduction to Nuclear Operation, Reed Burn, 1988, Sec 4.2, page 4-4"
+      },
+      {
+        "answer": "b. The reactor period to be equal to (β-ρ)/λρ.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Introduction to Nuclear Operation, Reed Burn, 1988, Sec 4.2, page 4-4"
+      },
+      {
+        "answer": "c. All prompt neutron term to become unimportant.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Introduction to Nuclear Operation, Reed Burn, 1988, Sec 4.2, page 4-4"
+      },
+      {
+        "answer": "d. The resultant period to be a function of the prompt neutron lifetime.",
+        "correct": true,
+        "feedback": "Correct. Reference: Introduction to Nuclear Operation, Reed Burn, 1988, Sec 4.2, page 4-4"
+      }
+    ]
+  },
+  {
+    "question": "A.010 [1.0 point] (10.0) The RESONANCE ESCAPE PROBABILITY is defined as a ratio of:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the number of thermal neutrons absorbed in fuel over the number of thermal neutrons absorbed in fuel and core materials.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.1, page 3-16."
+      },
+      {
+        "answer": "b. the number of fast neutrons produced by fission in a generation over the number of total neutrons produced by fission in the previous generation.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.1, page 3-16."
+      },
+      {
+        "answer": "c. the number of fast neutrons produced by U-238 over the number of thermal neutrons absorbed in fuel.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.1, page 3-16."
+      },
+      {
+        "answer": "d. the number of neutrons that reach thermal energy over the number of fast neutrons that start to slow down.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.1, page 3-16."
+      }
+    ]
+  },
+  {
+    "question": "A.011 [1.0 point] (11.0) Which ONE of the following statements is the definition of REACTIVITY?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. A measure of the core's fuel depletion.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-20."
+      },
+      {
+        "answer": "b. Equal to 1.00 ΔK/K when the reactor is critical.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-20."
+      },
+      {
+        "answer": "c. The factional change in neutron population between generations.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-20."
+      },
+      {
+        "answer": "d. The number of neutrons produced by fission in a generation over the number of neutrons produced by fission in the previous generation.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-20."
+      }
+    ]
+  },
+  {
+    "question": "A.012 [1.0 point] (12.0) A reactor has an effective delayed fraction (βeff ) of 0.0065. If a control rod withdrawal in this reactor increases the effective multiplication (keff ) from 0.998 to 1.005, the reactor is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. subcritical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 4.2, Page 4-1. Note: For prompt critical, keff has to be ≥ 1.0065"
+      },
+      {
+        "answer": "b. exactly critical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 4.2, Page 4-1. Note: For prompt critical, keff has to be ≥ 1.0065"
+      },
+      {
+        "answer": "c. supercritical",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 4.2, Page 4-1. Note: For prompt critical, keff has to be ≥ 1.0065"
+      },
+      {
+        "answer": "d. prompt critical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 4.2, Page 4-1. Note: For prompt critical, keff has to be ≥ 1.0065"
+      }
+    ]
+  },
+  {
+    "question": "A.013 [1.0 point] (13.0) A reactor is SHUTDOWN by 8.6 % Δk/k. When a control rod with a worth of -3.1 % Δk/k is removed from the core, a rate of 1000 counts per second (cps) is measured. What was the previous count rate (cps)? Given βeff = 0.0078.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 660.",
+        "correct": true,
+        "feedback": "Correct. Reference: ρ1=-0.086; Keff1=1/1- ρ1 Keff1 =1/(1-(-.086)) ––>Keff1= 0.9208, Remove ─3.1 % Δk/k from the core, means adding 3.1 % Δk/k to the core when removing the rod; new worth = -0.086 + 0.031= -0.055, Keff2 = 1/1+0.055; ––>0.948 Count1*(1-Keff1) = Count2*(1-Keff2) Count1*(1-0.9208) = Count2*(1-0.948) Count1*(1-0.9208) = 1000(1-0.948);  Count 1 = 657 cps"
+      },
+      {
+        "answer": "b. 750.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: ρ1=-0.086; Keff1=1/1- ρ1 Keff1 =1/(1-(-.086)) ––>Keff1= 0.9208, Remove ─3.1 % Δk/k from the core, means adding 3.1 % Δk/k to the core when removing the rod; new worth = -0.086 + 0.031= -0.055, Keff2 = 1/1+0.055; ––>0.948 Count1*(1-Keff1) = Count2*(1-Keff2) Count1*(1-0.9208) = Count2*(1-0.948) Count1*(1-0.9208) = 1000(1-0.948);  Count 1 = 657 cps"
+      },
+      {
+        "answer": "c. 850.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: ρ1=-0.086; Keff1=1/1- ρ1 Keff1 =1/(1-(-.086)) ––>Keff1= 0.9208, Remove ─3.1 % Δk/k from the core, means adding 3.1 % Δk/k to the core when removing the rod; new worth = -0.086 + 0.031= -0.055, Keff2 = 1/1+0.055; ––>0.948 Count1*(1-Keff1) = Count2*(1-Keff2) Count1*(1-0.9208) = Count2*(1-0.948) Count1*(1-0.9208) = 1000(1-0.948);  Count 1 = 657 cps"
+      },
+      {
+        "answer": "d. 1170.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: ρ1=-0.086; Keff1=1/1- ρ1 Keff1 =1/(1-(-.086)) ––>Keff1= 0.9208, Remove ─3.1 % Δk/k from the core, means adding 3.1 % Δk/k to the core when removing the rod; new worth = -0.086 + 0.031= -0.055, Keff2 = 1/1+0.055; ––>0.948 Count1*(1-Keff1) = Count2*(1-Keff2) Count1*(1-0.9208) = Count2*(1-0.948) Count1*(1-0.9208) = 1000(1-0.948);  Count 1 = 657 cps"
+      }
+    ]
+  },
+  {
+    "question": "A.014 [1.0 point] (14.0) Given the following: ρexcess = 0.60% Δk/k, control rod 1 = 0.30% Δk/k control rod 2 = 0.45% Δk/k, control rod 3 = 0.50% Δk/k Calculate the TECHNICAL SPECIFICATION LIMIT for Shutdown Margin for this core.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.15% Δ k/k",
+        "correct": true,
+        "feedback": "Correct. Reference: Total rod worth – (excess + most active control rod) (0.30+0.45+0.5) %Δk/k –(0.6+0.5) %Δk/k =(1.25 -1.1) %Δk/k = 0.15 %Δk/k"
+      },
+      {
+        "answer": "b. 0.65% Δ k/k",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Total rod worth – (excess + most active control rod) (0.30+0.45+0.5) %Δk/k –(0.6+0.5) %Δk/k =(1.25 -1.1) %Δk/k = 0.15 %Δk/k"
+      },
+      {
+        "answer": "c. 1.25% Δ k/k",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Total rod worth – (excess + most active control rod) (0.30+0.45+0.5) %Δk/k –(0.6+0.5) %Δk/k =(1.25 -1.1) %Δk/k = 0.15 %Δk/k"
+      },
+      {
+        "answer": "d. 1.75% Δk/k",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Total rod worth – (excess + most active control rod) (0.30+0.45+0.5) %Δk/k –(0.6+0.5) %Δk/k =(1.25 -1.1) %Δk/k = 0.15 %Δk/k"
+      }
+    ]
+  },
+  {
+    "question": "A.015 [1.0 point] (15.0) Which ONE of the following conditions will INCREASE the shutdown margin of a reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Lowering moderator temperature (Assume negative temperature coefficient).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC question"
+      },
+      {
+        "answer": "b. Insertion of a positive reactivity worth experiment.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC question"
+      },
+      {
+        "answer": "c. Burnout of a burnable poison.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC question"
+      },
+      {
+        "answer": "d. Fuel depletion.",
+        "correct": true,
+        "feedback": "Correct. Reference: Standard NRC question"
+      }
+    ]
+  },
+  {
+    "question": "A.016 [1.0 point] (16.0) Which ONE of the following is the MAJOR source of energy released during SHUTDOWN?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Energy of prompt gamma rays.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Introduction to Nuclear Operation, Reed Burn, 1988, Sec 3.2, page 3-5"
+      },
+      {
+        "answer": "b. Energy of the decayed fission fragments.",
+        "correct": true,
+        "feedback": "Correct. Reference: Introduction to Nuclear Operation, Reed Burn, 1988, Sec 3.2, page 3-5"
+      },
+      {
+        "answer": "c. Kinetic energy of the fission neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Introduction to Nuclear Operation, Reed Burn, 1988, Sec 3.2, page 3-5"
+      },
+      {
+        "answer": "d. Kinetic energy of the fission fragments.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Introduction to Nuclear Operation, Reed Burn, 1988, Sec 3.2, page 3-5"
+      }
+    ]
+  },
+  {
+    "question": "A.017 [1.0 point] (17.0) Which of the following statements is true about Xenon following a reactor scram?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The concentration of 135 Xe will decrease due to reduced nuclear flux",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Following a reactor shutdown, xenon-135 concentration will increase due to the decay of the iodine inventory of the core. DOE Handbook, Vol. 2, Section 4"
+      },
+      {
+        "answer": "b. The concentration of 135 Xe will decrease by natural decay into 135 I",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Following a reactor shutdown, xenon-135 concentration will increase due to the decay of the iodine inventory of the core. DOE Handbook, Vol. 2, Section 4"
+      },
+      {
+        "answer": "c. The concentration of 135 Xe will increase due to the decay of the 135 I inventory.",
+        "correct": true,
+        "feedback": "Correct. Reference: Following a reactor shutdown, xenon-135 concentration will increase due to the decay of the iodine inventory of the core. DOE Handbook, Vol. 2, Section 4"
+      },
+      {
+        "answer": "d. The concentration of 135 Xe will remain constant until it is removed via neutron burnout during the subsequent reactor startup.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Following a reactor shutdown, xenon-135 concentration will increase due to the decay of the iodine inventory of the core. DOE Handbook, Vol. 2, Section 4"
+      }
+    ]
+  },
+  {
+    "question": "A.018 [1.0 point] (18.0) Given the following Core Reactivity Data: Control Rod Total Worth (%dk/k) Worth Removed (%dk/k) Safety Rod 1 2.70 1.68 Safety Rod 2 3.20 2.60 Safety Rod 3 2.60 1.52 Regulating Rod 0.40 0.40 Which one of the following is the calculated shutdown margin that would satisfy the Technical Specification Minimum Shutdown Margin? Assume that all control rods are scramable.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 2.70",
+        "correct": false,
+        "feedback": "Incorrect. Reference: SDM = 3(B) - Max. (A) = 6.20%dk/k – 3.20%dk/k = 3.00 %dk/k"
+      },
+      {
+        "answer": "b. 3.00",
+        "correct": true,
+        "feedback": "Correct. Reference: SDM = 3(B) - Max. (A) = 6.20%dk/k – 3.20%dk/k = 3.00 %dk/k"
+      },
+      {
+        "answer": "c. 5.70",
+        "correct": false,
+        "feedback": "Incorrect. Reference: SDM = 3(B) - Max. (A) = 6.20%dk/k – 3.20%dk/k = 3.00 %dk/k"
+      },
+      {
+        "answer": "d. 6.20",
+        "correct": false,
+        "feedback": "Incorrect. Reference: SDM = 3(B) - Max. (A) = 6.20%dk/k – 3.20%dk/k = 3.00 %dk/k"
+      }
+    ]
+  }
+]

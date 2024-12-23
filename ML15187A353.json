@@ -1,0 +1,496 @@
+[
+  {
+    "question": "A.01 [1.0 point] In a just critical reactor, the reactor operator immediately inserts a rabbit of $0.50 reactivity worth into the core. This insertion will cause:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. A sudden drop in delayed neutrons",
+        "correct": false,
+        "feedback": "Incorrect.  REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6, page 4-17."
+      },
+      {
+        "answer": "b. A number of prompt neutrons is twice as much as a number of delayed neutrons",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6, page 4-17."
+      },
+      {
+        "answer": "c. The resultant period is a function of the prompt neutron lifetime (T=ℓ*/ρ)",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6, page 4-17."
+      },
+      {
+        "answer": "d. The resultant period is a function of the delayed neutron precursors",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6, page 4-17."
+      }
+    ]
+  },
+  {
+    "question": "A.02 [1.0 point] Reactor is increasing power from 10 W to 100 kW in prompt criticality. Which ONE of the following best describes the values of Keff and ρ during the power increment?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Keff < 1 and 0< ρ < 1",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "b. Keff = 1 and ρ > 1",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "c. Keff > 1 and 0 < ρ < β-eff",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "d. Keff > 1 and β-eff < ρ < 1",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      }
+    ]
+  },
+  {
+    "question": "A.03 [1.0 point] Few minutes following a reactor scram of 200 kW, the reactor period has stabilized and the power level is decreasing at a CONSTANT rate. What is the power level at one minute later from 1 kW?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.2 kW",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P = P0 e-t/T = 1 kW * e(60sec/-80sec) = 1 kW * e-0.75 = 0.472 * 1 kW = 0.47 kW"
+      },
+      {
+        "answer": "b. 0.5 kW",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: P = P0 e-t/T = 1 kW * e(60sec/-80sec) = 1 kW * e-0.75 = 0.472 * 1 kW = 0.47 kW"
+      },
+      {
+        "answer": "c. 0.8 kW",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P = P0 e-t/T = 1 kW * e(60sec/-80sec) = 1 kW * e-0.75 = 0.472 * 1 kW = 0.47 kW"
+      },
+      {
+        "answer": "d. 2.1 kW",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P = P0 e-t/T = 1 kW * e(60sec/-80sec) = 1 kW * e-0.75 = 0.472 * 1 kW = 0.47 kW"
+      }
+    ]
+  },
+  {
+    "question": "A.04 [1.0 point] The MAJOR source of energy released during fission comes from:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fission neutrons",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 3.2.1, page 3-5."
+      },
+      {
+        "answer": "b. Fission fragments",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 3.2.1, page 3-5."
+      },
+      {
+        "answer": "c. Prompt gamma rays",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 3.2.1, page 3-5."
+      },
+      {
+        "answer": "d. Fission product gamma decay",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 3.2.1, page 3-5."
+      }
+    ]
+  },
+  {
+    "question": "A.05 [1.0 point] Reactor A with a Keff of 0.1 and reactor B with a Keff of 0.8, Keff is increased by 0.1 for each reactor. For the same increment, the amount of reactivity added in reactor A is ______ in reactor B.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. less than",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21. ∆ρ reactor A = (Keff1-Keff2)/(Keff1*Keff2). (0.2-0.1)/(0.2*0.1) = 5 Δk/k ∆ρ reactor B = (Keff1-Keff2)/(Keff1*Keff2). (0.9-0.8)/(0.9*0.8) = 0.139 Δk/k 5/0.139 = 36"
+      },
+      {
+        "answer": "b. same",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21. ∆ρ reactor A = (Keff1-Keff2)/(Keff1*Keff2). (0.2-0.1)/(0.2*0.1) = 5 Δk/k ∆ρ reactor B = (Keff1-Keff2)/(Keff1*Keff2). (0.9-0.8)/(0.9*0.8) = 0.139 Δk/k 5/0.139 = 36"
+      },
+      {
+        "answer": "c. eight times",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21. ∆ρ reactor A = (Keff1-Keff2)/(Keff1*Keff2). (0.2-0.1)/(0.2*0.1) = 5 Δk/k ∆ρ reactor B = (Keff1-Keff2)/(Keff1*Keff2). (0.9-0.8)/(0.9*0.8) = 0.139 Δk/k 5/0.139 = 36"
+      },
+      {
+        "answer": "d. thirty-six times",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21. ∆ρ reactor A = (Keff1-Keff2)/(Keff1*Keff2). (0.2-0.1)/(0.2*0.1) = 5 Δk/k ∆ρ reactor B = (Keff1-Keff2)/(Keff1*Keff2). (0.9-0.8)/(0.9*0.8) = 0.139 Δk/k 5/0.139 = 36"
+      }
+    ]
+  },
+  {
+    "question": "A.06 [1.0 point] Which ONE of the following correctly describes the SIX-FACTOR FORMULA?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. K∞ = Keff * the utilization factor",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+      },
+      {
+        "answer": "b. K∞ = Keff * the total leakage probability",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+      },
+      {
+        "answer": "c. Keff = K∞ * the total non-leakage probability",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+      },
+      {
+        "answer": "d. Keff = K∞ * (the resonance escape probability * the reproduction factor)",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+      }
+    ]
+  },
+  {
+    "question": "A.07 [1.0 point] Which ONE of the following describes the term PROMPT JUMP?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. A reactor is increasing power at 80-second period",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."
+      },
+      {
+        "answer": "b. A reactor has attained criticality on prompt neutrons alone",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."
+      },
+      {
+        "answer": "c. The instantaneous change in power level due to adding of a negative (-)/$0.30 worth",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."
+      },
+      {
+        "answer": "d. The instantaneous change in power level due to removing of a negative (-)$0.30 worth",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."
+      }
+    ]
+  },
+  {
+    "question": "A.08 [1.0 point] Given the associated graph, which of the following answers best describe the neutron behavior within Region II?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The neutron cross section is inversely proportional to the neutron velocity (1/V)",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "b. The neutron cross section decreases steadily with increasing neutron energy (1/E)",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "c. Neutrons of specific energy levels (e.g., 0.05 ev, 100 ev) have more likely leakage from the reactor core",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "d. Neutrons of specific energy levels (e.g., 0.05 ev, 100 ev) are more likely to be absorbed than neutrons at other energy levels",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      }
+    ]
+  },
+  {
+    "question": "A.09 [1.0 point] Given a reactor period of 32 seconds, approximately how long will it take for power to triple?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 22 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P=Poet/τ    3=1* et/32    t = 32 sec*ln(3) = 35.2 sec"
+      },
+      {
+        "answer": "b. 35 seconds",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: P=Poet/τ    3=1* et/32    t = 32 sec*ln(3) = 35.2 sec"
+      },
+      {
+        "answer": "c. 46 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P=Poet/τ    3=1* et/32    t = 32 sec*ln(3) = 35.2 sec"
+      },
+      {
+        "answer": "d. 64 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P=Poet/τ    3=1* et/32    t = 32 sec*ln(3) = 35.2 sec"
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1.0 point] The reactor is on a CONSTANT positive period. Which ONE of the following power changes will take the longest time to complete?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5%, from 95% to 100%",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Time is related to ratio of final power to initial power. 2:1 is the largest ratio."
+      },
+      {
+        "answer": "b. 10%, from 80% to 90%",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Time is related to ratio of final power to initial power. 2:1 is the largest ratio."
+      },
+      {
+        "answer": "c. 15%, from 15% to 30%",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Time is related to ratio of final power to initial power. 2:1 is the largest ratio."
+      },
+      {
+        "answer": "d. 20%, from 60% to 80%",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Time is related to ratio of final power to initial power. 2:1 is the largest ratio."
+      }
+    ]
+  },
+  {
+    "question": "A.11 [1.0 point] Delayed neutrons are produced by:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. decay of N-16",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2."
+      },
+      {
+        "answer": "b. Photoelectric Effect",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2."
+      },
+      {
+        "answer": "c. decay of fission fragments",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2."
+      },
+      {
+        "answer": "d. directly from the fission process",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2."
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1.0 point] A reactor is slightly supercritical with the following values for each of the factors in the six-factor formula: Fast fission factor 1.03, Fast non-leakage probability 0.84, Resonance escape probability 0.96, Thermal non-leakage probability 0.88, Thermal utilization factor 0.70, Reproduction factor 1.96. A control rod is inserted to bring the reactor back to critical. Assuming all other factors remain unchanged, the new value for the thermal utilization factor is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.698",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: K eff = 1.03*0.84*0.96*0.88*1.96*x X= 1/1.4326 = 0.698"
+      },
+      {
+        "answer": "b. 0.702",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: K eff = 1.03*0.84*0.96*0.88*1.96*x X= 1/1.4326 = 0.698"
+      },
+      {
+        "answer": "c. 0.074",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: K eff = 1.03*0.84*0.96*0.88*1.96*x X= 1/1.4326 = 0.698"
+      },
+      {
+        "answer": "d. 0.076",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: K eff = 1.03*0.84*0.96*0.88*1.96*x X= 1/1.4326 = 0.698"
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1.0 point] Which ONE of the following conditions will INCREASE the core excess of a reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Higher moderator temperature (assume negative temperature coefficient)",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Standard NRC question"
+      },
+      {
+        "answer": "b. Insertion of a negative reactivity worth experiment",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Standard NRC question"
+      },
+      {
+        "answer": "c. Burnout of a burnable poison",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Standard NRC question"
+      },
+      {
+        "answer": "d. Fuel depletion",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Standard NRC question"
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1.0 point] A reactor is subcritical with Keff of 0.955. Which ONE of the following is the MINIMUM reactivity (DK/K) that must be added to PROMPT criticality? Given βeff=0.007",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.0045",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: from k=0.955 to criticality (k=1), Dρ = (k-1)/k = -0.047 Dk/k or Dρ = 0.047 Dk/k needed to reach criticality. From criticality to JUST prompt, Dk/k = βeff required, so minimum reactivity added to produce prompt criticality will be: 0.047+0.007= 0.054"
+      },
+      {
+        "answer": "b. 0.0047",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: from k=0.955 to criticality (k=1), Dρ = (k-1)/k = -0.047 Dk/k or Dρ = 0.047 Dk/k needed to reach criticality. From criticality to JUST prompt, Dk/k = βeff required, so minimum reactivity added to produce prompt criticality will be: 0.047+0.007= 0.054"
+      },
+      {
+        "answer": "c. 0.0540",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: from k=0.955 to criticality (k=1), Dρ = (k-1)/k = -0.047 Dk/k or Dρ = 0.047 Dk/k needed to reach criticality. From criticality to JUST prompt, Dk/k = βeff required, so minimum reactivity added to produce prompt criticality will be: 0.047+0.007= 0.054"
+      },
+      {
+        "answer": "d. 1.0500",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: from k=0.955 to criticality (k=1), Dρ = (k-1)/k = -0.047 Dk/k or Dρ = 0.047 Dk/k needed to reach criticality. From criticality to JUST prompt, Dk/k = βeff required, so minimum reactivity added to produce prompt criticality will be: 0.047+0.007= 0.054"
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1.0 point] Given a source strength of 100 neutrons per second (N/sec) and a multiplication factor (k) of 0.9, which ONE of the following is the expected stable neutron count rate?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 900 N/sec",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: CR = S/(1-K)  →  CR = 100/(1 - .9) = 1000 N/sec"
+      },
+      {
+        "answer": "b. 1000 N/sec",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: CR = S/(1-K)  →  CR = 100/(1 - .9) = 1000 N/sec"
+      },
+      {
+        "answer": "c. 1500 N/sec",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: CR = S/(1-K)  →  CR = 100/(1 - .9) = 1000 N/sec"
+      },
+      {
+        "answer": "d. 2000 N/sec",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: CR = S/(1-K)  →  CR = 100/(1 - .9) = 1000 N/sec"
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1.0 point] Which ONE of the following nuclides will cause a fast neutron to lose its most energy per collision?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. H-1",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.4.5"
+      },
+      {
+        "answer": "b. B-10",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.4.5"
+      },
+      {
+        "answer": "c. C-12",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.4.5"
+      },
+      {
+        "answer": "d. U-235",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.4.5"
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1.0 point] Two common FISSION PRODUCTS that have especially large neutron capture cross sections and play a significant role in reactor physics. One is Sm-149 and the other is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. B-10",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 8.1"
+      },
+      {
+        "answer": "b. Ar-41",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 8.1"
+      },
+      {
+        "answer": "c. Xe-135",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 8.1"
+      },
+      {
+        "answer": "d. Cs-137",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 8.1"
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1.0 point] Reactor is at 100% power. The following graph shows the reactor time behavior following a reactor scram. Which ONE of the following best describes the transition of power between point A and B after the initial rod insertion?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. An immediate decrease in the prompt neutron fraction due to leakage, absorption, and a reduction in the fission rate",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, ©4.5, 1988"
+      },
+      {
+        "answer": "b. Fission product gases such as xenon begin to buildup causing the expansion of fuel density",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, ©4.5, 1988"
+      },
+      {
+        "answer": "c. The longest lived delayed neutron precursor begins to effect",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, ©4.5, 1988"
+      },
+      {
+        "answer": "d. The short lived delayed neutron precursors begin to effect",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, ©4.5, 1988"
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1.0 point] Which ONE of the following physical characteristics of the TRIGA fuel is the main contributor for the prompt negative temperature coefficient?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. As the fuel heats up the resonance absorption peaks broaden and increases the likelihood of neutron absorption in U-238",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: TRIGA Fuel Design"
+      },
+      {
+        "answer": "b. As the fuel heats up a rapid increase in moderator temperature occurs through conduction and convection heat transfer mechanisms which adds negative reactivity",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: TRIGA Fuel Design"
+      },
+      {
+        "answer": "c. As the fuel heats up fission product poisons (e.g., Xe) increase in concentration within the fuel matrix and add negative reactivity via neutron absorption",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: TRIGA Fuel Design"
+      },
+      {
+        "answer": "d. As the fuel heats up the oscillating hydrogen in the ZrH lattice imparts energy to a thermal neutron, thereby increasing its mean free path and probability of escape",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: TRIGA Fuel Design"
+      }
+    ]
+  }
+]
