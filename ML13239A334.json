@@ -1,0 +1,522 @@
+[
+  {
+    "question": "A.1 [1.0 point] Complete the following sentence. _________ is a unit of measure, which most correctly relates to the ___________.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Percent millirho (pcm), delayed neutron precursor decay constant (λ)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Theory (Neutron Characteristics) 93 DOE-HDBK-1019/1-93 Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "b. %Δk/k, fast fission factor (ε)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Theory (Neutron Characteristics) 93 DOE-HDBK-1019/1-93 Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "c. Δk/k / ˚F, moderator temperature coefficient",
+        "correct": true,
+        "feedback": "Correct. Reference: Reactor Theory (Neutron Characteristics) 93 DOE-HDBK-1019/1-93 Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "d. A Dollar ($1), delayed neutron fraction (β)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Theory (Neutron Characteristics) 93 DOE-HDBK-1019/1-93 Nuclear Physics and Reactor Theory Vol. 2"
+      }
+    ]
+  },
+  {
+    "question": "A.2 [1.0 point] Isotopes are nuclides that have the same atomic number and are therefore the same element, but differ in number of _________.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. protons",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook DOE-HDBK-1019/1-93 Nuclear Physics and Reactor Theory Vol. 1"
+      },
+      {
+        "answer": "b. electrons",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook DOE-HDBK-1019/1-93 Nuclear Physics and Reactor Theory Vol. 1"
+      },
+      {
+        "answer": "c. neutrons",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook DOE-HDBK-1019/1-93 Nuclear Physics and Reactor Theory Vol. 1"
+      },
+      {
+        "answer": "d. positrons",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook DOE-HDBK-1019/1-93 Nuclear Physics and Reactor Theory Vol. 1"
+      }
+    ]
+  },
+  {
+    "question": "A.3 [1.0 point] When an irradiated sample used for an experiment is removed from the reactor, it reads 25 rem/hr. Five hours later it reads 1.5 rem/hr. What is the half-life of the radioactive element in the sample? Assume all readings are taken on contact.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.25 hr",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "b. 0.81 hr",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "c. 0.96 hr",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "d. 1.23 hr",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      }
+    ]
+  },
+  {
+    "question": "A.4 [1.0 point] You are performing a 50 Watt Critical Rod Position. Given the following data listed in the table below, calculate the Shutdown Margin, as defined by Technical Specifications, given a clean, cold reactor core condition.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. $1.31",
+        "correct": false,
+        "feedback": "Incorrect."
+      },
+      {
+        "answer": "b. $2.92",
+        "correct": false,
+        "feedback": "Incorrect."
+      },
+      {
+        "answer": "c. $2.95",
+        "correct": true,
+        "feedback": "Correct."
+      },
+      {
+        "answer": "d. $5.79",
+        "correct": false,
+        "feedback": "Incorrect."
+      }
+    ]
+  },
+  {
+    "question": "A.5 [1.0 point] The number of nuclei that decay (or disintegrate) per unit time is called the ______ of a sample?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Cross-Section",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSU Training Manual Section 1.3 Activity"
+      },
+      {
+        "answer": "b. Activity",
+        "correct": true,
+        "feedback": "Correct. Reference: PSU Training Manual Section 1.3 Activity"
+      },
+      {
+        "answer": "c. Criticality",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSU Training Manual Section 1.3 Activity"
+      },
+      {
+        "answer": "d. Reactivity",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSU Training Manual Section 1.3 Activity"
+      }
+    ]
+  },
+  {
+    "question": "A.6 [1.0 point] Which of the following is the MOST CORRECT statement regarding various neutrons that are typically produced in a TRIGA reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fast neutrons are those that occur directly from the fission reaction.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, ©1988, § 4.3"
+      },
+      {
+        "answer": "b. Slow neutrons are low energy neutrons that enable more control over the reactor.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, ©1988, § 4.3"
+      },
+      {
+        "answer": "c. Prompt neutrons are high energy neutrons (> 1MeV).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, ©1988, § 4.3"
+      },
+      {
+        "answer": "d. Delayed neutrons are released through fission fragment decay.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, ©1988, § 4.3"
+      }
+    ]
+  },
+  {
+    "question": "A.7 [1.0 point] An experiment worth 13 cents of negative reactivity is added to a reactor that is initially critical at a power of 1000 Watts. Assuming there is no automatic system response, operator action, or any other reactivity effects, calculate the power level 2 minutes after the reactivity insertion. Given: βeff= 0.0070 λeff= 0.05 sec-1",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "e. 2 Watts",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, ©1988, § 3.4.1"
+      },
+      {
+        "answer": "f. 406 Watts",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, ©1988, § 3.4.1"
+      },
+      {
+        "answer": "g. 500 Watts",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, ©1988, § 3.4.1"
+      },
+      {
+        "answer": "h. 750 Watts",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, ©1988, § 3.4.1"
+      }
+    ]
+  },
+  {
+    "question": "A.8 [1.0 point] Suppose a reactor scram has just occurred in a reactor where βeff =0.0070 with rods that have a worth of 0.10 Δk/k. Following the scram, what percentage of the initial starting power will reactor power drop?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5.9%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 4.8, page 4-26"
+      },
+      {
+        "answer": "b. 6.8%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 4.8, page 4-26"
+      },
+      {
+        "answer": "c. 7.2%",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 4.8, page 4-26"
+      },
+      {
+        "answer": "d. 13.7%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 4.8, page 4-26"
+      }
+    ]
+  },
+  {
+    "question": "A.9 [1.0 point] The total energy released per fission will vary from one fission event to the next, depending on what fission products are formed, but the average total energy released per fission of uranium-235 with a thermal neutron is ______?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 10 W",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSU Training Manual Chapter 3, pg. 16"
+      },
+      {
+        "answer": "b. 10 MeV",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSU Training Manual Chapter 3, pg. 16"
+      },
+      {
+        "answer": "c. 200 MeV",
+        "correct": true,
+        "feedback": "Correct. Reference: PSU Training Manual Chapter 3, pg. 16"
+      },
+      {
+        "answer": "d. 1 MW",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSU Training Manual Chapter 3, pg. 16"
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1.0 point] The following terms are variables that help to determine the fraction of neutrons that remain after every possible process in a nuclear reactor. Which of the following equations best describes the number of fission neutrons that exist at the end of a life cycle that are available to start a new generation? Terms: ε Fast Fission Factor η Reproduction Factor p Resonance Absorption Probability Lf Fast Non-leakage Probability Lth Thermal Non-Leakage Probability f Thermal Utilization Factor",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. N= No ε",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSU Training Manual Chapter 3, pg. 55"
+      },
+      {
+        "answer": "b. N= No ε Lf p Lth",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSU Training Manual Chapter 3, pg. 55"
+      },
+      {
+        "answer": "c. N= No ε Lf p Lth f",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSU Training Manual Chapter 3, pg. 55"
+      },
+      {
+        "answer": "d. N= No ε Lf p Lth f η",
+        "correct": true,
+        "feedback": "Correct. Reference: PSU Training Manual Chapter 3, pg. 55"
+      }
+    ]
+  },
+  {
+    "question": "A.11 [1.0 point] Complete the following sentence: Due to greater neutron ________ and less _______ by D2O than by H2O, the power in the front of the core is enhanced when the reactor is operated against the D2O tank.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. reflection, absorption",
+        "correct": true,
+        "feedback": "Correct. Reference: PSU Training Manual Chapter 3, A.5 Operation of Reactor Against D2O Tank"
+      },
+      {
+        "answer": "b. absorption, reflection",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSU Training Manual Chapter 3, A.5 Operation of Reactor Against D2O Tank"
+      },
+      {
+        "answer": "c. capture, activation",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSU Training Manual Chapter 3, A.5 Operation of Reactor Against D2O Tank"
+      },
+      {
+        "answer": "d. activation, capture",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSU Training Manual Chapter 3, A.5 Operation of Reactor Against D2O Tank"
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1.0 point] Coolant flows through a reactor core at a rate of 50 GPM, resulting in a coolant temperature increase of 6 degrees F. The power of the reactor is _______.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5.3 kW",
+        "correct": false,
+        "feedback": "Incorrect. Reference: INITIAL EXAMINATION REPORT 50-005/OL-07-01, PENNSYLVANIA STATE UNIVERSITY, July 6, 2007, Question A.17"
+      },
+      {
+        "answer": "b. 14.7 kW",
+        "correct": false,
+        "feedback": "Incorrect. Reference: INITIAL EXAMINATION REPORT 50-005/OL-07-01, PENNSYLVANIA STATE UNIVERSITY, July 6, 2007, Question A.17"
+      },
+      {
+        "answer": "c. 44.0 kW",
+        "correct": true,
+        "feedback": "Correct. Reference: INITIAL EXAMINATION REPORT 50-005/OL-07-01, PENNSYLVANIA STATE UNIVERSITY, July 6, 2007, Question A.17"
+      },
+      {
+        "answer": "d. 329.1 kW",
+        "correct": false,
+        "feedback": "Incorrect. Reference: INITIAL EXAMINATION REPORT 50-005/OL-07-01, PENNSYLVANIA STATE UNIVERSITY, July 6, 2007, Question A.17"
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1.0 point] Which of the following most correctly describes the \"prompt critical\" condition for a reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. It occurs when there is an instantaneous jump in reactor power when the condition of the reactor is past the point of adding heat.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: 10."
+      },
+      {
+        "answer": "b. It is a condition when the reactor is supercritical with only prompt neutrons.",
+        "correct": true,
+        "feedback": "Correct. Reference: 10."
+      },
+      {
+        "answer": "c. It is a condition when the reactor is supercritical with the summation of prompt and delayed neutron effects.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: 10."
+      },
+      {
+        "answer": "d. It occurs when the amount of reactivity inserted into the reactor exceeds the core excess with the most reactive rod stuck in its highest position.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: 10."
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1.0 point] The following figure represents the differential rod worth of a reactor core. Based on this figure, which of the following statements best describes the characteristic of differential rod worth in the core?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The amount of reactivity per inch of travel is greatest at the bottom of the core because the rods have the greatest amount of worth in this region.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "b. The amount of reactivity per inch of travel is the greatest in the center of the core is greatest because the neutron flux is greatest in this region.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "c. As the rods approach the top of the core the reactivity effects become greater and the change in rod worth per inch of travel becomes greater.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "d. The reactivity at the center of the core is where the differential rod worth is greatest and varies significantly with rod motion.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1.0 point] Light water, like that found in the PSBR’s pool, is an excellent moderator for thermalizing neutrons. Which of the following most correctly describes one of the nuclear properties of an ideal moderator?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Large absorption cross-section.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 1"
+      },
+      {
+        "answer": "b. Small energy loss per collision",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 1"
+      },
+      {
+        "answer": "c. Large scattering cross-section",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 1"
+      },
+      {
+        "answer": "d. Small Doppler Broadening effect",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 1"
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1.0 point] Which of the following is the MOST CORRECT response that describes an effect delayed neutrons have in a reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Delayed neutrons decrease the mean neutron lifetime (l*) from ≈1 x 10-4 sec to 1 x 10-4 minus the βeff.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 4.11, page 4-38"
+      },
+      {
+        "answer": "b. Following a prompt drop (e.g., reactor scram), neutron level in the reactor core is sustained by the decay of fission product precursors.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 4.11, page 4-38"
+      },
+      {
+        "answer": "c. In a reactor with delayed neutron effects, the reactor period (τ) would be equal to the mean neutron lifetime (l*) divided by the reactivity addition.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 4.11, page 4-38"
+      },
+      {
+        "answer": "d. Without delayed neutrons, Keff would always be less than 1.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 4.11, page 4-38"
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1.0 point] Which of the following statements best characterizes the process of “natural circulation” which is present during PSBR operations?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The driving force is related to a difference in density.",
+        "correct": true,
+        "feedback": "Correct. Reference: General Physics, HT&FF, pp. 355 - 358"
+      },
+      {
+        "answer": "b. Heat transfer is more efficient as the heat source decays.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: General Physics, HT&FF, pp. 355 - 358"
+      },
+      {
+        "answer": "c. The Cherenkov radiation creates an ideal temperature differential for the thermal driving force through the core.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: General Physics, HT&FF, pp. 355 - 358"
+      },
+      {
+        "answer": "d. The elevation of the heat source must be above that of the heat sink.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: General Physics, HT&FF, pp. 355 - 358"
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1.0 point] The PSBR has what is known as a prompt negative temperature coefficient. Which of the following is the largest contributing factor to the prompt negative temperature coefficient?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Doppler effect",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSBR Training Manual, Chapter 3 Appendix A.10"
+      },
+      {
+        "answer": "b. Compton’s Scattering",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSBR Training Manual, Chapter 3 Appendix A.10"
+      },
+      {
+        "answer": "c. Cell effect",
+        "correct": true,
+        "feedback": "Correct. Reference: PSBR Training Manual, Chapter 3 Appendix A.10"
+      },
+      {
+        "answer": "d. Core Leakage",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSBR Training Manual, Chapter 3 Appendix A.10"
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1.0 point] A reactor contains a neutron source that produces 110,000 neutrons per second. The reactor has a keff of 0.986. Calculate the stable total neutron production rate in the reactor.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5.54 x 104 neutrons/second",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSU Training Manual Chapter 3 and DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "b. 1.08 x 105 neutrons/second",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSU Training Manual Chapter 3 and DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "c. 9.86 x 105 neutrons/second",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSU Training Manual Chapter 3 and DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "d. 7.86 x 106 neutrons/second",
+        "correct": true,
+        "feedback": "Correct. Reference: PSU Training Manual Chapter 3 and DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      }
+    ]
+  },
+  {
+    "question": "A.20 [1.0 point] Which ONE of the following is the MOST CORRECT time period in which the MAXIMUM amount of Xe-135 will be present in the core?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 8 hours after a startup to 100% power",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "b. 8 hours after a scram from 100% power",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "c. 8 hours after a power increase from 50% to 100%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "d. 8 hours after a power decrease from 100% to 50%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      }
+    ]
+  }
+]

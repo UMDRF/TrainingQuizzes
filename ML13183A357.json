@@ -1,0 +1,523 @@
+[
+    {
+      "question": "A.001 (1.0 point) (1.0) Given a source strength of 100 neutrons per second (N/sec) and a multiplication factor of 0.8, the expected neutron count rate would be:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. 125 N/sec",
+          "correct": false,
+          "feedback": "Incorrect. Reference: C.R. = S/(1 - Keff) → C.R. = 100/(1 - 0.8) = 100/0.2 = 500"
+        },
+        {
+          "answer": "b. 250 N/sec",
+          "correct": false,
+          "feedback": "Incorrect. Reference: C.R. = S/(1 - Keff) → C.R. = 100/(1 - 0.8) = 100/0.2 = 500"
+        },
+        {
+          "answer": "c. 400 N/sec",
+          "correct": false,
+          "feedback": "Incorrect. Reference: C.R. = S/(1 - Keff) → C.R. = 100/(1 - 0.8) = 100/0.2 = 500"
+        },
+        {
+          "answer": "d. 500 N/sec",
+          "correct": true,
+          "feedback": "Correct. Reference: C.R. = S/(1 - Keff) → C.R. = 100/(1 - 0.8) = 100/0.2 = 500"
+        }
+      ]
+    },
+    {
+      "question": "A.002 (1.0 point) (2.0) A reactor is slightly supercritical, with the thermal utilization factor = 0.700. A control rod is inserted to bring the reactor back to critical. Assuming all other factors remain unchanged, the new value for the thermal utilization factor is:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. 0.698",
+          "correct": true,
+          "feedback": "Correct. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16. In order to decrease K (return to critical), thermal utilization must decrease."
+        },
+        {
+          "answer": "b. 0.700",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16. In order to decrease K (return to critical), thermal utilization must decrease."
+        },
+        {
+          "answer": "c. 0.702",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16. In order to decrease K (return to critical), thermal utilization must decrease."
+        },
+        {
+          "answer": "d. 0.704",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16. In order to decrease K (return to critical), thermal utilization must decrease."
+        }
+      ]
+    },
+    {
+      "question": "A.003 (1.0 point) (3.0) A reactor is operating at a constant power level of 250 kW. The fission rate of this reactor is approximately:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. 0.78x1012 fissions/sec.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-51. 250 kW = 1.562x1018 Mev/sec. (From Equation Sheet) (1.562x1018 Mev/sec)/(200 Mev/fission) = 0.78x1016 fissions/sec."
+        },
+        {
+          "answer": "b. 1.56x1014 fissions/sec.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-51. 250 kW = 1.562x1018 Mev/sec. (From Equation Sheet) (1.562x1018 Mev/sec)/(200 Mev/fission) = 0.78x1016 fissions/sec."
+        },
+        {
+          "answer": "c. 0.78x1016 fissions/sec.",
+          "correct": true,
+          "feedback": "Correct. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-51. 250 kW = 1.562x1018 Mev/sec. (From Equation Sheet) (1.562x1018 Mev/sec)/(200 Mev/fission) = 0.78x1016 fissions/sec."
+        },
+        {
+          "answer": "d. 3.90x1018 fissions/sec.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-51. 250 kW = 1.562x1018 Mev/sec. (From Equation Sheet) (1.562x1018 Mev/sec)/(200 Mev/fission) = 0.78x1016 fissions/sec."
+        }
+      ]
+    },
+    {
+      "question": "A.004 (1.0 point) (4.0) Which ONE statement below describes a positive fuel temperature coefficient?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. When fuel temperature increases, positive reactivity is added.",
+          "correct": true,
+          "feedback": "Correct. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 6-5."
+        },
+        {
+          "answer": "b. When fuel temperature decreases, positive reactivity is added.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 6-5."
+        },
+        {
+          "answer": "c. When fuel temperature increases, negative reactivity is added.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 6-5."
+        },
+        {
+          "answer": "d. When fuel temperature increases, reactor power decreases.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 6-5."
+        }
+      ]
+    },
+    {
+      "question": "A.005 (1.0 point) (5.0) The Moderating Ratio measures the effectiveness of a moderator by combining the scattering cross section, the absorption cross section, and the average energy loss per collision. The Moderating Ratio is expressed as:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. (absorption cross section)x(scattering cross section)/(average energy loss per collision).",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-62."
+        },
+        {
+          "answer": "b. (absorption cross section)x(average energy loss per collision)/(scattering cross section).",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-62."
+        },
+        {
+          "answer": "c. (scattering cross section)x(absorption cross section)x(average energy loss per collision).",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-62."
+        },
+        {
+          "answer": "d. (average energy loss per collision)x(scattering cross section)/(absorption cross section).",
+          "correct": true,
+          "feedback": "Correct. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-62."
+        }
+      ]
+    },
+    {
+      "question": "A.006 (1.0 point) (6.0) Which ONE of the following is an example of neutron decay?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. 35Br87 ➔ 33As83",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 2.4.6, P. 2-23."
+        },
+        {
+          "answer": "b. 35Br87 ➔ 35Br86",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 2.4.6, P. 2-23."
+        },
+        {
+          "answer": "c. 35Br87 ➔ 34Se86",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 2.4.6, P. 2-23."
+        },
+        {
+          "answer": "d. 35Br87 ➔ 36Kr87",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 2.4.6, P. 2-23."
+        }
+      ]
+    },
+    {
+      "question": "A.007 (1.0 point) (7.0) During the neutron cycle from one generation to the next, several processes occur that may increase or decrease the available number of neutrons. Which ONE of the following factors describes an INCREASE in the number of neutrons during the cycle?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. Thermal utilization factor.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16."
+        },
+        {
+          "answer": "b. Fast fission factor.",
+          "correct": true,
+          "feedback": "Correct. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16."
+        },
+        {
+          "answer": "c. Thermal non-leakage probability.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16."
+        },
+        {
+          "answer": "d. Resonance escape probability.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16."
+        }
+      ]
+    },
+    {
+      "question": "A.008 (1.0 point) (8.0) A reactor is operating at criticality. Instantaneously, all of the delayed neutrons are suddenly removed from the reactor. The Keff of the reactor in this state would be approximately:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. 1.007",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, pg. 4-1."
+        },
+        {
+          "answer": "b. 1.000",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, pg. 4-1."
+        },
+        {
+          "answer": "c. 0.993",
+          "correct": true,
+          "feedback": "Correct. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, pg. 4-1."
+        },
+        {
+          "answer": "d. 0.893",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, pg. 4-1."
+        }
+      ]
+    },
+    {
+      "question": "A.009 (1.0 point) (9.0) Which ONE of the following is the reason for operating with thermal neutrons rather than fast neutrons?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. Probability of fission is increased since thermal neutrons are less likely to leak out of the core.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, pg. 2-39."
+        },
+        {
+          "answer": "b. As neutron energy increases, neutron absorption in non-fuel materials increases exponentially.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, pg. 2-39."
+        },
+        {
+          "answer": "c. The absorption cross-section of U-235 is much higher for thermal neutrons.",
+          "correct": true,
+          "feedback": "Correct. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, pg. 2-39."
+        },
+        {
+          "answer": "d. The fuel temperature coefficient becomes positive as neutron energy increases.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, pg. 2-39."
+        }
+      ]
+    },
+    {
+      "question": "A.010 (1.0 point) (10.0) When the reactor is shut down from full power, what is the main contributor to the constant -80 second period that results?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. The amount of negative reactivity introduced to the core.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 4-12."
+        },
+        {
+          "answer": "b. The decay constant of the longest lived delayed neutron precursors.",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 4-12."
+        },
+        {
+          "answer": "c. The degree of neutron absorption by the fission products in the core.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 4-12."
+        },
+        {
+          "answer": "d. The level of the prompt neutron population.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 4-12."
+        }
+      ]
+    },
+    {
+      "question": "A.011 (1.0 point) (11.0) While the reactor is operating at power in the automatic mode, a void is produced in the core. The regulating rod will:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. drive out to add positive reactivity.",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 6-13."
+        },
+        {
+          "answer": "b. drive in to add positive reactivity.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 6-13."
+        },
+        {
+          "answer": "c. drive out to add negative reactivity.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 6-13."
+        },
+        {
+          "answer": "d. drive in to add negative reactivity.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 6-13."
+        }
+      ]
+    },
+    {
+      "question": "A.012 (1.0 point) (12.0) What is the normal NSCR neutron startup source for a startup when the reactor has only been shut down for a few days?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. Gammas produced from Sb124 result in a neutron from Be.",
+          "correct": true,
+          "feedback": "Correct. Reference: Standard NRC Question."
+        },
+        {
+          "answer": "b. Spontaneous fission from Cf252.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Standard NRC Question."
+        },
+        {
+          "answer": "c. Gammas produced from fuel result in a neutron from H2.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Standard NRC Question."
+        },
+        {
+          "answer": "d. Betas produced from Ra result in a neutron from Li8.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Standard NRC Question."
+        }
+      ]
+    },
+    {
+      "question": "A.013 (1.0 point) (13.0) The term prompt critical refers to:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. the instantaneous jump in power due to a rod withdrawal.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 4-1."
+        },
+        {
+          "answer": "b. a reactor which is supercritical using only prompt neutrons.",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 4-1."
+        },
+        {
+          "answer": "c. a reactor which is critical using both prompt and delayed neutrons.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 4-1."
+        },
+        {
+          "answer": "d. a reactivity insertion which is less then eff.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 4-1."
+        }
+      ]
+    },
+    {
+      "question": "A.014 (1.0 point) (14.0) The temperature coefficient of the NSCR core is− × − 1 2 10 4 . ΔK K C o and the average control rod worth of the regulating control rod is 0 093 . $ inch . If the reactor is in the automatic mode and the temperature increases by 25oC, the regulating rod will move: (assume βeff K K =0 007 . Δ ).",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. 5.3 inches in",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Standard NRC Question 0 093 0 007 6 51 4 . $ . . inch × = − Δ − − =− − 1 2 4 25 3 3 . * E K K C C E K K o o Δ Δ Since the temperature rise results in a negative reactivity insertion, the control rod will need to drive out to add positive reactivity. D E K K E K K inch inches = − − = 3 3 6 51 4 4 61 Δ Δ . ."
+        },
+        {
+          "answer": "b. 4.6 inches out",
+          "correct": true,
+          "feedback": "Correct. Reference: Standard NRC Question 0 093 0 007 6 51 4 . $ . . inch × = − Δ − − =− − 1 2 4 25 3 3 . * E K K C C E K K o o Δ Δ Since the temperature rise results in a negative reactivity insertion, the control rod will need to drive out to add positive reactivity. D E K K E K K inch inches = − − = 3 3 6 51 4 4 61 Δ Δ . ."
+        },
+        {
+          "answer": "c. 0.5 inches in",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Standard NRC Question 0 093 0 007 6 51 4 . $ . . inch × = − Δ − − =− − 1 2 4 25 3 3 . * E K K C C E K K o o Δ Δ Since the temperature rise results in a negative reactivity insertion, the control rod will need to drive out to add positive reactivity. D E K K E K K inch inches = − − = 3 3 6 51 4 4 61 Δ Δ . ."
+        },
+        {
+          "answer": "d. 7.8 inches out",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Standard NRC Question 0 093 0 007 6 51 4 . $ . . inch × = − Δ − − =− − 1 2 4 25 3 3 . * E K K C C E K K o o Δ Δ Since the temperature rise results in a negative reactivity insertion, the control rod will need to drive out to add positive reactivity. D E K K E K K inch inches = − − = 3 3 6 51 4 4 61 Δ Δ . ."
+        }
+      ]
+    },
+    {
+      "question": "A.015 (1.0 point) (15.0) Which ONE of the following describes the characteristics of a good moderator?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. Low scattering cross section and high absorption cross section.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 2-45."
+        },
+        {
+          "answer": "b. Low scattering cross section and low absorption cross section.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 2-45."
+        },
+        {
+          "answer": "c. High scattering cross section and low absorption cross section.",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 2-45."
+        },
+        {
+          "answer": "d. High scattering cross section and high absorption cross section.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 2-45."
+        }
+      ]
+    },
+    {
+      "question": "A.016 (1.0 point) (16.0) What is the approximate amount of time that it will take the amount of Xenon in the core to reach negligible levels after the reactor is shut down from full power? The Xenon will be considered to be negligible after 7 half-lives have passed. (Xe-135 T1/2 = 9.2 hrs)",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. 60 hours",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 8-11."
+        },
+        {
+          "answer": "b. 64 hours",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 8-11."
+        },
+        {
+          "answer": "c. 68 hours",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 8-11."
+        },
+        {
+          "answer": "d. 72 hours",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, 1988, page 8-11."
+        }
+      ]
+    },
+    {
+      "question": "A.017 (1.0 point) (17.0) The reactor had been running for 16 hours straight at 1 megawatt when it was shutdown for maintenance. The maintenance took six hours, and you have just restarted the reactor and raised power to 1 megawatt and placed the reactor in automatic control. Which ONE of the following is the expected response of the regulating rod for the next half hour?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. Drive in",
+          "correct": true,
+          "feedback": "Correct. Reference: Lamarsh, J.R., Introduction to Nuclear Engineering, 1983. § 7.4, pp. 316 – 322."
+        },
+        {
+          "answer": "b. Drive out",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Lamarsh, J.R., Introduction to Nuclear Engineering, 1983. § 7.4, pp. 316 – 322."
+        },
+        {
+          "answer": "c. Not move",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Lamarsh, J.R., Introduction to Nuclear Engineering, 1983. § 7.4, pp. 316 – 322."
+        },
+        {
+          "answer": "d. Drive out then back in",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Lamarsh, J.R., Introduction to Nuclear Engineering, 1983. § 7.4, pp. 316 – 322."
+        }
+      ]
+    },
+    {
+      "question": "A.018 (1.0 point) (18.0) If a $1.50 pulse has a peak power of 250 MW, a FWHM of 100 ms, and a fuel temperature rise of 145C, what would you estimate the peak power, FWHM, and fuel temperature rise values would be for a $2.00 pulse?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. Peak power: 780 MW FWHM: 80 ms Temp. rise: 210C",
+          "correct": false,
+          "feedback": "Incorrect. Reference: SAR § XI: Peak Power is proportional to Δ$prompt 2, FWHM is proportional to 1/Δ$prompt and temperature increase is proportional to Δ$prompt"
+        },
+        {
+          "answer": "b. Peak power: 1000 MW FWHM: 50 ms Temp. rise: 290C",
+          "correct": true,
+          "feedback": "Correct. Reference: SAR § XI: Peak Power is proportional to Δ$prompt 2, FWHM is proportional to 1/Δ$prompt and temperature increase is proportional to Δ$prompt"
+        },
+        {
+          "answer": "c. Peak power: 1200 MW FWHM: 50 ms Temp. rise: 350C",
+          "correct": false,
+          "feedback": "Incorrect. Reference: SAR § XI: Peak Power is proportional to Δ$prompt 2, FWHM is proportional to 1/Δ$prompt and temperature increase is proportional to Δ$prompt"
+        },
+        {
+          "answer": "d. Peak power: 900 MW FWHM: 80 ms Temp. rise: 210C",
+          "correct": false,
+          "feedback": "Incorrect. Reference: SAR § XI: Peak Power is proportional to Δ$prompt 2, FWHM is proportional to 1/Δ$prompt and temperature increase is proportional to Δ$prompt"
+        }
+      ]
+    },
+    {
+      "question": "A.019 (1.0 point) (19.0) During a reactor power decreases, the delayed neutron fraction, β:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. remains unchanged.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, pg. 4-8."
+        },
+        {
+          "answer": "b. decreases because prompt neutrons are being produced at a slower rate.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, pg. 4-8."
+        },
+        {
+          "answer": "c. decreases because delayed neutron precursors are being produced at a slower rate.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, pg. 4-8."
+        },
+        {
+          "answer": "d. increases because delayed neutrons are being produced from precursors that were formed at the higher power level.",
+          "correct": true,
+          "feedback": "Correct. Reference: R. R. Burn, Introduction to Nuclear Reactor Operations, pg. 4-8."
+        }
+      ]
+    },
+    {
+      "question": "A.20 (1.0 point) (20.0) A reactor power calibration is being performed by measuring the rate of temperature increase in the reactor pool. Which ONE of the following conditions would result in calculated power being LESS THAN actual power?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. The measured final temperature is greater than the true temperature.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: SOP Power Calibration."
+        },
+        {
+          "answer": "b. The measured final temperature is less than the true temperature.",
+          "correct": true,
+          "feedback": "Correct. Reference: SOP Power Calibration."
+        },
+        {
+          "answer": "c. The calculated volume of water in the pool is greater than the true volume.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: SOP Power Calibration."
+        },
+        {
+          "answer": "d. The calculated rate of temperature increase is greater than the true rate.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: SOP Power Calibration."
+        }
+      ]
+    }
+]
+  

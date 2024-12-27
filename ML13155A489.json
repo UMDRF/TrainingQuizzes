@@ -1,0 +1,522 @@
+[
+    {
+      "question": "A.1 [1.0 point] Which statement properly describes a thermal neutron?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. A neutron at an energy level greater than its surroundings.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 2.5"
+        },
+        {
+          "answer": "b. A neutron born directly from fission.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 2.5"
+        },
+        {
+          "answer": "c. A neutron in equilibrium with its surroundings.",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 2.5"
+        },
+        {
+          "answer": "d. A neutron born due to decay of a fission product.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 2.5"
+        }
+      ]
+    },
+    {
+      "question": "A.2 [1.0 point] Reactor power is increasing on a 35-second period. Approximately how long will it take for power to double?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. 17 seconds",
+          "correct": false,
+          "feedback": "Incorrect. Reference: P = Poet/T, time = ln(2)*35 = ~24 seconds"
+        },
+        {
+          "answer": "b. 24 seconds",
+          "correct": true,
+          "feedback": "Correct. Reference: P = Poet/T, time = ln(2)*35 = ~24 seconds"
+        },
+        {
+          "answer": "c. 51 seconds",
+          "correct": false,
+          "feedback": "Incorrect. Reference: P = Poet/T, time = ln(2)*35 = ~24 seconds"
+        },
+        {
+          "answer": "d. 70 seconds",
+          "correct": false,
+          "feedback": "Incorrect. Reference: P = Poet/T, time = ln(2)*35 = ~24 seconds"
+        }
+      ]
+    },
+    {
+      "question": "A.3 [1.0 point] The Reed College TRIGA Reactor is slightly UNDERMODERATED. Which ONE of the following statements correctly describes the reactor operating characteristic of “UNDERMODERATED”?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. An increase in core water temperature will cause a positive reactivity response.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 6.4.1"
+        },
+        {
+          "answer": "b. A decrease in core water temperature will cause a negative reactivity response.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 6.4.1"
+        },
+        {
+          "answer": "c. A decrease in core water density will cause a negative reactivity response.",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 6.4.1"
+        },
+        {
+          "answer": "d. Reducing the amount of moderation will cause a positive reactivity response.",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 6.4.1"
+        }
+      ]
+    },
+    {
+      "question": "A.4 [1.0 point] Which ONE of the following combinations of characteristics makes a good reflector?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. High Scattering Cross Section, Low Absorption Cross Section",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988"
+        },
+        {
+          "answer": "b. Low Scattering Cross Section, High Absorption Cross Section",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988"
+        },
+        {
+          "answer": "c. High Scattering Cross Section, High Absorption Cross Section",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988"
+        },
+        {
+          "answer": "d. Low Scattering Cross Section, Low Absorption Cross Section",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988"
+        }
+      ]
+    },
+    {
+      "question": "A.5 [1.0 point] Which ONE of the following is the time period in which the MAXIMUM amount of Xe-135 will be present in the core?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. 8 hours after a startup to 100% power",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.4, page 8-9"
+        },
+        {
+          "answer": "b. 8 hours after a scram from 100% power",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.4, page 8-9"
+        },
+        {
+          "answer": "c. 8 hours after a power increase from 50% to 100%",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.4, page 8-9"
+        },
+        {
+          "answer": "d. 8 hours after a power decrease from 100% to 50%",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.4, page 8-9"
+        }
+      ]
+    },
+    {
+      "question": "A.6 [1.0 point] Following a SCRAM, the value of the stable reactor period is:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. Infinity because the control rods absorb all neutrons",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 4.5"
+        },
+        {
+          "answer": "b. Approximately -80 seconds, due to the rate of decay of the longest lived delayed neutron precursors",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 4.5"
+        },
+        {
+          "answer": "c. Approximately -80 seconds, due to the rate of decay of the shortest lived delayed neutron precursors",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 4.5"
+        },
+        {
+          "answer": "d. Approximately -10 seconds, due to the rate of decay of the shortest lived prompt neutrons",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 4.5"
+        }
+      ]
+    },
+    {
+      "question": "A.7 [1.0 point] During a reactor startup, as Keff approaches criticality, the value of 1/M:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. Decreases toward zero",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.4, Fig. 5.2"
+        },
+        {
+          "answer": "b. Decreases toward one",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.4, Fig. 5.2"
+        },
+        {
+          "answer": "c. Increases toward one",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.4, Fig. 5.2"
+        },
+        {
+          "answer": "d. Increases towards infinity",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.4, Fig. 5.2"
+        }
+      ]
+    },
+    {
+      "question": "A.8 [1.0 point] In a subcritical reactor, Keff is increased from 0.918 to 0.965. Which one of the following is the amount of reactivity that was added to the core?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. 3.63 %Δk/k",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.3.4  Δρ = (Keff1-Keff2)/(Keff1*Keff2) = (0.965-0.918)/((0.965*0.918) = 0.0531Δk/k = 5.31%Δk/k"
+        },
+        {
+          "answer": "b. 5.31 %Δk/k",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.3.4  Δρ = (Keff1-Keff2)/(Keff1*Keff2) = (0.965-0.918)/((0.965*0.918) = 0.0531Δk/k = 5.31%Δk/k"
+        },
+        {
+          "answer": "c. 7.28 %Δk/k",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.3.4  Δρ = (Keff1-Keff2)/(Keff1*Keff2) = (0.965-0.918)/((0.965*0.918) = 0.0531Δk/k = 5.31%Δk/k"
+        },
+        {
+          "answer": "d. 8.93 %Δk/k",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.3.4  Δρ = (Keff1-Keff2)/(Keff1*Keff2) = (0.965-0.918)/((0.965*0.918) = 0.0531Δk/k = 5.31%Δk/k"
+        }
+      ]
+    },
+    {
+      "question": "A.9 [1.0 point] Which ONE of the following statements best describes how an INCREASE in moderator temperature affects the core operating characteristics?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. Will DECREASE the neutron multiplication factor due to the resonance escape probability DECREASE",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Section 3.3.1"
+        },
+        {
+          "answer": "b. Will INCREASE the neutron multiplication factor due to the resonance escape probability INCREASE",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Section 3.3.1"
+        },
+        {
+          "answer": "c. Will INCREASE the neutron multiplication factor due to the reproduction factor DECREASE",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Section 3.3.1"
+        },
+        {
+          "answer": "d. Will DECREASE the neutron multiplication factor due to the reproduction factor INCREASE",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Section 3.3.1"
+        }
+      ]
+    },
+    {
+      "question": "A.10 [1.0 point] Which ONE of the following best describes beta decay (β-1) of a nucleus?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. Atomic mass number increases by 1, and the number of protons increases by 1",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Chart of Nuclides"
+        },
+        {
+          "answer": "b. Atomic mass number increases by 1, and the number of protons decreases by 1",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Chart of Nuclides"
+        },
+        {
+          "answer": "c. Atomic mass number remains unchanged, and the number of protons increases by 1",
+          "correct": true,
+          "feedback": "Correct. Reference: Chart of Nuclides"
+        },
+        {
+          "answer": "d. Atomic mass number remains unchanged, and the number of protons decreases by 1",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Chart of Nuclides"
+        }
+      ]
+    },
+    {
+      "question": "A.11 [1.0 point] Assume that the worths of the Safety, Shim, and Reg rods are $4.50, $3.75, and $2.00, respectively. The reactor is critical at 15 W after WITHDRAWING the following control rod worths: Safety $3.50, Shim $2.00, and Reg $1.50. What is the CORE EXCESS?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. $2.75",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Total Worth = $4.50 + $3.75 + $2.00 = $10.25 Reactivity at 15W = $3.50 + $2.00 + $1.50 = $7.00 Core Excess = Total Worth – Reactivity at 15W = $10.25 - $7.00 = $3.25"
+        },
+        {
+          "answer": "b. $3.25",
+          "correct": true,
+          "feedback": "Correct. Reference: Total Worth = $4.50 + $3.75 + $2.00 = $10.25 Reactivity at 15W = $3.50 + $2.00 + $1.50 = $7.00 Core Excess = Total Worth – Reactivity at 15W = $10.25 - $7.00 = $3.25"
+        },
+        {
+          "answer": "c. $6.50",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Total Worth = $4.50 + $3.75 + $2.00 = $10.25 Reactivity at 15W = $3.50 + $2.00 + $1.50 = $7.00 Core Excess = Total Worth – Reactivity at 15W = $10.25 - $7.00 = $3.25"
+        },
+        {
+          "answer": "d. $7.00",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Total Worth = $4.50 + $3.75 + $2.00 = $10.25 Reactivity at 15W = $3.50 + $2.00 + $1.50 = $7.00 Core Excess = Total Worth – Reactivity at 15W = $10.25 - $7.00 = $3.25"
+        }
+      ]
+    },
+    {
+      "question": "A.12 [1.0 point] Which ONE of the following parameters is MOST significant in determining the differential rod worth of a control rod?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. Reactor power",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Section 7.2"
+        },
+        {
+          "answer": "b. Rod speed",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Section 7.2"
+        },
+        {
+          "answer": "c. Fuel temperature",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Section 7.2"
+        },
+        {
+          "answer": "d. Flux shape",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Section 7.2"
+        }
+      ]
+    },
+    {
+      "question": "A.13 [1.0 point] What has the greatest affect on the THERMAL UTILIZATION FACTOR in the “six factor” formula?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. Xenon buildup",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 3.3.2"
+        },
+        {
+          "answer": "b. Moderator temperature",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 3.3.2"
+        },
+        {
+          "answer": "c. Control rods",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 3.3.2"
+        },
+        {
+          "answer": "d. Fuel density",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 3.3.2"
+        }
+      ]
+    },
+    {
+      "question": "A.14 [1.0 point] Element X has a cross section of 85 barns for 0.030 keV neutrons. If it is a 1/v absorber, what is the cross section for 0.75 keV neutrons?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. 57 barns",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Reed Training Manual: Cross section is inversely proportional to the velocity of neutrons. Energy is proportional to v2, so the 0.75 keV neutrons are 5 times as fast as the 0.030 keV neutrons. Therefore, their cross section is 1/5 as large. 85/5 = 17"
+        },
+        {
+          "answer": "b. 28 barns",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Reed Training Manual: Cross section is inversely proportional to the velocity of neutrons. Energy is proportional to v2, so the 0.75 keV neutrons are 5 times as fast as the 0.030 keV neutrons. Therefore, their cross section is 1/5 as large. 85/5 = 17"
+        },
+        {
+          "answer": "c. 21 barns",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Reed Training Manual: Cross section is inversely proportional to the velocity of neutrons. Energy is proportional to v2, so the 0.75 keV neutrons are 5 times as fast as the 0.030 keV neutrons. Therefore, their cross section is 1/5 as large. 85/5 = 17"
+        },
+        {
+          "answer": "d. 17 barns",
+          "correct": true,
+          "feedback": "Correct. Reference: Reed Training Manual: Cross section is inversely proportional to the velocity of neutrons. Energy is proportional to v2, so the 0.75 keV neutrons are 5 times as fast as the 0.030 keV neutrons. Therefore, their cross section is 1/5 as large. 85/5 = 17"
+        }
+      ]
+    },
+    {
+      "question": "A.15 [1.0 point] In a just critical reactor, the MOST LIKELY result of ADDING $1.00 of reactivity will cause:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. The resultant period to be a function of the prompt neutron lifetime",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 4.2, page 4-4"
+        },
+        {
+          "answer": "b. The reactor period to be equal to (β – ρ)/(λ*ρ)",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 4.2, page 4-4"
+        },
+        {
+          "answer": "c. A sudden increase in delayed neutrons",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 4.2, page 4-4"
+        },
+        {
+          "answer": "d. A sudden drop in neutron flux",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 4.2, page 4-4"
+        }
+      ]
+    },
+    {
+      "question": "A.16 [1.0 point] ELASTIC SCATTERING is the process by which a neutron collides with a ground state nucleus and:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. is absorbed, with the nucleus emitting a gamma ray and a neutron with a lower kinetic energy",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 2.4"
+        },
+        {
+          "answer": "b. recoils with a higher kinetic energy than it had prior to the collision with the nucleus emitting a gamma ray",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 2.4"
+        },
+        {
+          "answer": "c. is absorbed, with the nucleus emitting a gamma ray",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 2.4"
+        },
+        {
+          "answer": "d. recoils with the same kinetic energy it had prior to the collision",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 2.4"
+        }
+      ]
+    },
+    {
+      "question": "A.17 [1.0 point] During a reactor startup, criticality occurred at a LOWER ROD HEIGHT than the last startup. Which ONE of the following reasons could be the cause?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. Moving an experiment with negative reactivity from the core",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.4, page 8-9"
+        },
+        {
+          "answer": "b. Fuel temperature increased",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.4, page 8-9"
+        },
+        {
+          "answer": "c. Pool temperature is increased",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.4, page 8-9"
+        },
+        {
+          "answer": "d. Xe135 increased",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 8.4, page 8-9"
+        }
+      ]
+    },
+    {
+      "question": "A.18 [1.0 point] In a reactor with Keff = 0.7, the source contributes 1500 neutrons in the first generation. Changing from the first generation to the third generation, the number of TOTAL neutrons in the THIRD generation is:",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. 2550",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.3, page 5-5 2nd Gen = n + K*n = 1500 + (0.7 * 1500) = 2550 3rd Gen = n + K*n = 1500 + (0.7 * 2550) = 3285"
+        },
+        {
+          "answer": "b. 3285",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.3, page 5-5 2nd Gen = n + K*n = 1500 + (0.7 * 1500) = 2550 3rd Gen = n + K*n = 1500 + (0.7 * 2550) = 3285"
+        },
+        {
+          "answer": "c. 4335",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.3, page 5-5 2nd Gen = n + K*n = 1500 + (0.7 * 1500) = 2550 3rd Gen = n + K*n = 1500 + (0.7 * 2550) = 3285"
+        },
+        {
+          "answer": "d. 4500",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.3, page 5-5 2nd Gen = n + K*n = 1500 + (0.7 * 1500) = 2550 3rd Gen = n + K*n = 1500 + (0.7 * 2550) = 3285"
+        }
+      ]
+    },
+    {
+      "question": "A.19 [1.0 point] The scram setpoint of a reactor is 1100 kW and the scram delay time is 0.05 seconds. If the injection of a sample results in a 100 millisecond period, which ONE of the following is the peak power of the reactor at SHUTDOWN?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. 1105 Kw",
+          "correct": false,
+          "feedback": "Incorrect. Reference: P = P0et/T = 1100kW * e(0.05/0.1) = 1813 kW"
+        },
+        {
+          "answer": "b. 1156 kW",
+          "correct": false,
+          "feedback": "Incorrect. Reference: P = P0et/T = 1100kW * e(0.05/0.1) = 1813 kW"
+        },
+        {
+          "answer": "c. 1813 kW",
+          "correct": true,
+          "feedback": "Correct. Reference: P = P0et/T = 1100kW * e(0.05/0.1) = 1813 kW"
+        },
+        {
+          "answer": "d. 1856 kW",
+          "correct": false,
+          "feedback": "Incorrect. Reference: P = P0et/T = 1100kW * e(0.05/0.1) = 1813 kW"
+        }
+      ]
+    },
+    {
+      "question": "A.20 [1.0 point] Which ONE of the following describes how delayed neutrons are produced?",
+      "type": "multiple_choice",
+      "answers": [
+        {
+          "answer": "a. Directly from fission",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 3.2.2"
+        },
+        {
+          "answer": "b. Decay of fission fragments",
+          "correct": true,
+          "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 3.2.2"
+        },
+        {
+          "answer": "c. Decay of O-16",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 3.2.2"
+        },
+        {
+          "answer": "d. Photoelectric effect",
+          "correct": false,
+          "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 3.2.2"
+        }
+      ]
+    }
+]  
