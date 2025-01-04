@@ -1,0 +1,526 @@
+[
+  {
+    "question": "A.01 [1.0 point] Which ONE of the following statements describes a NEGATIVE moderator temperature coefficient?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. When moderator temperature increases, negative reactivity is added",
+        "correct": true,
+        "feedback": "Correct. Reference: Introduction to Nuclear Operation, Reed Burn, 1982, Sec 6.4"
+      },
+      {
+        "answer": "b. When moderator temperature decreases, negative reactivity is added",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Introduction to Nuclear Operation, Reed Burn, 1982, Sec 6.4"
+      },
+      {
+        "answer": "c. When moderator temperature increases, positive reactivity is added",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Introduction to Nuclear Operation, Reed Burn, 1982, Sec 6.4"
+      },
+      {
+        "answer": "d. When moderator temperature increases, no change in reactivity",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Introduction to Nuclear Operation, Reed Burn, 1982, Sec 6.4"
+      }
+    ]
+  },
+  {
+    "question": "A.02 [1.0 point] You're increasing reactor power on a steady +13 second period. How long will it take to increase power by a factor of 10?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 10 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988. ln (P/P0) × period = time, ln(10) × 13 = 2.30 × 13 = 29.9"
+      },
+      {
+        "answer": "b. 20 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988. ln (P/P0) × period = time, ln(10) × 13 = 2.30 × 13 = 29.9"
+      },
+      {
+        "answer": "c. 30 seconds",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988. ln (P/P0) × period = time, ln(10) × 13 = 2.30 × 13 = 29.9"
+      },
+      {
+        "answer": "d. 40 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988. ln (P/P0) × period = time, ln(10) × 13 = 2.30 × 13 = 29.9"
+      }
+    ]
+  },
+  {
+    "question": "A.03 [1.0 point] During the time following a reactor scram, reactor power decreases on an 80 second period, which corresponds to the half-life of the longest-lived delayed neutron precursors of:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 80 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, J.  “Introduction to Nuclear Engineering” p. 88. Group 1 is the longest-lived delayed neutron precursor for thermal fission in U-235, with a half-life of 55.72 sec."
+      },
+      {
+        "answer": "b. 55 seconds",
+        "correct": true,
+        "feedback": "Correct. Reference: Lamarsh, J.  “Introduction to Nuclear Engineering” p. 88. Group 1 is the longest-lived delayed neutron precursor for thermal fission in U-235, with a half-life of 55.72 sec."
+      },
+      {
+        "answer": "c. 40 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, J.  “Introduction to Nuclear Engineering” p. 88. Group 1 is the longest-lived delayed neutron precursor for thermal fission in U-235, with a half-life of 55.72 sec."
+      },
+      {
+        "answer": "d. 20 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, J.  “Introduction to Nuclear Engineering” p. 88. Group 1 is the longest-lived delayed neutron precursor for thermal fission in U-235, with a half-life of 55.72 sec."
+      }
+    ]
+  },
+  {
+    "question": "A.04 [1.0 point] Reactor operator performs a $1.50 pulse. Which ONE of the following best describes the values of Keff and ρ during the power increment?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Keff = 1 and ρ = 1",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "b. Keff > 1 and ρ = 1",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "c. Keff > 1 and β-eff < ρ < 1",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "d. Keff > 1 and 0 < ρ < β-eff",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      }
+    ]
+  },
+  {
+    "question": "A.05 [1.0 point] If the multiplication factor, k, is increased from 0.800 to 0.950, the amount of reactivity added is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.157",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21.  ∆ρ = ρ1 – ρ2 where ρ1 = Keff1-1/Keff1 and ρ2 = Keff2-1/Keff2. Substitute ρ1 and ρ2 with Keff1 and Keff2 into the equation above, the result is ∆ρ = keff1-keff2/(keff1 x keff2) = 0.95-0.8 /(0.8*0.95)=0.197"
+      },
+      {
+        "answer": "b. 0.167",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21.  ∆ρ = ρ1 – ρ2 where ρ1 = Keff1-1/Keff1 and ρ2 = Keff2-1/Keff2. Substitute ρ1 and ρ2 with Keff1 and Keff2 into the equation above, the result is ∆ρ = keff1-keff2/(keff1 x keff2) = 0.95-0.8 /(0.8*0.95)=0.197"
+      },
+      {
+        "answer": "c. 0.187",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21.  ∆ρ = ρ1 – ρ2 where ρ1 = Keff1-1/Keff1 and ρ2 = Keff2-1/Keff2. Substitute ρ1 and ρ2 with Keff1 and Keff2 into the equation above, the result is ∆ρ = keff1-keff2/(keff1 x keff2) = 0.95-0.8 /(0.8*0.95)=0.197"
+      },
+      {
+        "answer": "d. 0.197",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21.  ∆ρ = ρ1 – ρ2 where ρ1 = Keff1-1/Keff1 and ρ2 = Keff2-1/Keff2. Substitute ρ1 and ρ2 with Keff1 and Keff2 into the equation above, the result is ∆ρ = keff1-keff2/(keff1 x keff2) = 0.95-0.8 /(0.8*0.95)=0.197"
+      }
+    ]
+  },
+  {
+    "question": "A.06 [1.0 point] Which ONE of the following correctly describes the SIX-FACTOR FORMULA at the NSC reactor? The multiplication factor between generation, K-effective, is the product of k-infinitive and the:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Thermal utilization factor",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+      },
+      {
+        "answer": "b. Total non-leakage probability",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+      },
+      {
+        "answer": "c. Resonance escape probability",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+      },
+      {
+        "answer": "d. Reproduction factor",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+      }
+    ]
+  },
+  {
+    "question": "A.07 [1.0 point] Which ONE of the following is a number of protons in the tritium nucleus (1T3 or 1H3)?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 1",
+        "correct": true,
+        "feedback": "Correct. Reference: Nuclides and Isotopes. Z=1, A=3, N=2"
+      },
+      {
+        "answer": "b. 2",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Nuclides and Isotopes. Z=1, A=3, N=2"
+      },
+      {
+        "answer": "c. 3",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Nuclides and Isotopes. Z=1, A=3, N=2"
+      },
+      {
+        "answer": "d. 4",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Nuclides and Isotopes. Z=1, A=3, N=2"
+      }
+    ]
+  },
+  {
+    "question": "A.08 [1.0 point] Which ONE of the following is the MAIN reason for operating reactor with thermal neutrons instead of fast neutrons?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The atomic weight of thermal neutrons is larger than fast neutrons, so thermal neutrons are easily to slow down and be captured by the fuel",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39"
+      },
+      {
+        "answer": "b. The neutron lifetime of thermal neutrons is longer than fast neutrons, so the fuel has enough time to capture thermal neutrons",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39"
+      },
+      {
+        "answer": "c. Fast neutrons give off higher radiation than thermal neutrons. Reactor needs to reduce radiation limit by using thermal neutrons",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39"
+      },
+      {
+        "answer": "d. The fission cross section of the fuel is much higher for thermal energy neutrons than fast neutrons",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39"
+      }
+    ]
+  },
+  {
+    "question": "A.09 [1.0 point] Which ONE of the following is the MINIMUM amount of reactivity that makes the NSC (finite) critical reactor to be a prompt critical reactor? This MINIMUM amount is equal to:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the shutdown margin",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.6"
+      },
+      {
+        "answer": "b. the k-effective value",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.6"
+      },
+      {
+        "answer": "c. 1.0 % ΔK/K",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.6"
+      },
+      {
+        "answer": "d. the β-effective value",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.6"
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1.0 point] A few minutes following a reactor scram at full power, the reactor period has stabilized and the power level is decreasing at a CONSTANT rate. What is a reactor power level five minutes later from 4 kW?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 1500 W",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = P0 e-t/T = 4 kW * e(300sec/-80sec) = 4 kW * exp(-3.75) = 0.0235 * 4 kW = 0.094 kW = 94 W"
+      },
+      {
+        "answer": "b. 940 W",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = P0 e-t/T = 4 kW * e(300sec/-80sec) = 4 kW * exp(-3.75) = 0.0235 * 4 kW = 0.094 kW = 94 W"
+      },
+      {
+        "answer": "c. 94 W",
+        "correct": true,
+        "feedback": "Correct. Reference: P = P0 e-t/T = 4 kW * e(300sec/-80sec) = 4 kW * exp(-3.75) = 0.0235 * 4 kW = 0.094 kW = 94 W"
+      },
+      {
+        "answer": "d. 15 W",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = P0 e-t/T = 4 kW * e(300sec/-80sec) = 4 kW * exp(-3.75) = 0.0235 * 4 kW = 0.094 kW = 94 W"
+      }
+    ]
+  },
+  {
+    "question": "A.11 [1.0 point] Reactor A increases power from 10% to 20% with a period of 25 seconds. Reactor B increases power from 80% to 100% with a period of also 25 seconds. Compared to Reactor A, the time required for the power increase of Reactor B is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. longer than A",
+        "correct": false,
+        "feedback": "Incorrect. The power of reactor A increases by a factor of 2, while the power of reactor B increases by a factor of 1.25. Since the periods are the same (rate of change is the same), power increase B takes a shorter time."
+      },
+      {
+        "answer": "b. exactly the same as A",
+        "correct": false,
+        "feedback": "Incorrect. The power of reactor A increases by a factor of 2, while the power of reactor B increases by a factor of 1.25. Since the periods are the same (rate of change is the same), power increase B takes a shorter time."
+      },
+      {
+        "answer": "c. twice that of A",
+        "correct": false,
+        "feedback": "Incorrect. The power of reactor A increases by a factor of 2, while the power of reactor B increases by a factor of 1.25. Since the periods are the same (rate of change is the same), power increase B takes a shorter time."
+      },
+      {
+        "answer": "d. shorter than A",
+        "correct": true,
+        "feedback": "Correct. The power of reactor A increases by a factor of 2, while the power of reactor B increases by a factor of 1.25. Since the periods are the same (rate of change is the same), power increase B takes a shorter time."
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1.0 point, 0.25 each] Match the following Neutron Interactions in Column A with the appropriate definition in Column B (each used only once)",
+    "type": "matching",
+    "answers": [
+      {
+        "columnA": "a. Fission",
+        "columnB": "3. Nucleus absorbs neutron and splits into two similarly sized parts",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 1, Module 1, Page 43-46"
+      },
+      {
+        "columnA": "b. Radiative capture",
+        "columnB": "1. Neutron enters nucleus, forms a compound nucleus, then decays by gamma emission",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 1, Module 1, Page 43-46"
+      },
+      {
+        "columnA": "c. Scattering",
+        "columnB": "4. Nucleus is struck by a neutron and emits a single neutron",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 1, Module 1, Page 43-46"
+      },
+      {
+        "columnA": "d. Particle ejection",
+        "columnB": "2. Particle enters nucleus, forms a compound nucleus and is excited enough to eject a new particle with incident neutron remaining in nucleus",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 1, Module 1, Page 43-46"
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1.0 point] In a just critical reactor, adding $0.50 worth of reactivity in the STEADY STATE MODE will cause:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The reactor period to be equal to 50 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6 page 417"
+      },
+      {
+        "answer": "b. The reactor period to be equal to (β-ρ)/λρ",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6 page 417"
+      },
+      {
+        "answer": "c. A number of prompt neutrons equals to a number of delayed neutrons",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6 page 417"
+      },
+      {
+        "answer": "d. The resultant period to be a function of the prompt neutron lifetime (T=ℓ*/ρ)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6 page 417"
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1.0 point] The following shows part of a decay chain for the radioactive element Pa-234: 91Pa234 → 92U234 This decay chain is an example of _______ decay.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Alpha",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Chart of the Nuclides"
+      },
+      {
+        "answer": "b. Beta",
+        "correct": true,
+        "feedback": "Correct. Reference: Chart of the Nuclides"
+      },
+      {
+        "answer": "c. Gamma",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Chart of the Nuclides"
+      },
+      {
+        "answer": "d. Neutron",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Chart of the Nuclides"
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1.0 point] Which one of the following statements describes the difference between differential rod worth (DRW) and integral rod worth (IRW) curves?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. DRW relates the time rate of reactivity change to rod position. IRW relates the total reactivity in the core to the time rate of reactivity change",
+        "correct": false,
+        "feedback": "Incorrect. Reference: NRC Standard Question"
+      },
+      {
+        "answer": "b. IRW relates the worth of the rod per increment of movement to rod position. DRW relates the total reactivity added by the rod to the rod position",
+        "correct": false,
+        "feedback": "Incorrect. Reference: NRC Standard Question"
+      },
+      {
+        "answer": "c. IRW is the slope of the DRW at a given rod position",
+        "correct": false,
+        "feedback": "Incorrect. Reference: NRC Standard Question"
+      },
+      {
+        "answer": "d. DRW relates the worth of the rod per increment of movement to rod position. IRW relates the total reactivity added by the rod to the rod position",
+        "correct": true,
+        "feedback": "Correct. Reference: NRC Standard Question"
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1.0 point] Which ONE of the following isotopes has the LEAST thermal neutron cross section?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Cd-112",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table2.5, page 2-59."
+      },
+      {
+        "answer": "b. Sm-149",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table2.5, page 2-59."
+      },
+      {
+        "answer": "c. Xe-135",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table2.5, page 2-59."
+      },
+      {
+        "answer": "d. U-235",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table2.5, page 2-59."
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1.0 point] Which ONE of the following is a correct statement describing prompt and delayed neutrons? Prompt neutrons:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. are released during U-238 interacts with fast neutrons, while delayed neutrons are released during U-235 interacts with thermal neutrons",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988"
+      },
+      {
+        "answer": "b. account for less than 1% of the neutron population, while delayed neutrons account for the rest",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988"
+      },
+      {
+        "answer": "c. are released during the fission process, while delayed neutrons are released during the decayed process",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988"
+      },
+      {
+        "answer": "d. are the dominating factor in determining reactor period, while delayed neutrons have no effect on reactor period",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988"
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1.0 point] What is the condition of the reactor when k = 1?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Subcritical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: LaMarsh, Introduction to Nuclear Engineering, Page 340-341. (1-β)k=1 manipulated reads k=1/(1-β)"
+      },
+      {
+        "answer": "b. Critical",
+        "correct": true,
+        "feedback": "Correct. Reference: LaMarsh, Introduction to Nuclear Engineering, Page 340-341. (1-β)k=1 manipulated reads k=1/(1-β)"
+      },
+      {
+        "answer": "c. Super critical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: LaMarsh, Introduction to Nuclear Engineering, Page 340-341. (1-β)k=1 manipulated reads k=1/(1-β)"
+      },
+      {
+        "answer": "d. Prompt critical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: LaMarsh, Introduction to Nuclear Engineering, Page 340-341. (1-β)k=1 manipulated reads k=1/(1-β)"
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1.0 point] Which ONE of the following conditions will INCREASE the shutdown margin of a reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Lowering moderator temperature (assume negative temperature coefficient)",
+        "correct": true,
+        "feedback": "Correct. Decreasing the reactivity worth in the core will increase the shutdown margin."
+      },
+      {
+        "answer": "b. Insertion of a positive reactivity worth experiment",
+        "correct": false,
+        "feedback": "Incorrect. Decreasing the reactivity worth in the core will increase the shutdown margin."
+      },
+      {
+        "answer": "c. Burnout of a burnable poison",
+        "correct": false,
+        "feedback": "Incorrect. Decreasing the reactivity worth in the core will increase the shutdown margin."
+      },
+      {
+        "answer": "d. Fuel depletion",
+        "correct": false,
+        "feedback": "Incorrect. Decreasing the reactivity worth in the core will increase the shutdown margin."
+      }
+    ]
+  },
+  {
+    "question": "A.20 [1.0 point] Which ONE of the following physical characteristics of the TRIGA fuel is the main contributor for the prompt negative temperature coefficient?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. As the fuel heats up the resonance absorption peaks broaden and increases the likelihood of neutron absorption in U-238",
+        "correct": false,
+        "feedback": "Incorrect. Reference: TRIGA Fuel Design"
+      },
+      {
+        "answer": "b. As the fuel heats up a rapid increase in moderator temperature occurs through conduction and convection heat transfer mechanisms which adds negative reactivity",
+        "correct": false,
+        "feedback": "Incorrect. Reference: TRIGA Fuel Design"
+      },
+      {
+        "answer": "c. As the fuel heats up fission product poisons (e.g., Xe) increase in concentration within the fuel matrix and add negative reactivity via neutron absorption",
+        "correct": false,
+        "feedback": "Incorrect. Reference: TRIGA Fuel Design"
+      },
+      {
+        "answer": "d. As the fuel heats up the oscillating hydrogen in the ZrH lattice imparts energy to a thermal neutron, thereby increasing its mean free path and probability of escape",
+        "correct": true,
+        "feedback": "Correct. Reference: TRIGA Fuel Design"
+      }
+    ]
+  }
+]

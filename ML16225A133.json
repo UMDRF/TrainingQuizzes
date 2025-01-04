@@ -1,0 +1,522 @@
+[
+  {
+    "question": "A.001 [1.0 point] Keff is K∞ times …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the fast fission factor (ε)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Module 3, ℞ Theory (Nuclear Parameters), E.O. 1.1 a&b, pg. 9."
+      },
+      {
+        "answer": "b. the total non-leakage probability (ℒf × ℒth)",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook Module 3, ℞ Theory (Nuclear Parameters), E.O. 1.1 a&b, pg. 9."
+      },
+      {
+        "answer": "c. the reproduction factor (η)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Module 3, ℞ Theory (Nuclear Parameters), E.O. 1.1 a&b, pg. 9."
+      },
+      {
+        "answer": "d. the resonance escape probability (p)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Module 3, ℞ Theory (Nuclear Parameters), E.O. 1.1 a&b, pg. 9."
+      }
+    ]
+  },
+  {
+    "question": "A.002 [1.0 point] Which ONE of the following is an example of alpha decay?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 35Br87 ➔ 33As83",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics & ℞ Theory, Volume 1, Module 1, Atomic and Nuclear Physics, Enabling Objective 2.1."
+      },
+      {
+        "answer": "b. 35Br87 ➔ 35Br86",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics & ℞ Theory, Volume 1, Module 1, Atomic and Nuclear Physics, Enabling Objective 2.1."
+      },
+      {
+        "answer": "c. 35Br87 ➔ 34Se86",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics & ℞ Theory, Volume 1, Module 1, Atomic and Nuclear Physics, Enabling Objective 2.1."
+      },
+      {
+        "answer": "d. 35Br87 ➔ 36Kr87",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics & ℞ Theory, Volume 1, Module 1, Atomic and Nuclear Physics, Enabling Objective 2.1."
+      }
+    ]
+  },
+  {
+    "question": "A.003 [1.0 point] An experimenter makes an error loading a rabbit sample. Injection of the sample results in a 100 millisecond period. If the scram setpoint is 12.5 Mwatt and the scram delay time is 0.1 seconds, WHICH ONE of the following is the peak power of the reactor at shutdown?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 12.5 Mw",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Volume 2, Module 4, pp. 11."
+      },
+      {
+        "answer": "b. 25.0 Mw",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Volume 2, Module 4, pp. 11."
+      },
+      {
+        "answer": "c. 34.0 Mw",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Volume 2, Module 4, pp. 11."
+      },
+      {
+        "answer": "d. 125 Mw",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Volume 2, Module 4, pp. 11."
+      }
+    ]
+  },
+  {
+    "question": "A.004 [1.0 point] With the reactor on a constant period which transient will take the LONGEST time to complete? A reactor power change of …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5%, going from 1% to 6% of rated power.",
+        "correct": true,
+        "feedback": "Correct. Reference: Standard NRC question."
+      },
+      {
+        "answer": "b. 10%, going from 10% to 20% of rated power.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC question."
+      },
+      {
+        "answer": "c. 15%, going from 20% to 35% of rated power.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC question."
+      },
+      {
+        "answer": "d. 20%, going from 40% to 60% of rated power.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC question."
+      }
+    ]
+  },
+  {
+    "question": "A.005 [1.0 point] An Integral Rod Worth (IRW) curve is ________________, while a Differential Rod Worth (DRW) curve is __________.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the total reactivity worth added by the rod at any point of withdrawal; the reactivity change per unit movement of the rod at the point of withdrawal.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Module 3, Control Rods, page 51."
+      },
+      {
+        "answer": "b. at its maximum value when the rod is approximately half-way out of the core; at its maximum value when the rod is fully withdrawn from the core.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 3, Control Rods, page 51."
+      },
+      {
+        "answer": "c. the slope of the DRW curve at any point of withdrawal; the area under the IRW curve at any point of withdrawal.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 3, Control Rods, page 51."
+      },
+      {
+        "answer": "d. the reactivity change per unit movement of the rod at any point of withdrawal; the total reactivity worth of the rod at any point of withdrawal.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 3, Control Rods, page 51."
+      }
+    ]
+  },
+  {
+    "question": "A.006 [1.0 point] You enter the control room and note that all nuclear instrumentation channels show a steady neutron level, and no rods are in motion. Which ONE of the following conditions CANNOT be true?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The reactor is critical.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook, Nuclear Physics & ℞Theory."
+      },
+      {
+        "answer": "b. The reactor is subcritical.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook, Nuclear Physics & ℞Theory."
+      },
+      {
+        "answer": "c. The reactor is supercritical.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Handbook, Nuclear Physics & ℞Theory."
+      },
+      {
+        "answer": "d. The neutron source has been removed from the core.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook, Nuclear Physics & ℞Theory."
+      }
+    ]
+  },
+  {
+    "question": "A.007 [1.0 point] Core excess reactivity changes with …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. fuel element burnup",
+        "correct": true,
+        "feedback": "Correct. Reference: Technical Specification Requirement."
+      },
+      {
+        "answer": "b. control rod height",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Technical Specification Requirement."
+      },
+      {
+        "answer": "c. neutron energy level",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Technical Specification Requirement."
+      },
+      {
+        "answer": "d. reactor power level",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Technical Specification Requirement."
+      }
+    ]
+  },
+  {
+    "question": "A.008 [1.0 point] Which ONE of the following is the principal source of heat in the reactor after a shutdown from extended operation at 10 MW?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Decay of fission products.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, page 4-33."
+      },
+      {
+        "answer": "b. Spontaneous fission of U-238.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, page 4-33."
+      },
+      {
+        "answer": "c. Production of delayed neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, page 4-33."
+      },
+      {
+        "answer": "d. Production of prompt gamma rays.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, page 4-33."
+      }
+    ]
+  },
+  {
+    "question": "A.009 [1.0 point] The moderator-to-fuel ratio describes the relationship between the number of moderator atoms in a volume of core to the number of fuel atoms. A reactor which is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. undermoderated will have a positive moderator temperature coefficient.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 3, Reactivity Coefficients, page 25."
+      },
+      {
+        "answer": "b. undermoderated will have a negative moderator temperature coefficient.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Module 3, Reactivity Coefficients, page 25."
+      },
+      {
+        "answer": "c. overmoderated will have a constant moderator temperature coefficient.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 3, Reactivity Coefficients, page 25."
+      },
+      {
+        "answer": "d. overmoderated will have a negative moderator temperature coefficient.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 3, Reactivity Coefficients, page 25."
+      }
+    ]
+  },
+  {
+    "question": "A.010 [1.0 point] Which ONE of the following statements is the definition of REACTIVITY?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. A measure of the core's fuel depletion.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook Vol 1 Module 3."
+      },
+      {
+        "answer": "b. A measure of the core's deviation from criticality.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Handbook Vol 1 Module 3."
+      },
+      {
+        "answer": "c. Equal to 1.00 ∆K/K when the reactor is critical.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook Vol 1 Module 3."
+      },
+      {
+        "answer": "d. Equal to 1.00 ∆K/K when the reactor is prompt critical.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook Vol 1 Module 3."
+      }
+    ]
+  },
+  {
+    "question": "A.011 [1.0 point] Which ONE of the following factors in the 'six factor' formula is the MOST affected by the CONTROL BLADES?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fast fission factor",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2.2, page 3-18."
+      },
+      {
+        "answer": "b. Reproduction factor",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2.2, page 3-18."
+      },
+      {
+        "answer": "c. Thermal utilization factor",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2.2, page 3-18."
+      },
+      {
+        "answer": "d. Resonance escape probability",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2.2, page 3-18."
+      }
+    ]
+  },
+  {
+    "question": "A.012 [1.0 point] Which ONE of the following reactor changes requires a control rod INSERTION to return reactor power to its initial level following the change?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Formation of N16 in the coolant.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook."
+      },
+      {
+        "answer": "b. Removal of an experiment with positive reactivity from the reactor.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook."
+      },
+      {
+        "answer": "c. Buildup of Xe135.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook."
+      },
+      {
+        "answer": "d. A fault in the automatic system resulting in a primary coolant temperature decrease.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Handbook."
+      }
+    ]
+  },
+  {
+    "question": "A.013 [1.0 point] Which of the following statements describes the concentration of Xenon in the core after a scram from extended operation at 10 MW? Xenon concentration …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. initially decreases due to loss of Iodine production then increases to maximum concentration.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook, Volume 2, Module 3, ℞ Theory (Nuclear Parameters)."
+      },
+      {
+        "answer": "b. decreases to a Xenon free condition in approximately ten (10) hours.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook, Volume 2, Module 3, ℞ Theory (Nuclear Parameters)."
+      },
+      {
+        "answer": "c. increases to maximum in approximately ten (10) hours due to the reduction in Xenon burnup.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Handbook, Volume 2, Module 3, ℞ Theory (Nuclear Parameters)."
+      },
+      {
+        "answer": "d. remains at equilibrium value since power level has no effect on Xenon concentration.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook, Volume 2, Module 3, ℞ Theory (Nuclear Parameters)."
+      }
+    ]
+  },
+  {
+    "question": "A.014 [1.0 point] Which ONE of the following statements concerning reactor poisons is NOT true?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. During reactor operation, Xenon concentration is dependent on reactor power level.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook."
+      },
+      {
+        "answer": "b. Following shutdown, Samarium concentration will increase to some value then stabilize.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook."
+      },
+      {
+        "answer": "c. During reactor operation, Samarium concentration is independent of reactor power level.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook."
+      },
+      {
+        "answer": "d. Following shutdown, Xenon concentration will initially increase to some value then decrease exponentially.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook."
+      }
+    ]
+  },
+  {
+    "question": "A.015 [1.0 point] One minute following a scram from full power, the indications on the nuclear channels are primarily due to:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Prompt neutrons",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 6.2.1, & 6.2.2."
+      },
+      {
+        "answer": "b. Delayed and photo-neutrons",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 6.2.1, & 6.2.2."
+      },
+      {
+        "answer": "c. Prompt and delayed neutrons",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 6.2.1, & 6.2.2."
+      },
+      {
+        "answer": "d. Prompt, delayed and photo-neutrons",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 6.2.1, & 6.2.2."
+      }
+    ]
+  },
+  {
+    "question": "A.016 [1.0 point] Which ONE of the following reactor parameter changes would have the LEAST effect on reactivity of the reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Increase moderator temperature by 5°F",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      },
+      {
+        "answer": "b. Increase fuel temperature by 50°F",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      },
+      {
+        "answer": "c. Drain the water out of the center flux trap.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      },
+      {
+        "answer": "d. Increase the pressure of the moderator by 20 psi.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      }
+    ]
+  },
+  {
+    "question": "A.017 [1.0 point] Which ONE of the following isotopes will cause a neutron to lose the most energy in an ELASTIC scattering reaction?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. O16",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook, Nuclear Cross-Sections and Neutron Flux, p. 5."
+      },
+      {
+        "answer": "b. C12",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook, Nuclear Cross-Sections and Neutron Flux, p. 5."
+      },
+      {
+        "answer": "c. Be9",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook, Nuclear Cross-Sections and Neutron Flux, p. 5."
+      },
+      {
+        "answer": "d. H1",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Handbook, Nuclear Cross-Sections and Neutron Flux, p. 5."
+      }
+    ]
+  },
+  {
+    "question": "A.018 [1.0 point] A common method for calibrating control elements (rods, blades, etc.), is to measure doubling time then calculate period. If the doubling time is 42 seconds, which ONE of the following is the period?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 29 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module X, Standard NRC Question. Also: period = (doubling time) ÷ (ln(2)) = 42/0.693 = 60.6 ≈ 61."
+      },
+      {
+        "answer": "b. 42 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module X, Standard NRC Question. Also: period = (doubling time) ÷ (ln(2)) = 42/0.693 = 60.6 ≈ 61."
+      },
+      {
+        "answer": "c. 61 seconds",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Module X, Standard NRC Question. Also: period = (doubling time) ÷ (ln(2)) = 42/0.693 = 60.6 ≈ 61."
+      },
+      {
+        "answer": "d. 84 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module X, Standard NRC Question. Also: period = (doubling time) ÷ (ln(2)) = 42/0.693 = 60.6 ≈ 61."
+      }
+    ]
+  },
+  {
+    "question": "A.019 [1.0 point] The effective target area, in cm², presented by a single nucleus to an incident neutron beam is defined as:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. a neutron flux.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 2.51."
+      },
+      {
+        "answer": "b. a mean free path.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 2.51."
+      },
+      {
+        "answer": "c. a microscopic cross section.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 2.51."
+      },
+      {
+        "answer": "d. a macroscopic cross section.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 2.51."
+      }
+    ]
+  },
+  {
+    "question": "A.020 [1.0 point] What is the kinetic energy range of a thermal neutron?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. > 1 MeV",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook, Volume 1, Module 2, Neutron Moderation, p. 23."
+      },
+      {
+        "answer": "b. 100 KeV – 1 MeV",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook, Volume 1, Module 2, Neutron Moderation, p. 23."
+      },
+      {
+        "answer": "c. 1 eV – 100 KeV",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook, Volume 1, Module 2, Neutron Moderation, p. 23."
+      },
+      {
+        "answer": "d. < 1 eV",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Handbook, Volume 1, Module 2, Neutron Moderation, p. 23."
+      }
+    ]
+  }
+]

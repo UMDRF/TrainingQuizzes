@@ -1,0 +1,522 @@
+[
+  {
+    "question": "A.01 (1.0 points) {1.0} In a subcritical reactor, Keff is increased from 0.861 to 0.946. Which one of the following is the amount of reactivity that was added to the core?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.086 delta K/K",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DPC Fundamentals of Nuclear Reactor Engineering p. 121, NUS, Vol. 3, p. 6.1-3"
+      },
+      {
+        "answer": "b. 0.104 delta K/K",
+        "correct": true,
+        "feedback": "Correct. Reference: DPC Fundamentals of Nuclear Reactor Engineering p. 121, NUS, Vol. 3, p. 6.1-3"
+      },
+      {
+        "answer": "c. 0.125 delta K/K",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DPC Fundamentals of Nuclear Reactor Engineering p. 121, NUS, Vol. 3, p. 6.1-3"
+      },
+      {
+        "answer": "d. 0.220 delta K/K",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DPC Fundamentals of Nuclear Reactor Engineering p. 121, NUS, Vol. 3, p. 6.1-3"
+      }
+    ]
+  },
+  {
+    "question": "A.02 (1.0 points) {2.0} Given the following Primary System Parameters. Reactor Pool Volume 14,250 gals, Reactor Pool Temperature 104º F, Reactor Power Level 1 MW. Which one of the following is the amount of time that is available before the reactor has to be scrammed, at 118 °F pool temperature, when primary coolant flow is lost?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 15 minutes",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Nuclear Energy Training, Module 4, Plant Performance Section 2"
+      },
+      {
+        "answer": "b. 22 minutes",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Nuclear Energy Training, Module 4, Plant Performance Section 2"
+      },
+      {
+        "answer": "c. 29 minutes",
+        "correct": true,
+        "feedback": "Correct. Reference: Nuclear Energy Training, Module 4, Plant Performance Section 2"
+      },
+      {
+        "answer": "d. 36 minutes",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Nuclear Energy Training, Module 4, Plant Performance Section 2"
+      }
+    ]
+  },
+  {
+    "question": "A.03 (1.0 points) {3.0} Which ONE of the following IS CORRECT with regard to criticality?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Critical rod height does NOT depend on how fast control rods are withdrawn.",
+        "correct": true,
+        "feedback": "Correct. Reference: Pulstar Reactor Trainee Notebook, Chapter 1, 1.5.3, p. 19."
+      },
+      {
+        "answer": "b. Critical rod height dictates the reactor power level when criticality is first achieved.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Pulstar Reactor Trainee Notebook, Chapter 1, 1.5.3, p. 19."
+      },
+      {
+        "answer": "c. The reactivity of the reactor increases towards infinity during the approach to criticality.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Pulstar Reactor Trainee Notebook, Chapter 1, 1.5.3, p. 19."
+      },
+      {
+        "answer": "d. The slower the approach to criticality, the lower the reactor power level will be when reaching criticality.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Pulstar Reactor Trainee Notebook, Chapter 1, 1.5.3, p. 19."
+      }
+    ]
+  },
+  {
+    "question": "A.04 (1.0 points) {4.0} The delayed neutron fraction (β) for U-235 is 0.0065. However, you note that while performing various calculations at the reactor, the value for the effective delayed neutron fraction (βeff) has a value of ≈0.007. Which of the following is most likely the reason for why βeff is larger than β?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Delayed Neutrons are born at higher energies than prompt neutrons resulting in a greater worth for the neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Theory (Neutron Characteristics) DOE-HDBK-1019/1-93"
+      },
+      {
+        "answer": "b. Delayed Neutrons are born at lower energies than prompt neutrons resulting in less leakage during slowdown to thermal energies.",
+        "correct": true,
+        "feedback": "Correct. Reference: Reactor Theory (Neutron Characteristics) DOE-HDBK-1019/1-93"
+      },
+      {
+        "answer": "c. The fuel also contains U-238 which has a relatively cross section of absorption during fast fission.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Theory (Neutron Characteristics) DOE-HDBK-1019/1-93"
+      },
+      {
+        "answer": "d. U-238 in the core becomes Pu-239 (by neutron absorption), which has a higher beta for fission.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor Theory (Neutron Characteristics) DOE-HDBK-1019/1-93"
+      }
+    ]
+  },
+  {
+    "question": "A.05 (1.0 points) {5.0} The effective neutron multiplication factor, Keff, is defined as:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. absorption/(production + leakage)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Pulstar Reactor Trainee Notebook, Section 1.5.2."
+      },
+      {
+        "answer": "b. (production + leakage)/absorption",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Pulstar Reactor Trainee Notebook, Section 1.5.2."
+      },
+      {
+        "answer": "c. (absorption + leakage)/production",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Pulstar Reactor Trainee Notebook, Section 1.5.2."
+      },
+      {
+        "answer": "d. production/(absorption + leakage)",
+        "correct": true,
+        "feedback": "Correct. Reference: Pulstar Reactor Trainee Notebook, Section 1.5.2."
+      }
+    ]
+  },
+  {
+    "question": "A.06 (1.0 points) {6.0} Several processes occur that may increase or decrease the available number of neutrons. SELECT from the following the six-factor formula term that describes an INCREASE in the number of neutrons during the cycle.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Thermal utilization factor (f).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, page 3-15."
+      },
+      {
+        "answer": "b. Resonance escape probability (p).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, page 3-15."
+      },
+      {
+        "answer": "c. Fast non-leakage probability (ℓf).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, page 3-15."
+      },
+      {
+        "answer": "d. Fast Fission factor (ε).",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, Introduction to Nuclear Reactor Operations, page 3-15."
+      }
+    ]
+  },
+  {
+    "question": "A.07 (1.0 points) {7.0} Which ONE of the following correctly describes the SIX- FACTOR FORMULA?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. K∞ = Keff * the reproduction factor",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+      },
+      {
+        "answer": "b. K∞ = Keff * the total leakage probability",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+      },
+      {
+        "answer": "c. Keff = K∞ * the total non-leakage probability",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+      },
+      {
+        "answer": "d. Keff = K∞ * (the resonance escape probability * the reproduction factor)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+      }
+    ]
+  },
+  {
+    "question": "A.08 (1.0 points) {8.0} The following graph for U-235 depicts……",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. neutron energy distribution in the moderator.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Manual Vol. 1, pg. 57"
+      },
+      {
+        "answer": "b. axial flux distribution in the core.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Manual Vol. 1, pg. 57"
+      },
+      {
+        "answer": "c. radial flux distribution in the core.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Manual Vol. 1, pg. 57"
+      },
+      {
+        "answer": "d. fission product yield distribution.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Manual Vol. 1, pg. 57"
+      }
+    ]
+  },
+  {
+    "question": "A.09 (1.0 points) {9.0} Which statement illustrates a characteristic of Subcritical Multiplication?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. As Keff approaches unity (1), for the same increase in Keff, a greater increase in neutron population occurs.",
+        "correct": true,
+        "feedback": "Correct. Reference: Nuclear Training Manual"
+      },
+      {
+        "answer": "b. The number of neutrons gained per generation gets larger for each succeeding generation.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Nuclear Training Manual"
+      },
+      {
+        "answer": "c. The number of fission neutrons remains constant for each generation.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Nuclear Training Manual"
+      },
+      {
+        "answer": "d. The number of source neutrons decreases for each generation.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Nuclear Training Manual"
+      }
+    ]
+  },
+  {
+    "question": "A.10 (1.0 points) {10.0} Which ONE of the following is an example of beta decay?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 35Br87 ≡ 33As83",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE-HDBK-1019/1-93 - MODES OF RADIOACTIVE DECAY"
+      },
+      {
+        "answer": "b. 35Br87 ≡ 35Br86",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE-HDBK-1019/1-93 - MODES OF RADIOACTIVE DECAY"
+      },
+      {
+        "answer": "c. 35Br87 ≡ 34Se86",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE-HDBK-1019/1-93 - MODES OF RADIOACTIVE DECAY"
+      },
+      {
+        "answer": "d. 35Br87 ≡ 36Kr87",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE-HDBK-1019/1-93 - MODES OF RADIOACTIVE DECAY"
+      }
+    ]
+  },
+  {
+    "question": "A.11 (1.0 points) {11.0} Given the following diagram, which of the following most correctly describe the condition of the reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The prompt jump occurs because the production rate of delayed neutrons abruptly changes as reactivity is added.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSBR Training Manual, Chapter 2.22 REACTOR KINETICS"
+      },
+      {
+        "answer": "b. At T=15s, the reactor is considered prompt critical.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSBR Training Manual, Chapter 2.22 REACTOR KINETICS"
+      },
+      {
+        "answer": "c. After the prompt jump, the rate of change of power cannot increase any more rapidly than the built-in time delay the neutron precursor half-lives allow.",
+        "correct": true,
+        "feedback": "Correct. Reference: PSBR Training Manual, Chapter 2.22 REACTOR KINETICS"
+      },
+      {
+        "answer": "d. Shortly after T=0s, the reactor power is immediately turned due to the rise in moderator temperature.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSBR Training Manual, Chapter 2.22 REACTOR KINETICS"
+      }
+    ]
+  },
+  {
+    "question": "A.12 (1.0 points) {12.0} Refer to the associated figure which includes drawings for three 1/M plots labeled A, B, and C Plot B shows an ideal approach to criticality. Therefore, the least conservative approach to criticality is represented by plot _____ and could possibly be the result of recording count rates at ________ time intervals after incremental fuel loading steps compared to the situations represented by the other plots.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. A; shorter",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSU Training Manual, Section 2.7 “Critical Mass Experiment”"
+      },
+      {
+        "answer": "b. A; longer",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSU Training Manual, Section 2.7 “Critical Mass Experiment”"
+      },
+      {
+        "answer": "c. C; shorter",
+        "correct": true,
+        "feedback": "Correct. Reference: PSU Training Manual, Section 2.7 “Critical Mass Experiment”, DOE-HDBK-1019/2-93 Reactor Theory (Reactor Operations)"
+      },
+      {
+        "answer": "d. C; longer",
+        "correct": false,
+        "feedback": "Incorrect. Reference: PSU Training Manual, Section 2.7 “Critical Mass Experiment”, DOE-HDBK-1019/2-93 Reactor Theory (Reactor Operations)"
+      }
+    ]
+  },
+  {
+    "question": "A.13 (1.0 points) {13.0} Why does the fuel temperature (Doppler) coefficient become less negative at higher fuel temperatures?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. As reactor power increases, the rate of increase in the fuel temperature diminishes.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: FNRE pg. 146, 149 / Nuc. Trng. Man. pg. RX 6-8"
+      },
+      {
+        "answer": "b. Neutrons penetrate deeper into the fuel, resulting in an increase in the fast fission factor.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: FNRE pg. 146, 149 / Nuc. Trng. Man. pg. RX 6-8"
+      },
+      {
+        "answer": "c. The amount of self-shielding increases, resulting in less neutron absorption by the inner fuel.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: FNRE pg. 146, 149 / Nuc. Trng. Man. pg. RX 6-8"
+      },
+      {
+        "answer": "d. The broadening of the resonance peaks diminishes the per degree change in fuel temperature.",
+        "correct": true,
+        "feedback": "Correct. Reference: FNRE pg. 146, 149 / Nuc. Trng. Man. pg. RX 6-8"
+      }
+    ]
+  },
+  {
+    "question": "A.14 (1.0 points) {14.0} Which ONE of the following conditions describes a critical reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Keff = 1; ∆k/k (ρ) = 1",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. Keff = 1; ∆k/k (ρ) = 0",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. Keff = 0; ∆k/k (ρ) = 1",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. Keff = 0; ∆k/k (ρ) = 0",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.15 (1.0 points) {15.0} Reactor is increasing power from 100 W to 10 kW in steady state mode. Which ONE of the following best describes the values of K eff and ρ during the power increment?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Keff = 1 and ρ = 0",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "b. Keff = 1 and ρ = 1",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "c. Keff > 1 and 0 < ρ < β-eff",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "d. Keff > 1 and β-eff < ρ < 1",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      }
+    ]
+  },
+  {
+    "question": "A.16 (1.0 points) {16.0} During a xenon-free reactor startup, critical data was inadvertently taken two decades below the required intermediate range (IR) level. The critical data was taken again at the proper IR level with the same reactor coolant temperatures. The critical rod (CEA) position taken at the proper IR level ________ the critical rod position taken two decades below the proper IR level.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. is less than",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Fundamentals of Nuclear Reactor Engineering pg. 87, 117, 150"
+      },
+      {
+        "answer": "b. is the same as",
+        "correct": true,
+        "feedback": "Correct. Reference: Fundamentals of Nuclear Reactor Engineering pg. 87, 117, 150"
+      },
+      {
+        "answer": "c. is greater than",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Fundamentals of Nuclear Reactor Engineering pg. 87, 117, 150"
+      },
+      {
+        "answer": "d. cannot be compared to",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Fundamentals of Nuclear Reactor Engineering pg. 87, 117, 150"
+      }
+    ]
+  },
+  {
+    "question": "A.17 (1.0 points) {17.0} Two different neutron sources were used during two reactor startups. The source used in the first startup emits ten times as many neutrons as the source used in the second startup. Assume all other factors are the same for the second startup. Which ONE of the following states the expected result at criticality?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Neutron flux will be higher for the first startup.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, Introduction to Nuclear Reactor Operations, Pages 5-14 thru 5-19."
+      },
+      {
+        "answer": "b. Neutron flux will be higher for the second startup.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, Pages 5-14 thru 5-19."
+      },
+      {
+        "answer": "c. The first startup will result in a higher rod position (rods further out of the core).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, Pages 5-14 thru 5-19."
+      },
+      {
+        "answer": "d. The second startup will result in a higher rod position (rods further out of the core).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, Pages 5-14 thru 5-19."
+      }
+    ]
+  },
+  {
+    "question": "A.18 (1.0 points) {18.0} Given the associated graph, which of the following answers best describe the neutron behavior within Region II?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The neutron cross section is inversely proportional to the neutron velocity (1/V)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "b. The neutron cross section decreases steadily with increasing neutron energy (1/E).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "c. Neutrons of specific energy levels (e.g., 50 ev, 100 kev) have a greater potential for leakage from the reactor core",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "d. Neutrons of specific energy levels (e.g., 50 ev, 100 kev) are more likely to be readily absorbed than neutrons at other energy levels.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      }
+    ]
+  },
+  {
+    "question": "A.19 (1.0 points) {19.0} Using the associated graph which of the following best describes what happens to the concentration of Xenon (Xe)-135 from point A to B?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The concentration of Iodine-135 was at a higher equilibrium level at 100% power and is therefore producing Xe-135 at a higher rate until it reaches a maximum value 7-8 hours later.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "b. The concentration of Xe-135 reaches a maximum value 40 hours after the down power transient and will decrease to a new, higher equilibrium value until it reaches a maximum value equilibrium",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "c. The insertion of control rods displaces the axial reactor flux causing an increased production rate of xenon gas until it reaches a maximum value 7-8 hours after the down power transient.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      },
+      {
+        "answer": "d. The decay rate of fission product, Cesium-135 increases due to the down power transient which increases the concentration of Xe-135 to a maximum value 40 hours later.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2"
+      }
+    ]
+  },
+  {
+    "question": "A.20 (1.0 points) {20.0} You are increasing reactor power on a steady +26 second period. How long does it take to increase power by a factor of 1000?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 60 seconds (1 minute)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: ln (P/P0) × period = time, ln(1000) × 26 = 6.908 × 26 = 179.6 ≈ 180 seconds"
+      },
+      {
+        "answer": "b. 180 seconds (3 minutes)",
+        "correct": true,
+        "feedback": "Correct. Reference: ln (P/P0) × period = time, ln(1000) × 26 = 6.908 × 26 = 179.6 ≈ 180 seconds"
+      },
+      {
+        "answer": "c. 300 seconds (5 minutes)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: ln (P/P0) × period = time, ln(1000) × 26 = 6.908 × 26 = 179.6 ≈ 180 seconds"
+      },
+      {
+        "answer": "d. 480 seconds (8 minutes)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: ln (P/P0) × period = time, ln(1000) × 26 = 6.908 × 26 = 179.6 ≈ 180 seconds"
+      }
+    ]
+  }
+]

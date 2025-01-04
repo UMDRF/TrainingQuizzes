@@ -1,0 +1,523 @@
+[
+  {
+    "question": "A.01 [1.0 point] All atoms of a given element have the same ___________.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Atomic Mass",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook, Volume 1, Module 1, pg. 4"
+      },
+      {
+        "answer": "b. Mass Number",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook, Volume 1, Module 1, pg. 4"
+      },
+      {
+        "answer": "c. Atomic Number",
+        "correct": true,
+        "feedback": "Correct. REF: DOE Handbook, Volume 1, Module 1, pg. 4"
+      },
+      {
+        "answer": "d. Number of Neutrons",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook, Volume 1, Module 1, pg. 4"
+      }
+    ]
+  },
+  {
+    "question": "A.02 [1.0 point] The use of a reflector results in _________.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The production of neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone & Sesonske, Nuclear Reactor Engineering, Section 4.46-4.48, pg. 170-171"
+      },
+      {
+        "answer": "b. A high neutron absorption cross section.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone & Sesonske, Nuclear Reactor Engineering, Section 4.46-4.48, pg. 170-171"
+      },
+      {
+        "answer": "c. A decrease in the critical mass of fissile material.",
+        "correct": true,
+        "feedback": "Correct. REF: Glasstone & Sesonske, Nuclear Reactor Engineering, Section 4.46-4.48, pg. 170-171"
+      },
+      {
+        "answer": "d. The decrease of the average power output for a given peak neutron flux.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone & Sesonske, Nuclear Reactor Engineering, Section 4.46-4.48, pg. 170-171"
+      }
+    ]
+  },
+  {
+    "question": "A.03 [1.0 point] ___________ is the total distance in centimeters traveled in 1 second by all the neutrons present in 1 cm3.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Neutron Flux",
+        "correct": true,
+        "feedback": "Correct. REF: Glasstone & Sesonske, Nuclear Reactor Engineering, Section 2.118, pg. 72"
+      },
+      {
+        "answer": "b. Neutron Density",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone & Sesonske, Nuclear Reactor Engineering, Section 2.118, pg. 72"
+      },
+      {
+        "answer": "c. Neutron Diffusion",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone & Sesonske, Nuclear Reactor Engineering, Section 2.118, pg. 72"
+      },
+      {
+        "answer": "d. Neutron Cross Section",
+        "correct": false,
+        "feedback": "Incorrect. REF: Glasstone & Sesonske, Nuclear Reactor Engineering, Section 2.118, pg. 72"
+      }
+    ]
+  },
+  {
+    "question": "A.04 [1.0 point] The reactor is critical at 5 watts. Which ONE of the following correctly describes the reactor behavior when a reactivity worth of 0.50 % ΔK/K is IMMEDIATELY inserted to the reactor core?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Critical",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burn, Section 4.2, Figure 4-1, pg. 4-2. 0.5 % ΔK/K = 0.005 ΔK/K = ρ, ρ > 0. ρ = (keff -1) / keff, then keff = 1.005. When k > 1, ρ > 0 and reactor is supercritical"
+      },
+      {
+        "answer": "b. Subcritical",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burn, Section 4.2, Figure 4-1, pg. 4-2. 0.5 % ΔK/K = 0.005 ΔK/K = ρ, ρ > 0. ρ = (keff -1) / keff, then keff = 1.005. When k > 1, ρ > 0 and reactor is supercritical"
+      },
+      {
+        "answer": "c. Supercritical",
+        "correct": true,
+        "feedback": "Correct. REF: Burn, Section 4.2, Figure 4-1, pg. 4-2. 0.5 % ΔK/K = 0.005 ΔK/K = ρ, ρ > 0. ρ = (keff -1) / keff, then keff = 1.005. When k > 1, ρ > 0 and reactor is supercritical"
+      },
+      {
+        "answer": "d. Delayed critical",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burn, Section 4.2, Figure 4-1, pg. 4-2. 0.5 % ΔK/K = 0.005 ΔK/K = ρ, ρ > 0. ρ = (keff -1) / keff, then keff = 1.005. When k > 1, ρ > 0 and reactor is supercritical"
+      }
+    ]
+  },
+  {
+    "question": "A.05 [1.0 point] Which ONE of the following is the MAJOR source of energy released during fission?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Kinetic energy of the fission fragments.",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Section 3.2.1, and Table 3.2, pg. 3-4 and 3-5"
+      },
+      {
+        "answer": "b. Kinetic energy of the fission neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.2.1, and Table 3.2, pg. 3-4 and 3-5"
+      },
+      {
+        "answer": "c. Decay of the fission fragments.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.2.1, and Table 3.2, pg. 3-4 and 3-5"
+      },
+      {
+        "answer": "d. Prompt gamma rays.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.2.1, and Table 3.2, pg. 3-4 and 3-5"
+      }
+    ]
+  },
+  {
+    "question": "A.06 [1.0 point] Most text books list β for a U235 fueled reactor as 0.0065 ΔK/K and βeff as being 0.0075 ΔK/K. Why is βeff larger than β?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Delayed neutrons are born at higher energies than prompt neutrons resulting in a greater worth for these neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.2.4, pg. 3-12"
+      },
+      {
+        "answer": "b. Delayed neutrons are born at lower energies than prompt neutrons resulting in a less loss due to leakage for these neutrons.",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Section 3.2.4, pg. 3-12"
+      },
+      {
+        "answer": "c. The fuel includes U238 which has a relatively large for fast fission.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.2.4, pg. 3-12"
+      },
+      {
+        "answer": "d. Some U238 in the core becomes Pu239 (by neutron absorption) which has a larger for fission.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.2.4, pg. 3-12"
+      }
+    ]
+  },
+  {
+    "question": "A.07 [1.0 point] As the moderator temperature increases, the resonance escape probability ____________.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Increases, since the moderator becomes less dense.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.3.2, pg. 3-18. Per facility/NRC comment. The NRC agrees with the facility comment and accepts answer (c) to be correct for question A.07."
+      },
+      {
+        "answer": "b. Decreases, since neutrons are more likely to be absorbed by U-238 and Pu-240.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.3.2, pg. 3-18. Per facility/NRC comment. The NRC agrees with the facility comment and accepts answer (c) to be correct for question A.07."
+      },
+      {
+        "answer": "c. Remains constant, since the effect of moderator temperature change is relatively small.",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Section 3.3.2, pg. 3-18. Per facility/NRC comment. The NRC agrees with the facility comment and accepts answer (c) to be correct for question A.07."
+      },
+      {
+        "answer": "d. Increases, since the moderator-to-fuel ratio increases.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.3.2, pg. 3-18. Per facility/NRC comment. The NRC agrees with the facility comment and accepts answer (c) to be correct for question A.07."
+      }
+    ]
+  },
+  {
+    "question": "A.08 [1.0 point] Two minutes following shutdown, reactor power is at 10 kW and decreases with a constant reactor period. Which ONE of the following is the correct power for three minutes later?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.5 kW",
+        "correct": false,
+        "feedback": "Incorrect. REF: P = Poet/τ. P = 10 kW* e180/-80. P = 10 kW *0.105 = 1.05 kW"
+      },
+      {
+        "answer": "b. 1.1 kW",
+        "correct": true,
+        "feedback": "Correct. REF: P = Poet/τ. P = 10 kW* e180/-80. P = 10 kW *0.105 = 1.05 kW"
+      },
+      {
+        "answer": "c. 3.3 kW",
+        "correct": false,
+        "feedback": "Incorrect. REF: P = Poet/τ. P = 10 kW* e180/-80. P = 10 kW *0.105 = 1.05 kW"
+      },
+      {
+        "answer": "d. 6.7 kW",
+        "correct": false,
+        "feedback": "Incorrect. REF: P = Poet/τ. P = 10 kW* e180/-80. P = 10 kW *0.105 = 1.05 kW"
+      }
+    ]
+  },
+  {
+    "question": "A.09 [1.0 point] The term ____________ defines the condition where no delay neutrons are required.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Prompt Jump",
+        "correct": false,
+        "feedback": "Incorrect. REF: Knief, Nuclear Engineering, 2nd ed., pg. 142"
+      },
+      {
+        "answer": "b. Prompt Drop",
+        "correct": false,
+        "feedback": "Incorrect. REF: Knief, Nuclear Engineering, 2nd ed., pg. 142"
+      },
+      {
+        "answer": "c. Asymptotic Period",
+        "correct": false,
+        "feedback": "Incorrect. REF: Knief, Nuclear Engineering, 2nd ed., pg. 142"
+      },
+      {
+        "answer": "d. Prompt Critical",
+        "correct": true,
+        "feedback": "Correct. REF: Knief, Nuclear Engineering, 2nd ed., pg. 142"
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1.0 point] Which one of the following correctly describes the relationship between differential rod worth (DRW) and integral rod worth (IRW)?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. DRW is the slope of the IRW curve at a given location.",
+        "correct": true,
+        "feedback": "Correct. REF: DOE Handbook, Volume 2, Module 3, “Integral and Differential Control Rod Worth”, pg. 52"
+      },
+      {
+        "answer": "b. DRW is the area under the IRW curve at a given location.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook, Volume 2, Module 3, “Integral and Differential Control Rod Worth”, pg. 52"
+      },
+      {
+        "answer": "c. DRW is the square root of the IRW curve at a given location.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook, Volume 2, Module 3, “Integral and Differential Control Rod Worth”, pg. 52"
+      },
+      {
+        "answer": "d. There is no relationship between DRW and IRW.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook, Volume 2, Module 3, “Integral and Differential Control Rod Worth”, pg. 52"
+      }
+    ]
+  },
+  {
+    "question": "A.11 [1.0 point] During a Subcritical Multiplication \"1/M\" plot, data is required to be taken. What does the 1/M represent?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The inverse of fuel elements presented in the core.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook, Volume 2, Module 4, “Subcritical Multiplication”, pg. 1-9"
+      },
+      {
+        "answer": "b. The inverse of the moderator coefficient of reactivity.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook, Volume 2, Module 4, “Subcritical Multiplication”, pg. 1-9"
+      },
+      {
+        "answer": "c. The inverse migration length of neutrons of varying energies.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook, Volume 2, Module 4, “Subcritical Multiplication”, pg. 1-9"
+      },
+      {
+        "answer": "d. The inverse multiplication of the count rate between generations.",
+        "correct": true,
+        "feedback": "Correct. REF: DOE Handbook, Volume 2, Module 4, “Subcritical Multiplication”, pg. 1-9"
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1.0 point] INELASTIC scattering is the process by which a neutron collides with a nucleus and:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Is absorbed, with the nucleus emitting a gamma ray.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook, Volume1, Module 1, “Inelastic Scattering”, pg. 45"
+      },
+      {
+        "answer": "b. Recoils with the same kinetic energy it had prior to the collision.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook, Volume1, Module 1, “Inelastic Scattering”, pg. 45"
+      },
+      {
+        "answer": "c. Recoils with a lower kinetic energy than it had prior to the collision, with the nucleus emitting a gamma ray.",
+        "correct": true,
+        "feedback": "Correct. REF: DOE Handbook, Volume1, Module 1, “Inelastic Scattering”, pg. 45"
+      },
+      {
+        "answer": "d. Recoils with a higher kinetic energy than it had prior to the collision, with the nucleus emitting a gamma ray.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook, Volume1, Module 1, “Inelastic Scattering”, pg. 45"
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1.0 point] The reaction ³₁H + e⁻ → ³₂He + υ is an example of:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Alpha Decay",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook, Volume 1, Module 1, pg. 24"
+      },
+      {
+        "answer": "b. Beta Decay",
+        "correct": true,
+        "feedback": "Correct. REF: DOE Handbook, Volume 1, Module 1, pg. 24"
+      },
+      {
+        "answer": "c. Electron Capture",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook, Volume 1, Module 1, pg. 24"
+      },
+      {
+        "answer": "d. Gamma Emission",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook, Volume 1, Module 1, pg. 24"
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1.0 point] Core Excess Reactivity changes with:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fuel Element Burnup",
+        "correct": true,
+        "feedback": "Correct. REF: Harrer, Nuclear Reactor Control Engineering, pg. 398-399. Burns, Section 6.1, pg. 6-1 and Example 6.2.1(a), pg. 6-2"
+      },
+      {
+        "answer": "b. Control Rod Height",
+        "correct": false,
+        "feedback": "Incorrect. REF: Harrer, Nuclear Reactor Control Engineering, pg. 398-399. Burns, Section 6.1, pg. 6-1 and Example 6.2.1(a), pg. 6-2"
+      },
+      {
+        "answer": "c. Neutron Energy Level",
+        "correct": false,
+        "feedback": "Incorrect. REF: Harrer, Nuclear Reactor Control Engineering, pg. 398-399. Burns, Section 6.1, pg. 6-1 and Example 6.2.1(a), pg. 6-2"
+      },
+      {
+        "answer": "d. Reactor Power Level",
+        "correct": false,
+        "feedback": "Incorrect. REF: Harrer, Nuclear Reactor Control Engineering, pg. 398-399. Burns, Section 6.1, pg. 6-1 and Example 6.2.1(a), pg. 6-2"
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1.0 point] A reactor is operating at 5 kW. 0.5% ΔK/K of positive reactivity is added to the reactor. What is the resulting period? β=0.007",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 2.47 sec",
+        "correct": false,
+        "feedback": "Incorrect. REF: T = (β-p)/λp. T = (0.007-0.005)/(0.1/sec)(0.005). T = 0.002/5E-4. T = 4 sec"
+      },
+      {
+        "answer": "b. 4.02 sec",
+        "correct": true,
+        "feedback": "Correct. REF: T = (β-p)/λp. T = (0.007-0.005)/(0.1/sec)(0.005). T = 0.002/5E-4. T = 4 sec"
+      },
+      {
+        "answer": "c. 40.0 sec",
+        "correct": false,
+        "feedback": "Incorrect. REF: T = (β-p)/λp. T = (0.007-0.005)/(0.1/sec)(0.005). T = 0.002/5E-4. T = 4 sec"
+      },
+      {
+        "answer": "d. 740 sec",
+        "correct": false,
+        "feedback": "Incorrect. REF: T = (β-p)/λp. T = (0.007-0.005)/(0.1/sec)(0.005). T = 0.002/5E-4. T = 4 sec"
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1.0 point] Which ONE of the following types of neutrons has a neutron generation time of ~13 seconds?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fast",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.3.7, pg. 3-27"
+      },
+      {
+        "answer": "b. Prompt",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.3.7, pg. 3-27"
+      },
+      {
+        "answer": "c. Delayed",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Section 3.3.7, pg. 3-27"
+      },
+      {
+        "answer": "d. Thermal",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 3.3.7, pg. 3-27"
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1.0 point] Which ONE of the following factors describes the bases for limits on rod configuration?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Rod Speed",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Example 7.4 (b), pg. 7-11"
+      },
+      {
+        "answer": "b. Total Reactor Power",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Example 7.4 (b), pg. 7-11"
+      },
+      {
+        "answer": "c. Delayed Neutron Fraction",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Example 7.4 (b), pg. 7-11"
+      },
+      {
+        "answer": "d. Axial and Radial Flux Shaping",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Example 7.4 (b), pg. 7-11"
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1.0 point] Which ONE of the following parameters for a finite reactor has a value greater than one?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fast Fission factor (ε)",
+        "correct": true,
+        "feedback": "Correct. REF: DOE Handbook, Volume 2, Module 3, Figure 1, pg. 11"
+      },
+      {
+        "answer": "b. Thermal Utilization Factor (f)",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook, Volume 2, Module 3, Figure 1, pg. 11"
+      },
+      {
+        "answer": "c. Resonance escape probability (p)",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook, Volume 2, Module 3, Figure 1, pg. 11"
+      },
+      {
+        "answer": "d. Thermal Non-Leakage probability (LTh)",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE Handbook, Volume 2, Module 3, Figure 1, pg. 11"
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1.0 point] Which ONE of the following is the best approximation of the amount of energy released by the fission of one atom of U-235?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5 - 10 MeV",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh, Table 3.6, pg. 88. Foster and Wright, Basic Nuclear Engineering, 4th ed., table 4.2, pg. 76, “The energy release per fission is approximately 200 MeV.”"
+      },
+      {
+        "answer": "b. 50 - 70 MeV",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh, Table 3.6, pg. 88. Foster and Wright, Basic Nuclear Engineering, 4th ed., table 4.2, pg. 76, “The energy release per fission is approximately 200 MeV.”"
+      },
+      {
+        "answer": "c. 100 - 120 MeV",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh, Table 3.6, pg. 88. Foster and Wright, Basic Nuclear Engineering, 4th ed., table 4.2, pg. 76, “The energy release per fission is approximately 200 MeV.”"
+      },
+      {
+        "answer": "d. 180 - 210 MeV",
+        "correct": true,
+        "feedback": "Correct. REF: Lamarsh, Table 3.6, pg. 88. Foster and Wright, Basic Nuclear Engineering, 4th ed., table 4.2, pg. 76, “The energy release per fission is approximately 200 MeV.”"
+      }
+    ]
+  },
+  {
+    "question": "A.20 [1.0 point] Which ONE of the following is the time period in which the maximum amount of Xe135 will be present in the core?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 3 to 6 hours after a power increase from 50% to 100%.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh 3rd ed., Figure 7.14, pg. 381. Xenon worth curves per MIT discussion with Frank Warmsley"
+      },
+      {
+        "answer": "b. 3 to 6 hours after a power decrease from 100% to 50%.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh 3rd ed., Figure 7.14, pg. 381. Xenon worth curves per MIT discussion with Frank Warmsley"
+      },
+      {
+        "answer": "c. 4 to 8 hours after a startup to 100%.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh 3rd ed., Figure 7.14, pg. 381. Xenon worth curves per MIT discussion with Frank Warmsley"
+      },
+      {
+        "answer": "d. 4 to 8 hours after a shutdown from 100%.",
+        "correct": true,
+        "feedback": "Correct. REF: Lamarsh 3rd ed., Figure 7.14, pg. 381. Xenon worth curves per MIT discussion with Frank Warmsley"
+      }
+    ]
+  }
+]
+ 
