@@ -1,0 +1,522 @@
+[
+  {
+    "question": "A.01 [1.0 point, 0.25 each] Match the following neutron interactions with its net result. Answers can be used more than once. Column A: a. Elastic Scattering, b. Inelastic Scattering, c. Nuclear Reactions, d. Capture. Column B: 1. γ – Rays, 2. Positive Ions, 3. Protons",
+    "type": "matching",
+    "answers": [
+      {
+        "answer": "a,3",
+        "correct": true,
+        "feedback": "Correct. Reference: Denaro and Jayson, Fundamentals of Radiation Chemistry, pg. 51"
+      },
+      {
+        "answer": "b,1",
+        "correct": true,
+        "feedback": "Correct. Reference: Denaro and Jayson, Fundamentals of Radiation Chemistry, pg. 51" 
+      },
+      {
+        "answer": "c,1,2,3",
+        "correct": true,
+        "feedback": "Correct. Reference: Denaro and Jayson, Fundamentals of Radiation Chemistry, pg. 51" 
+      },
+      {
+        "answer": "d,1",
+        "correct": true,
+        "feedback": "Correct. Reference: Denaro and Jayson, Fundamentals of Radiation Chemistry, pg. 51" 
+      }
+    ]
+  },
+  {
+    "question": "A.02 [1.0 point] A ____________ is an adjustment of the channel to that its output responds, with acceptable range and accuracy, to known values of the parameter that the channel measures.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Channel Calibration",
+        "correct": true,
+        "feedback": "Correct. Reference: TS Definitions, pg. TS-4"
+      },
+      {
+        "answer": "b. Channel Check",
+        "correct": false,
+        "feedback": "Incorrect. Reference:TS Definitions, pg. TS-4"
+      },
+      {
+        "answer": "c. Channel Test",
+        "correct": false,
+        "feedback": "Incorrect. Reference: TS Definitions, pg. TS-4"
+      },
+      {
+        "answer": "d. Measuring Channel",
+        "correct": false,
+        "feedback": "Incorrect. Reference: TS Definitions, pg. TS-4"
+      }
+    ]
+  },
+  {
+    "question": "A.03 [1.0 point] Shutdown Margin is defined as:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The negative reactivity inserted by an increase in moderator temperature within the core when the reactor is brought from zero to full power.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, example 6.2.3 (a), pg. 6-4"
+      },
+      {
+        "answer": "b. Provides a measure of excess reactivity available to overcome fission product buildup, fuel burnup, and power defect.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, example 6.2.3 (a), pg. 6-4"
+      },
+      {
+        "answer": "c. The amount of negative reactivity that would be added to a core if the rods in a critical, cold, clean reactor were fully inserted.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burns, example 6.2.3 (a), pg. 6-4"
+      },
+      {
+        "answer": "d. The amount of reactivity available above what is required to keep the reactor critical.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, example 6.2.3 (a), pg. 6-4"
+      }
+    ]
+  },
+  {
+    "question": "A.04 [1.0 point] The count rate is 100 cps. An experimenter inserts an experiment into the core, and the count rate decreases to 60 cps. Given the initial Keff of the reactor was 0.92, what is the worth of the experiment?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. ∆ρ = - 0.07",
+        "correct": true,
+        "feedback": "Correct. Reference: CR1 / CR2 = (1 – Keff2) / (1 – Keff1)  100 / 60 = (1 – Keff2) / (1 – 0.92) Therefore Keff2 = 0.867 ∆ρ = (Keff2 – Keff1) / (Keff2 * Keff1)  ∆ρ = (0.867 – 0.92) / (0.867 * 0.92)  ∆ρ = - 0.0664"
+      },
+      {
+        "answer": "b. ∆ρ = + 0.07",
+        "correct": false,
+        "feedback": "Incorrect. Reference: CR1 / CR2 = (1 – Keff2) / (1 – Keff1)  100 / 60 = (1 – Keff2) / (1 – 0.92) Therefore Keff2 = 0.867 ∆ρ = (Keff2 – Keff1) / (Keff2 * Keff1)  ∆ρ = (0.867 – 0.92) / (0.867 * 0.92)  ∆ρ = - 0.0664"
+      },
+      {
+        "answer": "c. ∆ρ = - 0.02",
+        "correct": false,
+        "feedback": "Incorrect. Reference: CR1 / CR2 = (1 – Keff2) / (1 – Keff1)  100 / 60 = (1 – Keff2) / (1 – 0.92) Therefore Keff2 = 0.867 ∆ρ = (Keff2 – Keff1) / (Keff2 * Keff1)  ∆ρ = (0.867 – 0.92) / (0.867 * 0.92)  ∆ρ = - 0.0664"
+      },
+      {
+        "answer": "d. ∆ρ = + 0.02",
+        "correct": false,
+        "feedback": "Incorrect. Reference: CR1 / CR2 = (1 – Keff2) / (1 – Keff1)  100 / 60 = (1 – Keff2) / (1 – 0.92) Therefore Keff2 = 0.867 ∆ρ = (Keff2 – Keff1) / (Keff2 * Keff1)  ∆ρ = (0.867 – 0.92) / (0.867 * 0.92)  ∆ρ = - 0.0664"
+      }
+    ]
+  },
+  {
+    "question": "A.05 [1.0 point] Emission of a highly energetic helium nucleus from the nucleus of a radioactive atom is called:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Alpha Decay",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Handbook volume 1, module 1, pg. 24" 
+      },
+      {
+        "answer": "b. Beta Decay",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook volume 1, module 1, pg. 24" 
+      },
+      {
+        "answer": "c. Positron Emission",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook volume 1, module 1, pg. 24" 
+      },
+      {
+        "answer": "d. Bremsstrahlung",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook volume 1, module 1, pg. 24" 
+      }
+    ]
+  },
+  {
+    "question": "A.06 [1.0 point] During a fuel loading of the reactor core, as the reactor approaches criticality, the neutron multiplication factor, M:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Increases toward unity.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: KSU Reactor Training Manual, pg. 166 of 212" 
+      },
+      {
+        "answer": "b. Decreases toward unity.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: KSU Reactor Training Manual, pg. 166 of 212" 
+      },
+      {
+        "answer": "c. Increases toward infinity.",
+        "correct": true,
+        "feedback": "Correct. Reference: KSU Reactor Training Manual, pg. 166 of 212" 
+      },
+      {
+        "answer": "d. Decreases toward zero.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: KSU Reactor Training Manual, pg. 166 of 212" 
+      }
+    ]
+  },
+  {
+    "question": "A.07 [1.0 point] The reactor is critical at 5 watts. Which ONE of the following correctly describes the reactor behavior when a reactivity worth of 0.50 % ∆K/K is IMMEDIATELY inserted to the reactor core?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Subcritical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Section 4.2, Figure 4-1, pg. 4-2" 
+      },
+      {
+        "answer": "b. Critical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Section 4.2, Figure 4-1, pg. 4-2" 
+      },
+      {
+        "answer": "c. Supercritical",
+        "correct": true,
+        "feedback": "Correct. References: Burn, Section 4.2, Figure 4-1, pg. 4-2. 0.5 % ∆K/K = 0.005 ∆K/K = ρ, ρ > 0 ρ = (keff -1) / keff, then keff = 1.005 When k > 1, ρ > 0 and reactor is supercritical"
+      },
+      {
+        "answer": "d. Delayed critical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Section 4.2, Figure 4-1, pg. 4-2" 
+      }
+    ]
+  },
+  {
+    "question": "A.08 [1.0 point] Which ONE of the following statements correctly describes the term neutron lifetime?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The mean time required for fission neutrons to slow down to thermal energies.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, section 3.3.5, pg. 3-23" 
+      },
+      {
+        "answer": "b. The average time that thermal neutrons diffuse before being lost in some way.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, section 3.3.5, pg. 3-23" 
+      },
+      {
+        "answer": "c. The time between succeeding neutron generations and is the sum of fission time, slowing down time, and diffusion time.",
+        "correct": true,
+        "feedback": "The NRC will accept both “c” and “d” as correct answers for question A.08. Reference: Burns, section 3.3.5, pg. 3-23"
+      },
+      {
+        "answer": "d. The average time between the release of a neutron in a fission reaction and its loss from the system by absorption or escape.",
+        "correct": true,
+        "feedback": "The NRC will accept both “c” and “d” as correct answers for question A.08. Reference: Burns, section 3.3.5, pg. 3-23"
+      }
+    ]
+  },
+  {
+    "question": "A.09 [1.0 point] Most text books list β for a U235 fueled reactor as 0.0065 ∆K/K and βeff as being 0.0075 ∆K/K. Why is βeff larger than β?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Delayed neutrons are born at lower energies than prompt neutrons resulting in a less loss due to leakage for these neutrons.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burns, Section 3.2.4, pg. 3-12" 
+      },
+      {
+        "answer": "b. Delayed neutrons are born at higher energies than prompt neutrons resulting in a greater worth for these neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 3.2.4, pg. 3-12" 
+      },
+      {
+        "answer": "c. The fuel includes U238 which has a relatively large for fast fission.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 3.2.4, pg. 3-12" 
+      },
+      {
+        "answer": "d. Some U238 in the core becomes Pu239 (by neutron absorption) which has a larger for fission.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 3.2.4, pg. 3-12" 
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1.0 point] The neutron microscopic cross-section for absorption σa generally:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Increases as neutron energy increases.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Foster & Wright, “Basic Nuclear Engineering” 4th ed., Figure 8.3, pg. 202" 
+      },
+      {
+        "answer": "b. Decreases as neutron energy increases.",
+        "correct": true,
+        "feedback": "Correct. Reference: Foster & Wright, “Basic Nuclear Engineering” 4th ed., Figure 8.3, pg. 202" 
+      },
+      {
+        "answer": "c. Increases as the mass of the target nucleus increases.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Foster & Wright, “Basic Nuclear Engineering” 4th ed., Figure 8.3, pg. 202" 
+      },
+      {
+        "answer": "d. Decreases as the mass of the target nucleus increases.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Foster & Wright, “Basic Nuclear Engineering” 4th ed., Figure 8.3, pg. 202" 
+      }
+    ]
+  },
+  {
+    "question": "A.11 [1.0 point] Which ONE of the following statements best describes on how moderator temperature affects the core operating characteristics?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Increase in moderator temperature will decrease the neutron multiplication factor due to the resonance escape probability decrease.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burns, Section 3.2.2, pg. 3-18 to 3-20" 
+      },
+      {
+        "answer": "b. Increase in moderator temperature will decrease the neutron multiplication factor due to the reproduction factor increase.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 3.2.2, pg. 3-18 to 3-20" 
+      },
+      {
+        "answer": "c. Increase in moderator temperature will increase the neutron multiplication factor due to the resonance escape probability increase.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 3.2.2, pg. 3-18 to 3-20" 
+      },
+      {
+        "answer": "d. Increase in moderator temperature will increase the neutron multiplication factor due to the fast non leakage probability decrease.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 3.2.2, pg. 3-18 to 3-20" 
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1.0 point] Which ONE of the following is the correct reason for an installed neutron source within the core? A startup without an installed neutron source:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Is impossible because there would be no neutrons available to start up the reactor.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook volume 1, module 2, pg. 3" 
+      },
+      {
+        "answer": "b. Would be very slow because it would take a long time to build up neutron population from so low a level.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Handbook volume 1, module 2, pg. 3" 
+      },
+      {
+        "answer": "c. Can be compensated for by adjusting the compensating voltage on the source range detector.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook volume 1, module 2, pg. 3" 
+      },
+      {
+        "answer": "d. Could result in a very short period due to the reactor going critical before neutron population built up high enough to be read on nuclear instrumentation.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook volume 1, module 2, pg. 3" 
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1.0 point] Which ONE of the following is the correct reason for the 80 second negative period following a reactor scram?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The fuel temperature coefficient adding positive reactivity due to the fuel temperature decrease following a scram.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, 3rd ed., pg. 345 KSU Reactor Training Manual, pg. 168 of 212" 
+      },
+      {
+        "answer": "b. The ability of U-235 to fission with source neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, 3rd ed., pg. 345 KSU Reactor Training Manual, pg. 168 of 212" 
+      },
+      {
+        "answer": "c. The decay constant for the longest lived precursor.",
+        "correct": true,
+        "feedback": "Correct. Reference: Lamarsh, 3rd ed., pg. 345 KSU Reactor Training Manual, pg. 168 of 212" 
+      },
+      {
+        "answer": "d. The amount of negative reactivity added on a cram being greater that the shutdown margin.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, 3rd ed., pg. 345 KSU Reactor Training Manual, pg. 168 of 212" 
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1.0 point] A reactor is operating at a power of 10 W. If there is a reactivity insertion of ρ = 0.00065, how long is it before the reactor power reaches 10 kW? (Assume βeff = 0.0065, λ = 0.07 sec-1 and T = 129 sec)",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 2 min",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor power: P(t) = P(0) exp(t/T)" 
+      },
+      {
+        "answer": "b. 10 min",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor power: P(t) = P(0) exp(t/T)" 
+      },
+      {
+        "answer": "c. 15 min",
+        "correct": true,
+        "feedback": "Reactor power: P(t) = P(0) exp(t/T) Solving for t, we find t = T ln [P(t)/P(0)] = 129 ln (10,000/10) = 891 s = 14.9 min"
+      },
+      {
+        "answer": "d. 20 min",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactor power: P(t) = P(0) exp(t/T)" 
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1.0 point] Which ONE of the following is the time period in which the maximum amount of Xe135 will be present in the core? Approximately:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 6 to 11 hours after a reactor startup to full power.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: KSU Reactor Training Manual, Figure 30, pg. 190 of 212 Lamarsh, 3rd ed., Figure 7.14, pg. 381" 
+      },
+      {
+        "answer": "b. 3 to 6 hours after a power increase from 50% to 100%.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: KSU Reactor Training Manual, Figure 30, pg. 190 of 212 Lamarsh, 3rd ed., Figure 7.14, pg. 381" 
+      },
+      {
+        "answer": "c. 3 to 6 hours after a power decrease from 100% to 50%.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: KSU Reactor Training Manual, Figure 30, pg. 190 of 212 Lamarsh, 3rd ed., Figure 7.14, pg. 381" 
+      },
+      {
+        "answer": "d. 6 to 11 hours after a reactor shutdown from full power.",
+        "correct": true,
+        "feedback": "Correct. Reference: KSU Reactor Training Manual, Figure 30, pg. 190 of 212 Lamarsh, 3rd ed., Figure 7.14, pg. 381" 
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1.0 point] A subcritical reactor is being started up. A control blade is raised in four equal steps. Which ONE of the following statement most accurately describes the expected reactor response?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Power increases by the same amount for each withdrawal.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 5.3, pg. 5-7" 
+      },
+      {
+        "answer": "b. Each withdrawal will add the same amount of reactivity.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 5.3, pg. 5-7" 
+      },
+      {
+        "answer": "c. The time for power to stabilize after each successive withdrawal increases.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burns, Section 5.3, pg. 5-7" 
+      },
+      {
+        "answer": "d. A lower critical rod height is attained by decreasing the time intervals between withdrawals.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns, Section 5.3, pg. 5-7" 
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1.0 point] Which ONE of the following is true concerning the differences between prompt and delayed neutrons?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Prompt neutrons account for less than 1% of the neutron population while delayed neutrons account for approximately 99% of the neutron population.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, 3rd ed., pg. 73 - 75" 
+      },
+      {
+        "answer": "b. Prompt neutrons are released during fast fissions while delayed neutrons are released during thermal fissions.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, 3rd ed., pg. 73 - 75" 
+      },
+      {
+        "answer": "c. Prompt neutrons are released during the fission process while delayed neutrons are released during the decay process.",
+        "correct": true,
+        "feedback": "Correct. Reference: Lamarsh, 3rd ed., pg. 73 - 75" 
+      },
+      {
+        "answer": "d. Prompt neutrons are the dominating factor in determining the reactor period while delayed neutrons have little effect on the reactor period.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, 3rd ed., pg. 73 - 75" 
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1.0 point, 0.25 each] The six factor formula is stated as keff = Є Lf  p  Lt  f η. Match with the correct answer: Column A: a. Thermal utilization factor (f), b. f and p factors, c. f, p, Reproduction (η) factors, d. Resonance escape probability (p). Column B: 1. Change as fertile material is converted to fissile material, 2. Can be changed, by inserting movable control rods in and out, 3. Changes reactor power, 4. Change as fuel is burned",
+    "type": "matching",
+    "answers": [
+      {
+        "answer": "a,2",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Handbook part 2, module 3, pg. 10, 15 (deleted per facility comment)" 
+      },
+      {
+        "answer": "b,4",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Handbook part 2, module 3, pg. 10, 15 (deleted per facility comment)" 
+      },
+      {
+        "answer": "c,1",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Handbook part 2, module 3, pg. 10, 15 (deleted per facility comment)" 
+      },
+      {
+        "answer": "d,3",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Handbook part 2, module 3, pg. 10, 15 (deleted per facility comment)" 
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1.0 point] Control rods worth is affected by the following factors EXCEPT:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Moderator temperature",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns 7.7.12 (b), pg. 7-19" 
+      },
+      {
+        "answer": "b. Core age",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns 7.7.12 (b), pg. 7-19" 
+      },
+      {
+        "answer": "c. Source position",
+        "correct": true,
+        "feedback": "Correct. Reference: Burns 7.7.12 (b), pg. 7-19" 
+      },
+      {
+        "answer": "d. Adjacent rods",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burns 7.7.12 (b), pg. 7-19" 
+      }
+    ]
+  },
+  {
+    "question": "A.20 [1.0 point] Which ONE of the following is the best approximation of the amount of energy released by the fission of one atom of U-235?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5 - 10 MeV",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Table 3.6, pg. 88 Foster and Wright, Basic Nuclear Engineering, 4th ed., table 4.2, pg. 76, “The energy release per fission is approximately 200 MeV.”" 
+      },
+      {
+        "answer": "b. 50 - 70 MeV",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Table 3.6, pg. 88 Foster and Wright, Basic Nuclear Engineering, 4th ed., table 4.2, pg. 76, “The energy release per fission is approximately 200 MeV.”" 
+      },
+      {
+        "answer": "c. 100 - 120 MeV",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Table 3.6, pg. 88 Foster and Wright, Basic Nuclear Engineering, 4th ed., table 4.2, pg. 76, “The energy release per fission is approximately 200 MeV.”" 
+      },
+      {
+        "answer": "d. 180 - 210 MeV",
+        "correct": true,
+        "feedback": "Correct. Reference: Lamarsh, Table 3.6, pg. 88 Foster and Wright, Basic Nuclear Engineering, 4th ed., table 4.2, pg. 76, “The energy release per fission is approximately 200 MeV.”" 
+      }
+    ]
+  }
+]
