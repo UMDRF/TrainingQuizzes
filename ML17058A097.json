@@ -1,0 +1,522 @@
+[
+  {
+    "question": "A.01 [1.0 point] __________ have the same atomic number and are therefore the same element, but differ in the number of neutrons.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Isobars",
+        "correct": false,
+        "feedback": "Incorrect.  REF: DOE-HDBK, Vol. 1, NP-01, pg. 6"
+      },
+      {
+        "answer": "b. Isotones",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE-HDBK, Vol. 1, NP-01, pg. 6"
+      },
+      {
+        "answer": "c. Isotopes",
+        "correct": true,
+        "feedback": "Correct. REF: DOE-HDBK, Vol. 1, NP-01, pg. 6"
+      },
+      {
+        "answer": "d. Nuclides",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE-HDBK, Vol. 1, NP-01, pg. 6"
+      }
+    ]
+  },
+  {
+    "question": "A.02 [1.0 point] The energy equivalence of one electron is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 511 keV",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Example 2. 2.1 (a), pg. 2-2 & Section 2.4.1, pg. 2-20"
+      },
+      {
+        "answer": "b. 931 keV",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Example 2. 2.1 (a), pg. 2-2 & Section 2.4.1, pg. 2-20"
+      },
+      {
+        "answer": "c. 1022 keV",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Example 2. 2.1 (a), pg. 2-2 & Section 2.4.1, pg. 2-20"
+      },
+      {
+        "answer": "d. 1.6 E-19 keV",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Example 2. 2.1 (a), pg. 2-2 & Section 2.4.1, pg. 2-20"
+      }
+    ]
+  },
+  {
+    "question": "A.03 [1.0 point] The neutron fluence rate (n/cm2/s) describes neutron ______________.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Activity",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE-HDBK, Vol. 1, NP-02, pg. 15"
+      },
+      {
+        "answer": "b. Specific Activity",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE-HDBK, Vol. 1, NP-02, pg. 15"
+      },
+      {
+        "answer": "c. Intensity",
+        "correct": true,
+        "feedback": "Correct. REF: DOE-HDBK, Vol. 1, NP-02, pg. 15"
+      },
+      {
+        "answer": "d. Yield",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE-HDBK, Vol. 1, NP-02, pg. 15"
+      }
+    ]
+  },
+  {
+    "question": "A.04 [1.0 point] Which type of neutron interaction (light nuclei) is most important in moderating fast neutrons to thermal energies?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Radiative capture",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh 3rd ed., Section 3.6, pg. 68-71; Basic Nuclear Engineering 4th ed., Slowing Down of Neutrons, pg. 226-227"
+      },
+      {
+        "answer": "b. Elastic scattering",
+        "correct": true,
+        "feedback": "Correct. REF: Lamarsh 3rd ed., Section 3.6, pg. 68-71; Basic Nuclear Engineering 4th ed., Slowing Down of Neutrons, pg. 226-227"
+      },
+      {
+        "answer": "c. Inelastic scattering",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh 3rd ed., Section 3.6, pg. 68-71; Basic Nuclear Engineering 4th ed., Slowing Down of Neutrons, pg. 226-227"
+      },
+      {
+        "answer": "d. Charged particle reactions",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh 3rd ed., Section 3.6, pg. 68-71; Basic Nuclear Engineering 4th ed., Slowing Down of Neutrons, pg. 226-227"
+      }
+    ]
+  },
+  {
+    "question": "A.05 [1.0 point] Tritium, produced via 2H(n,γ)3H, is a:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Low Energy Beta Emitter",
+        "correct": true,
+        "feedback": "Correct. REF: Chart of the nuclides. Tritium is the lowest energy beta emitter known with a total transition, or endpoint, energy of 18.6 keV."
+      },
+      {
+        "answer": "b. Low Energy Gamma Emitter",
+        "correct": false,
+        "feedback": "Incorrect. REF: Chart of the nuclides. Tritium is the lowest energy beta emitter known with a total transition, or endpoint, energy of 18.6 keV."
+      },
+      {
+        "answer": "c. High Energy Beta and Gamma Emitter",
+        "correct": false,
+        "feedback": "Incorrect. REF: Chart of the nuclides. Tritium is the lowest energy beta emitter known with a total transition, or endpoint, energy of 18.6 keV."
+      },
+      {
+        "answer": "d. Low Energy Beta and High Energy Gamma Emitter",
+        "correct": false,
+        "feedback": "Incorrect. REF: Chart of the nuclides. Tritium is the lowest energy beta emitter known with a total transition, or endpoint, energy of 18.6 keV."
+      }
+    ]
+  },
+  {
+    "question": "A.06 [1.0 point] A reactor is slightly supercritical with the following values for each of the factors in the six-factor formula: Fast Fission factor = 1.03, Fast non-leakage probability = 0.84, Resonance escape probability = 0.96, Thermal non-leakage probability = 0.88, Thermal Utilization Factor = 0.70, Reproduction factor = 1.96. A control rod is inserted to bring the reactor back to critical. Assuming all other factors remain unchanged, the new value for the Thermal Utilization Factor is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.698",
+        "correct": true,
+        "feedback": "Correct. REF: 1.03 • 0.96 • X • 0.84 • 0.88 • 1.96 = 1.00; X = 1 / (1.03 • 0.96 • 0.84 • 0.88 • 1.96); X = 0.698"
+      },
+      {
+        "answer": "b. 0.702",
+        "correct": false,
+        "feedback": "Incorrect. REF: 1.03 • 0.96 • X • 0.84 • 0.88 • 1.96 = 1.00; X = 1 / (1.03 • 0.96 • 0.84 • 0.88 • 1.96); X = 0.698"
+      },
+      {
+        "answer": "c. 0.704",
+        "correct": false,
+        "feedback": "Incorrect. REF: 1.03 • 0.96 • X • 0.84 • 0.88 • 1.96 = 1.00; X = 1 / (1.03 • 0.96 • 0.84 • 0.88 • 1.96); X = 0.698"
+      },
+      {
+        "answer": "d. 0.708",
+        "correct": false,
+        "feedback": "Incorrect. REF: 1.03 • 0.96 • X • 0.84 • 0.88 • 1.96 = 1.00; X = 1 / (1.03 • 0.96 • 0.84 • 0.88 • 1.96); X = 0.698"
+      }
+    ]
+  },
+  {
+    "question": "A.07 [1.0 point] During the neutron cycle from one generation to the next, several processes occur that may increase or decrease the available number of neutrons. Which ONE of the following factors describes an increase in the number of neutrons during the cycle?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Thermal Utilization Factor",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE-HDBK, Vol. 2, NP-03, pg. 3"
+      },
+      {
+        "answer": "b. Resonance Escape Probability",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE-HDBK, Vol. 2, NP-03, pg. 3"
+      },
+      {
+        "answer": "c. Thermal Non-Leakage Probability",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE-HDBK, Vol. 2, NP-03, pg. 3"
+      },
+      {
+        "answer": "d. Fast Fission Factor",
+        "correct": true,
+        "feedback": "Correct. REF: DOE-HDBK, Vol. 2, NP-03, pg. 3"
+      }
+    ]
+  },
+  {
+    "question": "A.08 [1.0 point] Which ONE of the following nuclides has the largest microscopic cross-section for absorption for thermal neutron?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5B10",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Introduction to Nuclear Reactor Operations, Table 2.5, pg. 2-59"
+      },
+      {
+        "answer": "b. 54Xe135",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Introduction to Nuclear Reactor Operations, Table 2.5, pg. 2-59"
+      },
+      {
+        "answer": "c. 62Sm149",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Introduction to Nuclear Reactor Operations, Table 2.5, pg. 2-59"
+      },
+      {
+        "answer": "d. 92U235",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Introduction to Nuclear Reactor Operations, Table 2.5, pg. 2-59"
+      }
+    ]
+  },
+  {
+    "question": "A.09 [1.0 point] Which ONE of the following describes the response of the reactor to equal amounts of reactivity insertion as the reactor approaches critical (Keff = 1.0)? The change in neutron population per reactivity insertion is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Larger, and it requires a longer time to reach a new equilibrium count rate.",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Section 5.3, pg. 5-7"
+      },
+      {
+        "answer": "b. Larger, and it takes an equal amount of time to reach a new equilibrium count rate.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 5.3, pg. 5-7"
+      },
+      {
+        "answer": "c. Smaller, and it requires a shorter time to reach a new equilibrium count rate.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 5.3, pg. 5-7"
+      },
+      {
+        "answer": "d. Smaller, and it requires a longer time to reach a new equilibrium count rate.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 5.3, pg. 5-7"
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1.0 point] Which ONE of the following factors has a long term effect on Keff but is of no consequence during short term and transient operation?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fuel burnup",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Session 3.3.2, pg. 3-18"
+      },
+      {
+        "answer": "b. Increase in fuel temperature",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Session 3.3.2, pg. 3-18"
+      },
+      {
+        "answer": "c. Increase in moderator temperature",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Session 3.3.2, pg. 3-18"
+      },
+      {
+        "answer": "d. Xenon and Samarium fission products",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Session 3.3.2, pg. 3-18"
+      }
+    ]
+  },
+  {
+    "question": "A.11 [1.0 point] Fuel is being loaded into the core. The operator is using a 1/M plot to monitor core loading. Which ONE of the following conditions would result in a non-conservative prediction of core critical mass, i.e., the reactor would reach criticality prior to the predicted critical mass?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The detector is too close to the source and the fuel.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 5.5, pg. 5-18"
+      },
+      {
+        "answer": "b. The detector is too far away from the source and the fuel.",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Section 5.5, pg. 5-18"
+      },
+      {
+        "answer": "c. A fuel element is placed between the source and the detector.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 5.5, pg. 5-18"
+      },
+      {
+        "answer": "d. Excessive time is allowed between fuel elements being loaded.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 5.5, pg. 5-18"
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1.0 point] Which ONE of the following statements is the predominant factor for the change in Xenon concentration following a reactor scram?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The concentration of 135Xe will decrease by natural decay into 135I.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE-HDBK, Vol 2, NP-03, pg. 38"
+      },
+      {
+        "answer": "b. The concentration of 135Xe will increase due to reduced nuclear flux.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE-HDBK, Vol 2, NP-03, pg. 38"
+      },
+      {
+        "answer": "c. The concentration of 135Xe will increase due to the decay of the 135I inventory.",
+        "correct": true,
+        "feedback": "Correct. REF: DOE-HDBK, Vol 2, NP-03, pg. 38"
+      },
+      {
+        "answer": "d. The concentration of 135Xe will remain constant until it is removed via neutron burnout during the subsequent reactor startup.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE-HDBK, Vol 2, NP-03, pg. 38"
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1.0 point] Following a scram, the shortest stable negative period is limited to -80 seconds as determined by the rate of decay of __________. ",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Mean Neutron Lifetime",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 4.5, pg. 4-12 to 4-16; Per MIT discussion with Frank Warmsley"
+      },
+      {
+        "answer": "b. Shortest Lived Delayed Neutron",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 4.5, pg. 4-12 to 4-16; Per MIT discussion with Frank Warmsley"
+      },
+      {
+        "answer": "c. Longest Lived Delayed Neutron",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Section 4.5, pg. 4-12 to 4-16; Per MIT discussion with Frank Warmsley"
+      },
+      {
+        "answer": "d. Fast Neutrons",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Section 4.5, pg. 4-12 to 4-16; Per MIT discussion with Frank Warmsley"
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1.0 point] An initial count rate of 100 is doubled five times during startup. Assuming an initial Keff = 0.950, what is the new Keff?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.957",
+        "correct": false,
+        "feedback": "Incorrect. REF: CR1/CR2 = (1 - Keff2)/(1 - Keff1); CR1=100, CR2= 100 x 2 x 5 = 1000, Keff1 = 0.950; 100/1000 = (1 - Keff2)/(1 - 0.95), 0.1 = (1 - Keff2) / 0.05, 0.005 = (1 - Keff2), Keff2 = 0.995"
+      },
+      {
+        "answer": "b. 0.979",
+        "correct": false,
+        "feedback": "Incorrect. REF: CR1/CR2 = (1 - Keff2)/(1 - Keff1); CR1=100, CR2= 100 x 2 x 5 = 1000, Keff1 = 0.950; 100/1000 = (1 - Keff2)/(1 - 0.95), 0.1 = (1 - Keff2) / 0.05, 0.005 = (1 - Keff2), Keff2 = 0.995"
+      },
+      {
+        "answer": "c. 0.988",
+        "correct": false,
+        "feedback": "Incorrect. REF: CR1/CR2 = (1 - Keff2)/(1 - Keff1); CR1=100, CR2= 100 x 2 x 5 = 1000, Keff1 = 0.950; 100/1000 = (1 - Keff2)/(1 - 0.95), 0.1 = (1 - Keff2) / 0.05, 0.005 = (1 - Keff2), Keff2 = 0.995"
+      },
+      {
+        "answer": "d. 0.995",
+        "correct": true,
+        "feedback": "Correct. REF: CR1/CR2 = (1 - Keff2)/(1 - Keff1); CR1=100, CR2= 100 x 2 x 5 = 1000, Keff1 = 0.950; 100/1000 = (1 - Keff2)/(1 - 0.95), 0.1 = (1 - Keff2) / 0.05, 0.005 = (1 - Keff2), Keff2 = 0.995"
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1.0 point] Which factors of the six factor formula are affected by an INCREASE in core temperature and how are they affected?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. ↓Lf, ↓p, ↑f",
+        "correct": true,
+        "feedback": "Correct. REF: DOE-HDBK, Vol 2, NP-03, pg. 10; As reactor core temperature increases, the moderator to fuel ratio will decrease due to the decrease in density of the water. Therefore, due to this fact: ↓Lf (Fast Non-Leakage Factor), ↓p (Resonance Escape Probability), ↑f (Thermal Utilization Factor)."
+      },
+      {
+        "answer": "b. ↑ε, ↑ Lf , ↓Lt, ↑p",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE-HDBK, Vol 2, NP-03, pg. 10; As reactor core temperature increases, the moderator to fuel ratio will decrease due to the decrease in density of the water. Therefore, due to this fact: ↓Lf (Fast Non-Leakage Factor), ↓p (Resonance Escape Probability), ↑f (Thermal Utilization Factor)."
+      },
+      {
+        "answer": "c. ↑ε, ↑ Lf , ↓Lt, ↓p , ↑η, ↑f",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE-HDBK, Vol 2, NP-03, pg. 10; As reactor core temperature increases, the moderator to fuel ratio will decrease due to the decrease in density of the water. Therefore, due to this fact: ↓Lf (Fast Non-Leakage Factor), ↓p (Resonance Escape Probability), ↑f (Thermal Utilization Factor)."
+      },
+      {
+        "answer": "d. ↑ε, ↑ Lf, ↓Lt, ↑p , ↓η, ↓f",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE-HDBK, Vol 2, NP-03, pg. 10; As reactor core temperature increases, the moderator to fuel ratio will decrease due to the decrease in density of the water. Therefore, due to this fact: ↓Lf (Fast Non-Leakage Factor), ↓p (Resonance Escape Probability), ↑f (Thermal Utilization Factor)."
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1.0 point] What is the condition of the reactor when β− = 1/k?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. critical",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh 3rd ed., Section 7.2, pg.340-341"
+      },
+      {
+        "answer": "b. Subcritical",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh 3rd ed., Section 7.2, pg.340-341"
+      },
+      {
+        "answer": "c. prompt critical",
+        "correct": true,
+        "feedback": "Correct. REF: Lamarsh 3rd ed., Section 7.2, pg.340-341"
+      },
+      {
+        "answer": "d. prompt supercritical",
+        "correct": false,
+        "feedback": "Incorrect. REF: Lamarsh 3rd ed., Section 7.2, pg.340-341"
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1.0 point] What is βeff?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The time required for the reactor power to change by a factor of e.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE-HDBK, Vol 2, NP-04, pg. 12"
+      },
+      {
+        "answer": "b. The fraction of all fission neutrons that are born as delayed neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE-HDBK, Vol 2, NP-04, pg. 12"
+      },
+      {
+        "answer": "c. The fraction of all delayed neutrons which reach thermal energy.",
+        "correct": true,
+        "feedback": "Correct. REF: DOE-HDBK, Vol 2, NP-04, pg. 12"
+      },
+      {
+        "answer": "d. The fractional change in neutron population per generation.",
+        "correct": false,
+        "feedback": "Incorrect. REF: DOE-HDBK, Vol 2, NP-04, pg. 12"
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1.0 point] Which ONE of the following is the major source of energy released from the fission process?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Kinetic energy from the fission fragments",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Table 3.2, pg. 3-5"
+      },
+      {
+        "answer": "b. Kinetic energy of the fission neutrons",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Table 3.2, pg. 3-5"
+      },
+      {
+        "answer": "c. Decay of the fission fragments",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Table 3.2, pg. 3-5"
+      },
+      {
+        "answer": "d. Prompt gamma rays",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Table 3.2, pg. 3-5"
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1.0 point] Reactor Power increases from 15 watts to 65 watts in 31 seconds. The period of the reactor is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 7 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REF: P = P0 et/T, ln(65/15) = 31 sec/T; T = (31 sec)/(ln 4.3333) = 21.14"
+      },
+      {
+        "answer": "b. 14 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REF: P = P0 et/T, ln(65/15) = 31 sec/T; T = (31 sec)/(ln 4.3333) = 21.14"
+      },
+      {
+        "answer": "c. 21 seconds",
+        "correct": true,
+        "feedback": "Correct. REF: P = P0 et/T, ln(65/15) = 31 sec/T; T = (31 sec)/(ln 4.3333) = 21.14"
+      },
+      {
+        "answer": "d. 28 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REF: P = P0 et/T, ln(65/15) = 31 sec/T; T = (31 sec)/(ln 4.3333) = 21.14"
+      }
+    ]
+  },
+  {
+    "question": "A.20 [1.0 point] As a reactor continues to operate over a period of months, for a constant power level, the average neutron flux __________. The blade height remains constant.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Decreases, due to the increase in fission product poisons.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Problem 3.4.8, pg. 3-35"
+      },
+      {
+        "answer": "b. Increases, in order to compensate for fuel depletion.",
+        "correct": true,
+        "feedback": "Correct. REF: Burns, Problem 3.4.8, pg. 3-35"
+      },
+      {
+        "answer": "c. Decreases, because fuel is being depleted.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Problem 3.4.8, pg. 3-35"
+      },
+      {
+        "answer": "d. Remains the same.",
+        "correct": false,
+        "feedback": "Incorrect. REF: Burns, Problem 3.4.8, pg. 3-35"
+      }
+    ]
+  }
+]

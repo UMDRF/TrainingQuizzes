@@ -1,0 +1,522 @@
+[
+  {
+    "question": "A.01 [1 point] Reactor is stabilized at 100 watts. ∆Keff and ∆ρ respectively are:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0 and 0",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "b. 0 and 1",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "c. 1 and 0",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "d. 1 and 1",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      }
+    ]
+  },
+  {
+    "question": "A.02 [1 point] You're increasing reactor power on a steady + 26 second period. How long will it take to increase power by a factor of 1000?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 1 minute",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988. ln (P/P0) × period = time, ln(1000) × 26 = 6.908 × 26 = 179.6 ≈ 180 seconds = 3 min."
+      },
+      {
+        "answer": "b. 3 minutes",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988. ln (P/P0) × period = time, ln(1000) × 26 = 6.908 × 26 = 179.6 ≈ 180 seconds = 3 min."
+      },
+      {
+        "answer": "c. 5 minutes",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988. ln (P/P0) × period = time, ln(1000) × 26 = 6.908 × 26 = 179.6 ≈ 180 seconds = 3 min."
+      },
+      {
+        "answer": "d. 180 minutes",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988. ln (P/P0) × period = time, ln(1000) × 26 = 6.908 × 26 = 179.6 ≈ 180 seconds = 3 min."
+      }
+    ]
+  },
+  {
+    "question": "A.03 [1 point] During a fuel loading of the core, as the reactor approaches criticality, the value of 1/M:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Increases toward one",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Module 4, ℞ Theory (℞ Operations), E.O. 1.4, pg. 7 and DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Volumes 1 and 2, January 1993."
+      },
+      {
+        "answer": "b. Decreases toward one",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Module 4, ℞ Theory (℞ Operations), E.O. 1.4, pg. 7 and DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Volumes 1 and 2, January 1993."
+      },
+      {
+        "answer": "c. Increases toward infinity",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Module 4, ℞ Theory (℞ Operations), E.O. 1.4, pg. 7 and DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Volumes 1 and 2, January 1993."
+      },
+      {
+        "answer": "d. Decreases toward zero",
+        "correct": true,
+        "feedback": "Correct. Reference: Module 4, ℞ Theory (℞ Operations), E.O. 1.4, pg. 7 and DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Volumes 1 and 2, January 1993."
+      }
+    ]
+  },
+  {
+    "question": "A.04 [1 point] Which one of the following accurately details a factor contributing to Xenon balance within the reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Most Xe135 is formed by fission.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z"
+      },
+      {
+        "answer": "b. Te135 is a fission product which quickly decays to I135.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z"
+      },
+      {
+        "answer": "c. Within approximately 8 hours after startup, Xe135 has reached its equilibrium value.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z"
+      },
+      {
+        "answer": "d. Several minutes following a reactor shutdown, Xe level is increasing because I135 is not being produced.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume X, Module Y, Enabling Objective Z.Z"
+      }
+    ]
+  },
+  {
+    "question": "A.05 [1 point] Which ONE of the following is an example of neutron decay?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a.  35Br87  → 33As83",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      },
+      {
+        "answer": "b.  35Br87   → 35Br86",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      },
+      {
+        "answer": "c.   35Br87   → 34Se86",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      },
+      {
+        "answer": "d.  35Br87   → 36Kr87",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+      }
+    ]
+  },
+  {
+    "question": "A.06 [1 point] The reactor is operating at a constant power level with equilibrium xenon. You double Reactor power. The equilibrium xenon level at the higher power level will be …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the same as at the lower power level.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 3, Xenon, page 37."
+      },
+      {
+        "answer": "b. higher than its value at the lower power level, but not twice as high.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Module 3, Xenon, page 37."
+      },
+      {
+        "answer": "c. twice as high.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 3, Xenon, page 37."
+      },
+      {
+        "answer": "d. more than twice as high.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 3, Xenon, page 37."
+      }
+    ]
+  },
+  {
+    "question": "A.07 [1 point] Which ONE of the following is the most correct reason for having an installed neutron source within the core?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the reactor could result in a sudden increase in power if the control rods were pulled out far enough.",
+        "correct": true,
+        "feedback": "Correct. Reference: NRC Standard Question"
+      },
+      {
+        "answer": "b. the compensating voltage on the source range detector doesn’t work.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: NRC Standard Question"
+      },
+      {
+        "answer": "c. the startup channel would NEVER indicate neutron population.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: NRC Standard Question"
+      },
+      {
+        "answer": "d. the chain reaction in the reactor core would NOT start.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: NRC Standard Question"
+      }
+    ]
+  },
+  {
+    "question": "A.08 [1 point] Two critical reactors at low power are identical, except that Reactor 1 has a beta fraction of 0.0065 and Reactor 2 has a beta fraction of 0.0072. Which ONE of the following best describes the response if an equal amount of positive reactivity is inserted into both reactors?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Period of the Reactor 1 will be longer than the period of the Reactor 2",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Equation Sheet. τ = (ℓ*/ρ) + [(β-ρ)/λeffρ].  Since the period of the reactor 1 is shorter than the reactor 2, the trace (power vs. time) of the Reactor 1 will be higher than the trace of the Reactor 2"
+      },
+      {
+        "answer": "b. The final power in the Reactor 1 will be lower than the final power in the Reactor 2",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Equation Sheet. τ = (ℓ*/ρ) + [(β-ρ)/λeffρ].  Since the period of the reactor 1 is shorter than the reactor 2, the trace (power vs. time) of the Reactor 1 will be higher than the trace of the Reactor 2"
+      },
+      {
+        "answer": "c. The trace (power vs. time) of the Reactor 1 will be higher than the trace of the Reactor 2",
+        "correct": true,
+        "feedback": "Correct. Reference: Equation Sheet. τ = (ℓ*/ρ) + [(β-ρ)/λeffρ].  Since the period of the reactor 1 is shorter than the reactor 2, the trace (power vs. time) of the Reactor 1 will be higher than the trace of the Reactor 2"
+      },
+      {
+        "answer": "d. The trace (power vs. time) of the Reactor 1 will be identical to the trace of the Reactor 2",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Equation Sheet. τ = (ℓ*/ρ) + [(β-ρ)/λeffρ].  Since the period of the reactor 1 is shorter than the reactor 2, the trace (power vs. time) of the Reactor 1 will be higher than the trace of the Reactor 2"
+      }
+    ]
+  },
+  {
+    "question": "A.09 [1 point] Which ONE of the following best describes the effects of moderator temperature decrease on neutron multiplication?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fast non-leakage probability ↑; Thermal non-leakage probability ↓; Rod worth ↑",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.2"
+      },
+      {
+        "answer": "b. Fast non-leakage probability ↓; Thermal non-leakage probability ↓; Rod worth ↑",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.2"
+      },
+      {
+        "answer": "c. Fast non-leakage probability ↑; Thermal non-leakage probability ↑; Rod worth ↓",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.2"
+      },
+      {
+        "answer": "d. Fast non-leakage probability ↑; Thermal non-leakage probability ↑; Rod worth ↑",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.2"
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1 point] Which ONE of the following best describes the likelihood of fission reactions occurring in U-235 and U-238?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Neutron cross sections of U-235 and U-238 are independent in the neutron energy.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.2"
+      },
+      {
+        "answer": "b. Neutron cross section of U-235 increases with increasing neutron energy, whereas neutron cross section of U-238 decreases with increasing neutron energy.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.2"
+      },
+      {
+        "answer": "c. Neutrons at low energy levels (eV) are more likely to cause fission with U-238 than neutrons at higher energy levels (MeV).",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.2"
+      },
+      {
+        "answer": "d. Neutrons at low energy levels (eV) are more likely to cause fission with U-235 than neutrons at higher energy levels (MeV).",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.2"
+      }
+    ]
+  },
+  {
+    "question": "A.11 [1 point] Which ONE of the following factors is the most significant in determining the differential worth of a control rod?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The rod speed.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, (Reactor Operations), Enabling Objective 5.4"
+      },
+      {
+        "answer": "b. Reactor power.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, (Reactor Operations), Enabling Objective 5.4"
+      },
+      {
+        "answer": "c. The flux shape.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, (Reactor Operations), Enabling Objective 5.4"
+      },
+      {
+        "answer": "d. The amount of fuel in the core.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, (Reactor Operations), Enabling Objective 5.4"
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1 point] During a reactor startup, the count rate is increasing linearly on a logarithmic scale, with no rod motion. This means that the reactor is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. subcritical and the count rate increase is due to the buildup of delayed neutron precursors.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 4, Reactor Kinetics, page 14."
+      },
+      {
+        "answer": "b. subcritical and the count rate increase is due to source neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 4, Reactor Kinetics, page 14."
+      },
+      {
+        "answer": "c. critical and the count rate increase is due to source neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 4, Reactor Kinetics, page 14."
+      },
+      {
+        "answer": "d. supercritical.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Module 4, Reactor Kinetics, page 14."
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1 point] A subcritical nuclear reactor has a count rate of 300 cps with a shutdown reactivity of 2.0% ∆K/K. Approximately how much positive reactivity must be added to establish a count rate of 600 cps?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.40% ∆K/K",
+        "correct": false,
+        "feedback": "Incorrect. Reference: First, find Keff1 with ρ = -2.0% ∆K/K (shutdown: negative reactivity) -0.02 Keff1  =  Keff1   -1 so 1.02 Keff1 = 1 Keff1 = 0.980 CR2(1 - Keff2) = CR1 (1 - Keff1) 600/300 = (1 - 0.980)/(1 - Keff2) Then find: Keff2 = 0.990 ∆ρ = (Keff2-Keff1)/(Keff1*Keff2) = (0.990-0.980)/(0.990*0.98) = 1.03% ∆K/K"
+      },
+      {
+        "answer": "b. 1.03% ∆K/K",
+        "correct": true,
+        "feedback": "Correct. Reference: First, find Keff1 with ρ = -2.0% ∆K/K (shutdown: negative reactivity) -0.02 Keff1  =  Keff1   -1 so 1.02 Keff1 = 1 Keff1 = 0.980 CR2(1 - Keff2) = CR1 (1 - Keff1) 600/300 = (1 - 0.980)/(1 - Keff2) Then find: Keff2 = 0.990 ∆ρ = (Keff2-Keff1)/(Keff1*Keff2) = (0.990-0.980)/(0.990*0.98) = 1.03% ∆K/K"
+      },
+      {
+        "answer": "c. 1.40% ∆K/K",
+        "correct": false,
+        "feedback": "Incorrect. Reference: First, find Keff1 with ρ = -2.0% ∆K/K (shutdown: negative reactivity) -0.02 Keff1  =  Keff1   -1 so 1.02 Keff1 = 1 Keff1 = 0.980 CR2(1 - Keff2) = CR1 (1 - Keff1) 600/300 = (1 - 0.980)/(1 - Keff2) Then find: Keff2 = 0.990 ∆ρ = (Keff2-Keff1)/(Keff1*Keff2) = (0.990-0.980)/(0.990*0.98) = 1.03% ∆K/K"
+      },
+      {
+        "answer": "d. 1.62% ∆K/K",
+        "correct": false,
+        "feedback": "Incorrect. Reference: First, find Keff1 with ρ = -2.0% ∆K/K (shutdown: negative reactivity) -0.02 Keff1  =  Keff1   -1 so 1.02 Keff1 = 1 Keff1 = 0.980 CR2(1 - Keff2) = CR1 (1 - Keff1) 600/300 = (1 - 0.980)/(1 - Keff2) Then find: Keff2 = 0.990 ∆ρ = (Keff2-Keff1)/(Keff1*Keff2) = (0.990-0.980)/(0.990*0.98) = 1.03% ∆K/K"
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1 point] A few minutes following a reactor scram, the reactor period has stabilized and the power level is decreasing at a CONSTANT rate. Given that reactor power at time t is 200 kW, what will it be five minutes later?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.5 kW",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = P0 e(t/τ) = 200 kW .e(300sec/-80sec) = 200 kW .e-3.75 =  0.0235 . 200 kW = 4.7 KW"
+      },
+      {
+        "answer": "b. 2.3 kW",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = P0 e(t/τ) = 200 kW .e(300sec/-80sec) = 200 kW .e-3.75 =  0.0235 . 200 kW = 4.7 KW"
+      },
+      {
+        "answer": "c. 4.7 kW",
+        "correct": true,
+        "feedback": "Correct. Reference: P = P0 e(t/τ) = 200 kW .e(300sec/-80sec) = 200 kW .e-3.75 =  0.0235 . 200 kW = 4.7 KW"
+      },
+      {
+        "answer": "d. 110.0 kW",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = P0 e(t/τ) = 200 kW .e(300sec/-80sec) = 200 kW .e-3.75 =  0.0235 . 200 kW = 4.7 KW"
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1 point] Which ONE of the following conditions will DECREASE the shutdown margin of a reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Increase moderator temperature (Assume negative temperature coefficient)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC question"
+      },
+      {
+        "answer": "b. Insertion of a negative reactivity worth experiment",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC question"
+      },
+      {
+        "answer": "c. Burnout of a burnable poison",
+        "correct": true,
+        "feedback": "Correct. Reference: Standard NRC question"
+      },
+      {
+        "answer": "d. Fuel depletion",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC question"
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1 point] Reactor power is increasing on a constant positive reactor period. Which ONE of the following power changes would finish in the shortest time?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5% power – from 1% to 6%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume"
+      },
+      {
+        "answer": "b. 10% power – from 10% to 20%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume"
+      },
+      {
+        "answer": "c. 15% power – from 20% to 35%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume"
+      },
+      {
+        "answer": "d. 20% power – from 40% to 60%",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume"
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1 point] If the primary flow rate is 3700 gpm and the ∆T across the primary side of the heat exchanger is 15.5°F, what is the power being transferred to the secondary side of the heat exchanger? (Assume no losses to the ambient surroundings, including the pool).",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 12 megawatts.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory. Q̇   = m˙cP∆T ˙Q = 3700 gal/min x 8 lbm/gal x 60 min/hr x 1 BTU/°F-lbm x 15.5 °F x 1 Mw-Hr./3..412 x 106 BTU"
+      },
+      {
+        "answer": "b. 10 megawatts.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory. Q̇   = m˙cP∆T ˙Q = 3700 gal/min x 8 lbm/gal x 60 min/hr x 1 BTU/°F-lbm x 15.5 °F x 1 Mw-Hr./3..412 x 106 BTU"
+      },
+      {
+        "answer": "c. 8 megawatts.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory. Q̇   = m˙cP∆T ˙Q = 3700 gal/min x 8 lbm/gal x 60 min/hr x 1 BTU/°F-lbm x 15.5 °F x 1 Mw-Hr./3..412 x 106 BTU"
+      },
+      {
+        "answer": "d. 6 megawatts.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory. Q̇   = m˙cP∆T ˙Q = 3700 gal/min x 8 lbm/gal x 60 min/hr x 1 BTU/°F-lbm x 15.5 °F x 1 Mw-Hr./3..412 x 106 BTU"
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1 point] An experimenter makes an error loading a rabbit sample. Injection of the sample results in a 100 millisecond period. If the scram setpoint is 12.5 Mwatt and the scram delay time is 0.1 seconds, WHICH ONE of the following is the peak power of the reactor at shutdown. (Assume Rabbit system is operational for this question.)",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 12.5 Mw",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Volume 2, Module 4, pp. 11.  P = P0 et/τ P = 12.5 Mwatts × e(0.1/0.1) = 12.5 × 2.71828 = 33.98"
+      },
+      {
+        "answer": "b. 25.0 Mw",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Volume 2, Module 4, pp. 11.  P = P0 et/τ P = 12.5 Mwatts × e(0.1/0.1) = 12.5 × 2.71828 = 33.98"
+      },
+      {
+        "answer": "c. 34.0 Mw",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Volume 2, Module 4, pp. 11.  P = P0 et/τ P = 12.5 Mwatts × e(0.1/0.1) = 12.5 × 2.71828 = 33.98"
+      },
+      {
+        "answer": "d. 125 Mw",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Volume 2, Module 4, pp. 11.  P = P0 et/τ P = 12.5 Mwatts × e(0.1/0.1) = 12.5 × 2.71828 = 33.98"
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1 point] Identify each isotope as being produced by the irradiation of air, irradiation of water, or is a fission product.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. N16 = Water",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective"
+      },
+      {
+        "answer": "b. Ar41 = Air",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective"
+      },
+      {
+        "answer": "c. H3 = Water",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective"
+      },
+      {
+        "answer": "d. Xe135 = Fission",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective"
+      }
+    ]
+  },
+  {
+    "question": "A.20 [1 point] Core excess reactivity changes with …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. fuel element burnup",
+        "correct": true,
+        "feedback": "Correct. Reference: Technical Specification Requirement."
+      },
+      {
+        "answer": "b. control rod height",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Technical Specification Requirement."
+      },
+      {
+        "answer": "c. neutron energy level",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Technical Specification Requirement."
+      },
+      {
+        "answer": "d. reactor power level",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Technical Specification Requirement."
+      }
+    ]
+  }
+]

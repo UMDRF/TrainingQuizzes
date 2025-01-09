@@ -1,0 +1,392 @@
+[
+  {
+    "question": "A.01 (1 point) Every fission of Uranium-235 by a thermal neutron produces an average of:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 2.00 neutrons",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 3.7, Table 3.4."
+      },
+      {
+        "answer": "b. 2.07 neutrons",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 3.7, Table 3.4."
+      },
+      {
+        "answer": "c. 2.42 neutrons",
+        "correct": true,
+        "feedback": "Correct. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 3.7, Table 3.4."
+      },
+      {
+        "answer": "d. 2.93 neutrons",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 3.7, Table 3.4."
+      }
+    ]
+  },
+  {
+    "question": "A.02 (1 point) Which factor in the six-factor formula is represented by the following ratio:\n\nnumber of neutrons that reach thermal energy\nnumber of neutrons that start to slow down",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. fast fission factor",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 6.5, page 287."
+      },
+      {
+        "answer": "b. resonance escape probability",
+        "correct": true,
+        "feedback": "Correct. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 6.5, page 287."
+      },
+      {
+        "answer": "c. reproduction factor",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 6.5, page 287."
+      },
+      {
+        "answer": "d. thermal utilization factor",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 6.5, page 287."
+      }
+    ]
+  },
+  {
+    "question": "A.03 (1 point) About two minutes following a reactor scram, period has stabilized, and is decreasing at a CONSTANT rate. If reactor power is 10-5 % full power at this time, what will the power be in three minutes?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5 × 10-6 % full power",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 2nd Edition, page 289. P = P0 e-T/τ = 10-5 × e(-180sec/80sec) = 10-5 × e-2.25 = 0.1054 × 10-5 = 1.054 × 10-6"
+      },
+      {
+        "answer": "b. 2 × 10-6 % full power",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 2nd Edition, page 289. P = P0 e-T/τ = 10-5 × e(-180sec/80sec) = 10-5 × e-2.25 = 0.1054 × 10-5 = 1.054 × 10-6"
+      },
+      {
+        "answer": "c. 10-6 % full power",
+        "correct": true,
+        "feedback": "Correct. Reference: Lamarsh, Introduction to Nuclear Engineering, 2nd Edition, page 289. P = P0 e-T/τ = 10-5 × e(-180sec/80sec) = 10-5 × e-2.25 = 0.1054 × 10-5 = 1.054 × 10-6"
+      },
+      {
+        "answer": "d. 5 × 10-7 % full power",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Lamarsh, Introduction to Nuclear Engineering, 2nd Edition, page 289. P = P0 e-T/τ = 10-5 × e(-180sec/80sec) = 10-5 × e-2.25 = 0.1054 × 10-5 = 1.054 × 10-6"
+      }
+    ]
+  },
+  {
+    "question": "A.04 (1 point) During the neutron cycle from one generation to the next, several processes occur that may increase or decrease the available number of neutrons. Which ONE of the following factors describes an INCREASE in the number of neutrons during the cycle?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Thermal utilization factor.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, page 3-15."
+      },
+      {
+        "answer": "b. Resonance escape probability.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, page 3-15."
+      },
+      {
+        "answer": "c. Thermal non-leakage probability.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, page 3-15."
+      },
+      {
+        "answer": "d. Fast fission factor.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, Introduction to Nuclear Reactor Operations, page 3-15."
+      }
+    ]
+  },
+  {
+    "question": "A.05 (1 point) Which ONE of the following is the reason for operating with thermal neutrons instead of fast neutrons?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The fission cross section of the fuel is much higher for thermal neutrons than fast neutrons.",
+        "correct": true,
+        "feedback": "Correct. Reference: Duderstadt and Hamilton, Nuclear Reactor Analysis, page 81."
+      },
+      {
+        "answer": "b. Neutron absorption in non-fuel material increases exponentially as neutron energy increases.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Duderstadt and Hamilton, Nuclear Reactor Analysis, page 81."
+      },
+      {
+        "answer": "c. Doppler and moderator temperature coefficients become positive as neutron energy increases.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Duderstadt and Hamilton, Nuclear Reactor Analysis, page 81."
+      },
+      {
+        "answer": "d. Neutron economy is increased since thermal neutrons are less likely to leak out of the core than fast neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Duderstadt and Hamilton, Nuclear Reactor Analysis, page 81."
+      }
+    ]
+  },
+  {
+    "question": "A.06 (1 point) During a reactor startup, the count rate is increasing linearly with time, with no rod motion. This means that:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the reactor is critical and the count rate increase is due to source neutrons.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, Introduction to Nuclear Reactor Operations, page 5-25."
+      },
+      {
+        "answer": "b. the reactor is subcritical and the count rate increase is due to source neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, page 5-25."
+      },
+      {
+        "answer": "c. the reactor is subcritical and the count rate increase is due to the buildup of delayed neutron precursors.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, page 5-25."
+      },
+      {
+        "answer": "d. the reactor is critical and the count rate increase is due to the buildup of delayed neutron precursors.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, page 5-25."
+      }
+    ]
+  },
+  {
+    "question": "A.07 (1 point) A reactor is critical at 0.1 mW and you are proceeding to raise reactor power. If it is estimated that the doubling time is 30 seconds, what would be reactor power 1 minute later?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.2 mW",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P(t ) = P0 e Τ ."
+      },
+      {
+        "answer": "b. 0.4 mW",
+        "correct": true,
+        "feedback": "Correct. Reference: P(t ) = P0 e Τ ."
+      },
+      {
+        "answer": "c. 0.8 mW",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P(t ) = P0 e Τ ."
+      },
+      {
+        "answer": "d. 1.6 mW",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P(t ) = P0 e Τ ."
+      }
+    ]
+  },
+  {
+    "question": "A.08 (1 point) Given a high power scram set at 110%, and a scram delay time of 0.5 sec, if the reactor is operating at 100% power prior to the scram, approximately how high will reactor power get with a positive 20 second period?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 113%",
+        "correct": true,
+        "feedback": "Correct. Reference: P = P0 et/τ    Po = 110% τ = 20 sec. t = 0.5  P = 110 e 0.5/20 = 112.78%"
+      },
+      {
+        "answer": "b. 116%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = P0 et/τ    Po = 110% τ = 20 sec. t = 0.5  P = 110 e 0.5/20 = 112.78%"
+      },
+      {
+        "answer": "c. 124%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = P0 et/τ    Po = 110% τ = 20 sec. t = 0.5  P = 110 e 0.5/20 = 112.78%"
+      },
+      {
+        "answer": "d. 225%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = P0 et/τ    Po = 110% τ = 20 sec. t = 0.5  P = 110 e 0.5/20 = 112.78%"
+      }
+    ]
+  },
+  {
+    "question": "A.09 (1 point) Which statement illustrates a characteristic of Subcritical Multiplication?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The number of source neutrons decreases for each generation.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC Reactor Theory Question"
+      },
+      {
+        "answer": "b. The number of fission neutrons remains constant for each generation.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC Reactor Theory Question"
+      },
+      {
+        "answer": "c. The number of neutrons gained per generation gets larger for each succeeding generation.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Standard NRC Reactor Theory Question"
+      },
+      {
+        "answer": "d. As Keff approaches unity (1), for the same increase in Keff, a greater increase in neutron population occurs.",
+        "correct": true,
+        "feedback": "Correct. Reference: Standard NRC Reactor Theory Question"
+      }
+    ]
+  },
+  {
+    "question": "A.10 (1 point) Keff is K∞ times ______?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the reproduction factor (η)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook Vol 2, L Theory (Nuclear Parameters), E.O. 1.1 a&b, pg. 9"
+      },
+      {
+        "answer": "b. the resonance escape probability (p)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook Vol 2, L Theory (Nuclear Parameters), E.O. 1.1 a&b, pg. 9"
+      },
+      {
+        "answer": "c. the fast fission factor (ε)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook Vol 2, L Theory (Nuclear Parameters), E.O. 1.1 a&b, pg. 9"
+      },
+      {
+        "answer": "d. the total non-leakage probability (Lf and Lth)",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Handbook Vol 2, L Theory (Nuclear Parameters), E.O. 1.1 a&b, pg. 9"
+      }
+    ]
+  },
+  {
+    "question": "A.11 (1 point) Prompt neutrons are produced by:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. an installed source",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2."
+      },
+      {
+        "answer": "b. directly from the fission",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2."
+      },
+      {
+        "answer": "c. decayed fission fragments",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2."
+      },
+      {
+        "answer": "d. Pair Production of high energy photon",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2."
+      }
+    ]
+  },
+  {
+    "question": "A.12 (1 point) Which one of the following describes the Technical Specifications “Shutdown Margin” of the RPI reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The amount of negative reactivity which would be inserted into the core if all the rods were within one inch of being bottomed.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: RPI Technical Specifications Definitions"
+      },
+      {
+        "answer": "b. The amount of reactivity the reactor is subcritical by given a specific set of conditions.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: RPI Technical Specifications Definitions"
+      },
+      {
+        "answer": "c. The minimum amount of reactivity needed to keep the reactor subcritical by means of the control rods and assuming the most reactive rod is in the most reactive position.",
+        "correct": true,
+        "feedback": "Correct. Reference: RPI Technical Specifications Definitions"
+      },
+      {
+        "answer": "d. The amount of reactivity inserted if all the control rods are bottomed and the reactor is subcritical by at least $1.00.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: RPI Technical Specifications Definitions"
+      }
+    ]
+  },
+  {
+    "question": "A.13 (1 point) A reactor is subcritical with a shutdown margin of .0526 ∆k. The addition of a reactor experiment increases the indicated count rate from 10 cps to 20 cps. Which ONE of the following is the new Keff of the reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.53",
+        "correct": false,
+        "feedback": "Incorrect. Reference: SDM = 1-Keff/Keff    →  Keff = 1/SDM + 1   Keff = 1/0.0526 + 1  →  Keff = .95  CR1/CR2 = (1 - Keff2) / (1 - Keff1) →  10/20 = (1 - Keff2) / (1 - 0.95) (0.5) x (0.05) = (1 - Keff2) → Keff2 = 1 - (0.5)(0.05) = 0.975"
+      },
+      {
+        "answer": "b. 0.90",
+        "correct": false,
+        "feedback": "Incorrect. Reference: SDM = 1-Keff/Keff    →  Keff = 1/SDM + 1   Keff = 1/0.0526 + 1  →  Keff = .95  CR1/CR2 = (1 - Keff2) / (1 - Keff1) →  10/20 = (1 - Keff2) / (1 - 0.95) (0.5) x (0.05) = (1 - Keff2) → Keff2 = 1 - (0.5)(0.05) = 0.975"
+      },
+      {
+        "answer": "c. 0.975",
+        "correct": true,
+        "feedback": "Correct. Reference: SDM = 1-Keff/Keff    →  Keff = 1/SDM + 1   Keff = 1/0.0526 + 1  →  Keff = .95  CR1/CR2 = (1 - Keff2) / (1 - Keff1) →  10/20 = (1 - Keff2) / (1 - 0.95) (0.5) x (0.05) = (1 - Keff2) → Keff2 = 1 - (0.5)(0.05) = 0.975"
+      },
+      {
+        "answer": "d. 1.02",
+        "correct": false,
+        "feedback": "Incorrect. Reference: SDM = 1-Keff/Keff    →  Keff = 1/SDM + 1   Keff = 1/0.0526 + 1  →  Keff = .95  CR1/CR2 = (1 - Keff2) / (1 - Keff1) →  10/20 = (1 - Keff2) / (1 - 0.95) (0.5) x (0.05) = (1 - Keff2) → Keff2 = 1 - (0.5)(0.05) = 0.975"
+      }
+    ]
+  },
+  {
+    "question": "A.14 (1 point) Which one of the following describes how delayed neutrons affect control of the reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. More delayed neutrons are produced than prompt neutrons resulting in a longer time to reach a stable subcritical countrate.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering,  Krieger Publishing, Malabar, Florida, 1991, § 5.20, p. 236."
+      },
+      {
+        "answer": "b. Delayed neutrons are born at higher energies than prompt neutrons resulting in a shorter reactor period from increased leakage.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering,  Krieger Publishing, Malabar, Florida, 1991, § 5.20, p. 236."
+      },
+      {
+        "answer": "c. Delayed neutrons take longer to thermalize than prompt neutrons resulting in a longer reactor period.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering,  Krieger Publishing, Malabar, Florida, 1991, § 5.20, p. 236."
+      },
+      {
+        "answer": "d. Delayed neutrons increase the average neutron lifetime resulting in a longer reactor period.",
+        "correct": true,
+        "feedback": "Correct. Reference: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering,  Krieger Publishing, Malabar, Florida, 1991, § 5.20, p. 236."
+      }
+    ]
+  },
+  {
+    "question": "A.15 (1 point) A 1/M curve is being generated as fuel is loaded into the core. After some fuel elements have been loaded, the count rate existing at that time is taken to be the new initial count rate, Co. Additional elements are then loaded and the inverse count rate ratio continues to decrease. As a result of changing the initial count rate:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. criticality will occur with the same number of elements loaded as if there were no change in the initial count rate.",
+        "correct": true,
+        "feedback": "Correct. Reference: Laboratory 2 Experiment."
+      },
+      {
+        "answer": "b. criticality will occur earlier (i.e., with fewer elements loaded.)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Laboratory 2 Experiment."
+      },
+      {
+        "answer": "c. criticality will occur later (i.e., with more elements loaded.)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Laboratory 2 Experiment."
+      },
+      {
+        "answer": "d. criticality will be completely unpredictable.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Laboratory 2 Experiment."
+      }
+    ]
+  }
+]

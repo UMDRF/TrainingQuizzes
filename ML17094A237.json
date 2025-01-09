@@ -1,0 +1,520 @@
+[
+  {
+    "question": "A.01 [1.0 point, 0.33 each] Match the term listed in Column A with its corresponding unit listed in column B.",
+    "type": "matching",
+    "answers": [
+      {
+        "term": "1 barn",
+        "unit": "10⁻²⁴ cm²",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 2.6"
+      },
+      {
+        "term": "Macroscopic Cross Section",
+        "unit": "cm⁻¹",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 2.6"
+      },
+      {
+        "term": "Neutron Flux",
+        "unit": "Neutrons / cm² /sec",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 2.6"
+      }
+    ]
+  },
+  {
+    "question": "A.02 [1.0 point] For the alpha decay of a nuclide, the number of protons will ___________ and its atomic mass number will __________. ",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. increase by 2 / increase by 2",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Chart of the Nuclides"
+      },
+      {
+        "answer": "b. decrease by 2 / decrease by 4",
+        "correct": true,
+        "feedback": "Correct. Reference: Chart of the Nuclides"
+      },
+      {
+        "answer": "c. decrease by 4 / decrease by 2",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Chart of the Nuclides"
+      },
+      {
+        "answer": "d. increase by 4 / increase by 2",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Chart of the Nuclides"
+      }
+    ]
+  },
+  {
+    "question": "A.03 [1.0 point] The FAST FISSION FACTOR is defined as a ratio of:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the number of neutrons that reach thermal energy over the number of fast neutrons that start to slow down.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Sec 3.3.1, page 3-16."
+      },
+      {
+        "answer": "b. the number of fast neutrons produced from fission in a generation over the number of fast neutrons produced from fission in the previous generation.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Sec 3.3.1, page 3-16."
+      },
+      {
+        "answer": "c. the number of fast neutrons produced from U-238 over the number of thermal neutrons produced from U-235.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Sec 3.3.1, page 3-16."
+      },
+      {
+        "answer": "d. the number of fast neutrons produced from all fission over the number of fast neutrons produced from thermal fission.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Sec 3.3.1, page 3-16."
+      }
+    ]
+  },
+  {
+    "question": "A.04 [1.0 points] Which ONE of the following is the stable reactor period which will result in a power rise from 1% to 100% power in 2 minutes?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.5 second",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = P₀e^(t/T) --> T = t/ln(P/P₀); T = 120/ln(100) = 26 sec."
+      },
+      {
+        "answer": "b. 13 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = P₀e^(t/T) --> T = t/ln(P/P₀); T = 120/ln(100) = 26 sec."
+      },
+      {
+        "answer": "c. 26 seconds",
+        "correct": true,
+        "feedback": "Correct. Reference: P = P₀e^(t/T) --> T = t/ln(P/P₀); T = 120/ln(100) = 26 sec."
+      },
+      {
+        "answer": "d. 43 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = P₀e^(t/T) --> T = t/ln(P/P₀); T = 120/ln(100) = 26 sec."
+      }
+    ]
+  },
+  {
+    "question": "A.05 [1.0 point] Given a source strength of 1000 neutrons per second (N/sec) and a multiplication factor of 0.8, which ONE of the following is the expected stable neutron count rate?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 700 N/sec",
+        "correct": false,
+        "feedback": "Incorrect. Reference: CR = S/(1-K) --> CR = 1000/(1 - 0.8) = 5000 N/sec"
+      },
+      {
+        "answer": "b. 5000 N/sec",
+        "correct": true,
+        "feedback": "Correct. Reference: CR = S/(1-K) --> CR = 1000/(1 - 0.8) = 5000 N/sec"
+      },
+      {
+        "answer": "c. 10000 N/sec",
+        "correct": false,
+        "feedback": "Incorrect. Reference: CR = S/(1-K) --> CR = 1000/(1 - 0.8) = 5000 N/sec"
+      },
+      {
+        "answer": "d. 20000 N/sec",
+        "correct": false,
+        "feedback": "Incorrect. Reference: CR = S/(1-K) --> CR = 1000/(1 - 0.8) = 5000 N/sec"
+      }
+    ]
+  },
+  {
+    "question": "A.06 [1.0 point] The reactor is SHUTDOWN by 5 %Δk/k with the count rate of 1000 counts per second (cps). The control rods are withdrawn until the count rate is quadrupled. What is the value of K<sub>eff</sub>?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.952",
+        "correct": false,
+        "feedback": "Incorrect. Reference: K<sub>eff1</sub> = 1/(1 - ρ₁) = 1/(1 - (-0.05)) = 0.952; Count₁ * (1 - K<sub>eff1</sub>) = Count₂ * (1 - K<sub>eff2</sub>)"
+      },
+      {
+        "answer": "b. 0.976",
+        "correct": false,
+        "feedback": "Incorrect. Reference: K<sub>eff1</sub> = 1/(1 - ρ₁) = 1/(1 - (-0.05)) = 0.952; Count₁ * (1 - K<sub>eff1</sub>) = Count₂ * (1 - K<sub>eff2</sub>)"
+      },
+      {
+        "answer": "c. 0.988",
+        "correct": true,
+        "feedback": "Correct. Reference: K<sub>eff1</sub> = 1/(1 - ρ₁) = 1/(1 - (-0.05)) = 0.952; Count₁ * (1 - K<sub>eff1</sub>) = Count₂ * (1 - K<sub>eff2</sub>)"
+      },
+      {
+        "answer": "d. 1.002",
+        "correct": false,
+        "feedback": "Incorrect. Reference: K<sub>eff1</sub> = 1/(1 - ρ₁) = 1/(1 - (-0.05)) = 0.952; Count₁ * (1 - K<sub>eff1</sub>) = Count₂ * (1 - K<sub>eff2</sub>)"
+      }
+    ]
+  },
+  {
+    "question": "A.07 [1.0 point] Inelastic scattering can be described as a process whereby a neutron collides with a nucleus and leaves the nucleus in an excited state. The nucleus later:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. emits a gamma ray and a neutron with lower energy.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.4.5, page 2-29."
+      },
+      {
+        "answer": "b. emits a gamma ray and a neutron with higher energy.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.4.5, page 2-29."
+      },
+      {
+        "answer": "c. emits a beta particle and a neutron with lower energy.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.4.5, page 2-29."
+      },
+      {
+        "answer": "d. emits an alpha particle ONLY.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.4.5, page 2-29."
+      }
+    ]
+  },
+  {
+    "question": "A.08 [1.0 point] While a reactor is at 5 watts, the reactor operator is withdrawing a control rod to insert a positive reactivity of 0.156 %Δk/k. Which ONE of the following will be the stable reactor period as a result of this withdrawal? Given β-effective = 0.0073 and λ<sub>eff</sub> = 0.1.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 17 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: τ = (β - ρ)/(λ<sub>eff</sub>ρ) = (0.0073 - 0.00156)/((0.1)*(0.00156)) = 37 seconds"
+      },
+      {
+        "answer": "b. 27 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: τ = (β - ρ)/(λ<sub>eff</sub>ρ) = (0.0073 - 0.00156)/((0.1)*(0.00156)) = 37 seconds"
+      },
+      {
+        "answer": "c. 37 seconds",
+        "correct": true,
+        "feedback": "Correct. Reference: τ = (β - ρ)/(λ<sub>eff</sub>ρ) = (0.0073 - 0.00156)/((0.1)*(0.00156)) = 37 seconds"
+      },
+      {
+        "answer": "d. 47 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: τ = (β - ρ)/(λ<sub>eff</sub>ρ) = (0.0073 - 0.00156)/((0.1)*(0.00156)) = 37 seconds"
+      }
+    ]
+  },
+  {
+    "question": "A.09 [1.0 point] Which term is described by the following? “Depart from criticality.”",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 1/M",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.4"
+      },
+      {
+        "answer": "b. K-effective",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.4"
+      },
+      {
+        "answer": "c. Reactor period",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.4"
+      },
+      {
+        "answer": "d. Reactivity",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.4"
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1.0 point] A reactor is subcritical with a K<sub>eff</sub> of 0.927. If you add 7.875% Δk/k into the core, the reactor will be:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. subcritical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: SDM = (1 - k<sub>eff</sub>)/k<sub>eff</sub> = (1 - 0.927)/0.927 = 0.07875 Δk/k. Adding the same amount makes it critical."
+      },
+      {
+        "answer": "b. critical",
+        "correct": true,
+        "feedback": "Correct. Reference: SDM = (1 - k<sub>eff</sub>)/k<sub>eff</sub> = (1 - 0.927)/0.927 = 0.07875 Δk/k. Adding the same amount makes it critical."
+      },
+      {
+        "answer": "c. supercritical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: SDM = (1 - k<sub>eff</sub>)/k<sub>eff</sub> = (1 - 0.927)/0.927 = 0.07875 Δk/k. Adding the same amount makes it critical."
+      },
+      {
+        "answer": "d. prompt critical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: SDM = (1 - k<sub>eff</sub>)/k<sub>eff</sub> = (1 - 0.927)/0.927 = 0.07875 Δk/k. Adding the same amount makes it critical."
+      }
+    ]
+  },
+  {
+    "question": "A.11 [1.0 point] A reactor is slightly supercritical with the following values for each of the factors in the six-factor formula:\n\nFast fission factor: 1.05\nFast non-leakage probability: 0.80\nResonance escape probability: 0.90\nThermal non-leakage probability: 0.92\nThermal utilization factor: 0.80\nReproduction factor: 1.86\n\nA control rod is inserted to bring the reactor back to critical. Assuming all other factors remain unchanged, the new value for the thermal utilization factor is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.698",
+        "correct": false,
+        "feedback": "Incorrect. Reference: K<sub>eff</sub> = 1.05 * 0.80 * 0.90 * 0.92 * 0.80 * x = 1; x = 0.773"
+      },
+      {
+        "answer": "b. 0.702",
+        "correct": false,
+        "feedback": "Incorrect. Reference: K<sub>eff</sub> = 1.05 * 0.80 * 0.90 * 0.92 * 0.80 * x = 1; x = 0.773"
+      },
+      {
+        "answer": "c. 0.743",
+        "correct": false,
+        "feedback": "Incorrect. Reference: K<sub>eff</sub> = 1.05 * 0.80 * 0.90 * 0.92 * 0.80 * x = 1; x = 0.773"
+      },
+      {
+        "answer": "d. 0.773",
+        "correct": true,
+        "feedback": "Correct. Reference: K<sub>eff</sub> = 1.05 * 0.80 * 0.90 * 0.92 * 0.80 * x = 1; x = 0.773"
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1.0 point] The following data was obtained during a reactor fuel load:\n\nStep | No. of Elements | Detector A (count/sec)\n------- | -------- | --------\n1 | 0 | 100\n2 | 4 | 120\n3 | 8 | 140\n4 | 12 | 200\n5 | 15 | 400\n\nThe estimated number of additional elements required to achieve criticality is between:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 2 to 3",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 5.5, page 5-18-5-25."
+      },
+      {
+        "answer": "b. 4 to 5",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 5.5, page 5-18-5-25."
+      },
+      {
+        "answer": "c. 6 to 8",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 5.5, page 5-18-5-25."
+      },
+      {
+        "answer": "d. 8 to 10",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 5.5, page 5-18-5-25."
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1.0 point] Which term is described by the following? “The increase in neutron population by providing a positive additional reactivity while the reactor is subcritical”",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Inverse Multiplication",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.1, Subcritical Multiplication"
+      },
+      {
+        "answer": "b. Subcritical Multiplication",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.1, Subcritical Multiplication"
+      },
+      {
+        "answer": "c. Neutron Production",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.1, Subcritical Multiplication"
+      },
+      {
+        "answer": "d. Source Strength",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.1, Subcritical Multiplication"
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1.0 point] On the average, how many neutrons are produced for each fission of U-235?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 2.00 neutrons",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Section 3.2, Table 3.1"
+      },
+      {
+        "answer": "b. 2.09 neutrons",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Section 3.2, Table 3.1"
+      },
+      {
+        "answer": "c. 2.43 neutrons",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Section 3.2, Table 3.1"
+      },
+      {
+        "answer": "d. 2.93 neutrons",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Section 3.2, Table 3.1"
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1.0 point] Which ONE of the following most correctly describes the SIX-FACTOR FORMULA?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. K<sub>eff</sub> = K<sub>∞</sub> * the total non-leakage probability",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1"
+      },
+      {
+        "answer": "b. K<sub>∞</sub> = K<sub>eff</sub> * the total non-leakage probability",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1"
+      },
+      {
+        "answer": "c. K<sub>eff</sub> = K<sub>∞</sub> * the total leakage probability",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1"
+      },
+      {
+        "answer": "d. K<sub>∞</sub> = K<sub>eff</sub> * the utilization factor",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1"
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1.0 point] Which ONE of the following types of neutrons has a mean neutron generation lifetime of 12.5 seconds?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Prompt",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook Vol. 1 Module 2, Section 3.0"
+      },
+      {
+        "answer": "b. Delayed",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Handbook Vol. 1 Module 2, Section 3.0"
+      },
+      {
+        "answer": "c. Fast",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook Vol. 1 Module 2, Section 3.0"
+      },
+      {
+        "answer": "d. Thermal",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Handbook Vol. 1 Module 2, Section 3.0"
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1.0 point] The reactor is at 5 watts. The reactor operator accidentally inserts a fuel element worth of 0.8 %Δk/k into the core. With this insertion, the reactor will be:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. subcritical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "b. critical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "c. supercritical",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "d. prompt critical",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1.0 point] A mechanism by which a nucleus can gain stability by converting a neutron to a proton or vice versa is called:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. gamma decay",
+        "correct": false,
+        "feedback": "Incorrect. Reference: NRC Standard Question"
+      },
+      {
+        "answer": "b. beta decay",
+        "correct": true,
+        "feedback": "Correct. Reference: NRC Standard Question"
+      },
+      {
+        "answer": "c. alpha decay",
+        "correct": false,
+        "feedback": "Incorrect. Reference: NRC Standard Question"
+      },
+      {
+        "answer": "d. photoelectric effect",
+        "correct": false,
+        "feedback": "Incorrect. Reference: NRC Standard Question"
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1.0 point] During a reactor scram from full power, which ONE of the following best describes the values of K-effective and ρ?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. K<sub>eff</sub> = 1 and ρ = 0",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "b. K<sub>eff</sub> < 1 and 0 < ρ < β-eff",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "c. K<sub>eff</sub> < 1 and ρ < 0",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "d. K<sub>eff</sub> < 1 and 1 < ρ < infinity (∞)",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      }
+    ]
+  },
+  {
+    "question": "A.20 [1.0 point] Which ONE of the following is a correct statement of why delayed neutrons enhance the ability to control reactor power than prompt neutrons?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Delayed neutrons are born at higher energy levels than prompt neutrons, so delayed neutron can easily cause fission in U-235 with their high energies.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Section 3.3.7, page 3-37"
+      },
+      {
+        "answer": "b. Delayed neutrons increase the average neutron lifetime that allows the reactor control rods control the population of delayed neutrons.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Section 3.3.7, page 3-37"
+      },
+      {
+        "answer": "c. Prompt neutrons can cause fissions in both U-235 and U-238; whereas delayed neutrons can only cause fissions in U-235.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Section 3.3.7, page 3-37"
+      },
+      {
+        "answer": "d. The absorption cross section of delayed neutrons is lower than the absorption cross section of prompt neutrons with U-235.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Section 3.3.7, page 3-37"
+      }
+    ]
+  }
+]
