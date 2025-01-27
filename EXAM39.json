@@ -1,0 +1,522 @@
+[
+    {
+        "question": "A.1 [1.0 point] During the neutron cycle from one generation to the next, several processes occur that may increase or decrease the available number of neutrons. Which ONE of the following factors describes an INCREASE in the number of neutrons during the cycle?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Thermal utilization factor.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 188."
+            },
+            {
+                "answer": "b. Resonance escape probability.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 188."
+            },
+            {
+                "answer": "c. Thermal non-leakage probability.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 188."
+            },
+            {
+                "answer": "d. Fast fission factor.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 188."
+            }
+        ]
+    },
+    {
+        "question": "A.2 [1.0 point] A reactor is critical at 50% of rated power, with reactivity = zero. A control rod is withdrawn and the power increases to a higher steady-state value. The reactivity of the reactor at the higher power level is zero because:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The positive reactivity due to the fuel temperature decrease balances the negative reactivity due to the control rod withdrawal.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 327."
+            },
+            {
+                "answer": "b. The negative reactivity due to the fuel temperature decrease equals the positive reactivity due to the control rod withdrawal.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 327."
+            },
+            {
+                "answer": "c. The positive reactivity due to the fuel temperature increase balances the negative reactivity due to the control rod withdrawal.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 327."
+            },
+            {
+                "answer": "d. The negative reactivity due to the fuel temperature increase equals the positive reactivity due to the control rod withdrawal.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 327."
+            }
+        ]
+    },
+    {
+        "question": "A.3 [1.0 point] Which ONE of the following elements will slow down fast neutrons least quickly, i.e., produces the smallest energy loss per collision?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Oxygen-16",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 164."
+            },
+            {
+                "answer": "b. Uranium-238",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 164."
+            },
+            {
+                "answer": "c. Hydrogen-1",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 164."
+            },
+            {
+                "answer": "d. Boron-10",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 164."
+            }
+        ]
+    },
+    {
+        "question": "A.4 [1.0 point] Neutrons released by fission are called fast neutrons because they:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Appear immediately following the fission.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 13."
+            },
+            {
+                "answer": "b. Are responsible for fast fissions.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 13."
+            },
+            {
+                "answer": "c. Decay rapidly to stable levels.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 13."
+            },
+            {
+                "answer": "d. Are at a high kinetic energy level.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 13."
+            }
+        ]
+    },
+    {
+        "question": "A.5 [1.0 point] Which ONE of the following describes the relationship between thermal neutron flux and reactor power?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Power is proportional to the square of the thermal neutron flux.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 82."
+            },
+            {
+                "answer": "b. Power is proportional to the square root of the thermal neutron flux.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 82."
+            },
+            {
+                "answer": "c. Power is proportional to the thermal neutron flux.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 82."
+            },
+            {
+                "answer": "d. Power and thermal neutron flux are independent of each other.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 82."
+            }
+        ]
+    },
+    {
+        "question": "A.6 [1.0 point] A reactor is operating at a steady-state power level of 1.000 kW. Power is increased to a new steady-state value of 1.004 kW. At the higher power level, Keff is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 1.004",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 149."
+            },
+            {
+                "answer": "b. 1.000",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 149."
+            },
+            {
+                "answer": "c. 0.004",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 149."
+            },
+            {
+                "answer": "d. 0.000",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 149."
+            }
+        ]
+    },
+    {
+        "question": "A.7 [1.0 point] During the minutes following a reactor scram, reactor power decreases on a negative 80-second period, corresponding to the half-life of the longest-lived delayed neutron precursor, which is approximately:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 20 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 111."
+            },
+            {
+                "answer": "b. 40 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 111."
+            },
+            {
+                "answer": "c. 55 seconds.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 111."
+            },
+            {
+                "answer": "d. 80 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 111."
+            }
+        ]
+    },
+    {
+        "question": "A.8 [1.0 point] A reactor is slightly supercritical with the following values for each of the factors in the six-factor formula:\n\nFast fission factor = 1.03\nFast non-leakage probability = 0.84\nResonance escape probability = 0.96\nThermal non-leakage probability = 0.88\nThermal utilization factor = 0.70\nReproduction factor = 1.96\n\nA control is inserted to bring the reactor back to critical. Assuming all other factors remain unchanged, the new value for the thermal utilization factor is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.698",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 189."
+            },
+            {
+                "answer": "b. 0.702",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 189."
+            },
+            {
+                "answer": "c. 0.704",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 189."
+            },
+            {
+                "answer": "d. 0.708",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 189."
+            }
+        ]
+    },
+    {
+        "question": "A.9 [1.0 point] Reactor power is increasing by a factor of 10 every minute. The reactor period is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 65 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 234."
+            },
+            {
+                "answer": "b. 52 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 234."
+            },
+            {
+                "answer": "c. 26 seconds.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 234."
+            },
+            {
+                "answer": "d. 13 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 234."
+            }
+        ]
+    },
+    {
+        "question": "A.10 [1.0 point] The neutron microscopic cross section for absorption (σᴀ) generally:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Increases as neutron energy increases.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 89."
+            },
+            {
+                "answer": "b. Decreases as neutron energy increases.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 89."
+            },
+            {
+                "answer": "c. Increases as the mass of the target nucleus decreases.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 89."
+            },
+            {
+                "answer": "d. Decreases as the mass of the target nucleus increases.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 89."
+            }
+        ]
+    },
+    {
+        "question": "A.11 [1.0 point] Which factor in the six-factor formula is represented by the ratio:\n\nnumber of neutrons that reach thermal energy ÷ number of neutrons that start to slow down",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Fast non-leakage probability.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 169."
+            },
+            {
+                "answer": "b. Resonance escape probability.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 169."
+            },
+            {
+                "answer": "c. Reproduction factor.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 169."
+            },
+            {
+                "answer": "d. Thermal utilization factor.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 169."
+            }
+        ]
+    },
+    {
+        "question": "A.12 [1.0 point] Which ONE of the following statements correctly describes the influence of delayed neutrons during the neutron life cycle?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Delayed neutrons are more likely to cause fission after they become thermalized because they thermalize more quickly than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 239."
+            },
+            {
+                "answer": "b. Delayed neutrons take longer to thermalize because they are born at a higher average energy than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 239."
+            },
+            {
+                "answer": "c. Delayed neutrons increase the average neutron generation time.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 239."
+            },
+            {
+                "answer": "d. Delayed neutrons are produced some time after prompt neutrons and make up the majority of neutrons produced by fissions.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 239."
+            }
+        ]
+    },
+    {
+        "question": "A.13 [1.0 point] Which ONE statement below describes a positive fuel temperature coefficient?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. When fuel temperature increases, positive reactivity is added.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 262."
+            },
+            {
+                "answer": "b. When fuel temperature decreases, positive reactivity is added.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 262."
+            },
+            {
+                "answer": "c. When fuel temperature increases, negative reactivity is added.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 262."
+            },
+            {
+                "answer": "d. When fuel temperature increases, reactor power decreases.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 262."
+            }
+        ]
+    },
+    {
+        "question": "A.14 [1.0 point] Reactivity may be defined as a measure of:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The number of neutrons (both prompt and delayed) produced in the core.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 231."
+            },
+            {
+                "answer": "b. The multiplication factor, Keff.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 231."
+            },
+            {
+                "answer": "c. Heat energy produced by the reactor.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 231."
+            },
+            {
+                "answer": "d. The fractional change in the neutron population per generation.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 231."
+            }
+        ]
+    },
+    {
+        "question": "A.15 [1.0 point] Delayed neutron precursors decay by beta(-) decay. Which ONE reaction below is an example of beta(-) decay?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 35Br87 → 36Kr87",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 11."
+            },
+            {
+                "answer": "b. 35Br87 → 36Kr86",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 11."
+            },
+            {
+                "answer": "c. 35Br87 → 35Kr88",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 11."
+            },
+            {
+                "answer": "d. 35Br87 → 35Kr86",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 11."
+            }
+        ]
+    },
+    {
+        "question": "A.16 [1.0 point] A reactor is operating at a constant power level with equilibrium xenon. Reactor power is then doubled. The equilibrium xenon level at the higher power level will be:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Higher than its value at the lower power level, but not twice as high.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 254."
+            },
+            {
+                "answer": "b. Twice as high.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 254."
+            },
+            {
+                "answer": "c. More than twice as high.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 254."
+            },
+            {
+                "answer": "d. The same as at the lower power level.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 254."
+            }
+        ]
+    },
+    {
+        "question": "A.17 [1.0 point] Which ONE of the following statements correctly describes a characteristic of subcritical multiplication?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The number of neutrons gained per generation doubles for each succeeding generation.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 191."
+            },
+            {
+                "answer": "b. A constant neutron population is achieved when the total number of neutrons produced in one generation is equal to the number of source neutrons added in the next generation.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 191."
+            },
+            {
+                "answer": "c. For equal reactivity additions, it requires less time for the equilibrium neutron population to be reached.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 191."
+            },
+            {
+                "answer": "d. When the indicated count rate doubles, the margin to criticality has been reduced by approximately one-half.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 191."
+            }
+        ]
+    },
+    {
+        "question": "A.18 [1.0 point] The moderator temperature coefficient of reactivity is -1.25×10⁻³ Δk/k/°C. When a control rod with an average rod worth of 0.1% Δk/k/inch is withdrawn 10 inches, reactor power increases and becomes stable at a higher power level. At this point, the moderator temperature has:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Increased by 8°C.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 262."
+            },
+            {
+                "answer": "b. Decreased by 8°C.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 262."
+            },
+            {
+                "answer": "c. Increased by 0.8°C.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 262."
+            },
+            {
+                "answer": "d. Decreased by 0.8°C.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 262."
+            }
+        ]
+    },
+    {
+        "question": "A.19 [1.0 point] The term 'prompt critical' refers to:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The instantaneous jump in power due to a rod withdrawal.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 248."
+            },
+            {
+                "answer": "b. A reactor which is critical using only prompt neutrons.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 248."
+            },
+            {
+                "answer": "c. A reactor which is critical using both prompt and delayed neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 248."
+            },
+            {
+                "answer": "d. A reactivity insertion which is less than βᵉᶠᶠ.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 248."
+            }
+        ]
+    },
+    {
+        "question": "A.20 [1.0 point] Which ONE of the following is the major source of energy released during fission?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Prompt gamma rays.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 16."
+            },
+            {
+                "answer": "b. Fission fragments.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 16."
+            },
+            {
+                "answer": "c. Prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 16."
+            },
+            {
+                "answer": "d. Delayed neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, 3rd Edition, pg. 16."
+            }
+        ]
+    }
+]

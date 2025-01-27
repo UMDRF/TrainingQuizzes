@@ -1,0 +1,522 @@
+[
+  {
+    "question": "A.001 [1.0 point] Control Rod withdrawal predominantly changes Keff by changing the …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. fast fission factor (ε).",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. thermal utilization factor (f).",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. neutron reproduction factor (η).",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. resonance escape probability (p).",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.002 [1.0 point] Which ONE of the following is an example of alpha decay?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 35Br87 → 33As83",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. 35Br87 → 35Br87",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. 35Br87 → 34Se86",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. 35Br87 → 36Kr87",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.003 [1.0 point] Which ONE of the following factors is the most significant in determining the differential worth of a control rod?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The rod speed.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. Reactor power.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. The flux shape.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. The amount of fuel in the core.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.004 [1.0 point] The reactor supervisor tells you the reactor is shutdown with a shutdown margin of 12%. An experimenter inserts an experiment in the core and nuclear instrumentation increases from 100 counts per minute to 200 counts per minute. What is the new Keff of the reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.920",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Standard NRC Question"
+      },
+      {
+        "answer": "b. 0.946",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Standard NRC Question"
+      },
+      {
+        "answer": "c. 0.973",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Standard NRC Question"
+      },
+      {
+        "answer": "d. 1.000",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Standard NRC Question"
+      }
+    ]
+  },
+  {
+    "question": "A.005 [1.0 point] INELASTIC SCATTERING is the process by which a neutron collides with a nucleus and …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. is absorbed, with the nucleus emitting a gamma ray.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. recoils with the same kinetic energy it had prior to the collision.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. recoils with a lower kinetic energy than it had prior to the collision with the nucleus emitting a gamma ray.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. recoils with a higher kinetic energy than it had prior to the collision with the nucleus emitting a gamma ray.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.006 [1.0 point] Using the Integral Rod Worth Curve provided identify which ONE of the following represents excess reactivity",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Area under curve “B”",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. C",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. Cmax - C",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. Area under curve “A” and “B”",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.007 [1.0 point] Which ONE of the following is the correct reason that delayed neutrons enhance control of the reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. There are more delayed neutrons than prompt neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. Delayed neutrons take longer to reach thermal equilibrium.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. Delayed neutrons increase the average neutron generation time.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. Delayed neutrons are born at higher energies than prompt neutrons and therefore have a greater effect.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.008 [1.0 point] The PRIMARY reason that a neutron source is installed in the reactor is to …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. allow for testing and irradiation of experiments when the core is shutdown.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. supply the neutrons required to start the chain reaction for reactor startups.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. provide a neutron level high enough to be monitored for a controlled reactor startup.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. increase the excess reactivity of the reactor which reduces the frequency for refueling.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.009 [1.0 point] Which ONE of the following isotopes has the largest microscopic cross-section for absorption for thermal neutrons?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Sm149",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. U235",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. Xe135",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. B10",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.010 [1.0 point] Which ONE of the following conditions describes a critical reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Keff = 1; k/k( ) = 1",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. Keff = 1; k/k( ) = 0",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. Keff = 0; k/k( ) = 1",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. Keff = 0; k/k( ) = 0",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.011 [1.0 point] A complete core load is in progress on a research reactor. The following data has been taken. Number of Elements Installed Counts (cpm) 0 11 2 13 4 17 6 22 8 34 Using the graph paper provided, determine which of the following is the approximate number of fuel elements that will be required to be loaded for a critical mass.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 8",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. 10",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. 12",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. 14",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.012 [1.0 point] Initially Nuclear Instrumentation is reading 30 CPS and the reactor has a Keff of 0.90. You add an experiment which causes the Nuclear instrumentation reading to increase to 60 CPS. Which ONE of the following is the new Keff?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.91",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. 0.925",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. 0.95",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. 0.975",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.013 [1.0 point] After a week of full power operation, Xenon will reach its peak following a shutdown in approximately:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 6 hours",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. 12 hours",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. 24 hours",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. 48 hours",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.014 [1.0 point] Several processes occur that may increase or decrease the available number of neutrons. SELECT from the following the six-factor formula term that describes an INCREASE in the number of neutrons during the cycle.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Thermal utilization factor (f).",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. Resonance escape probability (p).",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. Fast non-leakage probability (P<sub>f</sub>).",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. Fast Fission factor (ε).",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.015 [1.0 point] Two critical reactors at low power are identical except that Reactor 1 has a beta fraction of 0.0072 and Reactor 2 has a beta fraction of 0.0060. An equal amount of positive reactivity is inserted into both reactors. Which ONE of the following will be the response of Reactor 2 compared to Reactor 1?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The resulting power level will be lower.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Equation Sheet.  ρ = (β/l) + [(l - β)/l<sub>eff</sub>]"
+      },
+      {
+        "answer": "b. The resulting power level will be higher.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Equation Sheet.  ρ = (β/l) + [(l - β)/l<sub>eff</sub>]"
+      },
+      {
+        "answer": "c. The resulting period will be longer.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Equation Sheet.  ρ = (β/l) + [(l - β)/l<sub>eff</sub>]"
+      },
+      {
+        "answer": "d. The resulting period will be shorter.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Equation Sheet.  ρ = (β/l) + [(l - β)/l<sub>eff</sub>]"
+      }
+    ]
+  },
+  {
+    "question": "A.016 [1.0 point] Most text books list β<sub>eff</sub> for a U235 fueled reactor as 0.65% delta k/k. However, your SAR lists β<sub>eff</sub> as being 0.7% delta k/k. Why is β<sub>eff</sub> larger than β?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Delayed neutrons are born at higher energies than prompt neutrons resulting in a greater worth for these neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. Delayed neutrons are born at lower energies than prompt neutrons resulting in a less loss due to leakage for these neutrons.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. the fuel includes U238 which has a relatively large η for fast fission.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. some U238 in the core becomes Pu239 (by neutron absorption) which has a larger η for fission.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.017 [1.0 point] You perform two initial startups a week apart. Each of the startups has the same starting conditions, (core burnup, pool and fuel temperature, and count rate are the same). The only difference between the two startups is that during the SECOND one you stop for 10 minutes to answer the phone. For the second startup compare the critical rod height and count rate to the first startup.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Higher Rod Height, Same Count Rate",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. Lower Rod Height, Same Count Rate",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. Same Rod Height, Lower Count Rate",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. Same Rod Height, Higher Count Rate",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.018 [1.0 point] About two minutes following a reactor scram, period has stabilized, and is decreasing at a CONSTANT rate. If reactor power is 10<sup>-5</sup>% full power what will the power be in three minutes?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5 × 10<sup>-6</sup> % full power",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE:"
+      },
+      {
+        "answer": "b. 2 × 10<sup>-6</sup> % full power",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE:"
+      },
+      {
+        "answer": "c. 10<sup>-6</sup> % full power",
+        "correct": true,
+        "feedback": "Correct. REFERENCE:"
+      },
+      {
+        "answer": "d. 5 × 10<sup>-7</sup> % full power",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE:"
+      }
+    ]
+  },
+  {
+    "question": "A.019 [1.0 point] The neutron microscopic cross-section for absorption σ<sub>a</sub> generally …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. increases as neutron energy increases",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. decreases as neutron energy increases",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. increases as target nucleus mass increases",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. decreases as target nucleus mass increases",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  },
+  {
+    "question": "A.020 [1.0 point] Reactor Power increases from 15 watts to 65 watts in 30 seconds. The period of the reactor is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 7 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "b. 14 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "c. 21 seconds",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      },
+      {
+        "answer": "d. 28 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §"
+      }
+    ]
+  }
+]
