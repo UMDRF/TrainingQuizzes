@@ -1,0 +1,527 @@
+[
+    {
+        "question": "A.01 [1.0 point, 0.25 each] A fissile material is one which will fission upon the absorption of a THERMAL neutron. A fertile material is one which upon absorption of a neutron becomes a fissile material. Identify each of the listed isotopes as either fissile or fertile.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Th²³²",
+                "correct": true,
+                "feedback": "Correct. Th²³² is fertile. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 3.2 Example 3.2(a)."
+            },
+            {
+                "answer": "b. U²³⁵",
+                "correct": true,
+                "feedback": "Correct. U²³⁵ is fissile. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 3.2 Example 3.2(a)."
+            },
+            {
+                "answer": "c. U²³⁸",
+                "correct": true,
+                "feedback": "Correct. U²³⁸ is fertile. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 3.2 Example 3.2(a)."
+            },
+            {
+                "answer": "d. Pu²³⁹",
+                "correct": true,
+                "feedback": "Correct. Pu²³⁹ is fissile. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 3.2 Example 3.2(a)."
+            }
+        ]
+    },
+    {
+        "question": "A.02 [1.0 point] The reactor supervisor tells you that the K_eff for the reactor is 0.955. How much reactivity must you add to the reactor to reach criticality?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. +0.0471",
+                "correct": true,
+                "feedback": "Correct. Reference: Δρ = (1.000 - 0.9550) / (1.0000 * 0.9550) = 0.0471."
+            },
+            {
+                "answer": "b. +0.0450",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Δρ = (1.000 - 0.9550) / (1.0000 * 0.9550) = 0.0471."
+            },
+            {
+                "answer": "c. -0.0471",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Δρ = (1.000 - 0.9550) / (1.0000 * 0.9550) = 0.0471."
+            },
+            {
+                "answer": "d. -0.0450",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Δρ = (1.000 - 0.9550) / (1.0000 * 0.9550) = 0.0471."
+            }
+        ]
+    },
+    {
+        "question": "A.03 [1.0 point] When performing rod calibrations, many facilities pull the rod out a given increment, then measure the time for reactor power to double (doubling time), then calculate the reactor period. If the doubling time is 42 seconds, what is the reactor period?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 29 sec",
+                "correct": false,
+                "feedback": "Incorrect. Reference: τ = time / ln(2) = 42 / 0.693 = 60.59 ≈ 61 seconds."
+            },
+            {
+                "answer": "b. 42 sec",
+                "correct": false,
+                "feedback": "Incorrect. Reference: τ = time / ln(2) = 42 / 0.693 = 60.59 ≈ 61 seconds."
+            },
+            {
+                "answer": "c. 61 sec",
+                "correct": true,
+                "feedback": "Correct. Reference: τ = time / ln(2) = 42 / 0.693 = 60.59 ≈ 61 seconds."
+            },
+            {
+                "answer": "d. 84 sec",
+                "correct": false,
+                "feedback": "Incorrect. Reference: τ = time / ln(2) = 42 / 0.693 = 60.59 ≈ 61 seconds."
+            }
+        ]
+    },
+    {
+        "question": "A.04 [1.0 point] A reactor has a shutdown margin of 0.0526 ΔK/K. Adding a reactor experiment increases the indicated count rate from 10 cps to 20 cps. Which one of the following is the new K_eff of the reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.53",
+                "correct": false,
+                "feedback": "Incorrect. Reference: K_eff = 1 / (SDM + 1) = 1 / (0.0526 + 1) = 0.95. CR₁ / CR₂ = (1 - K_eff₂) / (1 - K_eff₁) → 10 / 20 = (1 - K_eff₂) / (1 - 0.95) → K_eff₂ = 0.975."
+            },
+            {
+                "answer": "b. 0.90",
+                "correct": false,
+                "feedback": "Incorrect. Reference: K_eff = 1 / (SDM + 1) = 1 / (0.0526 + 1) = 0.95. CR₁ / CR₂ = (1 - K_eff₂) / (1 - K_eff₁) → 10 / 20 = (1 - K_eff₂) / (1 - 0.95) → K_eff₂ = 0.975."
+            },
+            {
+                "answer": "c. 0.975",
+                "correct": true,
+                "feedback": "Correct. Reference: K_eff = 1 / (SDM + 1) = 1 / (0.0526 + 1) = 0.95. CR₁ / CR₂ = (1 - K_eff₂) / (1 - K_eff₁) → 10 / 20 = (1 - K_eff₂) / (1 - 0.95) → K_eff₂ = 0.975."
+            },
+            {
+                "answer": "d. 1.001",
+                "correct": false,
+                "feedback": "Incorrect. Reference: K_eff = 1 / (SDM + 1) = 1 / (0.0526 + 1) = 0.95. CR₁ / CR₂ = (1 - K_eff₂) / (1 - K_eff₁) → 10 / 20 = (1 - K_eff₂) / (1 - 0.95) → K_eff₂ = 0.975."
+            }
+        ]
+    },
+    {
+        "question": "A.05 [1.0 point, 0.20 each] Given a mother isotope of (³⁵Br⁸⁷)⁺, identify each of the daughter isotopes as a result of α, β⁺, β⁻, γ, or η, decay.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. ³⁵As⁸³",
+                "correct": true,
+                "feedback": "Correct. This is the result of α decay. Reference: STD NRC question."
+            },
+            {
+                "answer": "b. ³⁵Se⁸⁷",
+                "correct": true,
+                "feedback": "Correct. This is the result of β⁺ decay. Reference: STD NRC question."
+            },
+            {
+                "answer": "c. ³⁵Br⁸⁶",
+                "correct": true,
+                "feedback": "Correct. This is the result of η decay. Reference: STD NRC question."
+            },
+            {
+                "answer": "d. ³⁵Br⁸⁷",
+                "correct": true,
+                "feedback": "Correct. This is the result of γ decay. Reference: STD NRC question."
+            },
+            {
+                "answer": "e. ³⁵Kr⁸⁷",
+                "correct": true,
+                "feedback": "Correct. This is the result of β⁻ decay. Reference: STD NRC question."
+            }
+        ]
+    },
+    {
+        "question": "A.06 [1.0 point] WHICH ONE of the following describes the MAJOR contributions to the production and depletion of xenon in the reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Produced directly from fission and depletes by neutron absorption only.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, § 5.4."
+            },
+            {
+                "answer": "b. Produced from radioactive decay of iodine and depletes by neutron absorption only.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, § 5.4."
+            },
+            {
+                "answer": "c. Produced directly from fission and depletes by radioactive decay and neutron absorption.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, § 5.4."
+            },
+            {
+                "answer": "d. Produced from radioactive decay of iodine and depletes by radioactive decay and neutron absorption.",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, § 5.4."
+            }
+        ]
+    },
+    {
+        "question": "A.07 [1.0 point] The probability of neutron interaction per cm of travel in a material is defined as:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. a neutron flux.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 2.5.2, page 2-44."
+            },
+            {
+                "answer": "b. a mean free path.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 2.5.2, page 2-44."
+            },
+            {
+                "answer": "c. a microscopic cross section.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 2.5.2, page 2-44."
+            },
+            {
+                "answer": "d. a macroscopic cross section.",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 2.5.2, page 2-44."
+            }
+        ]
+    },
+    {
+        "question": "A.08 [1.0 point] Which ONE of the following conditions would INCREASE the shutdown margin of a reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Lowering moderator temperature if the moderator temperature coefficient is negative.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 6.2.3, p. 6-4."
+            },
+            {
+                "answer": "b. Inserting an experiment adding positive reactivity.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 6.2.3, p. 6-4."
+            },
+            {
+                "answer": "c. Depletion of a burnable poison.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 6.2.3, p. 6-4."
+            },
+            {
+                "answer": "d. Depletion of uranium fuel.",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 6.2.3, p. 6-4."
+            }
+        ]
+    },
+    {
+        "question": "A.09 [1.0 point] Which one of the following is the PRIMARY reason that delayed neutrons are so effective at controlling reactor power?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Delayed neutrons make up a very large fraction of the fission neutrons in the core.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, §§ 3.2.2 — 3.2.3."
+            },
+            {
+                "answer": "b. Delayed neutrons have a much longer mean lifetime than prompt neutrons.",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, §§ 3.2.2 — 3.2.3."
+            },
+            {
+                "answer": "c. Delayed neutrons are born at lower energies than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, §§ 3.2.2 — 3.2.3."
+            },
+            {
+                "answer": "d. Delayed neutrons are born at thermal energies.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, §§ 3.2.2 — 3.2.3."
+            }
+        ]
+    },
+    {
+        "question": "A.10 [1.0 point] Which one of the following is a correct statement concerning the factors affecting control rod worth?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. As reactor power increases rod worth increases.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 7.2.8 7.3, pp. 7-1 — 7-10."
+            },
+            {
+                "answer": "b. Fuel burn up causes the rod worth for periphery rods to decrease.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 7.2.8 7.3, pp. 7-1 — 7-10."
+            },
+            {
+                "answer": "c. Fuel burn up causes the rod worth to increase in the center of the core.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 7.2.8 7.3, pp. 7-1 — 7-10."
+            },
+            {
+                "answer": "d. The withdrawal of a rod causes the rod worth of the remaining inserted rods to increase.",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 7.2.8 7.3, pp. 7-1 — 7-10."
+            }
+        ]
+    },
+    {
+        "question": "A.11 [1.0 point] Pool temperature increases by 20°F. Given αT moderator = -0.0005 ΔK/K/°F and an average regulating rod worth of 0.004 ΔK/K/inch. By how much and in what direction did the regulating rod move to compensate for the temperature change?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.25 inches in",
+                "correct": false,
+                "feedback": "Incorrect. Reference: +20°F × -0.0005 ΔK/K/°F = -0.01 ΔK/K. To compensate the rod must add +0.01 ΔK/K. +0.01ΔK/K ÷ +0.004 ΔK/K/inch = +2.5 inches."
+            },
+            {
+                "answer": "b. 0.25 inches out",
+                "correct": false,
+                "feedback": "Incorrect. Reference: +20°F × -0.0005 ΔK/K/°F = -0.01 ΔK/K. To compensate the rod must add +0.01 ΔK/K. +0.01ΔK/K ÷ +0.004 ΔK/K/inch = +2.5 inches."
+            },
+            {
+                "answer": "c. 2.5 inches in",
+                "correct": false,
+                "feedback": "Incorrect. Reference: +20°F × -0.0005 ΔK/K/°F = -0.01 ΔK/K. To compensate the rod must add +0.01 ΔK/K. +0.01ΔK/K ÷ +0.004 ΔK/K/inch = +2.5 inches."
+            },
+            {
+                "answer": "d. 2.5 inches out",
+                "correct": true,
+                "feedback": "Correct. Reference: +20°F × -0.0005 ΔK/K/°F = -0.01 ΔK/K. To compensate the rod must add +0.01 ΔK/K. +0.01ΔK/K ÷ +0.004 ΔK/K/inch = +2.5 inches."
+            }
+        ]
+    },
+    {
+        "question": "A.12 [1.0 point] You perform two startups with exactly the same core characteristics. During the first startup you proceed straight to criticality. During the second startup you receive a phone call after starting to pull rods, but before reaching criticality. How will this increase in time before reaching criticality affect reactor critical conditions? For the second startup",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. rod height will be the same, reactor power will be the same.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 5.3."
+            },
+            {
+                "answer": "b. rod height will be the same, reactor power will be higher.",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 5.3."
+            },
+            {
+                "answer": "c. rod height will be higher, reactor power will be higher.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 5.3."
+            },
+            {
+                "answer": "d. rod height will be lower, reactor power will be lower.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 5.3."
+            }
+        ]
+    },
+    {
+        "question": "A.13 [1.0 point] A reactor is subcritical with a K_eff of 0.955. Which ONE of the following is the MINIMUM reactivity (K/K) that must be added to produce prompt criticality? Given β_eff=0.007",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.007",
+                "correct": false,
+                "feedback": "Incorrect. Reference: From k=0.995 to criticality (k=1), Δ = (k-1)/k = -0.047 )k/k or 0.047 )k/k needs to be added to reach criticality. From criticality to JUST prompt, Δ = β_eff is required, so minimum reactivity = 0.047+0.007= 0.054."
+            },
+            {
+                "answer": "b. 0.047",
+                "correct": false,
+                "feedback": "Incorrect. Reference: From k=0.995 to criticality (k=1), Δ = (k-1)/k = -0.047 )k/k or 0.047 )k/k needs to be added to reach criticality. From criticality to JUST prompt, Δ = β_eff is required, so minimum reactivity = 0.047+0.007= 0.054."
+            },
+            {
+                "answer": "c. 0.054",
+                "correct": true,
+                "feedback": "Correct. Reference: From k=0.995 to criticality (k=1), Δ = (k-1)/k = -0.047 )k/k or 0.047 )k/k needs to be added to reach criticality. From criticality to JUST prompt, Δ = β_eff is required, so minimum reactivity = 0.047+0.007= 0.054."
+            },
+            {
+                "answer": "d. 0.064",
+                "correct": false,
+                "feedback": "Incorrect. Reference: From k=0.995 to criticality (k=1), Δ = (k-1)/k = -0.047 )k/k or 0.047 )k/k needs to be added to reach criticality. From criticality to JUST prompt, Δ = β_eff is required, so minimum reactivity = 0.047+0.007= 0.054."
+            }
+        ]
+    },
+    {
+        "question": "A.14 [1.0 point] The ratio of the number of neutrons in one generation to the number of neutrons in the previous generation defines the:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. fast fission factor.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Introduction to Nuclear Operation, Reed Burn, 1982, Sec 3.3."
+            },
+            {
+                "answer": "b. neutron non-leakage factor.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Introduction to Nuclear Operation, Reed Burn, 1982, Sec 3.3."
+            },
+            {
+                "answer": "c. neutron reproduction factor.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Introduction to Nuclear Operation, Reed Burn, 1982, Sec 3.3."
+            },
+            {
+                "answer": "d. effective multiplication factor.",
+                "correct": true,
+                "feedback": "Correct. Reference: Introduction to Nuclear Operation, Reed Burn, 1982, Sec 3.3."
+            }
+        ]
+    },
+    {
+        "question": "A.15 [1.0 point] Which ONE of the following does NOT affect the Effective Multiplication Factor K_eff?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The moderator-to-fuel ratio.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 3, pages 2-9."
+            },
+            {
+                "answer": "b. The moderator temperature.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 3, pages 2-9."
+            },
+            {
+                "answer": "c. The physical dimensions of the core.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Module 3, pages 2-9."
+            },
+            {
+                "answer": "d. The strength of an installed neutron source.",
+                "correct": true,
+                "feedback": "Correct. Reference: DOE Fundamentals Handbook, Module 3, pages 2-9."
+            }
+        ]
+    },
+    {
+        "question": "A.16 [1.0 point] With the reactor on a constant period, which of the following changes in reactor power would take the LONGEST time?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 5% — from 1% to 6%",
+                "correct": true,
+                "feedback": "Correct. Reference: P = P₀ eⁿ⁷ ln(P/P₀) = t/r Since you are looking for which would take the longest time it is obvious to the most casual of observers that the ratio P/P₀ must be the largest."
+            },
+            {
+                "answer": "b. 15% — from 20% to 35%",
+                "correct": false,
+                "feedback": "Incorrect. Reference: P = P₀ eⁿ⁷ ln(P/P₀) = t/r Since you are looking for which would take the longest time it is obvious to the most casual of observers that the ratio P/P₀ must be the largest."
+            },
+            {
+                "answer": "c. 20% — from 40% to 60%",
+                "correct": false,
+                "feedback": "Incorrect. Reference: P = P₀ eⁿ⁷ ln(P/P₀) = t/r Since you are looking for which would take the longest time it is obvious to the most casual of observers that the ratio P/P₀ must be the largest."
+            },
+            {
+                "answer": "d. 25% — from 75% to 100%",
+                "correct": false,
+                "feedback": "Incorrect. Reference: P = P₀ eⁿ⁷ ln(P/P₀) = t/r Since you are looking for which would take the longest time it is obvious to the most casual of observers that the ratio P/P₀ must be the largest."
+            }
+        ]
+    },
+    {
+        "question": "A.17 [1.0 point] You’ve just increased power at a research reactor. As a result fuel temperature increased from 100°C to 120°C. For this reactor the fuel temperature coefficient (cu) is -0.01% k/k/°C, and the average rod worth for the regulating rod is 0.05% )k/k/inch. How far and in what direction must you move the regulating rod to compensate? (Assume all other factors which could affect reactivity remain unchanged.)",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 2 inches inward",
+                "correct": false,
+                "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory -0.0001)k/k/°C H +20°C = -0.002)k/k. To compensate must add +0.002)k/k. (0.002)k/k) )(0.0005%)k/k/inch) = 4 inches in the positive (outward) direction."
+            },
+            {
+                "answer": "b. 2 inches outward",
+                "correct": false,
+                "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory -0.0001)k/k/°C H +20°C = -0.002)k/k. To compensate must add +0.002)k/k. (0.002)k/k) )(0.0005%)k/k/inch) = 4 inches in the positive (outward) direction."
+            },
+            {
+                "answer": "c. 4 inches inward",
+                "correct": false,
+                "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory -0.0001)k/k/°C H +20°C = -0.002)k/k. To compensate must add +0.002)k/k. (0.002)k/k) )(0.0005%)k/k/inch) = 4 inches in the positive (outward) direction."
+            },
+            {
+                "answer": "d. 4 inches outward",
+                "correct": true,
+                "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory -0.0001)k/k/°C H +20°C = -0.002)k/k. To compensate must add +0.002)k/k. (0.002)k/k) )(0.0005%)k/k/inch) = 4 inches in the positive (outward) direction."
+            }
+        ]
+    },
+    {
+        "question": "A.18 [1.0 point] Several processes occur that may increase or decrease the available number of neutrons. SELECT from the following the six-factor formula term that describes an INCREASE in the number of neutrons during the cycle.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Thermal utilization factor (f).",
+                "correct": false,
+                "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+            },
+            {
+                "answer": "b. Resonance escape probability (p).",
+                "correct": false,
+                "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+            },
+            {
+                "answer": "c. Thermal non-leakage probability ( n).",
+                "correct": false,
+                "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+            },
+            {
+                "answer": "d. Reproduction factor (η).",
+                "correct": true,
+                "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+            }
+        ]
+    },
+    {
+        "question": "A.19 [1.0 point] Which of the following atoms will cause a neutron to lose the most energy during an elastic scattering reaction?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. O¹⁶",
+                "correct": false,
+                "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+            },
+            {
+                "answer": "b. C¹²",
+                "correct": false,
+                "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+            },
+            {
+                "answer": "c. U²³⁵",
+                "correct": false,
+                "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+            },
+            {
+                "answer": "d. H¹",
+                "correct": true,
+                "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory."
+            }
+        ]
+    },
+    {
+        "question": "A.20 [1.0 point] A reactor is operating at a constant power level with equilibrium xenon. Reactor power is then doubled. The equilibrium xenon level at the higher power level will be:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. higher than its value at the lower power level, but not twice as high.",
+                "correct": true,
+                "feedback": "Correct. Reference: DOE Reference, Module 3, Xenon, page 37."
+            },
+            {
+                "answer": "b. twice as high.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: DOE Reference, Module 3, Xenon, page 37."
+            },
+            {
+                "answer": "c. more than twice as high.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: DOE Reference, Module 3, Xenon, page 37."
+            },
+            {
+                "answer": "d. the same as at the lower power level.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: DOE Reference, Module 3, Xenon, page 37."
+            }
+        ]
+    }
+]

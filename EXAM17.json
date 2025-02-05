@@ -1,0 +1,523 @@
+[
+  {
+    "question": "A.01 [1.0 point] Attached is the applicable portion from the chart of the nuclides, what will Fe-60 decay into?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Mn-57",
+        "correct": false,
+        "feedback": "Incorrect.  Reference: β- decay (n→p + β-) Fe57 (N-1, Z+1) Chart of the Nuclides"
+      },
+      {
+        "answer": "b. Fe-61",
+        "correct": false,
+        "feedback": "Incorrect.  Reference: β- decay (n→p + β-) Fe57 (N-1, Z+1) Chart of the Nuclides"
+      },
+      {
+        "answer": "c. Co-62",
+        "correct": false,
+        "feedback": "Incorrect.  Reference: β- decay (n→p + β-) Fe57 (N-1, Z+1) Chart of the Nuclides"
+      },
+      {
+        "answer": "d. Co-60",
+        "correct": true,
+        "feedback": "Correct.  Reference: β- decay (n→p + β-) Fe57 (N-1, Z+1) Chart of the Nuclides"
+      }
+    ]
+  },
+  {
+    "question": "A.02 [1.0 point] A reactor is critical at 18.2 inches on a controlling blade. The controlling blade is inserted to a position of 17.9 inches. The reactivity removal during the insertion is 0.1%Δk/k. What is the differential rod worth?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.1%Δk/k /inch at 18.20 inches",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 7.3. Differential position is at the midpoint (18.05) Δρ = 0.1%Δk/k Δx = 18.2 – 17.9 = 0.3 inche Differential rod worth (Δρ/in) = (Δρ)/(∆x) = 0.1%Δk/k /0.3 = 0.33%Δk/k at midpoint (18.05 inches)"
+      },
+      {
+        "answer": "b. 0.1%Δk/k /inch at 18.05 inches",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 7.3. Differential position is at the midpoint (18.05) Δρ = 0.1%Δk/k Δx = 18.2 – 17.9 = 0.3 inche Differential rod worth (Δρ/in) = (Δρ)/(∆x) = 0.1%Δk/k /0.3 = 0.33%Δk/k at midpoint (18.05 inches)"
+      },
+      {
+        "answer": "c. 0.33%Δk/k /inch at 17.9 inches",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 7.3. Differential position is at the midpoint (18.05) Δρ = 0.1%Δk/k Δx = 18.2 – 17.9 = 0.3 inche Differential rod worth (Δρ/in) = (Δρ)/(∆x) = 0.1%Δk/k /0.3 = 0.33%Δk/k at midpoint (18.05 inches)"
+      },
+      {
+        "answer": "d. 0.33%Δk/k /inch at 18.05 inches",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 7.3. Differential position is at the midpoint (18.05) Δρ = 0.1%Δk/k Δx = 18.2 – 17.9 = 0.3 inche Differential rod worth (Δρ/in) = (Δρ)/(∆x) = 0.1%Δk/k /0.3 = 0.33%Δk/k at midpoint (18.05 inches)"
+      }
+    ]
+  },
+  {
+    "question": "A.03 [1.0 point] A reactor is subcritical with a Keff of 0.945. Which ONE of the following is the MINIMUM reactivity (∆K/K) that must be added to produce PROMPT criticality? Given βeff=0.0078",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.0078 ∆k/k",
+        "correct": false,
+        "feedback": "Incorrect. Reference: from k=-1 0.945 to criticality (k=1), the reactivity required from subcritical to critical is ∆ρ = (1-k)/k = 0.055/(0.945) ∆k/k = 0.582. From criticality to JUST prompt, ∆ρ = βeff is needed. Therefore, the minimum reactivity required to produce prompt criticality is 0.0582 ∆k/k +0.0078∆k/k = 0.066 ∆k/k"
+      },
+      {
+        "answer": "b. 0.0550 ∆k/k",
+        "correct": false,
+        "feedback": "Incorrect. Reference: from k=-1 0.945 to criticality (k=1), the reactivity required from subcritical to critical is ∆ρ = (1-k)/k = 0.055/(0.945) ∆k/k = 0.582. From criticality to JUST prompt, ∆ρ = βeff is needed. Therefore, the minimum reactivity required to produce prompt criticality is 0.0582 ∆k/k +0.0078∆k/k = 0.066 ∆k/k"
+      },
+      {
+        "answer": "c. 0.066∆k/k",
+        "correct": true,
+        "feedback": "Correct. Reference: from k=-1 0.945 to criticality (k=1), the reactivity required from subcritical to critical is ∆ρ = (1-k)/k = 0.055/(0.945) ∆k/k = 0.582. From criticality to JUST prompt, ∆ρ = βeff is needed. Therefore, the minimum reactivity required to produce prompt criticality is 0.0582 ∆k/k +0.0078∆k/k = 0.066 ∆k/k"
+      },
+      {
+        "answer": "d. 0.078 ∆k/k",
+        "correct": false,
+        "feedback": "Incorrect. Reference: from k=-1 0.945 to criticality (k=1), the reactivity required from subcritical to critical is ∆ρ = (1-k)/k = 0.055/(0.945) ∆k/k = 0.582. From criticality to JUST prompt, ∆ρ = βeff is needed. Therefore, the minimum reactivity required to produce prompt criticality is 0.0582 ∆k/k +0.0078∆k/k = 0.066 ∆k/k"
+      }
+    ]
+  },
+  {
+    "question": "A.04 [1.0 point] Which ONE of the following factors in the \"six factor\" formula is most affected by the non-fuel core material such as control rods, moderator, and structural components?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The fast fission factor.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, 1991, § 5.98."
+      },
+      {
+        "answer": "b. The thermal utilization factor.",
+        "correct": true,
+        "feedback": "Correct. Reference: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, 1991, § 5.98."
+      },
+      {
+        "answer": "c. The resonance escape probability.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, 1991, § 5.98."
+      },
+      {
+        "answer": "d. The thermal non-leakage probability.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, 1991, § 5.98."
+      }
+    ]
+  },
+  {
+    "question": "A.05 [1.0 point] The reactor is critical at 500 watts. A control rod is withdrawn, adding a positive reactivity of $0.25. Which ONE of the following will be the stable reactor period as a result of this reactivity insertion? Given beta effective = 0.0078",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 15 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactivity added = $0.25 or $0.25 x0.0078= 0.00195 ∆k/k τ = (β-ρ)/λeff*ρ   =  0.0078 - 0.00195   = 30 seconds     (0.1) (0.00195)"
+      },
+      {
+        "answer": "b. 30 seconds",
+        "correct": true,
+        "feedback": "Correct. Reference: Reactivity added = $0.25 or $0.25 x0.0078= 0.00195 ∆k/k τ = (β-ρ)/λeff*ρ   =  0.0078 - 0.00195   = 30 seconds     (0.1) (0.00195)"
+      },
+      {
+        "answer": "c. 45 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactivity added = $0.25 or $0.25 x0.0078= 0.00195 ∆k/k τ = (β-ρ)/λeff*ρ   =  0.0078 - 0.00195   = 30 seconds     (0.1) (0.00195)"
+      },
+      {
+        "answer": "d. 60 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Reactivity added = $0.25 or $0.25 x0.0078= 0.00195 ∆k/k τ = (β-ρ)/λeff*ρ   =  0.0078 - 0.00195   = 30 seconds     (0.1) (0.00195)"
+      }
+    ]
+  },
+  {
+    "question": "A.06 [1.0 point, 0.25 each] Identify whether each of the following conditions will INCREASE or DECREASE the shutdown margin of a reactor.",
+    "type": "matching",
+    "answers": [
+      {
+        "answer": "a. Building up a Xenon peak in the reactor core.",
+        "correct": true,
+        "feedback": "INCREASE. Reference: DOE Fundamentals Handbook, NPRT, Vol. 2, Module 4, EO 3.6, p.28"
+      },
+      {
+        "answer": "b. Inserting the Boron experiment to the reactor core.",
+        "correct": true,
+        "feedback": "INCREASE. Reference: DOE Fundamentals Handbook, NPRT, Vol. 2, Module 4, EO 3.6, p.28"
+      },
+      {
+        "answer": "c. Removing a control rod from the reactor core.",
+        "correct": true,
+        "feedback": "DECREASE. Reference: DOE Fundamentals Handbook, NPRT, Vol. 2, Module 4, EO 3.6, p.28"
+      },
+      {
+        "answer": "d. Increasing moderator temperature (assume negative temperature coefficient).",
+        "correct": true,
+        "feedback": "INCREASE. Reference: DOE Fundamentals Handbook, NPRT, Vol. 2, Module 4, EO 3.6, p.28"
+      }
+    ]
+  },
+  {
+    "question": "A.07 [1.0 point] Which term is described by the following? “The time from birth of a neutron to absorption and is the sum of slowing down time and diffusion time.”",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Reactor period",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.1"
+      },
+      {
+        "answer": "b. Neutron lifetime",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.1"
+      },
+      {
+        "answer": "c. Multiplication time",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.1"
+      },
+      {
+        "answer": "d. Delayed generation Time",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.1"
+      }
+    ]
+  },
+  {
+    "question": "A.08 [1.0 point] A fissile material is one that will fission upon absorption of a thermal neutron. A fertile material is one that absorbs a neutron and becomes a fissile material. Which ONE of the following isotopes is the fertile material?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. U-235",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.2"
+      },
+      {
+        "answer": "b. Pu-239",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.2"
+      },
+      {
+        "answer": "c. Pu-241",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.2"
+      },
+      {
+        "answer": "d. U-238",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.2"
+      }
+    ]
+  },
+  {
+    "question": "A.09 [1.0 point] Which ONE of the following is a number of proton(s), Z, in the tritium nucleus (1T3 or 1 H3)?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 1",
+        "correct": true,
+        "feedback": "Correct. Reference: Nuclides and Isotopes Z=1, A=3 , N=2"
+      },
+      {
+        "answer": "b. 2",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Nuclides and Isotopes Z=1, A=3 , N=2"
+      },
+      {
+        "answer": "c. 3",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Nuclides and Isotopes Z=1, A=3 , N=2"
+      },
+      {
+        "answer": "d. 4",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Nuclides and Isotopes Z=1, A=3 , N=2"
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1.0 point] You are conducting a reactor startup after installing two (2) new fuel assemblies in the core. Given the following rod withdrawal data, estimate the rod position when the reactor criticality would occur. The initial count rate on the nuclear instrumentation prior to rod withdrawal is 55 counts per second (cps).",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 13 in",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 5.5"
+      },
+      {
+        "answer": "b. 14 in",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 5.5"
+      },
+      {
+        "answer": "c. 15 in",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 5.5"
+      },
+      {
+        "answer": "d. 16 in",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 5.5"
+      }
+    ]
+  },
+  {
+    "question": "A.11 [1.0 point] If the multiplication factor, k, is increased from 0.80 to 0.95, the amount of reactivity added is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.197 ∆k/k",
+        "correct": true,
+        "feedback": "Correct. Reference: ∆ρ = keff1-keff2/(keff1 x keff2) (0.95-0.80) /(0.95*0.80) = 0.197"
+      },
+      {
+        "answer": "b. -0.197 ∆k/k",
+        "correct": false,
+        "feedback": "Incorrect. Reference: ∆ρ = keff1-keff2/(keff1 x keff2) (0.95-0.80) /(0.95*0.80) = 0.197"
+      },
+      {
+        "answer": "c. 0.217 ∆k/k",
+        "correct": false,
+        "feedback": "Incorrect. Reference: ∆ρ = keff1-keff2/(keff1 x keff2) (0.95-0.80) /(0.95*0.80) = 0.197"
+      },
+      {
+        "answer": "d. 0.317 ∆k/k",
+        "correct": false,
+        "feedback": "Incorrect. Reference: ∆ρ = keff1-keff2/(keff1 x keff2) (0.95-0.80) /(0.95*0.80) = 0.197"
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1.0 point] The reactor is critical and increasing in power. Power has increased from 200 kW to 400 kW in 10 seconds. How long will it take at this rate for power to increase from 400 kW to 1 MW?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 13.2 seconds",
+        "correct": true,
+        "feedback": "Correct. Reference: P = Poet/T      400 kW = 200 kW* e 10 sec/T      T = 14.4 sec    1000 kW = 400 kW e (t/14.4) t = 13.2 sec"
+      },
+      {
+        "answer": "b. 14.4 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = Poet/T      400 kW = 200 kW* e 10 sec/T      T = 14.4 sec    1000 kW = 400 kW e (t/14.4) t = 13.2 sec"
+      },
+      {
+        "answer": "c. 15.6 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = Poet/T      400 kW = 200 kW* e 10 sec/T      T = 14.4 sec    1000 kW = 400 kW e (t/14.4) t = 13.2 sec"
+      },
+      {
+        "answer": "d. 16.8 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = Poet/T      400 kW = 200 kW* e 10 sec/T      T = 14.4 sec    1000 kW = 400 kW e (t/14.4) t = 13.2 sec"
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1.0 point] A reactor is changing from the criticality to prompt criticality. Which ONE of the following best describes the values of Keff and ρ during the change?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Keff = 1 and ρ = 1",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "b. Keff = 1 and ρ = β-eff",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "c. Keff > 1 and 0 < ρ < β-eff",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "d. Keff > 1 and β-eff < ρ < 1",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1.0 point] A reactor is decreasing with a -80 second period shortly after shutdown. What is the time for power decreasing by a factor of 5?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 40 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P/P0 = e-t/τ ln(1/5) = - (t)/(-80sec) Time (t) = ln (0.2) × -80 sec = 129 seconds"
+      },
+      {
+        "answer": "b. 55 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P/P0 = e-t/τ ln(1/5) = - (t)/(-80sec) Time (t) = ln (0.2) × -80 sec = 129 seconds"
+      },
+      {
+        "answer": "c. 129 seconds",
+        "correct": true,
+        "feedback": "Correct. Reference: P/P0 = e-t/τ ln(1/5) = - (t)/(-80sec) Time (t) = ln (0.2) × -80 sec = 129 seconds"
+      },
+      {
+        "answer": "d. 400 seconds",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P/P0 = e-t/τ ln(1/5) = - (t)/(-80sec) Time (t) = ln (0.2) × -80 sec = 129 seconds"
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1.0 point] If a source strength is 5000 neutrons per second (N/sec) and it produces the stable neutron count rate of 20000 N/sec. What is a multiplication factor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.70",
+        "correct": false,
+        "feedback": "Incorrect. Reference: CR = S/(1-K)  →  20000 = 5000/(1 - X)  1 -X = 5000/20000 X = 0.75"
+      },
+      {
+        "answer": "b. 0.75",
+        "correct": true,
+        "feedback": "Correct. Reference: CR = S/(1-K)  →  20000 = 5000/(1 - X)  1 -X = 5000/20000 X = 0.75"
+      },
+      {
+        "answer": "c. 0.85",
+        "correct": false,
+        "feedback": "Incorrect. Reference: CR = S/(1-K)  →  20000 = 5000/(1 - X)  1 -X = 5000/20000 X = 0.75"
+      },
+      {
+        "answer": "d. 0.90",
+        "correct": false,
+        "feedback": "Incorrect. Reference: CR = S/(1-K)  →  20000 = 5000/(1 - X)  1 -X = 5000/20000 X = 0.75"
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1.0 point] The reactor is on a constant period. Which ONE of the following changes in reactor power would take the SHORTEST time?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5% — from 1% to 6%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = P0 e t/τ   Ln(P/P0) = t/τ   Since you are looking for which would take the shortest time it is obvious to the most casual of observers that the ratio P/P0 must be the smallest value."
+      },
+      {
+        "answer": "b. 15% — from 20% to 35%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = P0 e t/τ   Ln(P/P0) = t/τ   Since you are looking for which would take the shortest time it is obvious to the most casual of observers that the ratio P/P0 must be the smallest value."
+      },
+      {
+        "answer": "c. 20% — from 40% to 60%",
+        "correct": false,
+        "feedback": "Incorrect. Reference: P = P0 e t/τ   Ln(P/P0) = t/τ   Since you are looking for which would take the shortest time it is obvious to the most casual of observers that the ratio P/P0 must be the smallest value."
+      },
+      {
+        "answer": "d. 25% — from 75% to 100%",
+        "correct": true,
+        "feedback": "Correct. Reference: P = P0 e t/τ   Ln(P/P0) = t/τ   Since you are looking for which would take the shortest time it is obvious to the most casual of observers that the ratio P/P0 must be the smallest value."
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1.0 point, 0.25 each] The most important fission product poison is Xe-135. The diagram below shows production and removal paths of Xe-135 Match the items in the letter with the appropriate isotopes listed :Te-135, Ba-135, Cs-135, I-135.",
+    "type": "matching",
+    "answers": [
+      {
+        "answer": "a. Te-135",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Figure 8.1"
+      },
+      {
+        "answer": "b. I-135",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Figure 8.1"
+      },
+      {
+        "answer": "c. Cs-135",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Figure 8.1"
+      },
+      {
+        "answer": "d. Ba-135",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Figure 8.1"
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1.0 point] What is the kinetic energy range of a thermal neutron?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. > 1 MeV",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 2.5.1"
+      },
+      {
+        "answer": "b. 100 KeV – 1 MeV",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 2.5.1"
+      },
+      {
+        "answer": "c. 1 eV – 100 KeV",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 2.5.1"
+      },
+      {
+        "answer": "d. < 1 eV",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 2.5.1"
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1.0 point] A reactor is subcritical with k-effective of 0.9. If a reactor operator makes a mistake by removing the control blade worth of 0.01 Δk/k out of the reactor core. Which ONE of the following best describes the reactor kinetic if removing the control blade?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Critical, Keff = 1 and ρ = 0",
+        "correct": false,
+        "feedback": "Incorrect. Reference: From k =0.9 to critical (k=1) the reactivity needed is ∆ρ = keff1-keff2/(keff1 x keff2) (1.0-0.90)/(1.0*0.90) = 0.10 Δk/k By adding a worth of 0.01 Δk/k (even ρ > β-eff ), a reactor is still subcritical because 0.01 Δk/k << 0.10 Δk/k. Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "b. Super critical, Keff =1 and ρ < β-eff",
+        "correct": false,
+        "feedback": "Incorrect. Reference: From k =0.9 to critical (k=1) the reactivity needed is ∆ρ = keff1-keff2/(keff1 x keff2) (1.0-0.90)/(1.0*0.90) = 0.10 Δk/k By adding a worth of 0.01 Δk/k (even ρ > β-eff ), a reactor is still subcritical because 0.01 Δk/k << 0.10 Δk/k. Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "c. Prompt critical, Keff > 1 and ρ > β-eff",
+        "correct": false,
+        "feedback": "Incorrect. Reference: From k =0.9 to critical (k=1) the reactivity needed is ∆ρ = keff1-keff2/(keff1 x keff2) (1.0-0.90)/(1.0*0.90) = 0.10 Δk/k By adding a worth of 0.01 Δk/k (even ρ > β-eff ), a reactor is still subcritical because 0.01 Δk/k << 0.10 Δk/k. Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      },
+      {
+        "answer": "d. Subcritical, Keff < 1 and ρ < 0",
+        "correct": true,
+        "feedback": "Correct. Reference: From k =0.9 to critical (k=1) the reactivity needed is ∆ρ = keff1-keff2/(keff1 x keff2) (1.0-0.90)/(1.0*0.90) = 0.10 Δk/k By adding a worth of 0.01 Δk/k (even ρ > β-eff ), a reactor is still subcritical because 0.01 Δk/k << 0.10 Δk/k. Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2"
+      }
+    ]
+  },
+  {
+    "question": "QUESTION A.20 [1.0 point] Which ONE of the following describes the term PROMPT JUMP?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. A reactor is subcritical at negative 80-second period",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."
+      },
+      {
+        "answer": "b. A reactor has attained criticality on prompt neutrons alone",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."
+      },
+      {
+        "answer": "c. The instantaneous change in power level due to inserting a control blade",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."
+      },
+      {
+        "answer": "d. The instantaneous change in power level due to withdrawing a control blade",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 4-21."
+      }
+    ]
+  }    
+]
+

@@ -1,0 +1,522 @@
+[
+    {
+        "question": "A.001 [1.0 point] Why is the stable negative period following a scram always the same value, regardless of initial power level? The rate of power change is dependent on the:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. constant decay rate of prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics Section(e)"
+            },
+            {
+                "answer": "b. constant decay rate of prompt gamma emitters.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics Section(e)"
+            },
+            {
+                "answer": "c. mean lifetime of the longest lived delayed precursor.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics Section(e)"
+            },
+            {
+                "answer": "d. mean lifetime of the shortest lived delayed neutron precursor.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics Section(e)"
+            }
+        ]
+    },
+    {
+        "question": "A.002 [1.0 points] The term 'prompt jump' refers to:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. the instantaneous change in power due to raising a control rod.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MIT Reactor Physics Notes, Reactivity Feedback"
+            },
+            {
+                "answer": "b. a reactor which has attained criticality on prompt neutrons alone.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MIT Reactor Physics Notes, Reactivity Feedback"
+            },
+            {
+                "answer": "c. a reactor which is critical using both prompt and delayed neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MIT Reactor Physics Notes, Reactivity Feedback"
+            },
+            {
+                "answer": "d. a negative reactivity insertion which is less than Beta-effective.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MIT Reactor Physics Notes, Reactivity Feedback"
+            }
+        ]
+    },
+    {
+        "question": "A.003 [1.0 points] Given the following: Reactor operating at 5 MW, scram setpoint at 6 MW, scram delay time of 1 second, reactor period of 12.5 seconds. What will be the approximate reactor power at the time of the scram due to this reactivity excursion?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 6.1 MW",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MIT Exam Bank"
+            },
+            {
+                "answer": "b. 6.5 MW",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MIT Exam Bank"
+            },
+            {
+                "answer": "c. 7.2 MW",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MIT Exam Bank"
+            },
+            {
+                "answer": "d. 12.5 MW",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MIT Exam Bank"
+            }
+        ]
+    },
+    {
+        "question": "A.004 [1.0 points] The fuel temperature coefficient of reactivity is -1.25E-4 delta k/k/deg.F. When a control rod with an average rod worth of 0.1% delta k/k/inch is withdrawn 10 inches, reactor power increases and becomes stable at a higher level. At this point, (ignoring any other temperature effects) the fuel temperature has:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. increased by 80 deg.F.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactivity added by control rod = +(0.001 Δk/k/inch)((10 inches) = 0.01 delta k/k Fuel temperature change = - reactivity of rod/fuel temp. coeff. = (- 0.01 delta k/k)/(- 1.25E-4 delta k/k/deg. F) = 80 deg. F Glasstone, Section 5.96"
+            },
+            {
+                "answer": "b. decreased by 80 deg.F.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactivity added by control rod = +(0.001 Δk/k/inch)((10 inches) = 0.01 delta k/k Fuel temperature change = - reactivity of rod/fuel temp. coeff. = (- 0.01 delta k/k)/(- 1.25E-4 delta k/k/deg. F) = 80 deg. F Glasstone, Section 5.96"
+            },
+            {
+                "answer": "c. increased by 8 deg.F.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactivity added by control rod = +(0.001 Δk/k/inch)((10 inches) = 0.01 delta k/k Fuel temperature change = - reactivity of rod/fuel temp. coeff. = (- 0.01 delta k/k)/(- 1.25E-4 delta k/k/deg. F) = 80 deg. F Glasstone, Section 5.96"
+            },
+            {
+                "answer": "d. decreased by 8 deg.F.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactivity added by control rod = +(0.001 Δk/k/inch)((10 inches) = 0.01 delta k/k Fuel temperature change = - reactivity of rod/fuel temp. coeff. = (- 0.01 delta k/k)/(- 1.25E-4 delta k/k/deg. F) = 80 deg. F Glasstone, Section 5.96"
+            }
+        ]
+    },
+    {
+        "question": "A.005 [1.0 points] Suppose the temperature coefficient of a core is -2.5 E10-4 ΔK/K/°C and the average control rod worth of the regulating control rod is 5.895 E10-3 ΔK/K/inch. If the temperature INCREASES by 50°C what will the automatic control command the regulating rod to do? Select the answer that is closest to the calculated value.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 5.6 inches in",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: The temperature increase will result in a change in reactivity of: -2.5E10-4 ΔK/K/°C 50°C = -1.25E10-2 ΔK/K. Since the temperature rise results in a negative reactivity insertion, the control rod will need to drive out to add positive reactivity. D = (1.25E10-2 ΔK/K) ) (5.895E10-3 ΔK/K/inch) = 2.12 inches"
+            },
+            {
+                "answer": "b. 2.1 inches out",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: The temperature increase will result in a change in reactivity of: -2.5E10-4 ΔK/K/°C 50°C = -1.25E10-2 ΔK/K. Since the temperature rise results in a negative reactivity insertion, the control rod will need to drive out to add positive reactivity. D = (1.25E10-2 ΔK/K) ) (5.895E10-3 ΔK/K/inch) = 2.12 inches"
+            },
+            {
+                "answer": "c. 0.5 inches in",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: The temperature increase will result in a change in reactivity of: -2.5E10-4 ΔK/K/°C 50°C = -1.25E10-2 ΔK/K. Since the temperature rise results in a negative reactivity insertion, the control rod will need to drive out to add positive reactivity. D = (1.25E10-2 ΔK/K) ) (5.895E10-3 ΔK/K/inch) = 2.12 inches"
+            },
+            {
+                "answer": "d. 4.3 inches out",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: The temperature increase will result in a change in reactivity of: -2.5E10-4 ΔK/K/°C 50°C = -1.25E10-2 ΔK/K. Since the temperature rise results in a negative reactivity insertion, the control rod will need to drive out to add positive reactivity. D = (1.25E10-2 ΔK/K) ) (5.895E10-3 ΔK/K/inch) = 2.12 inches"
+            }
+        ]
+    },
+    {
+        "question": "A.006 [1.0 points] During a reactor startup, criticality occurred at a lower rod height than the last startup. Which ONE of the following reasons could be the cause?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Xe135 peaked.",
+                "correct": false,
+                "feedback": "Incorrect. "
+            },
+            {
+                "answer": "b. Moderator temperature increased.",
+                "correct": false,
+                "feedback": "Incorrect. "
+            },
+            {
+                "answer": "c. Adding an experiment with positive reactivity.",
+                "correct": true,
+                "feedback": "Correct. "
+            },
+            {
+                "answer": "d. Maintenance on the control rods resulted in a slightly faster rod speed.",
+                "correct": false,
+                "feedback": "Incorrect. "
+            }
+        ]
+    },
+    {
+        "question": "A.007 [1.0 points] In a reactor at full power, the thermal neutron flux (φ) is 2.5 x 10^12 neutrons/cm^2/sec and the macroscopic fission cross-section Σf is 0.1 cm^-1. The fission reaction rate is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 2.5 x 10^11 fissions/sec.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "b. 2.5 x 10^13 fissions/sec.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "c. 2.5 x 10^11 fissions/cm^3/sec.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "d. 2.5 x 10^13 fissions/cm^3/sec.",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "A.008 [1.0 points] Which ONE of the following explains the response of a SUBCRITICAL reactor to equal insertions of positive reactivity as the reactor approaches criticality? Each insertion causes a",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. SMALLER increase in the neutron flux resulting in a LONGER time to stabilize.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "b. LARGER increase in the neutron flux resulting in a LONGER time to stabilize.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "c. SMALLER increase in the neutron flux resulting in a SHORTER time to stabilize.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "d. LARGER increase in the neutron flux resulting in a SHORTER time to stabilize.",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "A.009 [1.0 points] A thin foil target of 10% copper and 90% aluminum is in a thermal neutron beam. Given σa Cu = 3.79 barns, σa Al = 0.23 barns, σs Cu = 7.90 barns, and σs Al =1.49 barns, which ONE of the following reactions has the highest probability of occurring? A neutron",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. scattering reaction with aluminum",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: 0.1 x 3.79 = 0.379; 0.9 x 0.23 = 0.207; 0.1 x 7.9 = 0.79; 0.9 x 1.49 = 1.34"
+            },
+            {
+                "answer": "b. scattering reaction with copper",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: 0.1 x 3.79 = 0.379; 0.9 x 0.23 = 0.207; 0.1 x 7.9 = 0.79; 0.9 x 1.49 = 1.34"
+            },
+            {
+                "answer": "c. absorption in aluminum",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: 0.1 x 3.79 = 0.379; 0.9 x 0.23 = 0.207; 0.1 x 7.9 = 0.79; 0.9 x 1.49 = 1.34"
+            },
+            {
+                "answer": "d. absorption in copper",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: 0.1 x 3.79 = 0.379; 0.9 x 0.23 = 0.207; 0.1 x 7.9 = 0.79; 0.9 x 1.49 = 1.34"
+            }
+        ]
+    },
+    {
+        "question": "A.010 [1.0 points] A 1/M curve is being generated as fuel is loaded into a core. After some fuel elements have been loaded, the count rate existing at that time is taken to be the new initial count rate, CR0. Additional elements are then loaded and the inverse count rate ratio continues to decrease. As a result of changing the initial count rate:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. criticality will occur with the same number of elements loaded.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE:  MITR II Reactor Physics Notes - Reactor Startup and Reactor Subcritical Multiplication"
+            },
+            {
+                "answer": "b. criticality will occur earlier (i.e., with fewer elements loaded.)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE:  MITR II Reactor Physics Notes - Reactor Startup and Reactor Subcritical Multiplication"
+            },
+            {
+                "answer": "c. criticality will occur later (i.e., with more elements loaded.)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE:  MITR II Reactor Physics Notes - Reactor Startup and Reactor Subcritical Multiplication"
+            },
+            {
+                "answer": "d. criticality will be completely unpredictable.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE:  MITR II Reactor Physics Notes - Reactor Startup and Reactor Subcritical Multiplication"
+            }
+        ]
+    },
+    {
+        "question": "A.011 [1.0 points] Which ONE of the following is the reason that Xenon peaks after a shutdown?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Xenon decays faster than Iodine decays",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Feedback Section(e)"
+            },
+            {
+                "answer": "b. Xenon decays faster than Tellurium",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Feedback Section(e)"
+            },
+            {
+                "answer": "c. Iodine decays faster than Xenon decays",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MITR II Reactor Physics Notes - Reactor Feedback Section(e)"
+            },
+            {
+                "answer": "d. Tellurium decays faster than Xenon decays",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Feedback Section(e)"
+            }
+        ]
+    },
+    {
+        "question": "A.012 [1.0 points] Several processes within the core increase or decrease the number of neutrons in a generation. Which ONE of the following six-factor terms describes a process which results in an INCREASE in the number of neutrons during the cycle?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Thermal Utilization Factor (f)",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "b. Resonance Escape Probability (p)",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "c. Thermal Non-Leakage Probability (‹TH)",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "d. Reproduction Factor (η)",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "A.013 [1.0 points] Initially Nuclear Instrumentation is reading 30 CPS and the reactor has a Keff of 0.90. You add an experiment which causes the Nuclear Instrumentation reading to increase to 60 CPS. Which ONE of the following is the new Keff?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.91",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: CR2/CR1) = (1 - Keff1)/(1 - Keff2) Doubling the Count Rate results in halving the shutdown margin. 60/30 = (1 - 0.900)/(1 - Keff2) 1- Keff2 = 2 H 0.1 = 0.05 Keff2 = 1 - 0.05 = 0.95"
+            },
+            {
+                "answer": "b. 0.925",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: CR2/CR1) = (1 - Keff1)/(1 - Keff2) Doubling the Count Rate results in halving the shutdown margin. 60/30 = (1 - 0.900)/(1 - Keff2) 1- Keff2 = 2 H 0.1 = 0.05 Keff2 = 1 - 0.05 = 0.95"
+            },
+            {
+                "answer": "c. 0.95",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: CR2/CR1) = (1 - Keff1)/(1 - Keff2) Doubling the Count Rate results in halving the shutdown margin. 60/30 = (1 - 0.900)/(1 - Keff2) 1- Keff2 = 2 H 0.1 = 0.05 Keff2 = 1 - 0.05 = 0.95"
+            },
+            {
+                "answer": "d. 0.975",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: CR2/CR1) = (1 - Keff1)/(1 - Keff2) Doubling the Count Rate results in halving the shutdown margin. 60/30 = (1 - 0.900)/(1 - Keff2) 1- Keff2 = 2 H 0.1 = 0.05 Keff2 = 1 - 0.05 = 0.95"
+            }
+        ]
+    },
+    {
+        "question": "A.014 [1.0 points] The delayed neutron precursor β for U235 is 0.0065. However, when calculating reactor parameters you use the effective delayed neutron precursor βeff with a value of ~0.0070. Which ONE of the following is the correct reason that βeff is larger than β?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Delayed neutrons are born at higher energies than prompt neutrons resulting in a greater worth for the neutrons.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "b. Delayed neutrons are born at lower energies than prompt neutrons resulting in less leakage during slowdown to thermal energies.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "c. U238 in the core becomes Pu239 (by neutron absorption), which has a higher β for fission.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "d. The fuel also contains U238 which has a relatively large β for fast fission.",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "A.015 [1.0 points] You enter the control room and note that all nuclear instrumentation show a steady neutron level, and no rods are in motion. Which ONE of the following conditions CANNOT be true?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The reactor is critical.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "b. The reactor is subcritical.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "c. The reactor is supercritical.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "d. The neutron source has been removed from the core.",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "A.016 [1.0 points] Core excess reactivity changes with …",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. fuel element burnup",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Training Manual -Core Excess and Shutdown Margin."
+            },
+            {
+                "answer": "b. control rod height",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Training Manual -Core Excess and Shutdown Margin."
+            },
+            {
+                "answer": "c. neutron energy level",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Training Manual -Core Excess and Shutdown Margin."
+            },
+            {
+                "answer": "d. reactor power level",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Training Manual -Core Excess and Shutdown Margin."
+            }
+        ]
+    },
+    {
+        "question": "A.017 [1.0 points] Which ONE of the following is the definition of the term 'Cross-Section?'",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The probability that a neutron will be captured by a nucleus.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Training Manual -Cross Section."
+            },
+            {
+                "answer": "b. The most likely energy at which a charge particle will be captured.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Training Manual -Cross Section."
+            },
+            {
+                "answer": "c. The length a charged particle travels past the nucleus before being captured.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Training Manual -Cross Section."
+            },
+            {
+                "answer": "d. The area of the nucleus including the electron cloud.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Training Manual -Cross Section."
+            }
+        ]
+    },
+    {
+        "question": "A.018 [1.0 points] The method for determining Calculated Thermal Power is described by:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Primary power plus reflector power plus shield power.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: PM 2.4, pg. 5"
+            },
+            {
+                "answer": "b. Primary power plus reflector power minus shield power.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: PM 2.4, pg. 5"
+            },
+            {
+                "answer": "c. Primary power plus shield power minus reflector power.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: PM 2.4, pg. 5"
+            },
+            {
+                "answer": "d. Primary power minus reflector power minus shield power.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: PM 2.4, pg. 5"
+            }
+        ]
+    },
+    {
+        "question": "A.019 [1.0 points] The peak differential reactivity worth of the shim blades occur at the midpoints of their calibration curves, but the peak differential reactivity worth of the regulating rod occurs at the bottom of its calibration curve because:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. the regulating rod is made of cadmium and the shim blades of boron-impregnated stainless steel.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: RSM 1.6.2"
+            },
+            {
+                "answer": "b. the regulating rod is shadowed by the shim bank when it is above the bank height.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: RSM 1.6.2"
+            },
+            {
+                "answer": "c. the regulating rod is a cylinder, while the blades are paddle-shaped.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: RSM 1.6.2"
+            },
+            {
+                "answer": "d. the 'full-in' position of the regulating rod is six inches above that of the shim blades.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: RSM 1.6.2"
+            }
+        ]
+    },
+    {
+        "question": "A.020 [1.0 points] The Doppler effect is described by the:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. blue glow seen around the fuel elements.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Notes, Reactivity Feedback"
+            },
+            {
+                "answer": "b. broadening of resonance peaks as fuel temperature increases.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Notes, Reactivity Feedback"
+            },
+            {
+                "answer": "c. slower response time in comparison to moderator temperature feedback.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Notes, Reactivity Feedback"
+            },
+            {
+                "answer": "d. spectral shift of Uranium-235 as moderator temperature increases.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Notes, Reactivity Feedback"
+            }
+        ]
+    }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "question": "QUESTION: 001  (1.00)\nReactor power is increasing by a factor of 10 every minute.  The reactor period is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 65 seconds.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 4-4. P/Po = et/T ; 10 = e60/T ; ln10 = 2.303 = 60/T ; T = 26 seconds"
+      },
+      {
+        "answer": "b. 52 seconds.",
+        "correct": false,
+         "feedback": "Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 4-4. P/Po = et/T ; 10 = e60/T ; ln10 = 2.303 = 60/T ; T = 26 seconds"
+       },
+      {
+        "answer": "c. 26 seconds.",
+        "correct": true,
+         "feedback": "Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 4-4. P/Po = et/T ; 10 = e60/T ; ln10 = 2.303 = 60/T ; T = 26 seconds"
+      },
+      {
+        "answer": "d. 13 seconds.",
+        "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 4-4. P/Po = et/T ; 10 = e60/T ; ln10 = 2.303 = 60/T ; T = 26 seconds"
+      }
+    ]
+  },
+  {
+    "question": "QUESTION: 002  (1.00)\nA reactor is slightly supercritical, with the thermal utilization factor = 0.700.  A control rod is inserted to bring the reactor back to critical.  Assuming all other factors remain unchanged,  the new value for the thermal utilization factor is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.698",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16. In order to decrease K (return to critical), thermal utilization must decrease."
+      },
+      {
+        "answer": "b. 0.700",
+        "correct": false,
+         "feedback": "Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16. In order to decrease K (return to critical), thermal utilization must decrease."
+      },
+      {
+        "answer": "c. 0.702",
+        "correct": false,
+         "feedback": "Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16. In order to decrease K (return to critical), thermal utilization must decrease."
+      },
+       {
+        "answer":"d. 0.704",
+        "correct": false,
+         "feedback": "Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16. In order to decrease K (return to critical), thermal utilization must decrease."
+       }
+    ]
+  },
+  {
+    "question": "QUESTION: 003  (1.00)\nThe neutron microscopic cross section for absorption, a , generally:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. increases as neutron energy increases.",
+        "correct": false,
+         "feedback": "Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-36."
+      },
+      {
+        "answer": "b. decreases as neutron energy increases.",
+        "correct": true,
+         "feedback": "Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-36."
+      },
+      {
+        "answer":"c. increases as the mass of the target nucleus increases.",
+        "correct": false,
+         "feedback": "Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-36."
+      },
+      {
+        "answer":"d. decreases as the mass of the target nucleus increases.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-36."
+       }
+    ]
+  },
+  {
+    "question": "QUESTION: 004  (1.00)  Which ONE of the reactions below is an example of a photoneutron source?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 51Sb123 + n -> 51Sb124 + ",
+         "correct": false,
+         "feedback": "Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 5-3."
+      },
+      {
+        "answer": "b. 92U 238 -> 35Br87 +57La148 + 3n + ",
+        "correct": false,
+         "feedback": "Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 5-3."
+      },
+      {
+         "answer":"c. 1H 2 +  -> 1H\n1 + n",
+         "correct": true,
+          "feedback": "Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 5-3."
+      },
+      {
+        "answer":"d. 4Be9 +  -> 6C 12 + n",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 5-3."
+       }
+    ]
+  },
+  {
+    "question": "QUESTION: 005  (1.00)   During a reactor startup, the count rate is increasing on a straight line on a logarithmic scale, with no rod motion.  This means that:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the reactor is subcritical and the count rate increase is due to the buildup of delayed neutron precursors.",
+        "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 5-25."
+      },
+      {
+        "answer": "b. the reactor is critical and the count rate increase is due to source neutrons.",
+        "correct": false,
+         "feedback": "Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 5-25."
+      },
+       {
+        "answer":"c. the reactor is subcritical and the count rate increase is due to source neutrons.",
+        "correct": false,
+         "feedback": "Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 5-25."
+       },
+      {
+        "answer": "d. the reactor is supercritical.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 5-25."
+      }
+    ]
+  },
+  {
+    "question": "QUESTION: 006  (1.00)   A 1/M curve is being generated as fuel is loaded into the core.  After some fuel elements have been loaded, the count rate existing at that time is taken to be the new initial count rate, Co.  Additional elements are then loaded and the inverse count rate ratio continues to decrease.  As a result of changing the initial count rate:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. criticality will occur with the same number of elements loaded as if there were no change in the initial count rate.",
+        "correct": true,
+        "feedback":"Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 5-18."
+      },
+      {
+        "answer": "b. criticality will occur earlier (i.e., with fewer elements loaded.)",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 5-18."
+      },
+      {
+         "answer": "c. criticality will occur later (i.e., with more elements loaded.)",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 5-18."
+      },
+      {
+        "answer":"d. criticality will be completely unpredictable.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 5-18."
+      }
+    ]
+  },
+  {
+    "question": "QUESTION: 007  (1.00)\nAs a reactor continues to operate over a period of months, for a constant power level, the average neutron flux:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. decreases, due to the increase in fission product poisons.",
+        "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-50."
+      },
+      {
+        "answer": "b. decreases, because fuel is being depleted.",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-50."
+      },
+      {
+        "answer":"c. increases, in order to compensate for fuel depletion.",
+         "correct": true,
+         "feedback":"Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-50."
+      },
+      {
+        "answer": "d. remains the same.",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-50."
+      }
+    ]
+  },
+  {
+    "question": "QUESTION: 008  (1.00)\nA reactor is operating at a constant power level of 250 kW.  The fission rate of this reactor is approximately:",
+     "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.78x1012 fissions/sec.",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-51. 250 kW = 1.562x1018 Mev/sec. (From Equation Sheet) (1.562x1018 Mev/sec)/(200 Mev/fission) = 0.78x1016 fissions/sec."
+      },
+      {
+        "answer": "b. 1.56x1014 fissions/sec.",
+        "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-51. 250 kW = 1.562x1018 Mev/sec. (From Equation Sheet) (1.562x1018 Mev/sec)/(200 Mev/fission) = 0.78x1016 fissions/sec."
+      },
+      {
+        "answer": "c. 0.78x1016 fissions/sec.",
+        "correct": true,
+         "feedback":"Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-51. 250 kW = 1.562x1018 Mev/sec. (From Equation Sheet) (1.562x1018 Mev/sec)/(200 Mev/fission) = 0.78x1016 fissions/sec."
+      },
+      {
+        "answer":"d. 3.90x1018 fissions/sec.",
+        "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-51. 250 kW = 1.562x1018 Mev/sec. (From Equation Sheet) (1.562x1018 Mev/sec)/(200 Mev/fission) = 0.78x1016 fissions/sec."
+      }
+    ]
+  },
+  {
+    "question":"QUESTION: 009  (1.00)\nWhich ONE of the following statements correctly describes the influence of delayed neutrons during the neutron life cycle?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Delayed neutrons are more likely to cause fission after they become thermalized because they thermalize more quickly than prompt neutrons.",
+        "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-27."
+      },
+      {
+        "answer": "b. Delayed neutrons take longer to thermalize because they are born at a higher average energy\nthan prompt neutrons.",
+        "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-27."
+      },
+      {
+        "answer":"c. Delayed neutrons increase the average neutron generation time.",
+        "correct": true,
+         "feedback":"Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-27."
+      },
+      {
+        "answer":"d. Delayed neutrons are produced some time after prompt neutrons and make up the majority of neutrons produced by fissions.",
+        "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-27."
+      }
+    ]
+  },
+  {
+    "question":"QUESTION: 010  (1.00)\nThe moderator-to-fuel ratio describes the relationship between the number of moderator atoms in a volume of core to the number of fuel atoms.  A reactor which is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. undermoderated will have a positive moderator temperature coefficient.",
+         "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 6-8."
+      },
+      {
+        "answer": "b. undermoderated will have a negative moderator temperature coefficient.",
+        "correct": true,
+        "feedback":"Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 6-8."
+      },
+      {
+         "answer":"c. overmoderated will have a constant moderator temperature coefficient.",
+         "correct": false,
+          "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 6-8."
+       },
+      {
+        "answer": "d. overmoderated will have a negative moderator temperature coefficient.",
+         "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 6-8."
+      }
+    ]
+  },
+  {
+    "question": "QUESTION: 011  (1.00)\nWhich ONE statement below describes a positive fuel temperature coefficient?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. When fuel temperature increases, positive reactivity is added.",
+         "correct": true,
+         "feedback":"Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 6-5."
+      },
+      {
+        "answer": "b. When fuel temperature decreases, positive reactivity is added.",
+         "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 6-5."
+      },
+      {
+         "answer":"c. When fuel temperature increases, negative reactivity is added.",
+         "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 6-5."
+       },
+       {
+        "answer":"d. When fuel temperature increases, reactor power decreases.",
+         "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 6-5."
+       }
+    ]
+  },
+   {
+    "question":"QUESTION: 012  (1.00)\nA reactor with an initial population of 1x108 neutrons is operating with Keff = 1.001.  Considering only the increase in neutron population, how many neutrons (of the increase) will be prompt when the neutron population changes from the current generation to the next?  Assume  = 0.007.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 700.",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-11. Increase = 1.001x108 - 1x108 = 1x105.  Prompt neutron population = 0.993x1x105 = 99,300."
+      },
+      {
+        "answer": "b. 7,000.",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-11. Increase = 1.001x108 - 1x108 = 1x105.  Prompt neutron population = 0.993x1x105 = 99,300."
+      },
+      {
+        "answer": "c. 99,300.",
+         "correct": true,
+         "feedback":"Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-11. Increase = 1.001x108 - 1x108 = 1x105.  Prompt neutron population = 0.993x1x105 = 99,300."
+      },
+      {
+        "answer":"d. 100,000.",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-11. Increase = 1.001x108 - 1x108 = 1x105.  Prompt neutron population = 0.993x1x105 = 99,300."
+      }
+    ]
+  },
+  {
+     "question":"QUESTION: 013  (1.00)\nInelastic scattering can be described as a process whereby a neutron collides with a nucleus and:",
+     "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. reappears with a lower kinetic energy, with the nucleus emitting a gamma ray.",
+        "correct": true,
+        "feedback":"Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-28."
+      },
+      {
+        "answer":"b. reappears with the same kinetic energy it had prior to the collision.",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-28."
+      },
+      {
+        "answer":"c. is absorbed by the nucleus, with the nucleus emitting a gamma ray.",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-28."
+      },
+      {
+         "answer":"d. reappears with a higher kinetic energy, with the nucleus absorbing a gamma ray.",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-28."
+      }
+    ]
+  },
+  {
+    "question":"QUESTION: 014  (1.00)\nThe Moderating Ratio measures the effectiveness of a moderator by combining the scattering cross section, the absorption cross section, and the average energy loss per collision.  The Moderating Ratio is expressed as:",
+     "type": "multiple_choice",
+    "answers": [
+      {
+        "answer":"a. (absorption cross section)x(scattering cross section)/(average energy loss per collision).",
+         "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-62."
+      },
+      {
+        "answer":"b. (absorption cross section)x(average energy loss per collision)/(scattering cross section).",
+         "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-62."
+      },
+      {
+        "answer":"c. (scattering cross section)x(absorption cross section)x(average energy loss per collision).",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-62."
+       },
+      {
+        "answer":"d. (average energy loss per collision)x(scattering cross section)/(absorption cross section).",
+        "correct": true,
+         "feedback":"Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 2-62."
+      }
+    ]
+  },
+  {
+    "question":"QUESTION: 015  (1.00)\nRefer to the Shim #3 Integral Rod Worth data, attached. The rod is at position 55.5.  An experiment with a reactivity worth of $0.80 is inserted into the reactor, and as a result the rod is moved into the core.  The experiment has a reactivity worth of ______ and the rod is at position______.",
+     "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. + $0.80; 78.0",
+        "correct": false,
+         "feedback":"Incorrect. REFERENCE: Control Rod Data (Annual Control Rod Calibration and Shutdown Margin Determination)."
+      },
+       {
+        "answer":"b. + $0.80; 37.5",
+         "correct": true,
+         "feedback":"Correct. REFERENCE: Control Rod Data (Annual Control Rod Calibration and Shutdown Margin Determination)."
+      },
+      {
+        "answer":"c. - $0.80; 78.0",
+        "correct": false,
+         "feedback":"Incorrect. REFERENCE: Control Rod Data (Annual Control Rod Calibration and Shutdown Margin Determination)."
+      },
+      {
+        "answer":"d. - $0.80; 37.5",
+        "correct": false,
+         "feedback":"Incorrect. REFERENCE: Control Rod Data (Annual Control Rod Calibration and Shutdown Margin Determination)."
+      }
+    ]
+  },
+  {
+    "question":"QUESTION: 016  (1.00)\nDelayed neutron precursors decay by beta(-) decay.  Which ONE reaction below is an example of beta(-) decay?",
+    "type": "multiple_choice",
+    "answers": [
+       {
+        "answer":"a. 35Br87 -> 36Kr87",
+         "correct": true,
+         "feedback":"Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-10."
+       },
+      {
+        "answer":"b. 35Br87 -> 36Kr87",
+         "correct": true,
+         "feedback":"Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-10."
+      },
+      {
+        "answer":"c. 35Br87 -> 35Kr88",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-10."
+      },
+      {
+         "answer":"d. 35Br87 -> 35Kr86",
+         "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-10."
+      }
+    ]
+  },
+  {
+    "question":"QUESTION: 017  (1.00)\nA reactor is subcritical by 5% delta k/k with a count rate of 100 cps on the startup channel.  Rods are withdrawn until the count rate is 1000 cps.  Which ONE of the following is the condition of the reactor following the rod withdrawal?",
+    "type":"multiple_choice",
+    "answers": [
+      {
+         "answer":"a. Critical with keff = 1.000.",
+         "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, pages 3-23, 5-23. CR1 (1-K1) = CR2 (1-K2);   = (K -1)/K;  -0.05 = (K - 1)/K; K = 0.952. 100(1 - 0.952) = 1000(1 - K2); K2 = 0.995."
+      },
+       {
+         "answer":"b. Subcritical with keff = 0.995.",
+        "correct": true,
+        "feedback":"Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, pages 3-23, 5-23. CR1 (1-K1) = CR2 (1-K2);   = (K -1)/K;  -0.05 = (K - 1)/K; K = 0.952. 100(1 - 0.952) = 1000(1 - K2); K2 = 0.995."
+       },
+       {
+         "answer":"c. Subcritical with keff = 0.950.",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, pages 3-23, 5-23. CR1 (1-K1) = CR2 (1-K2);   = (K -1)/K;  -0.05 = (K - 1)/K; K = 0.952. 100(1 - 0.952) = 1000(1 - K2); K2 = 0.995."
+       },
+      {
+         "answer":"d. Supercritical with keff = 1.005.",
+        "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, pages 3-23, 5-23. CR1 (1-K1) = CR2 (1-K2);   = (K -1)/K;  -0.05 = (K - 1)/K; K = 0.952. 100(1 - 0.952) = 1000(1 - K2); K2 = 0.995."
+      }
+    ]
+  },
+  {
+    "question":"QUESTION: 018  (1.00)\nA reactor is operating at a constant power level with equilibrium xenon.  Reactor power is then doubled.  The equilibrium xenon level at the higher power level will be:",
+    "type":"multiple_choice",
+    "answers": [
+      {
+         "answer":"a. higher than its value at the lower power level, but not twice as high.",
+         "correct": true,
+         "feedback":"Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 8-8."
+      },
+      {
+         "answer":"b. twice as high.",
+        "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 8-8."
+      },
+      {
+         "answer":"c. more than twice as high.",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 8-8."
+      },
+      {
+        "answer":"d. the same as at the lower power level.",
+        "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 8-8."
+      }
+    ]
+  },
+  {
+    "question":"QUESTION: 019  (1.00)\nDuring the neutron cycle from one generation to the next, several processes occur that may increase or decrease the available number of neutrons.  Which ONE of the following factors describes an INCREASE in the number of neutrons during the cycle?",
+    "type":"multiple_choice",
+     "answers": [
+      {
+         "answer":"a. Thermal utilization factor.",
+        "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16."
+      },
+      {
+         "answer":"b. Fast fission factor.",
+         "correct": true,
+         "feedback":"Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16."
+      },
+      {
+         "answer":"c. Thermal non-leakage probability.",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16."
+      },
+      {
+        "answer":"d. Resonance escape probability.",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16."
+      }
+    ]
+  },
+  {
+    "question":"QUESTION: 020  (1.00)\nWhich ONE of the following statements correctly describes a characteristic of subcritical multiplication?",
+    "type":"multiple_choice",
+     "answers": [
+      {
+         "answer":"a. The number of neutrons gained per generation doubles for each succeeding generation.",
+        "correct": false,
+         "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16."
+      },
+      {
+         "answer":"b. A constant neutron population is achieved when the total number of neutrons produced in one generation is equal to the number of source neutrons added in the next generation.",
+         "correct": true,
+         "feedback":"Correct. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16."
+      },
+      {
+         "answer":"c. For equal reactivity additions, it requires less time for the equilibrium neutron population to be reached.",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16."
+      },
+      {
+        "answer":"d. When the indicated count rate doubles, the margin to criticality has been reduced by approximately one-half.",
+        "correct": false,
+        "feedback":"Incorrect. REFERENCE: R. R. Burn, Introduction to Nuclear Reactor Operations, page 3-16."
+      }
+    ]
+  }
+]
