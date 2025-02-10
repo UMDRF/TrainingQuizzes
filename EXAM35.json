@@ -1,0 +1,496 @@
+[
+    {
+        "question": "A.1 [1.0 point] Complete the following sentence. A dollar ($) is a unit of reactivity, where one dollar ($1) is equal to the",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Delayed neutron precursor decay constant (λ).",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Theory (Neutron Characteristics) DOE-HDBK-1019/1-93 PROMPT AND DELAYED NEUTRONS."
+            },
+            {
+                "answer": "b. Effective delayed neutron precursor decay constant (λeff).",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Theory (Neutron Characteristics) DOE-HDBK-1019/1-93 PROMPT AND DELAYED NEUTRONS."
+            },
+            {
+                "answer": "c. Delayed neutron fraction (β).",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Theory (Neutron Characteristics) DOE-HDBK-1019/1-93 PROMPT AND DELAYED NEUTRONS."
+            },
+            {
+                "answer": "d. Effective delayed neutron fraction (βeff).",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Theory (Neutron Characteristics) DOE-HDBK-1019/1-93 PROMPT AND DELAYED NEUTRONS."
+            }
+        ]
+    },
+    {
+        "question": "A.2 [1.0 point] Given the following diagram, which of the following most correctly describe the condition of the reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The prompt jump occurs because the production rate of delayed neutrons abruptly changes as reactivity is added.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "b. At T=15s, the reactor is considered prompt critical.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "c. After the prompt jump, the rate of change of power cannot increase any more rapidly than the built-in time delay the neutron precursor half-lives allow.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "d. Shortly after T=0s, the reactor power is immediately turned due to the rise in moderator temperature.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            }
+        ]
+    },
+    {
+        "question": "A.4 [1.0 point] The reactor is at 5 W. Given the following data, calculate the Shutdown Margin, as defined by Technical Specifications.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. $2.42",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {
+                "answer": "b. $2.75",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {
+                "answer": "c. $5.15",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {
+                "answer": "d. $6.16",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            }
+        ]
+    },
+    {
+        "question": "A.5 [1.0 point] Which ONE of the following is the correct amount of reactivity added if the multiplication factor, k, is increased from 0.800 to 0.950?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.150",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {
+                "answer": "b. 0.158",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {
+                "answer": "c. 0.188",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {
+                "answer": "d. 0.197",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            }
+        ]
+    },
+    {
+        "question": "A.6 [1.0 point] About two minutes following a reactor scram, the reactor period has stabilized and the power level is decreasing at a CONSTANT rate. Given that reactor power at time t0 (i.e., shortly after the scram) was 100 kW power, what will reactor power be three minutes later?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 2 kW",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "b. 10 kW",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "c. 30 kW",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "d. 50 kW",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            }
+        ]
+    },
+    {
+        "question": "A.7 [1.0 point] With the reactor on a constant period, which transient requires the LONGEST time to occur?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 5% of rated power - going from 1% to 6% power of rated power",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, ©1988, § 4.3."
+            },
+            {
+                "answer": "b. 10% of rated power - going from 10% to 20% power of rated power",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, ©1988, § 4.3."
+            },
+            {
+                "answer": "c. 15% of rated power - going from 20% to 35% power of rated power",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, ©1988, § 4.3."
+            },
+            {
+                "answer": "d. 20% of rated power - going from 40% to 60% power of rated power",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, ©1988, § 4.3."
+            }
+        ]
+    },
+    {
+        "question": "A.8 [1.0 point] The time period in which the MAXIMUM concentration of Xe-135 will be present in the core is approximately 8 hours after:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. a startup to 100%power.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 8.4, page 8-9."
+            },
+            {
+                "answer": "b. a scram from 100% power.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 8.4, page 8-9."
+            },
+            {
+                "answer": "c. a power increase from 0% to 50%.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 8.4, page 8-9."
+            },
+            {
+                "answer": "d. a power decrease from 100% to 50%.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 8.4, page 8-9."
+            }
+        ]
+    },
+    {
+        "question": "A.9 [1.0 point] Which ONE of the following conditions will INCREASE the core excess of a reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Higher moderator temperature (assume negative temperature coefficient)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "b. Insertion of a negative reactivity worth experiment",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "c. Burnout of a burnable poison",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "d. Fuel depletion",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            }
+        ]
+    },
+    {
+        "question": "A.10 [1.0 point] A reactor with Keff = 0.8 contributes 1000 neutrons in the first generation. When progressing from the FIRST generation to the SECOND generation, how many total neutrons are there after the SECOND generation?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 1250",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6."
+            },
+            {
+                "answer": "b. 1600",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6."
+            },
+            {
+                "answer": "c. 1800",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6."
+            },
+            {
+                "answer": "d. 2000",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6."
+            }
+        ]
+    },
+    {
+        "question": "A.11 [1.0 point] Which of the following radiation types has its penetrating ability through biological material impeded the greatest by its high specific ionization?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Alpha",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: PSBR Training Manual Chapter 2.1.1 “Alpha Particle Interactions with Matter”."
+            },
+            {
+                "answer": "b. Beta",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: PSBR Training Manual Chapter 2.1.1 “Alpha Particle Interactions with Matter”."
+            },
+            {
+                "answer": "c. Gamma",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: PSBR Training Manual Chapter 2.1.1 “Alpha Particle Interactions with Matter”."
+            },
+            {
+                "answer": "d. Neutron",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: PSBR Training Manual Chapter 2.1.1 “Alpha Particle Interactions with Matter”."
+            }
+        ]
+    },
+    {
+        "question": "A.12 [1.0 point] Given the associated graph, which answer best describes neutron behavior within Region I.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. For neutrons with energy levels (E <1 ev) the cross section is inversely proportional to the neutron velocity.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: PSBR Training Manual Chapter 2.3.2.2 “Cross Sections”."
+            },
+            {
+                "answer": "b. For neutrons with energy levels (E >1 ev), the neutron cross section decreases steadily with increasing neutron energy (1/E).",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: PSBR Training Manual Chapter 2.3.2.2 “Cross Sections”."
+            },
+            {
+                "answer": "c. For neutrons with energy levels (E < 1 ev), the high energy neutrons’ cross section decreases which is proportional to the decrease in their mean free path.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: PSBR Training Manual Chapter 2.3.2.2 “Cross Sections”."
+            },
+            {
+                "answer": "d. Neutrons of specific energy levels (E > 1 ev) are more likely to be readily absorbed than neutrons at other energy levels because of the affinity of the nucleus for neutrons whose energies closely match its discrete, quantum energy levels.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: PSBR Training Manual Chapter 2.3.2.2 “Cross Sections”."
+            }
+        ]
+    },
+    {
+        "question": "A.13 [1.0 point] A reactor pool contains 106,000 gallons of water at 90 degrees F, and it heats up to 93 degrees F in two hours. Assuming no ambient losses, the calculated reactor power level is",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 93 kW.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Power = mcΔT/Δt , where: m=106,000 gallons x 8.34 lbs/gal = 884,040 lb; c=1 Btu/̊F-lb; ΔT/Δt = 1.5 degrees/hour. Power = 1,326,060 Btu/hour; 3413 Btu/hour = 1 kW. Power = 1,326,060/3413 = 389 kW."
+            },
+            {
+                "answer": "b. 259 kW.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Power = mcΔT/Δt , where: m=106,000 gallons x 8.34 lbs/gal = 884,040 lb; c=1 Btu/̊F-lb; ΔT/Δt = 1.5 degrees/hour. Power = 1,326,060 Btu/hour; 3413 Btu/hour = 1 kW. Power = 1,326,060/3413 = 389 kW."
+            },
+            {
+                "answer": "c. 389 kW.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Power = mcΔT/Δt , where: m=106,000 gallons x 8.34 lbs/gal = 884,040 lb; c=1 Btu/̊F-lb; ΔT/Δt = 1.5 degrees/hour. Power = 1,326,060 Btu/hour; 3413 Btu/hour = 1 kW. Power = 1,326,060/3413 = 389 kW."
+            },
+            {
+                "answer": "d. 777 kW.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Power = mcΔT/Δt , where: m=106,000 gallons x 8.34 lbs/gal = 884,040 lb; c=1 Btu/̊F-lb; ΔT/Δt = 1.5 degrees/hour. Power = 1,326,060 Btu/hour; 3413 Btu/hour = 1 kW. Power = 1,326,060/3413 = 389 kW."
+            }
+        ]
+    },
+    {
+        "question": "A.14 [1.0 point] The effective neutron multiplication factor, Keff, for a critical reactor is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Equal to ∞.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "b. Equal to 1.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "c. Equal to the effective delayed neutron fraction.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "d. Any value < 1.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            }
+        ]
+    },
+    {
+        "question": "A.15 [1.0 point] Light water is an ideal moderator for thermalizing neutrons. Which of the following most correctly describes the nuclear properties of an ideal moderator?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Large absorption cross section.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 1."
+            },
+            {
+                "answer": "b. Small energy loss per collision.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 1."
+            },
+            {
+                "answer": "c. Large scattering cross section.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 1."
+            },
+            {
+                "answer": "d. Small Doppler Broadening effect.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 1."
+            }
+        ]
+    },
+    {
+        "question": "A.16 [1.0 point] Which one of the following is the correct reason that delayed neutrons enhance control of the reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. There are more delayed neutrons than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reference 1: volume 2, module 4, pg. 10."
+            },
+            {
+                "answer": "b. Delayed neutrons increase the average neutron generation time.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reference 1: volume 2, module 4, pg. 10."
+            },
+            {
+                "answer": "c. Delayed neutrons are born at higher energies than prompt neutrons and therefore have a greater effect.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reference 1: volume 2, module 4, pg. 10."
+            },
+            {
+                "answer": "d. Delayed neutrons take longer to reach thermal equilibrium.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reference 1: volume 2, module 4, pg. 10."
+            }
+        ]
+    },
+    {
+        "question": "A.17 [1.0 point] Which of the following statements best characterizes Natural Circulation?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The driving force is a difference in density.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: General Physics, HT&FF, pp. 355 - 358."
+            },
+            {
+                "answer": "b. Heat transfer is more efficient as the heat source decays.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: General Physics, HT&FF, pp. 355 - 358."
+            },
+            {
+                "answer": "c. Heat transfer is more efficient if the difference in temperature between the source and sink is small.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: General Physics, HT&FF, pp. 355 - 358."
+            },
+            {
+                "answer": "d. The elevation of the heat source must be above that of the heat sink.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: General Physics, HT&FF, pp. 355 - 358."
+            }
+        ]
+    },
+    {
+        "question": "A.18 [1.0 point] You are poolside of the reactor conducting a tour when someone from the group asks what the 'blue glow' around the reactor is. Which of the following would be the most correct response?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. It is the energy released from the interaction between a neutrino and antineutrino which is known as pair annihilation.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: PSBR Training Manual, Chapter 1.8 'Bremstrahlung and Cerenkov Effect'."
+            },
+            {
+                "answer": "b. It is binding energy released directly through chain reactions of the fission process.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: PSBR Training Manual, Chapter 1.8 'Bremstrahlung and Cerenkov Effect'."
+            },
+            {
+                "answer": "c. It is the energy released by thermal neutrons when the Keff= 1.000.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: PSBR Training Manual, Chapter 1.8 'Bremstrahlung and Cerenkov Effect'."
+            },
+            {
+                "answer": "d. It is an effect when high energy, charged particles (e.g., electrons) pass through the pool at a speed which is greater than the speed of light.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: PSBR Training Manual, Chapter 1.8 'Bremstrahlung and Cerenkov Effect'."
+            }
+        ]
+    },
+    {
+        "question": "A.19 [1.0 point] During a reactor startup, criticality occurred at a lower rod height than the last startup. Which ONE of the following reasons could be the cause?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Xe135 peaked.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "b. Moderator temperature increased.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "c. A pre-loaded experiment had positive reactivity.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "d. Maintenance on the control rods resulted in a slightly faster rod speed.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            }
+        ]
+    },
+    {
+        "question": "A.20 [1.0 point] In an operating TRIGA reactor, the effect of the Xenon poison is different from that due to samarium because:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Xenon will begin to decay 12 to 14 hours after reactor shutdown, whereas the effects of Samarium will remain indefinitely after shutdown because it is stable.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "b. The magnitude of the xenon poison effect is much smaller than that for samarium.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "c. While both poisons decay with their respective half lives after shutdown, Samarium decays with a shorter half life and its affects are negligible.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "d. While both poisons decay after shutdown, samarium decays with a much longer half-life, its affects are negligible.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            }
+        ]
+    }
+]

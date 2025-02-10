@@ -1,0 +1,522 @@
+[
+    {
+        "question": "A.1 [1.0 point] The reactor is at a power of 1 watt, with a 26 second stable period. How long will it take for power to reach 1000 watts?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 180 seconds",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "b. 153 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "c. 121 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "d. 78 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            }
+        ]
+    },
+    {
+        "question": "A.2 [1.0 point] With the reactor on a constant period, which of the following changes in reactor power would take the LONGEST time?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 5% — from 1% to 6%",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "b. 15% — from 20% to 35%",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "c. 20% — from 40% to 60%",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "d. 25% — from 75% to 100%",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            }
+        ]
+    },
+    {
+        "question": "A.3 [1.0 point] The difference between Keff and K is that Keff is K corrected for …",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. resonance escape probability",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "b. total non-leakage (fast and thermal) probabilities",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "c. U238 fast fissions",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "d. Pu239 production in the fuel",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            }
+        ]
+    },
+    {
+        "question": "A.4 [1.0 point] An experimenter makes an error loading a rabbit sample. Sample injection results in a 100 millisecond period. If the scram set point is 1.25 MW and the scram delay time is 0.1 seconds, WHICH ONE of the following is the peak power of the reactor at shutdown. (Assume Rabbit system is operational for this question.)",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 1.25 MW",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "b. 2.5 MW",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "c. 3.4 MW",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "d. 12.5 MW",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            }
+        ]
+    },
+    {
+        "question": "A.5 [1.0 point] Which ONE of the following is an example of alpha decay?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 35Br87 33As83",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "b. 35Br87 35Br86",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "c. 35Br87 34Se86",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "d. 35Br87 36Kr87",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            }
+        ]
+    },
+    {
+        "question": "A.6 [1.0 point] A fast neutron will lose the most energy by elastically colliding with which ONE of the following nuclei?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 1H1",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "b. 1H2",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "c. 4Be8",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "d. 5B10",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            }
+        ]
+    },
+    {
+        "question": "A.7 [1.0 point] You enter the control room and note that all nuclear instrumentation show a steady neutron level, and no rods are in motion. Which ONE of the following conditions CANNOT be true?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The reactor is critical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "b. The reactor is subcritical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "c. The reactor is supercritical.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "d. The neutron source has been removed from the core.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            }
+        ]
+    },
+    {
+        "question": "A.8 [1.0 point] The number of neutrons passing through a one square centimeter of target material per second is the definition of which one of the following?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Neutron Population (np)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "b. Neutron Impact Potential (nip)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "c. Neutron Flux (nv)",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "d. Neutron Density (nd)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            }
+        ]
+    },
+    {
+        "question": "A.9 [1.0 point] ELASTIC SCATTERING is the process by which a neutron collides with a nucleus and …",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. recoils with the same kinetic energy it had prior to the collision",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "b. recoils with less kinetic energy than it had prior to the collision with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "c. is absorbed, with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "d. recoils with a higher kinetic energy than it had prior to the collision with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            }
+        ]
+    },
+    {
+        "question": "A.10 [1.0 point] Which ONE of the following statements concerning reactor poisons is NOT true?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Following shutdown, Samarium concentration will increase to some value then stabilize.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "b. Following shutdown, Xenon concentration will initially increase to some value then decrease exponentially",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "c. During reactor operation, Samarium concentration is independent of reactor power level.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "d. During reactor operation, Xenon concentration is dependent on reactor power level.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            }
+        ]
+    },
+    {
+        "question": "A.11 [1.0 point] If a $1.5 pulse results in a peak power of 250 MW, (FWHM) of 100 milliseconds and fuel temperature rise of 145C, a $2.00 pulse would result in …",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Peak Power FWHM Temp. Rise 80 780 MW 210C 1000 MW 1200 MW 900 MW 50 50 80 290C 350C 210",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Peak Power is proportional to ∆$prompt FWHM is proportional to 1/∆$prompt, and Temperature increase is proportional to ∆$prompt NOTE: ∆$prompt = ρ - β."
+            },
+            {
+                "answer": "b. 1000 MW",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Peak Power is proportional to ∆$prompt FWHM is proportional to 1/∆$prompt, and Temperature increase is proportional to ∆$prompt NOTE: ∆$prompt = ρ - β."
+            },
+            {
+                "answer": "c. 1200 MW",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Peak Power is proportional to ∆$prompt FWHM is proportional to 1/∆$prompt, and Temperature increase is proportional to ∆$prompt NOTE: ∆$prompt = ρ - β."
+            },
+            {
+                "answer": "d. 900 MW",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Peak Power is proportional to ∆$prompt FWHM is proportional to 1/∆$prompt, and Temperature increase is proportional to ∆$prompt NOTE: ∆$prompt = ρ - β."
+            }
+        ]
+    },
+    {
+        "question": "A.12 [1.0 point] β and βeff both describe the total fraction of delayed neutrons. The difference between the two is that βeff is …",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. smaller than β since delayed neutrons are born at lower energy levels than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "b. larger than β since delayed neutrons are born at lower energy levels than prompt neutrons.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "c. smaller than β since delayed neutrons are born at higher energy levels than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "d. larger than β since delayed neutrons are born at higher energy levels than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            }
+        ]
+    },
+    {
+        "question": "A.13 [1.0 point] Given the following data, which ONE of the following is the closest to the half life of the material? TIME 0 10 min. 20 min. 30 min. 60 min. ACTIVITY 2400 cps 1757 cps 1286 cps 941 cps 369 cps",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 11 minutes",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "b. 22 minutes",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "c. 44 minutes",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "d. 51 minutes",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            }
+        ]
+    },
+    {
+        "question": "A.14 [1.0 point] Which ONE of the following conditions will INCREASE the shutdown margin of a reactor.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Insertion of a positive reactivity worth experiment",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "b. Lowering moderator temperature (Assume negative temperature coefficient).",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "c. Burnout of a burnable poison.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "d. Fuel depletion.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            }
+        ]
+    },
+    {
+        "question": "A.15 [1.0 point] Which one of the following statements correctly describes the property of a GOOD MODERATOR?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. It slows down fast neutrons to thermal energy levels via a large number of collisions.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "b. It reduces gamma radiation to thermal energy levels via a small number of collisions.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "c. It slows down fast neutrons to thermal energy levels via a small number of collisions.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "d. It reduces gamma radiation to thermal energy levels via a large number of collisions.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            }
+        ]
+    },
+    {
+        "question": "A.16 [1.0 point] Which ONE of the listed reactivity coefficients will be FIRST to turn reactor power following a rod withdrawal. [Assume no manual, (i.e. experiment insertion) or automatic (i.e. scram) reactivity additions.]",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Fuel-Moderator",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "b. Water-Moderator",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "c. Void",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "d. Pressure",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            }
+        ]
+    },
+    {
+        "question": "A.17 [1.0 point] The main source of heat in the reactor one hour after shutdown is due to …",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Decay of fission products",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Standard NRC question"
+            },
+            {
+                "answer": "b. Fission due to delayed neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Standard NRC question"
+            },
+            {
+                "answer": "c. Spontaneous fission within the core",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Standard NRC question"
+            },
+            {
+                "answer": "d. Decay of radioactive structural materials",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Standard NRC question"
+            }
+        ]
+    },
+    {
+        "question": "A.18 [1.0 point] The ratio of the number of neutrons that reach thermal energy to the number of neutrons that start to slow down, is defined as the …",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. fast non-leakage probability (f)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "b. resonance escape probability (p)",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "c. reproduction factor (η)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "d. thermal utilization factor (f)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            }
+        ]
+    },
+    {
+        "question": "A.19 [1.0 point] Which ONE of the following explains why the transient rod is worth approximately twice as much as the regulating rod.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The neutron absorbing material in the transient rod is hafnium, where as the regulating rod is boron.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Reactor Engineering, C. 3, Para. 85.(pg 76)"
+            },
+            {
+                "answer": "b. The active (absorber filled) section of the transient rod is longer than the regulating rod.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Reactor Engineering, C. 3, Para. 85.(pg 76)"
+            },
+            {
+                "answer": "c. The lower section of the transient rod contains a U-Rh fuel mixture where as the regulating rod contains air.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Reactor Engineering, C. 3, Para. 85.(pg 76)"
+            },
+            {
+                "answer": "d. The transient rod is located in a region of higher flux as compared to the regulating rod.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Fundamentals of Nuclear Reactor Engineering, C. 3, Para. 85.(pg 76)"
+            }
+        ]
+    },
+    {
+        "question": "A.20 [1.0 point] For U235, the thermal fission cross-section is 582 barns, and the capture cross-section is 99 barns. When a thermal neutron is absorbed by U235, the probability that a fission will occur is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.146",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "b. 0.170",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "c. 0.830",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            },
+            {
+                "answer": "d. 0.855",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Fundamentals of Nuclear Engineering (FONE) §"
+            }
+        ]
+    }
+]
