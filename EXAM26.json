@@ -1,0 +1,522 @@
+[
+    {
+        "question 001": "A reactor is subcritical with a Keff of 0.955. Seven dollars ($7.00) of positive reactivity is inserted into the core (β = 0.007). At this point, the reactor is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. subcritical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Sections 6.2.1, 6.2.4."
+            },
+            {
+                "answer": "b. exactly critical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Sections 6.2.1, 6.2.4."
+            },
+            {
+                "answer": "c. supercritical.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Sections 6.2.1, 6.2.4. Shutdown reactivity = (K-1)/K = -0.047 delta K/K. $7.00 added = 7(0.007) = +0.049 delta K/K. -0.047 + 0.049 = + 0.002, i.e., supercritical."
+            },
+            {
+                "answer": "d. prompt critical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Sections 6.2.1, 6.2.4."
+            }
+        ]
+    },
+    {
+        "question 002": "Which ONE of the following is true concerning the differences between prompt and delayed neutrons?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Prompt neutrons account for less than one percent of the neutron population while delayed neutrons account for approximately ninety-nine percent of the neutron population.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Sections 6.1.3, 6.2.2."
+            },
+            {
+                "answer": "b. Prompt neutrons are released during fast fissions while delayed neutrons are released during thermal fissions.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Sections 6.1.3, 6.2.2."
+            },
+            {
+                "answer": "c. Prompt neutrons are released during the fission process while delayed neutrons are released during the decay of fission products.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Sections 6.1.3, 6.2.2."
+            },
+            {
+                "answer": "d. For small reactivity insertions, prompt neutrons are the dominating factor in determining the reactor period while delayed neutrons have little effect on the reactor period.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Sections 6.1.3, 6.2.2."
+            }
+        ]
+    },
+    {
+        "question 003": "Which ONE of the following elements will slow down fast neutrons least quickly, i.e., produces the smallest energy loss per collision?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Oxygen-16",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.11."
+            },
+            {
+                "answer": "b. Uranium-238",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.11."
+            },
+            {
+                "answer": "c. Hydrogen-1",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.11."
+            },
+            {
+                "answer": "d. Boron-10",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.11."
+            }
+        ]
+    },
+    {
+        "question 004": "Which ONE of the following is the approximate time period during which the MAXIMUM amount of Xenon-135 will be present in the core? Approximately 5 to 7 hours:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. after a startup to 100% power.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.3.7."
+            },
+            {
+                "answer": "b. after a shutdown from 100% power.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.3.7."
+            },
+            {
+                "answer": "c. after a power decrease from 100% to 50% power.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.3.7."
+            },
+            {
+                "answer": "d. after a power increase from 50% to 100% power.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.3.7."
+            }
+        ]
+    },
+    {
+        "question 005": "During a reactor startup, the count rate is increasing linearly with time, with no rod motion. This means that:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. the reactor is subcritical and the count rate increase is due to the buildup of delayed neutron precursors.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.7."
+            },
+            {
+                "answer": "b. the reactor is critical and the count rate increase is due to source neutrons.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.7."
+            },
+            {
+                "answer": "c. the reactor is subcritical and the count rate increase is due to source neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.7."
+            },
+            {
+                "answer": "d. the reactor is critical and the count rate increase is due to the buildup of delayed neutron precursors.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.7."
+            }
+        ]
+    },
+    {
+        "question 006": "For the same constant reactor period, which ONE of the following transients requires the SHORTEST time to occur? A power increase of:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 5% of rated power - going from 1% to 6% of rated power.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.5."
+            },
+            {
+                "answer": "b. 15% of rated power - going from 10% to 25% of rated power.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.5."
+            },
+            {
+                "answer": "c. 30% of rated power - going from 20% to 50% of rated power.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.5."
+            },
+            {
+                "answer": "d. 50% of rated power - going from 50% to 100% of rated power.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.5."
+            }
+        ]
+    },
+    {
+        "question 007": "The effective neutron multiplication factor, Keff, is defined as:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. production/(absorption + leakage)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.5."
+            },
+            {
+                "answer": "b. (production + leakage)/absorption",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.5."
+            },
+            {
+                "answer": "c. (absorption + leakage)/production",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.5."
+            },
+            {
+                "answer": "d. absorption/(production + leakage)",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.5."
+            }
+        ]
+    },
+    {
+        "question 008": "For a beta effective = 0.0074, a reactivity insertion of 20 cents corresponds approximately to:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.0010 delta k/k.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.4."
+            },
+            {
+                "answer": "b. 0.0015 delta k/k.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.4. delta k/k = reactivity($) x beta = 0.20 x 0.0074 = 0.0015"
+            },
+            {
+                "answer": "c. 0.0020 delta k/k.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.4."
+            },
+            {
+                "answer": "d. 0.0074 delta k/k.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.4."
+            }
+        ]
+    },
+    {
+        "question 009": "During the minutes following a reactor scram, reactor power decreases on a negative 80 second period, corresponding to the half-life of the longest lived delayed neutron precursor, which is approximately:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 20 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.5."
+            },
+            {
+                "answer": "b. 40 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.5."
+            },
+            {
+                "answer": "c. 55 seconds.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.5."
+            },
+            {
+                "answer": "d. 80 seconds.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.5."
+            }
+        ]
+    },
+    {
+        "question 010": "Which ONE of the following describes the characteristics of a good reflector?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. High scattering cross-section and low absorption cross-section.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.12."
+            },
+            {
+                "answer": "b. Low scattering cross-section and high absorption cross-section.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.12."
+            },
+            {
+                "answer": "c. Low scattering cross-section and low absorption cross-section.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.12."
+            },
+            {
+                "answer": "d. High scattering cross-section and high absorption cross-section.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.12."
+            }
+        ]
+    },
+    {
+        "question 011": "You enter the control room and observe that the neutron instrumentation indicates a steady neutron level with no rods in motion. Which ONE condition below CANNOT be true?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The reactor is critical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section2 6.2.1, 6.2.7."
+            },
+            {
+                "answer": "b. The reactor is subcritical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section2 6.2.1, 6.2.7."
+            },
+            {
+                "answer": "c. The reactor is supercritical.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section2 6.2.1, 6.2.7."
+            },
+            {
+                "answer": "d. The neutron source is out of the core.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section2 6.2.1, 6.2.7."
+            }
+        ]
+    },
+    {
+        "question 012": "Which factor in the six-factor formula is represented by the ratio: number of neutrons that reach thermal energy / number of neutrons that begin to slow down",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Fast non-leakage probability.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.7."
+            },
+            {
+                "answer": "b. Resonance escape probability.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.7."
+            },
+            {
+                "answer": "c. Reproduction factor.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.7."
+            },
+            {
+                "answer": "d. Thermal utilization factor.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.7."
+            }
+        ]
+    },
+    {
+        "question 013": "The major contributor to the production of Xenon-135 in a reactor operating at full power is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. directly from the fission of Uranium-235.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.3.7."
+            },
+            {
+                "answer": "b. directly from the fission of Uranium-238.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.3.7."
+            },
+            {
+                "answer": "c. from the radioactive decay of Promethium.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.3.7."
+            },
+            {
+                "answer": "d. from the radioactive decay of Iodine.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.3.7."
+            }
+        ]
+    },
+    {
+        "question 014": "The reactor is to be pulsed. The projected pulse will add TWICE as much reactivity as the last pulse performed. In relation to the last pulse, for the projected pulse:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. peak power will be four times larger and the energy released will be four times larger.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.5.1."
+            },
+            {
+                "answer": "b. peak power will be two times larger and the energy released will be four times larger.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.5.1."
+            },
+            {
+                "answer": "c. peak power will be four times larger and the energy released will be two times larger.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.5.1."
+            },
+            {
+                "answer": "d. peak power will be two times larger and the energy released will be two times larger.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.5.1."
+            }
+        ]
+    },
+    {
+        "question 015": "When the fuel temperature is suddenly increased, the neutron spectrum becomes hardened, which means that:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. the clad strength increases to contain the higher hydrogen pressure resulting from the release of hydrogen gas from the ZrH.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.6.4."
+            },
+            {
+                "answer": "b. thermal neutrons gain energy from the higher-energy hydrogen in the ZrH.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.6.4."
+            },
+            {
+                "answer": "c. the erbium resonance peaks shift to higher energies.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.6.4."
+            },
+            {
+                "answer": "d. it becomes harder for thermal neutrons to be absorbed in resonance peaks.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.6.4."
+            }
+        ]
+    },
+    {
+        "question 016": "Which ONE of the following describes the term prompt critical?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The instantaneous change in power level due to withdrawing a control rod.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.5."
+            },
+            {
+                "answer": "b. A negative reactivity insertion which is greater than beta-effective.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.5."
+            },
+            {
+                "answer": "c. A reactor which is critical on prompt neutrons only.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.5."
+            },
+            {
+                "answer": "d. A positive reactivity insertion which is less than beta-effective.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.5."
+            }
+        ]
+    },
+    {
+        "question 017": "The equations which describe the operation of an installed neutron source at the Cornell TRIGA are:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Am-241 -> alpha + Np-237 Be-9 + alpha -> C-12 + neutron",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physical Plant, Section 1.4.3."
+            },
+            {
+                "answer": "b. Am-241 -> alpha + Np-237 B-10 + alpha -> N-13 + neutron",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physical Plant, Section 1.4.3."
+            },
+            {
+                "answer": "c. Am-241 -> beta + Cm-241 Be-9 + beta -> Li-8 + neutron",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physical Plant, Section 1.4.3."
+            },
+            {
+                "answer": "d. Am-241 -> beta + Cm-241 B-10 + beta -> Be-9 + neutron",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physical Plant, Section 1.4.3."
+            }
+        ]
+    },
+    {
+        "question 018": "During the neutron cycle from one generation to the next, several processes occur that may increase or decrease the available number of neutrons. Which ONE of the following factors describes an INCREASE in the number of neutrons during the cycle?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Thermal utilization factor.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.6."
+            },
+            {
+                "answer": "b. Resonance escape probability.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.6."
+            },
+            {
+                "answer": "c. Thermal non-leakage probability.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.6."
+            },
+            {
+                "answer": "d. Fast fission factor.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.1.6."
+            }
+        ]
+    },
+    {
+        "question 019": "The pool (bath) temperature coefficient of reactivity is -1.25x10-3 delta K/K/deg.C. When a control rod with an average rod worth of 0.1% delta K/K/inch is withdrawn 10 inches, reactor power increases and becomes stable at a higher level. At this point, the pool temperature has:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. increased by 8 deg C.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.3.4."
+            },
+            {
+                "answer": "b. decreased by 8 deg C.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.3.4."
+            },
+            {
+                "answer": "c. increased by 0.8 deg C.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.3.4."
+            },
+            {
+                "answer": "d. decreased by 0.8 deg C.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.3.4."
+            }
+        ]
+    },
+    {
+        "question 020": "Shown below is a trace of reactor period as a function of time. Between points A and B, reactor power is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. continually increasing.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.5."
+            },
+            {
+                "answer": "b. increasing, then decreasing.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.5."
+            },
+            {
+                "answer": "c. continually decreasing.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.5."
+            },
+            {
+                "answer": "d. constant.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Operator Training Manual, Reactor Physics and Kinetics, Section 6.2.5."
+            }
+        ]
+    }
+]

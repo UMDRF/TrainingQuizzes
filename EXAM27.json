@@ -1,0 +1,522 @@
+[
+    {
+        "question": "A.1 [1.0 point] Reactor is at a power level of 5 watts. The operator immediately inserts an experiment worth of $0.75 into the core. This insertion will cause:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. A delayed reactor period to be equal to NEGATIVE (-) 80 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6, page 417."
+            },
+            {
+                "answer": "b. A number of prompt neutrons equals to a number of delayed neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6, page 417."
+            },
+            {
+                "answer": "c. The immediate reactor period to be a function of the prompt neutron lifetime (T=t*/ρ)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6, page 417."
+            },
+            {
+                "answer": "d. A sudden change of power that equals to the initial power multiplied by β(1-ρ)/(β-ρ)",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6, page 417."
+            }
+        ]
+    },
+    {
+        "question": "A.2 [1.0 point] Xenon-135 (Xe^135) is produced in the reactor by two methods. One is directly from fission; the other is indirectly from the decay of:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Xe^136",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1-8.4, pp. 8-3 - 8-14."
+            },
+            {
+                "answer": "b. Sm^136",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1-8.4, pp. 8-3 - 8-14."
+            },
+            {
+                "answer": "c. Cs^135",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1-8.4, pp. 8-3 - 8-14."
+            },
+            {
+                "answer": "d. I^135",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1-8.4, pp. 8-3 - 8-14."
+            }
+        ]
+    },
+    {
+        "question": "A.3 [1.0 point] A reactor with K_eff=0.8 contributes 1000 neutrons in the first generation. Changing from the first generation to the THIRD generation, how many TOTAL neutrons are there after the third generation?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 1800",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6."
+            },
+            {
+                "answer": "b. 2440",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6."
+            },
+            {
+                "answer": "c. 3240",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6."
+            },
+            {
+                "answer": "d. 6400",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.3, p. 5.6."
+            }
+        ]
+    },
+    {
+        "question": "A.4 [1.0 point] Which ONE of the following will be the resulting stable reactor period when a $0.35 reactivity insertion is made into an exactly critical reactor core? Neglect any effects from prompt. Given β_eff=0.0070 and λ=0.1",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 19 seconds",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Calculation provided in the answer key."
+            },
+            {
+                "answer": "b. 22 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Calculation provided in the answer key."
+            },
+            {
+                "answer": "c. 27 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Calculation provided in the answer key."
+            },
+            {
+                "answer": "d. 31 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Calculation provided in the answer key."
+            }
+        ]
+    },
+    {
+        "question": "A.5 [1.0 point] A nuclear reactor startup is being performed by adding EQUAL amounts of positive reactivity and waiting for neutron population to stabilize. As the reactor approaches criticality, the Neutron Multiplication, K_eff, will after each reactivity addition; and the TIME required for the neutron population to STABILIZE will after each reactivity addition.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. decrease; decrease",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: NRC Standard Question."
+            },
+            {
+                "answer": "b. increase; increase",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: NRC Standard Question."
+            },
+            {
+                "answer": "c. increase; decrease",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: NRC Standard Question."
+            },
+            {
+                "answer": "d. remains the same; increase",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: NRC Standard Question."
+            }
+        ]
+    },
+    {
+        "question": "A.6 [1.0 point] Given the following Core Reactivity Data during startup:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. $2.7",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Tech Spec SDM calculation."
+            },
+            {
+                "answer": "b. $3.7",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Tech Spec SDM calculation."
+            },
+            {
+                "answer": "c. $4.3",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Tech Spec SDM calculation."
+            },
+            {
+                "answer": "d. $6.7",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Tech Spec SDM calculation."
+            }
+        ]
+    },
+    {
+        "question": "A.7 [1.0 point] Attached is the applicable portion from the chart of the nuclides, what will Mn-57 decay into?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Fe-57",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Chart of the Nuclides."
+            },
+            {
+                "answer": "b. Mn-58",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Chart of the Nuclides."
+            },
+            {
+                "answer": "c. Cr-57",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Chart of the Nuclides."
+            },
+            {
+                "answer": "d. V-53",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Chart of the Nuclides."
+            }
+        ]
+    },
+    {
+        "question": "A.8 [1.0 point, 0.25 each] Fill out the blank with INCREASE or DECREASE due to effects of moderator temperature increase.",
+        "type": "fill_in_the_blank",
+        "answers": [
+            {
+                "answer": "a. Increase",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.2."
+            },
+            {
+                "answer": "b. Decrease",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.2."
+            },
+            {
+                "answer": "c. Decrease",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.2."
+            },
+            {
+                "answer": "d. Increase",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.2."
+            }
+        ]
+    },
+    {
+        "question": "A.9 [1.0 point] You are the reactor operator performing two pulsing operations. The first pulse has a reactivity worth of $1.20 which results in a peak power of 200 MW. If the second pulse has a peak power of 5000 MW, the corresponding reactivity worth is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. $1.50",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Calculation provided in the answer key."
+            },
+            {
+                "answer": "b. $1.75",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Calculation provided in the answer key."
+            },
+            {
+                "answer": "c. $2.00",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Calculation provided in the answer key."
+            },
+            {
+                "answer": "d. $2.50",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Calculation provided in the answer key."
+            }
+        ]
+    },
+    {
+        "question": "A.10 [1.0 point] Which ONE of the following physical characteristics of the TRIGA fuel is the MAIN contributor for the prompt negative temperature coefficient?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. As the fuel heats up, a rapid increase in moderator temperature occurs through conduction and convection heat transfer mechanisms which adds negative reactivity",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: TRIGA Fuel Design."
+            },
+            {
+                "answer": "b. As the fuel heats up, the oscillating hydrogen in the Zr-H lattice imparts energy to a thermal neutron, thereby increasing its mean free path and probability of escape",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: TRIGA Fuel Design."
+            },
+            {
+                "answer": "c. As the fuel heats up, the resonance absorption peaks broaden and increases the likelihood of absorption in U-238 and/or Pu-240",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: TRIGA Fuel Design."
+            },
+            {
+                "answer": "d. As the fuel heats up, fission product poisons (e.g., Xe) increase in concentration within the fuel matrix and add negative reactivity via neutron absorption",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: TRIGA Fuel Design."
+            }
+        ]
+    },
+    {
+        "question": "A.11 [1.0 point] Which of the following is the definition for reactivity (ρ)?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The measure of a reactor's departure from criticality",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "b. The time required for power to change by a factor of 'e'",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "c. The fraction of a number of delayed neutrons and a number of prompt neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "d. The faction of a number of neutrons of current generation and a number of neutrons of the previous generation",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            }
+        ]
+    },
+    {
+        "question": "A.12 [1.0 point] Which ONE of the following isotopes has the HIGHEST thermal neutron cross section?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Cd-112",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table 2.5, page 2-59."
+            },
+            {
+                "answer": "b. Sm-149",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table 2.5, page 2-59."
+            },
+            {
+                "answer": "c. Xe-135",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table 2.5, page 2-59."
+            },
+            {
+                "answer": "d. U-238",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Table 2.5, page 2-59."
+            }
+        ]
+    },
+    {
+        "question": "A.13 [1.0 point] A reactor is critical. Reactor operator accidentally inserts an experiment in the core and K_eff changes to 1.010. What is the period of the reactor? A prompt neutron lifetime (t*) is 1 × 10^-4 seconds.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.001 sec",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Using equations provided in the equation sheet."
+            },
+            {
+                "answer": "b. 0.01 sec",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Using equations provided in the equation sheet."
+            },
+            {
+                "answer": "c. 0.10 sec",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Using equations provided in the equation sheet."
+            },
+            {
+                "answer": "d. 1.0 sec",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Using equations provided in the equation sheet."
+            }
+        ]
+    },
+    {
+        "question": "A.14 [1.0 point] In a subcritical reactor with K_eff of 0.931, a reactivity worth of 0.017 Δk/k is inserted into the reactor core. Which ONE of the following is the NEW K_eff?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.925",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {
+                "answer": "b. 0.933",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {
+                "answer": "c. 0.946",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {
+                "answer": "d. 1.001",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            }
+        ]
+    },
+    {
+        "question": "A.15 [1.0 point] Use Figure 3.3 attached. Calculate the effective delayed neutron fraction (β-effective). At birth energies, there are 65 delayed neutrons and 9935 prompt neutrons. In the process of slowing down, there are only 56 delayed neutrons and 7352 prompt neutrons at the thermal range. The resultant β-effective of Figure 3.3 is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.00654",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Figure 3.3."
+            },
+            {
+                "answer": "b. 0.00756",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Figure 3.3."
+            },
+            {
+                "answer": "c. 0.00762",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Figure 3.3."
+            },
+            {
+                "answer": "d. 0.00348",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Figure 3.3."
+            }
+        ]
+    },
+    {
+        "question": "A.16 [1.0 point] A reactor is operating at 100 KW. The reactor operator withdraws the control rod allowing power to increase. The operator then inserts the same rod to its original position, decreasing power. In comparison to the rod withdrawal, the rod insertion will result in:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. a slower period due to long lived delayed neutron precursors",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Sec 3.2.2."
+            },
+            {
+                "answer": "b. a faster period due to long lived delayed neutron precursors",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Sec 3.2.2."
+            },
+            {
+                "answer": "c. the same period due to equal amounts of reactivity being added",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Sec 3.2.2."
+            },
+            {
+                "answer": "d. the same period due to equal reactivity rates from the rod",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Sec 3.2.2."
+            }
+        ]
+    },
+    {
+        "question": "A.17 [1.0 point] Reactor power is increasing by a factor of 10 every minute. The reactor period is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 65 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P = P_0 e^(t/τ) where τ = 60 sec / ln(10) = 26 sec."
+            },
+            {
+                "answer": "b. 37 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P = P_0 e^(t/τ) where τ = 60 sec / ln(10) = 26 sec."
+            },
+            {
+                "answer": "c. 26 seconds",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: P = P_0 e^(t/τ) where τ = 60 sec / ln(10) = 26 sec."
+            },
+            {
+                "answer": "d. 13 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P = P_0 e^(t/τ) where τ = 60 sec / ln(10) = 26 sec."
+            }
+        ]
+    },
+    {
+        "question": "A.18 [1.0 point] Which ONE of the following conditions will INCREASE the core excess of a reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Higher moderator temperature (assume negative temperature coefficient)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Standard NRC question."
+            },
+            {
+                "answer": "b. Insertion of a negative reactivity worth experiment",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Standard NRC question."
+            },
+            {
+                "answer": "c. Burnout of a burnable poison",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Standard NRC question."
+            },
+            {
+                "answer": "d. Fuel depletion",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Standard NRC question."
+            }
+        ]
+    },
+    {
+        "question": "A.19 [1.0 point] The reactor is on a CONSTANT positive period. Which ONE of the following power changes will take the longest time to complete?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 5%, from 95% to 100%",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Time is related to the ratio of final power to initial power. 2:1 is the largest ratio."
+            },
+            {
+                "answer": "b. 10%, from 80% to 90%",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Time is related to the ratio of final power to initial power. 2:1 is the largest ratio."
+            },
+            {
+                "answer": "c. 15%, from 15% to 30%",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Time is related to the ratio of final power to initial power. 2:1 is the largest ratio."
+            },
+            {
+                "answer": "d. 20%, from 60% to 80%",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Time is related to the ratio of final power to initial power. 2:1 is the largest ratio."
+            }
+        ]
+    },
+    {
+        "question": "A.20 [1.0 point] Which ONE of the following statements correctly describes thermal neutrons?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. A neutron that experiences a linear decrease in energy as the temperature of the moderator increases.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: NRC Standard Question."
+            },
+            {
+                "answer": "b. A neutron that experiences no net change in energy after several collisions with atoms of the moderator on average.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: NRC Standard Question."
+            },
+            {
+                "answer": "c. A neutron that experiences an increase in energy levels after collisions with larger atoms of the moderator.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: NRC Standard Question."
+            },
+            {
+                "answer": "d. A neutron at resonant epithermal energy levels that causes fissions to occur in U-238.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: NRC Standard Question."
+            }
+        ]
+    }
+]

@@ -1,0 +1,501 @@
+[
+    {
+        "question": "A.1 [2.0 points, 0.5 each] Match each term in column A with the correct definition in column B.",
+        "type": "matching",
+        "answers": [
+            {
+                "answer": "a. Prompt Neutron - 1. A neutron in equilibrium with its surroundings.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 2.5, p. 2-36."
+            },
+            {
+                "answer": "a. Prompt Neutron - 2. A neutron born directly from fission.",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 2.5, p. 2-36."
+            },
+            {
+                "answer": "b. Fast Neutron - 4. A neutron at an energy level greater than its surroundings.",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 2.5, p. 2-36."
+            },
+            {
+                "answer": "c. Thermal Neutron - 1. A neutron in equilibrium with its surroundings.",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 2.5, p. 2-36."
+            },
+            {
+                "answer": "d. Delayed Neutron - 3. A neutron born due to decay of a fission product.",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 2.5, p. 2-36."
+            }
+        ]
+    },
+    {
+        "question": "A.2 [1.0 point] You enter the control room and note that all nuclear instrumentation show a steady neutron level, and no rods are in motion. Which ONE of the following conditions CANNOT be true?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The reactor is critical.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC question."
+            },
+            {
+                "answer": "b. The reactor is subcritical.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC question."
+            },
+            {
+                "answer": "c. The reactor is supercritical.",
+                "correct": true,
+                "feedback": "Correct. REF: Standard NRC question."
+            },
+            {
+                "answer": "d. The neutron source has been removed from the core.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Standard NRC question."
+            }
+        ]
+    },
+    {
+        "question": "A.3 [1.0 point] Which ONE of the following describes the MAJOR contributor to the production and depletion of Xenon respectively in a STEADY-STATE OPERATING reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Production: Radioactive decay of Iodine; Depletion: Radioactive Decay",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1 —8.4, pp. 8-3 — 8-14."
+            },
+            {
+                "answer": "Production: Radioactive decay of Iodine; Depletion: Neutron Absorption",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1 —8.4, pp. 8-3 — 8-14."
+            },
+            {
+                "answer": "Production: Directly from fission; Depletion: Radioactive Decay",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1 —8.4, pp. 8-3 — 8-14."
+            },
+            {
+                "answer": "Production: Directly from fission; Depletion: Neutron Absorption",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, §§ 8.1 —8.4, pp. 8-3 — 8-14."
+            }
+        ]
+    },
+    {
+        "question": "A.4 [1.0 point] Which factor of the Six Factor formula is most easily varied by the reactor operator?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Thermal Utilization Factor (f)",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.2, pp. 3-13 — 3-18."
+            },
+            {
+                "answer": "b. Reproduction Factor (η)",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.2, pp. 3-13 — 3-18."
+            },
+            {
+                "answer": "c. Fast Fission Factor ()",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.2, pp. 3-13 — 3-18."
+            },
+            {
+                "answer": "d. Fast Non-Leakage Factor (Lf)",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.2, pp. 3-13 — 3-18."
+            }
+        ]
+    },
+    {
+        "question": "A.5 [1.0 point] Which of the following does NOT affect the Effective Multiplication Factor (Keff)?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The moderator-to-fuel ratio.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3.4, p. 3-21."
+            },
+            {
+                "answer": "b. The physical dimensions of the core.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3.4, p. 3-21."
+            },
+            {
+                "answer": "c. The strength of installed neutron sources.",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3.4, p. 3-21."
+            },
+            {
+                "answer": "d. The current time in core life.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3.4, p. 3-21."
+            }
+        ]
+    },
+    {
+        "question": "A.6 [1.0 point] You perform two initial startups a week apart. Each of the startups has the same starting conditions, (core burnup, pool and fuel temperature, and count rate are the same). The only difference between the two startups is that during the SECOND one you stop for 10 minutes to answer the phone. For the second startup compare the critical rod height and count rate to the first startup.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Rod Height: Higher; Count Rate: Same",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.7, pp. 5-28 — 5-38."
+            },
+            {
+                "answer": "Rod Height: Lower; Count Rate: Same",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.7, pp. 5-28 — 5-38."
+            },
+            {
+                "answer": "Rod Height: Same; Count Rate: Lower",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.7, pp. 5-28 — 5-38."
+            },
+            {
+                "answer": "Rod Height: Same; Count Rate: Higher",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 5.7, pp. 5-28 — 5-38."
+            }
+        ]
+    },
+    {
+        "question": "A.7 [1.0 point] Several processes occur that may increase or decrease the available number of neutrons. SELECT from the following the six-factor formula term that describes an INCREASE in the number of neutrons during the cycle.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Thermal utilization factor (f).",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.2, pp. 3-13 — 3-18."
+            },
+            {
+                "answer": "b. Resonance escape probability (p).",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.2, pp. 3-13 — 3-18."
+            },
+            {
+                "answer": "c. Thermal non-leakage probability (Lth).",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.2, pp. 3-13 — 3-18."
+            },
+            {
+                "answer": "d. Reproduction factor (η).",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.2, pp. 3-13 — 3-18."
+            }
+        ]
+    },
+    {
+        "question": "A.8 [1.0 point] Which ONE of the following atoms will cause a neutron to lose the most energy in an elastic collision?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Uranium-238",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 2.5.3 p. 2-45."
+            },
+            {
+                "answer": "b. Carbon-12",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 2.5.3 p. 2-45."
+            },
+            {
+                "answer": "c. Hydrogen-2",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 2.5.3 p. 2-45."
+            },
+            {
+                "answer": "d. Hydrogen-1",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 2.5.3 p. 2-45."
+            }
+        ]
+    },
+    {
+        "question": "A.9 [1.0 point] Keff for the reactor is 0.98. If you place an experiment worth +$1.00 into the core, what will the new Keff be?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.982",
+                "correct": false,
+                "feedback": "Incorrect. REF: SDM = (1 - keff) / keff = (1 - 0.98) / 0.98 = 0.02 / 0.99 = 0.02041 or 0.02041/.0075 = $2.72, or a reactivity worth () of -$2.72. Adding +$1.00 reactivity will result in a SDM of $2.72 - $1.00 = $1.72, or .0129081 K/K Keff = 1 / (1 + SDM) = 1 / (1 + 0.0129081) = 0.987"
+            },
+            {
+                "answer": "b. 0.987",
+                "correct": true,
+                "feedback": "Correct. REF: SDM = (1 - keff) / keff = (1 - 0.98) / 0.98 = 0.02 / 0.99 = 0.02041 or 0.02041/.0075 = $2.72, or a reactivity worth () of -$2.72. Adding +$1.00 reactivity will result in a SDM of $2.72 - $1.00 = $1.72, or .0129081 K/K Keff = 1 / (1 + SDM) = 1 / (1 + 0.0129081) = 0.987"
+            },
+            {
+                "answer": "c. 1.013",
+                "correct": false,
+                "feedback": "Incorrect. REF: SDM = (1 - keff) / keff = (1 - 0.98) / 0.98 = 0.02 / 0.99 = 0.02041 or 0.02041/.0075 = $2.72, or a reactivity worth () of -$2.72. Adding +$1.00 reactivity will result in a SDM of $2.72 - $1.00 = $1.72, or .0129081 K/K Keff = 1 / (1 + SDM) = 1 / (1 + 0.0129081) = 0.987"
+            },
+            {
+                "answer": "d. 1.018",
+                "correct": false,
+                "feedback": "Incorrect. REF: SDM = (1 - keff) / keff = (1 - 0.98) / 0.98 = 0.02 / 0.99 = 0.02041 or 0.02041/.0075 = $2.72, or a reactivity worth () of -$2.72. Adding +$1.00 reactivity will result in a SDM of $2.72 - $1.00 = $1.72, or .0129081 K/K Keff = 1 / (1 + SDM) = 1 / (1 + 0.0129081) = 0.987"
+            }
+        ]
+    },
+    {
+        "question": "A.10 [1.0 point] About two minutes following a reactor scram, period has stabilized, and is decreasing at a CONSTANT rate. If reactor power is 10^-5% full power what will the power be in three minutes.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 5 × 10^-6% full power",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P0 e^(-T/τ) = 10^-5 × e^(-180sec/80sec) = 10^-5 × e^-2.25 = 0.1054 × 10^-5 = 1.054 × 10^-6"
+            },
+            {
+                "answer": "b. 2 × 10^-6% full power",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P0 e^(-T/τ) = 10^-5 × e^(-180sec/80sec) = 10^-5 × e^-2.25 = 0.1054 × 10^-5 = 1.054 × 10^-6"
+            },
+            {
+                "answer": "c. 10^-6% full power",
+                "correct": true,
+                "feedback": "Correct. REF: P = P0 e^(-T/τ) = 10^-5 × e^(-180sec/80sec) = 10^-5 × e^-2.25 = 0.1054 × 10^-5 = 1.054 × 10^-6"
+            },
+            {
+                "answer": "d. 5 × 10^-7% full power",
+                "correct": false,
+                "feedback": "Incorrect. REF: P = P0 e^(-T/τ) = 10^-5 × e^(-180sec/80sec) = 10^-5 × e^-2.25 = 0.1054 × 10^-5 = 1.054 × 10^-6"
+            }
+        ]
+    },
+    {
+        "question": "A.11 [1.0 point] Core excess reactivity changes with...",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Fuel burnup",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 6.2 p. 6-1 — 6-4."
+            },
+            {
+                "answer": "b. Control Rod Height",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 6.2 p. 6-1 — 6-4."
+            },
+            {
+                "answer": "c. Neutron Level",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 6.2 p. 6-1 — 6-4."
+            },
+            {
+                "answer": "d. Reactor Power Level",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 6.2 p. 6-1 — 6-4."
+            }
+        ]
+    },
+    {
+        "question": "A.12 [1.0 point] INELASTIC SCATTERING is the process by which a neutron collides with a nucleus and...",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. recoils with the same kinetic energy it had prior to the collision.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 2.4.5 p. 2-28."
+            },
+            {
+                "answer": "b. is absorbed, with the nucleus emitting a gamma ray, and the neutron with a lower kinetic energy.",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 2.4.5 p. 2-28."
+            },
+            {
+                "answer": "c. is absorbed, with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 2.4.5 p. 2-28."
+            },
+            {
+                "answer": "d. recoils with a higher kinetic energy than it had prior to the collision with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 2.4.5 p. 2-28."
+            }
+        ]
+    },
+    {
+        "question": "A.13 [1.0 point] For most materials the neutron microscopic cross-section for absorption generally...",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. increases as neutron energy increases",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 2.5.1 p. 2-36."
+            },
+            {
+                "answer": "b. decreases as neutron energy increases",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 2.5.1 p. 2-36."
+            },
+            {
+                "answer": "c. increases as target nucleus mass increases",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 2.5.1 p. 2-36."
+            },
+            {
+                "answer": "d. decreases as target nucleus mass increases",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 2.5.1 p. 2-36."
+            }
+        ]
+    },
+    {
+        "question": "A.14 [1.0 point] Which one of the following is the definition of the FAST FISSION FACTOR?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The ratio of the number of neutrons produced by fast fission to the number produced by thermal fission",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3.1 p. 3-16."
+            },
+            {
+                "answer": "b. The ratio of the number of neutrons produced by thermal fission to the number produced by fast fission",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3.1 p. 3-16."
+            },
+            {
+                "answer": "c. The ratio of the number of neutrons produced by fast and thermal fission to the number produced by thermal fission",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3.1 p. 3-16."
+            },
+            {
+                "answer": "d. The ratio of the number of neutrons produced by fast fission to the number produced by fast and thermal fission",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3.1 p. 3-16."
+            }
+        ]
+    },
+    {
+        "question": "A.15 [1.0 point] WHICH ONE of the following is the MAJOR source of energy released during fission?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Kinetic energy of the fission neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.2.1, p. 3-4."
+            },
+            {
+                "answer": "b. Kinetic energy of the fission fragments.",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.2.1, p. 3-4."
+            },
+            {
+                "answer": "c. Decay of the fission fragments.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.2.1, p. 3-4."
+            },
+            {
+                "answer": "d. Prompt gamma rays.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.2.1, p. 3-4."
+            }
+        ]
+    },
+    {
+        "question": "A.16 [1.0 point] As primary coolant temperature increases, rod worth:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. increases due to higher reflector efficiency.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3.2, p. 3-18."
+            },
+            {
+                "answer": "b. decreases due to higher neutron absorption in the moderator.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3.2, p. 3-18."
+            },
+            {
+                "answer": "c. increases due to the increase in thermal diffusion length.",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3.2, p. 3-18."
+            },
+            {
+                "answer": "d. remains the same due to constant poison cross-section of the control rods.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3.2, p. 3-18."
+            }
+        ]
+    },
+    {
+        "question": "A.17 [1.0 point] The term PROMPT JUMP refers to...",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. the instantaneous change in power due to withdrawal of a control rod.",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 4.7, p. 4-21."
+            },
+            {
+                "answer": "b. a reactor which has attained criticality on prompt neutrons alone.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 4.7, p. 4-21."
+            },
+            {
+                "answer": "c. a reactor which is critical on both prompt and delayed neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 4.7, p. 4-21."
+            },
+            {
+                "answer": "d. a negative reactivity insertion which is less than β_eff.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, § 4.7, p. 4-21."
+            }
+        ]
+    },
+    {
+        "question": "A.18 [1.0 point] Which one of the following factors has the LEAST effect on Keff?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Fuel burnup.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3.2, p. 3-18."
+            },
+            {
+                "answer": "b. Increase in moderator temperature.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3.2, p. 3-18."
+            },
+            {
+                "answer": "c. Increase in fuel temperature.",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3.2, p. 3-18."
+            },
+            {
+                "answer": "d. Xenon and samarium fission products.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3.2, p. 3-18."
+            }
+        ]
+    },
+    {
+        "question": "A.19 [1.0 point] Which ONE of the following is the correct reason that delayed neutrons enhance control of the reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. There are more delayed neutrons than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.2.4, p. 3-12."
+            },
+            {
+                "answer": "b. Delayed neutrons increase the average neutron generation time.",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.2.4, p. 3-12."
+            },
+            {
+                "answer": "c. Delayed neutrons are born at higher energies than prompt neutrons and therefore have a greater effect.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.2.4, p. 3-12."
+            },
+            {
+                "answer": "d. Delayed neutrons take longer to reach thermal equilibrium.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.2.4, p. 3-12."
+            }
+        ]
+    }
+]
