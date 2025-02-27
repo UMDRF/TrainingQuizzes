@@ -1,0 +1,137 @@
+[
+    {
+        "question": "A.01 Which one of the following is the principal source of heat in the reactor after a shutdown from extended operation at 100 KW?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Production of delayed neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, 1982, \u00a7 4.9, pp. 4-23 - 4-26."
+            },
+            {
+                "answer": "Subcritical reaction of photoneutrons",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, 1982, \u00a7 4.9, pp. 4-23 - 4-26."
+            },
+            {
+                "answer": "Spontaneous fission of U-235",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, 1982, \u00a7 4.9, pp. 4-23 - 4-26."
+            },
+            {
+                "answer": "Decay of fission fragments",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, 1982, \u00a7 4.9, pp. 4-23 - 4-26."
+            }
+        ]
+    },
+    {
+        "question": "A.02 As power level increases, the Prompt Negative Temp. Coefficient (PNTC) causes:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "238U to absorb neutrons over a wider range, thus decreasing the number of neutrons available for fission with 235U.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, \u00a7 5.98, p. 94."
+            },
+            {
+                "answer": "Doppler resonance effects to decrease.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, \u00a7 5.98, p. 94."
+            },
+            {
+                "answer": "The hydrogen atoms in the ZrH2 to slow down more neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, \u00a7 5.98, p. 94."
+            },
+            {
+                "answer": "More thermal neutron absorption by the moderator.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, \u00a7 5.98, p. 94."
+            }
+        ]
+    },
+    {
+        "question": "A.03 Which ONE of the following statements correctly describes the influence of delayed neutrons on the neutron life cycle?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Delayed neutrons decrease the average period of a reactivity addition because they thermalize more quickly than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, \u00a7 5.20, p. 236."
+            },
+            {
+                "answer": "Delayed neutrons take longer to thermalize because they are born at higher energies than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, \u00a7 5.20, p. 236."
+            },
+            {
+                "answer": "Delayed neutrons cause the length of the average neutron generation time to increase.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, \u00a7 5.20, p. 236."
+            },
+            {
+                "answer": "Delayed neutrons are born later than prompt neutrons and make up a larger fraction of the fission neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, \u00a7 5.20, p. 236."
+            }
+        ]
+    },
+    {
+        "question": "A.04 Which alteration or change to the core will most strongly affect the thermal utilization factor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Build up of fission products in fuel.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Lamarsh, J.R., Introduction to Nuclear Engineering, 1983, \u00a7 7.2, p. 300."
+            },
+            {
+                "answer": "Removal of moderator.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Lamarsh, J.R., Introduction to Nuclear Engineering, 1983, \u00a7 7.2, p. 300."
+            },
+            {
+                "answer": "Addition of 238U.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Lamarsh, J.R., Introduction to Nuclear Engineering, 1983, \u00a7 7.2, p. 300."
+            },
+            {
+                "answer": "Removal of a control rod.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Lamarsh, J.R., Introduction to Nuclear Engineering, 1983, \u00a7 7.2, p. 300."
+            }
+        ]
+},
+{
+        "question": "A.05 With the reactor on a constant period, which transient requires the longest time to occur?",
+        "type": "multiple_choice",
+        "answers": [
+            {"answer": "5% power -- going from 1% to 6% power", "correct": true, "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, § 5.18, p. 234."},
+            {"answer": "10% power - going from 10% to 20% power", "correct": false, "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, § 5.18, p. 234."},
+            {"answer": "15% power -- going from 20% to 35% power", "correct": false, "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, § 5.18, p. 234."},
+            {"answer": "20% power - going from 40% to 60% power", "correct": false, "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, § 5.18, p. 234."}
+        ]
+    },
+    {
+        "question": "A.06 What is the stable Reactor period which produces a power rise from 1 watt to 5 KW in 186 secs?",
+        "type": "multiple_choice",
+        "answers": [
+            {"answer": "10 secs", "correct": false, "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, § 5.18, p. 234."},
+            {"answer": "22 secs", "correct": true, "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, § 5.18, p. 234."},
+            {"answer": "30 secs", "correct": false, "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, § 5.18, p. 234."},
+            {"answer": "116 secs", "correct": false, "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, § 5.18, p. 234."}
+        ]
+    },
+    {
+        "question": "A.07 During a fuel loading, as the reactor approaches criticality, the value of 1/M:",
+        "type": "multiple_choice",
+        "answers": [
+            {"answer": "Decreases toward zero", "correct": true, "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, §§ 3.161 - 3.163, pp. 190 & 191."},
+            {"answer": "Decreases toward one", "correct": false, "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, §§ 3.161 - 3.163, pp. 190 & 191."},
+            {"answer": "Increases toward infinity", "correct": false, "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, §§ 3.161 - 3.163, pp. 190 & 191."},
+            {"answer": "Increases toward one", "correct": false, "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A., Nuclear Reactor Engineering, 1991, §§ 3.161 - 3.163, pp. 190 & 191."}
+        ]
+    }
+]
+]

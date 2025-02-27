@@ -1,0 +1,522 @@
+[
+    {
+        "question": "A.01 Given a source strength of 100 neutrons per second (N/sec) and a multiplication factor of 0.8, the expected stable neutron count rate would be?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "125 N/sec",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MIT Reactor Physics Notes, Reactor Startup; CR=S/(1-K)."
+            },
+            {
+                "answer": "250 N/sec",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MIT Reactor Physics Notes, Reactor Startup; CR=S/(1-K)."
+            },
+            {
+                "answer": "400 N/sec",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MIT Reactor Physics Notes, Reactor Startup; CR=S/(1-K)."
+            },
+            {
+                "answer": "500 N/sec",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MIT Reactor Physics Notes, Reactor Startup; CR=S/(1-K)."
+            }
+        ]
+    },
+    {
+        "question": "A.02 Which ONE of the following describes the reason for the constant rate of power change several minutes after a reactor scram from full power?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The decay of the longer-lived delayed neutron precursors.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, Chapter 5, Sect 5.47."
+            },
+            {
+                "answer": "The decay of the shorter-lived delayed neutron precursors.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, Chapter 5, Sect 5.47."
+            },
+            {
+                "answer": "The mean average decay of the delayed neutron precursors.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, Chapter 5, Sect 5.47."
+            },
+            {
+                "answer": "The decay of fission product gammas producing photoneutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone & Sesonske, Nuclear Reactor Engineering, Chapter 5, Sect 5.47."
+            }
+        ]
+    },
+    {
+        "question": "A.03 The following data was obtained during a reactor fuel load:\nNo. of Elements | Detector A (cps)\n0 | 20\n8 | 28\n16 | 30\n24 | 32\n32 | 42\n40 | 80\n\nWhich one of the following represents the number of fuel elements predicted to reach criticality?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "48",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone, S. & Sesonske, pages 190 & 191."
+            },
+            {
+                "answer": "52",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. & Sesonske, pages 190 & 191."
+            },
+            {
+                "answer": "56",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. & Sesonske, pages 190 & 191."
+            },
+            {
+                "answer": "60",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. & Sesonske, pages 190 & 191."
+            }
+        ]
+    },
+    {
+        "question": "A.04 Which one of the following is the effect due to an INCREASE in water temperature?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Neutron spectrum hardens due to less moderation.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Glasstone, S. & Sesonske, pages 465 through 472."
+            },
+            {
+                "answer": "Neutron spectrum softens due to increased leakage.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. & Sesonske, pages 465 through 472."
+            },
+            {
+                "answer": "Reactivity increases due to less leakage.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. & Sesonske, pages 465 through 472."
+            },
+            {
+                "answer": "Reactivity decreases due to more moderation.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Glasstone, S. & Sesonske, pages 465 through 472."
+            }
+        ]
+    },
+    {
+        "question": "A.05 With the reactor critical at 50% power, the reactor operator withdraws the regulating rod. As power increases, a stable doubling time (DT) of 24 seconds is recorded. (Assume a \u03bb of 0.1 sec-1 and a \u03b2 of .0070) Which one of the following is the reactivity added to the core by the operator?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "0.14% \u0394K/K",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Kinetics Equation."
+            },
+            {
+                "answer": "0.16% \u0394K/K",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Kinetics Equation."
+            },
+            {
+                "answer": "0.18% \u0394K/K",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Kinetics Equation."
+            },
+            {
+                "answer": "0.20% \u0394K/K",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Kinetics Equation."
+            }
+        ]
+    },
+    {
+        "question": "A.06 Which of the following power manipulations would take the longest to complete assuming the same period is maintained?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "1 MW to 2 MW",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics Section (g)."
+            },
+            {
+                "answer": "2 MW to 3.5 MW",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics Section (g)."
+            },
+            {
+                "answer": "3.5 MW to 4.5 MW",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics Section (g)."
+            },
+            {
+                "answer": "4.5 MW to 5 MW",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics Section (g)."
+            }
+        ]
+    },
+    {
+        "question": "A.07 If 100 millibeta of positive reactivity is suddenly introduced into a stable MITR-II core, what will be the steady period that is obtained? Assume the effective prompt neutron lifetime is 10\u207b\u2074 seconds and the effective delayed neutron decay constant is 0.08 s\u207b\u00b9.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "14.7 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics Section (d)."
+            },
+            {
+                "answer": "53.5 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics Section (d)."
+            },
+            {
+                "answer": "112.5 seconds",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics Section (d)."
+            },
+            {
+                "answer": "147 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics Section (d)."
+            }
+        ]
+    },
+    {
+        "question": "A.08 The speed of the prompt drop occurring after a large amount of negative reactivity is suddenly inserted into the core is directly correlated to what factor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Prompt neutron lifetime",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics (e)."
+            },
+            {
+                "answer": "Delayed neutron lifetime",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics (e)."
+            },
+            {
+                "answer": "Effective prompt neutron fraction",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics (e)."
+            },
+            {
+                "answer": "Effective delayed neutron fraction",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics (e)."
+            }
+        ]
+    },
+    {
+        "question": "A.09 Which ONE of the following is the definition of the multiplication factor (K)?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The number of neutrons absorbed divided by the number of neutrons leaked.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Startup and Reactor Subcritical Multiplication."
+            },
+            {
+                "answer": "The number of neutrons available to fission with the fuel material divided by the total number of neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Startup and Reactor Subcritical Multiplication."
+            },
+            {
+                "answer": "The number of neutrons born at high energies divided by the number of neutrons born at low energies.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Startup and Reactor Subcritical Multiplication."
+            },
+            {
+                "answer": "The number of neutrons produced in one generation divided by the number of neutrons produced in the previous generation.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MITR II Reactor Physics Notes - Reactor Startup and Reactor Subcritical Multiplication."
+            }
+        ]
+    },
+    {
+        "question": "A.10 What is the reactivity for a reactor that is exactly critical?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "0",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics Section (a)."
+            },
+            {
+                "answer": "0.0768",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics Section (a)."
+            },
+            {
+                "answer": "1",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics Section (a)."
+            },
+            {
+                "answer": "1000",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics Section (a)."
+            }
+        ]
+    },
+    {
+        "question": "A.11 What effect does Doppler Broadening for U-238 have on neutrons in a critical core?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "More absorption",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MITR II Reactor Physics Notes - Reactor Feedback Section (5)(b)."
+            },
+            {
+                "answer": "More scattering",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Feedback Section (5)(b)."
+            },
+            {
+                "answer": "More leakage",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Feedback Section (5)(b)."
+            },
+            {
+                "answer": "More fission",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Feedback Section (5)(b)."
+            }
+        ]
+    },
+    {
+        "question": "A.12 Xe-135, which is one of the largest poisons in an operating reactor, is created mostly through the decay of Te-135. Where does Te-135 come from?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Structural materials in the core.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Feedback Section (e)."
+            },
+            {
+                "answer": "Burnable poison in the fuel.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Feedback Section (e)."
+            },
+            {
+                "answer": "Delayed neutron precursor.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Feedback Section (e)."
+            },
+            {
+                "answer": "Fission of U-235.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MITR II Reactor Physics Notes - Reactor Feedback Section (e)."
+            }
+        ]
+    },
+    {
+        "question": "A.13 Which of the following factors has the greatest effect on the fast non-leakage probability in a reactor core?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Moderator-to-fuel ratio",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Neutron Diffusion Theory."
+            },
+            {
+                "answer": "Reflector material composition",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Neutron Diffusion Theory."
+            },
+            {
+                "answer": "Core size and geometry",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MITR II Reactor Physics Notes - Neutron Diffusion Theory."
+            },
+            {
+                "answer": "Delayed neutron fraction",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Neutron Diffusion Theory."
+            }
+        ]
+    },
+    {
+        "question": "A.14 What happens to reactor period when a positive reactivity insertion is made while the reactor is subcritical?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "It remains infinite until the reactor goes critical.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics."
+            },
+            {
+                "answer": "It remains constant as long as the insertion is small.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics."
+            },
+            {
+                "answer": "It immediately changes depending on the magnitude of insertion.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics."
+            },
+            {
+                "answer": "It fluctuates unpredictably before stabilizing.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Kinetics."
+            }
+        ]
+    },
+    {
+        "question": "A.15 How does an increase in moderator temperature affect the resonance escape probability?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "It increases due to Doppler broadening.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Feedback Effects."
+            },
+            {
+                "answer": "It decreases due to increased neutron leakage.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MITR II Reactor Physics Notes - Reactor Feedback Effects."
+            },
+            {
+                "answer": "It remains constant as moderator effects are negligible.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Feedback Effects."
+            },
+            {
+                "answer": "It increases due to a softening of the neutron spectrum.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Feedback Effects."
+            }
+        ]
+    },
+    {
+        "question": "A.16 What is the primary mechanism by which delayed neutrons contribute to reactor control?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "They provide additional energy to the core.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Delayed Neutron Theory."
+            },
+            {
+                "answer": "They increase the number of fast neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Delayed Neutron Theory."
+            },
+            {
+                "answer": "They extend the time response of the reactor to reactivity changes.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MITR II Reactor Physics Notes - Delayed Neutron Theory."
+            },
+            {
+                "answer": "They reduce the effects of neutron poisons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Delayed Neutron Theory."
+            }
+        ]
+    },
+    {
+        "question": "A.17 Which one of the following describes the impact of Xenon-135 following a reactor scram?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "It immediately decreases to zero.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Poisons."
+            },
+            {
+                "answer": "It increases to a peak before gradually decreasing.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MITR II Reactor Physics Notes - Reactor Poisons."
+            },
+            {
+                "answer": "It remains at a steady concentration indefinitely.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Poisons."
+            },
+            {
+                "answer": "It fluctuates depending on reactor temperature.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Poisons."
+            }
+        ]
+    },
+    {
+        "question": "A.18 The MITR-II reactor is scrammed after several days of continuous full-power operation. How long will it take for the maximum Xenon-135 concentration to be reached?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Immediately after shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Poisons."
+            },
+            {
+                "answer": "4-6 hours after shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Poisons."
+            },
+            {
+                "answer": "8-12 hours after shutdown.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MITR II Reactor Physics Notes - Reactor Poisons."
+            },
+            {
+                "answer": "24-36 hours after shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Poisons."
+            }
+        ]
+    },
+    {
+        "question": "A.19 What is the function of a neutron reflector in a research reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "To absorb excess neutrons to control reactivity.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Neutron Reflectors."
+            },
+            {
+                "answer": "To reduce neutron leakage and improve neutron economy.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MITR II Reactor Physics Notes - Neutron Reflectors."
+            },
+            {
+                "answer": "To shift the neutron spectrum towards epithermal energies.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Neutron Reflectors."
+            },
+            {
+                "answer": "To act as a backup control mechanism.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Neutron Reflectors."
+            }
+        ]
+    },
+    {
+        "question": "A.20 Which of the following describes reactor shutdown margin?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The total negative reactivity in the core after all rods are fully inserted.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Safety."
+            },
+            {
+                "answer": "The amount of reactivity by which the reactor is subcritical with the most reactive rod withdrawn.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: MITR II Reactor Physics Notes - Reactor Safety."
+            },
+            {
+                "answer": "The minimum amount of reactivity required to achieve criticality.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Safety."
+            },
+            {
+                "answer": "The time it takes for reactor power to drop to zero after scram.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: MITR II Reactor Physics Notes - Reactor Safety."
+            }
+        ]
+    }
+]

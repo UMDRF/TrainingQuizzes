@@ -1,0 +1,522 @@
+[
+    {
+        "question": "A.01 During a reactor startup, the count rate is increasing linearly with time, with no rod motion. This means:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The reactor is subcritical and the count rate increase is due to the buildup of delayed neutron precursors.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+            },
+            {
+                "answer": "The reactor is critical and the count rate increase is due to source neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+            },
+            {
+                "answer": "The reactor is subcritical and the count rate increase is due to source neutrons.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+            },
+            {
+                "answer": "The reactor is critical and the count rate increase is due to the buildup of delayed neutron precursors.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+            }
+        ]
+    },
+    {
+        "question": "A.02 Element 'X' is a 1N absorber (microscopic cross section is inversely proportional to neutron velocity.) The absorption cross section of element X for 0.0253 eV neutrons is 100 barns. Which ONE of the following is the absorption cross section of element X for 0.0506 eV neutrons?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "50.0 barns.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+            },
+            {
+                "answer": "70.7 barns.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+            },
+            {
+                "answer": "100.0 barns.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+            },
+            {
+                "answer": "200.0 barns.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+            }
+        ]
+    },
+    {
+        "question": "A.03 Two different neutron sources were used during two reactor startups. The source used in the first startup emits ten times as many neutrons per second as the source used in the second startup. Assume all other factors are the same for the second startup. Which ONE of the following states the expected result at criticality?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Neutron flux will be higher for the first startup.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+            },
+            {
+                "answer": "Neutron flux will be higher for the second startup.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+            },
+            {
+                "answer": "The first startup will result in a higher rod position (rods further out of the core).",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+            },
+            {
+                "answer": "The second startup will result in a higher rod position (rods further out of the core).",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+            }
+        ]
+    },
+    {
+        "question": "A.04 The effective neutron multiplication factor, K_eff, is defined as:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Production / (Absorption + Leakage)",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section C, The Nuclear Fission Process."
+            },
+            {
+                "answer": "(Production + Leakage) / Absorption",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section C, The Nuclear Fission Process."
+            },
+            {
+                "answer": "(Absorption + Leakage) / Production",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section C, The Nuclear Fission Process."
+            },
+            {
+                "answer": "Absorption / (Production + Leakage)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section C, The Nuclear Fission Process."
+            }
+        ]
+    },
+    {
+        "question": "A.05 Which factor in the six-factor formula is represented by the ratio: number of neutrons that reach thermal energy / number of fast neutrons after fast leakage?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Fast non-leakage probability",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors."
+            },
+            {
+                "answer": "Resonance escape probability",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors."
+            },
+            {
+                "answer": "Reproduction factor",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors."
+            },
+            {
+                "answer": "Thermal utilization factor",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors."
+            }
+        ]
+    },
+    {
+        "question": "A.06 INELASTIC SCATTERING can be generally described as a process whereby a neutron collides with a nucleus and:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Recoils with a lower kinetic energy, with the nucleus emitting a gamma ray.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section B, Types of Nuclear Reactions."
+            },
+            {
+                "answer": "Recoils with the same kinetic energy it had prior to the collision.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section B, Types of Nuclear Reactions."
+            },
+            {
+                "answer": "Is absorbed by the nucleus, with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section B, Types of Nuclear Reactions."
+            },
+            {
+                "answer": "Recoils with a higher kinetic energy, with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section B, Types of Nuclear Reactions."
+            }
+        ]
+    },
+    {
+        "question": "A.07 For the same constant reactor period, which ONE of the following transients requires the SHORTEST time to occur? A power increase of:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "5% of rated power, from 1% to 6% of rated power.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+            },
+            {
+                "answer": "10% of rated power, from 10% to 20% of rated power.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+            },
+            {
+                "answer": "15% of rated power, from 20% to 35% of rated power.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+            },
+            {
+                "answer": "20% of rated power, from 40% to 60% of rated power.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+            }
+        ]
+    },
+    {
+        "question": "A.08 Which ONE of the following is the description of a thermal neutron?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "A neutron possessing thermal rather than kinetic energy.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section A, Basic Reactor Physics Definitions."
+            },
+            {
+                "answer": "The primary source of thermal energy increase in the reactor coolant during reactor operation.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section A, Basic Reactor Physics Definitions."
+            },
+            {
+                "answer": "A neutron that has been produced in a significant time (on the order of seconds) after its initiating fission took place.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section A, Basic Reactor Physics Definitions."
+            },
+            {
+                "answer": "A neutron that experiences no net change in energy after several collisions with atoms of the diffusing media.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section A, Basic Reactor Physics Definitions."
+            }
+        ]
+    },
+    {
+        "question": "A.09 A 1/M curve is being generated as fuel is loaded into the core. After some fuel elements have been loaded, the count rate existing at that time is taken to be the new initial count rate, C\u2080. Additional elements are then loaded and the inverse count rate ratio continues to decrease. As a result of changing the initial count rate:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Predicted criticality will occur earlier (i.e., with fewer elements loaded).",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+            },
+            {
+                "answer": "Predicted criticality will occur later (i.e., with more elements loaded).",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+            },
+            {
+                "answer": "Predicted criticality will occur with the same number of elements loaded.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+            },
+            {
+                "answer": "Criticality will be completely unpredictable.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+            }
+        ]
+    },
+    {
+        "question": "A.10 A reactor is subcritical with a Keff of 0.955. A positive reactivity of 3.5% \u0394K/K is inserted into the core. At this point, the reactor is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Prompt critical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+            },
+            {
+                "answer": "Exactly critical.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+            },
+            {
+                "answer": "Supercritical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+            },
+            {
+                "answer": "Subcritical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+            }
+        ]
+    },
+    {
+        "question": "A.11 Which ONE of the following will DECREASE the thermal utilization factor in a reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "An increase in moderator temperature.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors."
+            },
+            {
+                "answer": "An increase in neutron leakage from the reactor core.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors."
+            },
+            {
+                "answer": "An increase in the amount of non-fuel neutron absorbers in the core.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors."
+            },
+            {
+                "answer": "A decrease in neutron resonance absorption.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors."
+            }
+        ]
+    },
+    {
+        "question": "A.12 Which ONE of the following will have the greatest effect on slowing down fast neutrons?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Using a heavy water moderator instead of light water.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+            },
+            {
+                "answer": "Using graphite as a moderator instead of water.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+            },
+            {
+                "answer": "Replacing oxygen in the moderator with hydrogen.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+            },
+            {
+                "answer": "Adding boron to the moderator.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+            }
+        ]
+    },
+    {
+        "question": "A.13 The MAJOR source of reactor power generation is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Energy released by fission fragments.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section C, The Nuclear Fission Process."
+            },
+            {
+                "answer": "Beta decay of fission products.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section C, The Nuclear Fission Process."
+            },
+            {
+                "answer": "Prompt gamma-ray emission.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section C, The Nuclear Fission Process."
+            },
+            {
+                "answer": "Thermal conduction within the fuel.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section C, The Nuclear Fission Process."
+            }
+        ]
+    },
+    {
+        "question": "A.14 In a steady-state reactor, the neutron population remains constant. This is because:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The neutron reproduction factor remains exactly equal to unity.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors."
+            },
+            {
+                "answer": "The rate of neutron production is equal to the rate of neutron losses.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors."
+            },
+            {
+                "answer": "The reactor power remains constant.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors."
+            },
+            {
+                "answer": "The reactor is exactly subcritical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors."
+            }
+        ]
+    },
+    {
+        "question": "A.15 What is the primary function of a neutron reflector in a reactor core?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "To increase the thermal neutron flux inside the core.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section F, Neutron Reflectors."
+            },
+            {
+                "answer": "To absorb excess neutrons and prevent power spikes.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section F, Neutron Reflectors."
+            },
+            {
+                "answer": "To increase neutron resonance escape probability.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section F, Neutron Reflectors."
+            },
+            {
+                "answer": "To act as a backup control mechanism.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section F, Neutron Reflectors."
+            }
+        ]
+    },
+    {
+        "question": "A.16 A reactor\u2019s prompt negative temperature coefficient is important because it:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Reduces the probability of a prompt critical excursion.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section G, Reactor Kinetics."
+            },
+            {
+                "answer": "Ensures fission fragments absorb excess neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section G, Reactor Kinetics."
+            },
+            {
+                "answer": "Keeps the reactor in a subcritical state.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section G, Reactor Kinetics."
+            },
+            {
+                "answer": "Maintains reactor operation at maximum power.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section G, Reactor Kinetics."
+            }
+        ]
+    },
+    {
+        "question": "A.17 In an operating reactor at steady-state, which of the following best describes the neutron population?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "It remains constant because neutron losses equal neutron production.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors."
+            },
+            {
+                "answer": "It increases as long as the reactor is operating.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors."
+            },
+            {
+                "answer": "It decreases due to continuous neutron absorption.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors."
+            },
+            {
+                "answer": "It fluctuates significantly due to delayed neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors."
+            }
+        ]
+    },
+    {
+        "question": "A.18 Following a reactor scram, Xenon-135 concentration:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Increases to a peak before gradually decreasing.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section H, Reactor Poisons."
+            },
+            {
+                "answer": "Immediately begins to decrease due to lack of neutron absorption.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Reactor Poisons."
+            },
+            {
+                "answer": "Remains constant indefinitely.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Reactor Poisons."
+            },
+            {
+                "answer": "Rapidly disappears within minutes.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Reactor Poisons."
+            }
+        ]
+    },
+    {
+        "question": "A.19 Which of the following best describes reactor shutdown margin?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The amount of reactivity by which the reactor is subcritical with all rods fully inserted.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section G, Reactor Safety."
+            },
+            {
+                "answer": "The amount of reactivity required to bring the reactor from shutdown to critical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section G, Reactor Safety."
+            },
+            {
+                "answer": "The time required for all neutrons to be absorbed after shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section G, Reactor Safety."
+            },
+            {
+                "answer": "The probability of fission product poisoning preventing restart.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section G, Reactor Safety."
+            }
+        ]
+    },
+    {
+        "question": "A.20 The reactor was operating at full power for several weeks. After shutdown, when will the maximum Xenon poison effect occur?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "8-12 hours after shutdown.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section H, Reactor Poisons."
+            },
+            {
+                "answer": "Immediately after shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Reactor Poisons."
+            },
+            {
+                "answer": "24 hours after shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Reactor Poisons."
+            },
+            {
+                "answer": "48 hours after shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Reactor Poisons."
+            }
+        ]
+    }
+]

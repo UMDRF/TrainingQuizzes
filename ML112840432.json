@@ -1,0 +1,522 @@
+[
+    {
+        "question": "A.01 Using the applicable portion from the chart of the nuclides, what will Mn-57 decay into?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Mn-56",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Nuclides and Isotopes, 16th Ed., p. 28."
+            },
+            {
+                "answer": "Co-60",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Nuclides and Isotopes, 16th Ed., p. 28."
+            },
+            {
+                "answer": "Fe-57",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Nuclides and Isotopes, 16th Ed., p. 28."
+            },
+            {
+                "answer": "Cr-55",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Nuclides and Isotopes, 16th Ed., p. 28."
+            }
+        ]
+    },
+    {
+        "question": "A.02 Keff is K4 times Y. What does Y represent?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The reproduction factor (\u03b7)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Handbook Vol 2, Reactor Theory."
+            },
+            {
+                "answer": "The resonance escape probability (p)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Handbook Vol 2, Reactor Theory."
+            },
+            {
+                "answer": "The fast fission factor (\u03b5)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Handbook Vol 2, Reactor Theory."
+            },
+            {
+                "answer": "The total non-leakage probability (\u2039f H \u2039th)",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Handbook Vol 2, Reactor Theory."
+            }
+        ]
+    },
+    {
+        "question": "A.03 How does an increase in moderator temperature affect core operating characteristics?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "It increases the neutron multiplication factor due to increased resonance escape probability.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, Sec 3.3.1."
+            },
+            {
+                "answer": "It decreases the neutron multiplication factor due to decreased resonance escape probability.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, Sec 3.3.1."
+            },
+            {
+                "answer": "It decreases the neutron multiplication factor due to increased fast non-leakage probability.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, Sec 3.3.1."
+            },
+            {
+                "answer": "It increases the neutron multiplication factor due to decreased fast non-leakage probability.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, Sec 3.3.1."
+            }
+        ]
+    },
+    {
+        "question": "A.04 Delayed neutrons are produced by:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Decay of O-16",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, Sec 3.2.1."
+            },
+            {
+                "answer": "Photoelectric Effect",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, Sec 3.2.1."
+            },
+            {
+                "answer": "Decay of fission fragments",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, Sec 3.2.1."
+            },
+            {
+                "answer": "Directly from the fission process",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, Sec 3.2.1."
+            }
+        ]
+    },
+    {
+        "question": "A.05 Given a source strength of 100 neutrons per second (N/sec) and a multiplication factor of 0.8, which ONE of the following is the expected stable neutron count rate?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "125 N/sec",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Equation CR = S/(1-Keff)."
+            },
+            {
+                "answer": "250 N/sec",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Equation CR = S/(1-Keff)."
+            },
+            {
+                "answer": "400 N/sec",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Equation CR = S/(1-Keff)."
+            },
+            {
+                "answer": "500 N/sec",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Equation CR = S/(1-Keff)."
+            }
+        ]
+    },
+    {
+        "question": "A.06 Given a reactor period of 32 seconds, approximately how long will it take for power to double?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "22 seconds",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Kinetics Equation P = P\u2080e^(t/\u03c4)."
+            },
+            {
+                "answer": "32 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Kinetics Equation P = P\u2080e^(t/\u03c4)."
+            },
+            {
+                "answer": "46 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Kinetics Equation P = P\u2080e^(t/\u03c4)."
+            },
+            {
+                "answer": "64 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Kinetics Equation P = P\u2080e^(t/\u03c4)."
+            }
+        ]
+    },
+    {
+        "question": "A.07 Which ONE of the following types of neutrons has a mean neutron generation lifetime of 12.5 seconds?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Prompt",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Handbook, Reactor Kinetics Section."
+            },
+            {
+                "answer": "Fast",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Handbook, Reactor Kinetics Section."
+            },
+            {
+                "answer": "Delayed",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Handbook, Reactor Kinetics Section."
+            },
+            {
+                "answer": "Thermal",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Handbook, Reactor Kinetics Section."
+            }
+        ]
+    },
+    {
+        "question": "A.08 Xenon-135 (Xe135) is produced in the reactor by two methods. One is directly from fission; the other is indirectly from the decay of:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Xe-136",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Reactor Poisons."
+            },
+            {
+                "answer": "Sm-136",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Reactor Poisons."
+            },
+            {
+                "answer": "Cs-135",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Reactor Poisons."
+            },
+            {
+                "answer": "I-135",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Reactor Poisons."
+            }
+        ]
+    },
+    {
+        "question": "A.09 Which ONE of the following conditions will DECREASE the shutdown margin of a reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Increase moderator temperature (Assume negative temperature coefficient)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Safety Analysis."
+            },
+            {
+                "answer": "Insertion of a negative reactivity worth experiment",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Safety Analysis."
+            },
+            {
+                "answer": "Burnout of a burnable poison",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Safety Analysis."
+            },
+            {
+                "answer": "Fuel depletion",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Safety Analysis."
+            }
+        ]
+    },
+    {
+        "question": "A.10 A reactor is subcritical with a Keff of 0.955. Which ONE of the following is the MINIMUM reactivity (\u0394K/K) that must be added to produce PROMPT criticality? Given \u03b2eff=0.007",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "0.007",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Kinetics Calculation."
+            },
+            {
+                "answer": "0.047",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Kinetics Calculation."
+            },
+            {
+                "answer": "0.054",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Kinetics Calculation."
+            },
+            {
+                "answer": "0.064",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Kinetics Calculation."
+            }
+        ]
+    },
+    {
+        "question": "A.11 What is the definition of REACTIVITY?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "A measure of the core's fuel depletion.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Manual."
+            },
+            {
+                "answer": "A measure of the core's deviation from criticality.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Manual."
+            },
+            {
+                "answer": "Equal to 1.00 \u0394K/K when the reactor is critical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Manual."
+            },
+            {
+                "answer": "Equal to 1.00 \u0394K/K when the reactor is prompt critical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Manual."
+            }
+        ]
+    },
+    {
+        "question": "A.12 List from high to low by thermal neutron cross section of the following isotopes: 1. B-10  2. Sm-149 3. Xe-135 4. U-235",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "3,2,1,4",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Data Handbook."
+            },
+            {
+                "answer": "2,3,4,1",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Data Handbook."
+            },
+            {
+                "answer": "3,1,4,2",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Data Handbook."
+            },
+            {
+                "answer": "3,1,2,4",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Data Handbook."
+            }
+        ]
+    },
+    {
+        "question": "A.13 What happens to the thermal utilization factor when a control rod is inserted into the reactor core?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "It increases due to neutron moderation effects.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Fundamentals."
+            },
+            {
+                "answer": "It remains unchanged as control rods do not impact neutron utilization.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Fundamentals."
+            },
+            {
+                "answer": "It decreases due to increased neutron absorption in non-fuel materials.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Fundamentals."
+            },
+            {
+                "answer": "It fluctuates depending on reactor temperature.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Fundamentals."
+            }
+        ]
+    },
+    {
+        "question": "A.14 Which ONE of the following will DECREASE the effective multiplication factor (Keff) of a reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Increasing the reactor power level.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Principles."
+            },
+            {
+                "answer": "Increasing the fraction of neutrons lost to leakage.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Physics Principles."
+            },
+            {
+                "answer": "Increasing the number of fast neutrons produced.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Principles."
+            },
+            {
+                "answer": "Decreasing the temperature of the moderator.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Physics Principles."
+            }
+        ]
+    },
+    {
+        "question": "A.15 What effect does Doppler broadening have on neutron absorption in a reactor core?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "It increases neutron leakage from the core.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Feedback Effects."
+            },
+            {
+                "answer": "It increases neutron absorption due to resonance broadening.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Feedback Effects."
+            },
+            {
+                "answer": "It decreases the effectiveness of control rods.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Feedback Effects."
+            },
+            {
+                "answer": "It shifts the neutron energy spectrum towards lower energies.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Feedback Effects."
+            }
+        ]
+    },
+    {
+        "question": "A.16 Which ONE of the following describes the role of delayed neutrons in reactor control?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "They extend the time response of the reactor to reactivity changes.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Delayed Neutron Physics."
+            },
+            {
+                "answer": "They significantly contribute to total reactor power output.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Delayed Neutron Physics."
+            },
+            {
+                "answer": "They decrease neutron economy in thermal reactors.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Delayed Neutron Physics."
+            },
+            {
+                "answer": "They help maintain xenon equilibrium in steady-state operation.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Delayed Neutron Physics."
+            }
+        ]
+    },
+    {
+        "question": "A.17 Xenon-135 is a significant fission product poison. Following a reactor shutdown, how long does it take for Xenon-135 concentration to reach its maximum value?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Immediately after shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Poisons."
+            },
+            {
+                "answer": "4-6 hours after shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Poisons."
+            },
+            {
+                "answer": "8-12 hours after shutdown.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Poisons."
+            },
+            {
+                "answer": "24-36 hours after shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Poisons."
+            }
+        ]
+    },
+    {
+        "question": "A.18 What is the primary purpose of a neutron reflector in a research reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "To absorb excess neutrons for power control.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Neutron Reflector Theory."
+            },
+            {
+                "answer": "To reduce neutron leakage and improve neutron economy.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Neutron Reflector Theory."
+            },
+            {
+                "answer": "To shift the neutron energy spectrum towards epithermal energies.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Neutron Reflector Theory."
+            },
+            {
+                "answer": "To act as a secondary neutron source.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Neutron Reflector Theory."
+            }
+        ]
+    },
+    {
+        "question": "A.19 What is reactor shutdown margin?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The total negative reactivity inserted after all rods are fully inserted.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Safety and Shutdown."
+            },
+            {
+                "answer": "The amount of reactivity by which the reactor is subcritical with the most reactive rod withdrawn.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Safety and Shutdown."
+            },
+            {
+                "answer": "The minimum reactivity required to achieve criticality.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Safety and Shutdown."
+            },
+            {
+                "answer": "The time it takes for reactor power to drop to zero after a scram.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Safety and Shutdown."
+            }
+        ]
+    },
+    {
+        "question": "A.20 Following a long period of reactor operation at full power, how long will it take for the maximum Xenon-135 poison effect to occur after shutdown?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Immediately after shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Poisoning Effects."
+            },
+            {
+                "answer": "8-12 hours after shutdown.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Poisoning Effects."
+            },
+            {
+                "answer": "24 hours after shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Poisoning Effects."
+            },
+            {
+                "answer": "48 hours after shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Poisoning Effects."
+            }
+        ]
+    }
+]

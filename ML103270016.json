@@ -1,0 +1,169 @@
+[
+  {
+    "question": "A.01 [1.0 point] During a reactor startup, criticality occurred at a LOWER ROD HEIGHT than the last startup. Which ONE of the following reasons could be the cause?",
+    "type": "multiple_choice",
+    "answers": [
+      {"answer": "Xe135 increased.", "correct": false},
+      {"answer": "Fuel temperature increased.", "correct": false},
+      {"answer": "Pool temperature increased.", "correct": false},
+      {"answer": "Removing an experiment with negative reactivity from the core.", "correct": true}
+    ]
+  },
+  {
+    "question": "A.02 [1.0 point] Which ONE of the following is the major source of energy (heat) generated after SHUTDOWN?",
+    "type": "multiple_choice",
+    "answers": [
+      {"answer": "Prompt gamma ray.", "correct": false},
+      {"answer": "Fission product decay.", "correct": true},
+      {"answer": "Kinetic energy of the fission neutrons.", "correct": false},
+      {"answer": "Kinetic energy of the fission fragments.", "correct": false}
+    ]
+  },
+  {
+    "question": "A.03 [1.0 point] Which ONE of the following best describes the beta decay (β-1) of a nuclide?",
+    "type": "multiple_choice",
+    "answers": [
+      {"answer": "The atomic mass number unchanged, and the number of protons increases by 1.", "correct": true},
+      {"answer": "The atomic mass number unchanged, and the number of protons decreases by 1.", "correct": false},
+      {"answer": "The atomic mass number increases by 1, and the number of protons decrease by 1.", "correct": false},
+      {"answer": "The atomic mass number increases by 2, and the number of protons increase by 1.", "correct": false}
+    ]
+  },
+  {
+    "question": "A.04 [1.0 point] Which ONE of the following is the stable reactor period which will result in a power rise from 1% to 100% power in 60 seconds?",
+    "type": "multiple_choice",
+    "answers": [
+      {"answer": "6 seconds.", "correct": false},
+      {"answer": "13 seconds.", "correct": true},
+      {"answer": "28 seconds.", "correct": false},
+      {"answer": "80 seconds.", "correct": false}
+    ]
+  },
+  {
+    "question": "A.05 [1.0 point] Delayed neutrons are produced by:",
+    "type": "multiple_choice",
+    "answers": [
+      {"answer": "Decay of O-16.", "correct": false},
+      {"answer": "Photoelectric Effect.", "correct": false},
+      {"answer": "Decay of fission fragments.", "correct": true},
+      {"answer": "Directly from the fission process.", "correct": false}
+    ]
+  },
+  {
+    "question": "A.06 [1.0 point] The FAST FISSION FACTOR is defined as a ratio of:",
+    "type": "multiple_choice",
+    "answers": [
+      {"answer": "The number of fast neutrons produced by all fission events over the number of fast neutrons produced by thermal fission.", "correct": true},
+      {"answer": "The number of fast neutrons produced by fission in a generation over the number of total neutrons produced by fission in the previous generation.", "correct": false},
+      {"answer": "The number of fast neutrons produced by U-238 over the number of thermal neutrons absorbed in fuel.", "correct": false},
+      {"answer": "The number of neutrons that reach thermal energy over the number of fast neutrons that start to slow down.", "correct": false}
+    ]
+  },
+  [
+    {
+      "question": "A.07 [1.0 point] Which ONE of the following is the time period in which the MAXIMUM amount of Xe-135 will be present in the core?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "7 to 11 hours after a power increase from 0% to 50%.", "correct": false},
+        {"answer": "7 to 11 hours after a power increase from 50% to 100%.", "correct": false},
+        {"answer": "7 to 11 hours after a start up to 100% power.", "correct": false},
+        {"answer": "7 to 11 hours after a scram from 100% power.", "correct": true}
+      ]
+    },
+    {
+      "question": "A.08 [1.0 point] The reactor is SHUTDOWN by 5% Δk/k with the count rate of 100 counts per second (cps). The Shim rods are withdrawn until the count rate is a steady 2000 cps. What is the value of Keff at this point?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "0.952", "correct": false},
+        {"answer": "0.973", "correct": false},
+        {"answer": "0.998", "correct": true},
+        {"answer": "1.050", "correct": false}
+      ]
+    },
+    {
+      "question": "A.09 [1.0 point] Assume that the worth of the Safety, Shim, and Reg rods are, respectively, $4.0, $3.5, and $1.5. The reactor is critical at 5 W after WITHDRAWING the following control rod worths: Safety $3.00, Shim $2.00, and Reg $1.20. What is the core excess?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "-$1.20", "correct": false},
+        {"answer": "$2.20", "correct": false},
+        {"answer": "$2.80", "correct": true},
+        {"answer": "$9.00", "correct": false}
+      ]
+    },
+    {
+      "question": "A.10 [1.0 point] Which ONE of the following combinations of characteristics makes a good reflector?",
+      "type": "multiple_choice",
+      "answers": [
+        {"answer": "High Scattering Cross Section, High Absorption Cross Section", "correct": false},
+        {"answer": "Low Scattering Cross Section, High Absorption Cross Section", "correct": false},
+        {"answer": "High Scattering Cross Section, Low Absorption Cross Section", "correct": true},
+        {"answer": "Low Scattering Cross Section, Low Absorption Cross Section", "correct": false}
+      ]
+    },
+    {
+        "question": "A.11 [1.0 point] The reactor is exactly critical with βeff = 0.0075. Which ONE of the following is the MINIMUM reactivity that must be added to produce prompt criticality?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Reactivity when Keff equals to 1.0075", "correct": false},
+          {"answer": "Reactivity equals to the βeff", "correct": true},
+          {"answer": "Reactivity when the stable reactor period equals to 3 seconds", "correct": false},
+          {"answer": "Reactivity equals to $1.50", "correct": false}
+        ]
+      },
+      {
+        "question": "A.12 [1.0 point] How does the reactor startup source function?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "The plutonium decays to emit neutrons.", "correct": false},
+          {"answer": "Gamma rays from the core strike beryllium atoms that emit neutrons.", "correct": false},
+          {"answer": "Alpha particles from plutonium strike beryllium atoms that emit neutrons.", "correct": false},
+          {"answer": "Alpha particles from americium strike beryllium atoms that emit neutrons.", "correct": true}
+        ]
+      },
+      {
+        "question": "A.13 [1.0 point] Which ONE of the following is the MOST affected factor in the six-factor formula when a poison in the control rods is changed from BORON (B) to CADMIUM (Cd)?",
+        "type": "multiple_choice",
+        "answers": [
+          {"answer": "Fast fission factor", "correct": false},
+          {"answer": "Reproduction factor", "correct": false},
+          {"answer": "Thermal utilization factor", "correct": true},
+          {"answer": "Fast non-leakage probability", "correct": false}
+        ]
+      },
+      [
+        {
+          "question": "A.14 [1.0 point] Which ONE of the following explains the response of a SUBCRITICAL reactor to equal insertions of positive reactivity as the reactor approaches criticality?",
+          "type": "multiple_choice",
+          "answers": [
+            {"answer": "Each insertion causes a SMALLER increase in the neutron flux resulting in a LONGER time to stabilize.", "correct": false},
+            {"answer": "Each insertion causes a LARGER increase in the neutron flux resulting in a LONGER time to stabilize.", "correct": false},
+            {"answer": "Each insertion causes a SMALLER increase in the neutron flux resulting in a SHORTER time to stabilize.", "correct": false},
+            {"answer": "Each insertion causes a LARGER increase in the neutron flux resulting in a SHORTER time to stabilize.", "correct": true}
+          ]
+        },
+        {
+          "question": "A.15 [1.0 point] Which of the following does NOT affect the Effective Multiplication Factor (Keff)?",
+          "type": "multiple_choice",
+          "answers": [
+            {"answer": "The moderator-to-fuel ratio", "correct": false},
+            {"answer": "The physical dimensions of the core", "correct": false},
+            {"answer": "The strength of installed neutron sources", "correct": true},
+            {"answer": "The current time in core life", "correct": false}
+          ]
+        },
+        {
+          "question": "A.16 [1.0 point] The term PROMPT JUMP refers to …",
+          "type": "multiple_choice",
+          "answers": [
+            {"answer": "The instantaneous change in power due to withdrawal of a control rod", "correct": true},
+            {"answer": "A reactor which has attained criticality on prompt neutrons alone", "correct": false},
+            {"answer": "A reactor which is critical on both prompt and delayed neutrons", "correct": false},
+            {"answer": "A negative reactivity insertion which is less than βeff", "correct": false}
+          ]
+        }
+      ]
+      
+    ]
+    
+  ]
+  
