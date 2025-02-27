@@ -1,0 +1,522 @@
+[
+    {
+        "question": "A.01 The delayed neutron fraction (\u03b2) for U-235 is 0.0065. However, when performing certain reactivity calculations you note the use of \u03b2eff which has a value of 0.007 at the PSBR. Why is \u03b2eff larger than \u03b2?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Delayed Neutrons are born at higher energies than prompt neutrons resulting in a greater worth for the neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE-HDBK-1019/1-93 Prompt and Delayed Neutrons."
+            },
+            {
+                "answer": "Delayed Neutrons are born at lower energies than prompt neutrons resulting in less leakage during slowdown to thermal energies.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE-HDBK-1019/1-93 Prompt and Delayed Neutrons."
+            },
+            {
+                "answer": "The fuel also contains U-238 which has a relatively large beta for fast fission.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE-HDBK-1019/1-93 Prompt and Delayed Neutrons."
+            },
+            {
+                "answer": "U-238 in the core becomes Pu-239 (by neutron absorption), which has a higher beta for fission.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE-HDBK-1019/1-93 Prompt and Delayed Neutrons."
+            }
+        ]
+    },
+    {
+        "question": "A.02 When the excess reactivity (Kex) exceeds the delayed neutron fraction (\u03b2), a reactor is said to be:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Subcritical",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Bevelacqua, J. Basic Health Physics, p.391."
+            },
+            {
+                "answer": "Critical",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Bevelacqua, J. Basic Health Physics, p.391."
+            },
+            {
+                "answer": "Within its shutdown margin requirements",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Bevelacqua, J. Basic Health Physics, p.391."
+            },
+            {
+                "answer": "Prompt critical",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Bevelacqua, J. Basic Health Physics, p.391."
+            }
+        ]
+    },
+    {
+        "question": "A.03 You are poolside at the PSBR conducting a tour when someone from the group asks what the \u201cblue glow\u201d around the reactor is. Which of the following would be the most correct response?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "It is binding energy released directly through chain reactions of the fission process.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: PSBR Training Manual, Chapter 1.8."
+            },
+            {
+                "answer": "It is an effect where high energy, charged particles (e.g., electrons) lose and emit their energy while slowing down through the pool.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: PSBR Training Manual, Chapter 1.8."
+            },
+            {
+                "answer": "It is an effect when high energy, charged particles (e.g., electrons) pass through the pool at a speed which is greater than the speed of light.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: PSBR Training Manual, Chapter 1.8."
+            },
+            {
+                "answer": "It is the energy release from the interaction between a neutrino and antineutrino which is known as pair annihilation.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: PSBR Training Manual, Chapter 1.8."
+            }
+        ]
+    },
+    {
+        "question": "A.04 A nuclear reactor startup is being performed by adding equal amounts of positive reactivity and waiting for neutron population to stabilize. As the reactor approaches criticality, the numerical change in stable neutron population after each reactivity addition __________, and the time required for the neutron population to stabilize after each reactivity addition ___________.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "increases; remains the same",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: NRC Generic Fundamentals Examination Question Bank\u2014PWR2010."
+            },
+            {
+                "answer": "increases; increases",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: NRC Generic Fundamentals Examination Question Bank\u2014PWR2010."
+            },
+            {
+                "answer": "remains the same; remains the same",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: NRC Generic Fundamentals Examination Question Bank\u2014PWR2010."
+            },
+            {
+                "answer": "remains the same; increases",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: NRC Generic Fundamentals Examination Question Bank\u2014PWR2010."
+            }
+        ]
+    },
+    {
+        "question": "A.05 Which ONE of the following statements is the most correct regarding a characteristic of subcritical multiplication?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The number of neutrons gained per generation doubles for each succeeding generation.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Handbook, Reactor Theory Section."
+            },
+            {
+                "answer": "A constant neutron population is achieved when the total number of neutrons produced in one generation is equal to the number of source neutrons in the next generation.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Handbook, Reactor Theory Section."
+            },
+            {
+                "answer": "For equal reactivity additions, it takes less time for the equilibrium subcritical neutron population level to be reached as Keff approaches one.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Handbook, Reactor Theory Section."
+            },
+            {
+                "answer": "Doubling the indicated power will reduce the margin to criticality by approximately one-half.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Handbook, Reactor Theory Section."
+            }
+        ]
+    },
+    {
+        "question": "A.06 The PSBR staff is performing its control rod calibration using the positive period method; you are the reactor operator. With the reactor power at an appropriate level, you withdraw the rod of interest a small amount to establish a suitable reactor period. If the doubling time is determined to be 42 seconds, what is the reactor period for this instance?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "29 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: PSBR Training Manual, Reactor Period Calculation."
+            },
+            {
+                "answer": "42 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: PSBR Training Manual, Reactor Period Calculation."
+            },
+            {
+                "answer": "61 seconds",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: PSBR Training Manual, Reactor Period Calculation."
+            },
+            {
+                "answer": "84 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: PSBR Training Manual, Reactor Period Calculation."
+            }
+        ]
+    },
+    {
+        "question": "A.07 Given a critical nuclear reactor operating below the point of adding heat (POAH), what reactivity effects are associated with reaching the POAH?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "There are no reactivity effects because the reactor is critical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Reactor Physics."
+            },
+            {
+                "answer": "The increase in fuel temperature will begin to create a positive reactivity effect.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Reactor Physics."
+            },
+            {
+                "answer": "The decrease in fuel temperature will begin to create a negative reactivity effect.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Reactor Physics."
+            },
+            {
+                "answer": "The increase in fuel temperature will begin to create a negative reactivity effect.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Reactor Physics."
+            }
+        ]
+    },
+    {
+        "question": "A.08 Which one of the following completes the following sentence as the most correct reason for having an installed neutron source within the core? A startup without an installed neutron source...",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "could result in a very short period due to the reactor going critical before neutron population built up high enough to be read on nuclear instrumentation.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Reactor Startup Physics."
+            },
+            {
+                "answer": "is impossible as there would be no neutrons available to start up the reactor.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Reactor Startup Physics."
+            },
+            {
+                "answer": "would be very slow due to the long time to build up neutron population from so low a level.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Reactor Startup Physics."
+            },
+            {
+                "answer": "can be compensated for by adjusting the compensating voltage on the source range detector.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Reactor Startup Physics."
+            }
+        ]
+    },
+    {
+        "question": "A.09 What best describes the behavior of REACTOR POWER between points A and B on the associated graph?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Constant",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Power Behavior Analysis."
+            },
+            {
+                "answer": "Decreasing then increasing",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Power Behavior Analysis."
+            },
+            {
+                "answer": "Continually increasing",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Power Behavior Analysis."
+            },
+            {
+                "answer": "Continually decreasing",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Power Behavior Analysis."
+            }
+        ]
+    },
+    {
+        "question": "A.10 Which one of the following will be the resulting stable reactor period when a $0.25 reactivity insertion is made into an exactly critical reactor core? Neglect any effects from prompt neutrons.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "18 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Inhour Equation Calculation."
+            },
+            {
+                "answer": "30 seconds",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Inhour Equation Calculation."
+            },
+            {
+                "answer": "38 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Inhour Equation Calculation."
+            },
+            {
+                "answer": "50 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Inhour Equation Calculation."
+            }
+        ]
+    },
+    {
+        "question": "A.11 Which ONE of the following is a correct statement of why delayed neutrons enhance the ability to control reactor power?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "There are more delayed neutrons than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Delayed Neutron Physics."
+            },
+            {
+                "answer": "Delayed neutrons are born at higher energy levels than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Delayed Neutron Physics."
+            },
+            {
+                "answer": "Delayed neutrons increase the average neutron lifetime.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Delayed Neutron Physics."
+            },
+            {
+                "answer": "Delayed neutrons readily fission in U-238.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Delayed Neutron Physics."
+            }
+        ]
+    },
+    {
+        "question": "A.12 What happens to Xenon-135 concentration in the reactor after a power reduction from 100% to 50%?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Xe-135 concentration increases to a peak in 7-8 hours.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Xenon Poisoning Effects."
+            },
+            {
+                "answer": "Xe-135 concentration decreases steadily.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Xenon Poisoning Effects."
+            },
+            {
+                "answer": "Xe-135 concentration remains constant.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Xenon Poisoning Effects."
+            },
+            {
+                "answer": "Xe-135 concentration peaks after 40 hours.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Xenon Poisoning Effects."
+            }
+        ]
+    },
+    {
+        "question": "A.13 Which of the following best describes the impact of Xenon-135 following a reactor shutdown?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "It immediately decreases to zero.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Xenon Poisoning Effects."
+            },
+            {
+                "answer": "It increases to a peak before gradually decreasing.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Xenon Poisoning Effects."
+            },
+            {
+                "answer": "It remains at a steady concentration indefinitely.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Xenon Poisoning Effects."
+            },
+            {
+                "answer": "It fluctuates depending on reactor temperature.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Xenon Poisoning Effects."
+            }
+        ]
+    },
+    {
+        "question": "A.14 Which ONE of the following conditions would cause an increase in reactor shutdown margin?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Burnout of a burnable poison.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Shutdown Analysis."
+            },
+            {
+                "answer": "Increase in Xenon-135 concentration.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Shutdown Analysis."
+            },
+            {
+                "answer": "Increase in moderator temperature (Assume negative temperature coefficient).",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Shutdown Analysis."
+            },
+            {
+                "answer": "Withdrawal of the most reactive control rod.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Shutdown Analysis."
+            }
+        ]
+    },
+    {
+        "question": "A.15 What is the function of a neutron reflector in a reactor core?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "To increase the thermal neutron flux inside the core.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Neutron Reflector Theory."
+            },
+            {
+                "answer": "To absorb excess neutrons and prevent power spikes.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Neutron Reflector Theory."
+            },
+            {
+                "answer": "To increase neutron resonance escape probability.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Neutron Reflector Theory."
+            },
+            {
+                "answer": "To act as a backup control mechanism.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Neutron Reflector Theory."
+            }
+        ]
+    },
+    {
+        "question": "A.16 The term \u2018prompt jump\u2019 refers to which of the following?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The rapid increase in reactor power due to an increase in prompt neutron production.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Kinetics and Control."
+            },
+            {
+                "answer": "The quick response of the reactor to changes in coolant flow rate.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Kinetics and Control."
+            },
+            {
+                "answer": "The fast decay of fission product gammas after a scram.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Kinetics and Control."
+            },
+            {
+                "answer": "The immediate response of Xenon-135 following a power change.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Kinetics and Control."
+            }
+        ]
+    },
+    {
+        "question": "A.17 Following an extended power run at full power, when does the maximum Xenon-135 poison effect occur after shutdown?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Immediately after shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Xenon Poisoning Effects."
+            },
+            {
+                "answer": "8-12 hours after shutdown.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Xenon Poisoning Effects."
+            },
+            {
+                "answer": "24 hours after shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Xenon Poisoning Effects."
+            },
+            {
+                "answer": "48 hours after shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Xenon Poisoning Effects."
+            }
+        ]
+    },
+    {
+        "question": "A.18 Which of the following is the best definition of reactor shutdown margin?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The total negative reactivity in the core after all rods are fully inserted.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Safety and Shutdown."
+            },
+            {
+                "answer": "The amount of reactivity by which the reactor is subcritical with the most reactive rod withdrawn.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Safety and Shutdown."
+            },
+            {
+                "answer": "The minimum amount of reactivity required to achieve criticality.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Safety and Shutdown."
+            },
+            {
+                "answer": "The time it takes for reactor power to drop to zero after scram.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Safety and Shutdown."
+            }
+        ]
+    },
+    {
+        "question": "A.19 During steady-state reactor operation, what is the relationship between neutron production and neutron loss?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Neutron production is greater than neutron loss.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Equilibrium Physics."
+            },
+            {
+                "answer": "Neutron production is less than neutron loss.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Equilibrium Physics."
+            },
+            {
+                "answer": "Neutron production equals neutron loss.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Reactor Equilibrium Physics."
+            },
+            {
+                "answer": "Neutron loss is controlled by power level.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Reactor Equilibrium Physics."
+            }
+        ]
+    },
+    {
+        "question": "A.20 A reactor was shutdown after an extended run at full power. How long will it take for Xenon-135 concentration to return to equilibrium?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "8-12 hours.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Xenon Poisoning Effects."
+            },
+            {
+                "answer": "24-36 hours.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Xenon Poisoning Effects."
+            },
+            {
+                "answer": "48-72 hours.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Xenon Poisoning Effects."
+            },
+            {
+                "answer": "4-6 hours.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Xenon Poisoning Effects."
+            }
+        ]
+    }
+]
