@@ -1,0 +1,262 @@
+[
+    {
+        "question": "A.01 [2.0 points, 0.5 each] Match each term in column A with the correct definition in column B.",
+        "type": "matching",
+        "answers": [
+            {
+                "answer": "a. Prompt Neutron - 2. A neutron born directly from fission.",
+                "correct": true,
+                "feedback": "Correct. REF:(Reference 1), Vol. 1, Module 2, Paragraph 'Neutron Slowing Down and Thermalization' on pg. 23, also Paragraph 'Neutron Classification' on pg. 29."
+            },
+            {
+                "answer": "b. Fast Neutron - 4. A neutron at an energy level greater than its surroundings.",
+                "correct": true,
+                "feedback": "Correct. REF:(Reference 1), Vol. 1, Module 2, Paragraph 'Neutron Slowing Down and Thermalization' on pg. 23, also Paragraph 'Neutron Classification' on pg. 29."
+            },
+            {
+                "answer": "c. Thermal Neutron - 1. A neutron in equilibrium with its surroundings.",
+                "correct": true,
+                "feedback": "Correct. REF:(Reference 1), Vol. 1, Module 2, Paragraph 'Neutron Slowing Down and Thermalization' on pg. 23, also Paragraph 'Neutron Classification' on pg. 29."
+            },
+            {
+                "answer": "d. Delayed Neutron - 3. A neutron born due to decay of a fission product.",
+                "correct": true,
+                "feedback": "Correct. REF:(Reference 1), Vol. 1, Module 2, Paragraph 'Neutron Slowing Down and Thermalization' on pg. 23, also Paragraph 'Neutron Classification' on pg. 29."
+            }
+        ]
+    },
+    {
+        "question": "A.02 [1.0 point] The total amount of reactivity added by inserting or withdrawing a control rod from a reference height to any other rod height is called?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. differential rod worth",
+                "correct": false,
+                "feedback": "Incorrect. REF:(Reference 1), Vol. II, Module 3, see heading 'Integral and Differential Rod Worths' discussion on pages 51 through 56."
+            },
+            {
+                "answer": "b. shutdown reactivity",
+                "correct": false,
+                "feedback": "Incorrect. REF:(Reference 1), Vol. II, Module 3, see heading 'Integral and Differential Rod Worths' discussion on pages 51 through 56."
+            },
+            {
+                "answer": "c. integral rod worth",
+                "correct": true,
+                "feedback": "Correct. REF:(Reference 1), Vol. II, Module 3, see heading 'Integral and Differential Rod Worths' discussion on pages 51 through 56."
+            },
+            {
+                "answer": "d. reference reactivity",
+                "correct": false,
+                "feedback": "Incorrect. REF:(Reference 1), Vol. II, Module 3, see heading 'Integral and Differential Rod Worths' discussion on pages 51 through 56."
+            }
+        ]
+    },
+    {
+        "question": "A.03 [2.0 points, ½ each] Using the drawing of the Core Rod Position provided, identify each of the following reactivity worths.",
+        "type": "matching",
+        "answers": [
+            {
+                "answer": "a. Total Rod Worth - 7. E- A",
+                "correct": true,
+                "feedback": "Correct. REF: Standard NRC Question"
+            },
+            {
+                "answer": "b. Actual Shutdown Margin - 5. E- C",
+                "correct": true,
+                "feedback": "Correct. REF: Standard NRC Question"
+            },
+            {
+                "answer": "c. Technical Specification Shutdown Margin Limit - 6. E- D",
+                "correct": true,
+                "feedback": "Correct. REF: Standard NRC Question"
+            },
+            {
+                "answer": "d. Excess Reactivity - 2. C- A",
+                "correct": true,
+                "feedback": "Correct. REF: Standard NRC Question"
+            }
+        ]
+    },
+    {
+        "question": "A.04 [1.0 point] Reactor power is rising on a 100 second period. Approximately how long will it take for power to double?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 35 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: P= P0 et/T --> ln(2)= time ÷ 100 seconds –> time= ln(2) x 100 sec. 0.693 x 100 ≈ 0.7 x 100 ≈ 70 sec."
+            },
+            {
+                "answer": "b. 50 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: P= P0 et/T --> ln(2)= time ÷ 100 seconds –> time= ln(2) x 100 sec. 0.693 x 100 ≈ 0.7 x 100 ≈ 70 sec."
+            },
+            {
+                "answer": "c. 70 seconds",
+                "correct": true,
+                "feedback": "Correct. REF: P= P0 et/T --> ln(2)= time ÷ 100 seconds –> time= ln(2) x 100 sec. 0.693 x 100 ≈ 0.7 x 100 ≈ 70 sec."
+            },
+            {
+                "answer": "d. 100 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: P= P0 et/T --> ln(2)= time ÷ 100 seconds –> time= ln(2) x 100 sec. 0.693 x 100 ≈ 0.7 x 100 ≈ 70 sec."
+            }
+        ]
+    },
+    {
+        "question": "A.05 [1.0 point] Reactor period has just stabilized at -80 seconds following a reactor shutdown. If safety channel #1 reads 1 × 10^4 counts/minute, what do you expect the channel to read in three minutes?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 3 × 10^3 counts/minute",
+                "correct": false,
+                "feedback": "Incorrect. REF: P= P0 e^(t/τ) = 1 × 10^4 × e^(-80/180) = 1 × 10^4 × e^(-2.25) = 1 × 10^4 × 0.1054 = 1.054 × 10^3"
+            },
+            {
+                "answer": "b. 1 × 10^3 counts/minute",
+                "correct": true,
+                "feedback": "Correct. REF: P= P0 e^(t/τ) = 1 × 10^4 × e^(-80/180) = 1 × 10^4 × e^(-2.25) = 1 × 10^4 × 0.1054 = 1.054 × 10^3"
+            },
+            {
+                "answer": "c. 3 × 10^2 counts/minute",
+                "correct": false,
+                "feedback": "Incorrect. REF: P= P0 e^(t/τ) = 1 × 10^4 × e^(-80/180) = 1 × 10^4 × e^(-2.25) = 1 × 10^4 × 0.1054 = 1.054 × 10^3"
+            },
+            {
+                "answer": "d. 1 × 10^2 counts/minute",
+                "correct": false,
+                "feedback": "Incorrect. REF: P= P0 e^(t/τ) = 1 × 10^4 × e^(-80/180) = 1 × 10^4 × e^(-2.25) = 1 × 10^4 × 0.1054 = 1.054 × 10^3"
+            }
+        ]
+    },
+    {
+        "question": "A.06 [1.0 point] Most references list the delayed neutron fraction for U235 (β) as 0.0065. The SAR lists β for the core as 0.0074. The β in the SAR is more commonly referred to as βeffective. Which ONE of the following is the reason that βeffective is larger than β?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Delayed neutrons are born at higher energies than prompt neutrons resulting in a greater worth for the neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF:(Reference 1), Volume 2, Module 4, page 12."
+            },
+            {
+                "answer": "b. Delayed neutrons are born at lower energies than prompt neutrons resulting in less leakage during slowdown to thermal energies.",
+                "correct": true,
+                "feedback": "Correct. REF:(Reference 1), Volume 2, Module 4, page 12."
+            },
+            {
+                "answer": "c. The fuel also includes U238 which has a relatively large β for fast fission.",
+                "correct": false,
+                "feedback": "Incorrect. REF:(Reference 1), Volume 2, Module 4, page 12."
+            },
+            {
+                "answer": "d. The U238 in the core becomes Pu239 (by neutron absorption), which has a higher β for fission.",
+                "correct": false,
+                "feedback": "Incorrect. REF:(Reference 1), Volume 2, Module 4, page 12."
+            }
+        ]
+    },
+    {
+        "question": "A.07 [1.0 point] Which of the following power manipulations would take the longest to complete assuming the same period is maintained?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 100 mW to 400 mW",
+                "correct": true,
+                "feedback": "Correct. REF:(Reference 1), Volume 2, Module 3, page 11."
+            },
+            {
+                "answer": "b. 400 mW to 500 mW",
+                "correct": false,
+                "feedback": "Incorrect. REF:(Reference 1), Volume 2, Module 3, page 11."
+            },
+            {
+                "answer": "c. 1 W to 3.5 W",
+                "correct": false,
+                "feedback": "Incorrect. REF:(Reference 1), Volume 2, Module 3, page 11."
+            },
+            {
+                "answer": "d. 3.5 W to 4.5 W",
+                "correct": false,
+                "feedback": "Incorrect. REF:(Reference 1), Volume 2, Module 3, page 11."
+            }
+        ]
+    },
+    {
+        "question": "A.08 [1.0 point] Which ONE of the following is the definition of a cross section?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The probability that a neutron will be captured by the nucleus.",
+                "correct": true,
+                "feedback": "Correct. REF:(Reference 1), Volume 1, Module 2, page 7."
+            },
+            {
+                "answer": "b. The most likely energy at which a charged particle will be captured.",
+                "correct": false,
+                "feedback": "Incorrect. REF:(Reference 1), Volume 1, Module 2, page 7."
+            },
+            {
+                "answer": "c. The length a charged particle travels past the nucleus before being captured.",
+                "correct": false,
+                "feedback": "Incorrect. REF:(Reference 1), Volume 1, Module 2, page 7."
+            },
+            {
+                "answer": "d. The area of the nucleus including the electron cloud.",
+                "correct": false,
+                "feedback": "Incorrect. REF:(Reference 1), Volume 1, Module 2, page 7."
+            }
+        ]
+    },
+    {
+        "question": "A.09 [1.0 point] Which of the following algebraic terms is the effective multiplication factor (Keff)?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. # of neutrons produced from all fission / # of neutrons in the previous generation",
+                "correct": false,
+                "feedback": "Incorrect. REF:(Reference 1), Volume A."
+            },
+            {
+                "answer": "b. # of neutrons produced from fast fission / # of neutrons produced from thermal fission",
+                "correct": false,
+                "feedback": "Incorrect. REF:(Reference 1), Volume A."
+            },
+            {
+                "answer": "c. # of neutrons absorbed in the fuel / # of neutrons absorbed by fission products",
+                "correct": false,
+                "feedback": "Incorrect. REF:(Reference 1), Volume A."
+            },
+            {
+                "answer": "d. # of neutrons in the present generation / # of neutrons in the previous generation",
+                "correct": true,
+                "feedback": "Correct. REF:(Reference 1), Volume A."
+            }
+        ]
+    },
+    {
+        "question": "A.10 [1.0 point] The term 'reactivity' is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. A measure of the core's deviation from criticality.",
+                "correct": true,
+                "feedback": "Correct. REF:(Reference 1), Volume"
+            },
+            {
+                "answer": "b. A measure of the core's fuel depletion.",
+                "correct": false,
+                "feedback": "Incorrect. REF:(Reference 1), Volume"
+            },
+            {
+                "answer": "c. Negative when Keff is greater than 1.0.",
+                "correct": false,
+                "feedback": "Incorrect. REF:(Reference 1), Volume"
+            },
+            {
+                "answer": "d. Equal to $0.66 when the reactor is prompt critical.",
+                "correct": false,
+                "feedback": "Incorrect. REF:(Reference 1), Volume"
+            }
+        ]
+    }
+]

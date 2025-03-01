@@ -1,0 +1,522 @@
+[
+  {
+    "question": "A.1 [1.0 point] (1.0) Which one of the following is the principal source of heat in the reactor after a shutdown from extended operation at 100 KW?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Production of delayed neutrons",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 4.9, pp. 4-23 — 4-26."
+      },
+      {
+        "answer": "b. Subcritical reaction of photoneutrons",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 4.9, pp. 4-23 — 4-26."
+      },
+      {
+        "answer": "c. Spontaneous fission of U238",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 4.9, pp. 4-23 — 4-26."
+      },
+      {
+        "answer": "d. Decay of fission fragments",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 4.9, pp. 4-23 — 4-26."
+      }
+    ]
+  },
+  {
+    "question": "A.2 [1.0 point] (1.0) As power level increases, the Prompt Negative Temp. Coefficient (PNTC) causes:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 238U to absorb neutrons over a wider range, thus decreasing the number of neutrons available for fission with 235U.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.98, p. 94."
+      },
+      {
+        "answer": "b. Doppler resonance effects to decrease.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.98, p. 94."
+      },
+      {
+        "answer": "c. The hydrogen atoms in the ZrH2 to slow down more neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.98, p. 94."
+      },
+      {
+        "answer": "d. More thermal neutron absorption by the moderator.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.98, p. 94."
+      }
+    ]
+  },
+  {
+    "question": "A.3 [1.0 point] (1.0) Which ONE of the following statements correctly describes the influence of delayed neutrons on the neutron life cycle?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Delayed neutrons decrease the average period of a reactivity addition because they thermalize more quickly than prompt neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.20, p. 236."
+      },
+      {
+        "answer": "b. Delayed neutrons take longer to thermalize because they are born at higher energies than prompt neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.20, p. 236."
+      },
+      {
+        "answer": "c. Delayed neutrons cause the length of the average neutron generation time to increase.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.20, p. 236."
+      },
+      {
+        "answer": "d. Delayed neutrons are born later than prompt neutrons and make up a larger fraction of the fission neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.20, p. 236."
+      }
+    ]
+  },
+  {
+    "question": "A.4 [1.0 point] (1.0) Which alteration or change to the core will most strongly affect the thermal utilization factor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Build up of fission products in fuel.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Lamarsh, J.R., Introduction to Nuclear Engineering, Addison-Wesley Publishing, Reading, Massachusetts, 1983. § 7.2, p. 300; Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3, pp. 3-13 — 3-18."
+      },
+      {
+        "answer": "b. Removal of moderator.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Lamarsh, J.R., Introduction to Nuclear Engineering, Addison-Wesley Publishing, Reading, Massachusetts, 1983. § 7.2, p. 300; Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3, pp. 3-13 — 3-18."
+      },
+      {
+        "answer": "c. Addition of 238U",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Lamarsh, J.R., Introduction to Nuclear Engineering, Addison-Wesley Publishing, Reading, Massachusetts, 1983. § 7.2, p. 300; Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3, pp. 3-13 — 3-18."
+      },
+      {
+        "answer": "d. Removal of a control rod.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Lamarsh, J.R., Introduction to Nuclear Engineering, Addison-Wesley Publishing, Reading, Massachusetts, 1983. § 7.2, p. 300; Burn, R., Introduction to Nuclear Reactor Operations, © 1982, § 3.3, pp. 3-13 — 3-18."
+      }
+    ]
+  },
+  {
+    "question": "A.5 [1.0 point] (1.0) With the reactor on a constant period, which transient requires the longest time to occur? A reactor power change of:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5% power -- going from 1% to 6% pwr",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.18, p. 234."
+      },
+      {
+        "answer": "b. 10% power -- going from 10% to 20% pwr",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.18, p. 234."
+      },
+      {
+        "answer": "c. 15% power -- going from 20% to 35% pwr",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.18, p. 234."
+      },
+      {
+        "answer": "d. 20% power -- going from 40% to 60% pwr",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.18, p. 234."
+      }
+    ]
+  },
+  {
+    "question": "A.6 [1.0 point] (1.0) What is the stable Reactor period which produces a power rise from 1 watt to 5 KW in 186 secs?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 10 secs.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.18, p. 234."
+      },
+      {
+        "answer": "b. 22 secs.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.18, p. 234."
+      },
+      {
+        "answer": "c. 30 secs.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.18, p. 234."
+      },
+      {
+        "answer": "d. 116 secs.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.18, p. 234."
+      }
+    ]
+  },
+  {
+    "question": "A.7 [1.0 point] (1.0) During a fuel loading, as the reactor approaches criticality, the value of 1/M:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. decreases toward zero",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 3.161 — 3,163, pp. 190 & 191"
+      },
+      {
+        "answer": "b. decreases toward one",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 3.161 — 3,163, pp. 190 & 191"
+      },
+      {
+        "answer": "c. increases toward infinity",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 3.161 — 3,163, pp. 190 & 191"
+      },
+      {
+        "answer": "d. increases toward one",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 3.161 — 3,163, pp. 190 & 191"
+      }
+    ]
+  },
+  {
+    "question": "A.8 [1.0 point] (1.0) Which ONE of the following is the reason for the 80 second period following a reactor scram?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. U-235 affinity for source neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.47, p. 246."
+      },
+      {
+        "answer": "b. Fuel temp. coefficient adding positive reactivity.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.47, p. 246."
+      },
+      {
+        "answer": "c. Longest lived delayed neutron precursors decay constant.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.47, p. 246."
+      },
+      {
+        "answer": "d. Amount of negative reactivity added on a scram exceeds the shutdown margin.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.47, p. 246."
+      }
+    ]
+  },
+  {
+    "question": "A.9 [1.0 point] (1.0) Which ONE of the following statements describes Count Rate characteristics after a control rod withdrawal with the reactor subcritical? (Assume the reactor remains subcritical.)",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Count rate will rapidly increase (prompt jump) then gradually increase to a stable value.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.31, p. 240."
+      },
+      {
+        "answer": "b. Count rate will rapidly increase (prompt jump) then gradually decrease to the previous value.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.31, p. 240."
+      },
+      {
+        "answer": "c. Count rate will rapidly increase (prompt jump) to a stable value.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.31, p. 240."
+      },
+      {
+        "answer": "d. There will be no change in Count rate until criticality is achieved.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.31, p. 240."
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1.0 point] (1.0) In a subcritical reactor, Keff is increased from 0.861 to 0.946. Which ONE of the following is the amount of reactivity that was added to the core?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.085 delta-K/K",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 3.44, p. 149 & § 5.9, p. 231."
+      },
+      {
+        "answer": "b. 0.220 delta-K/K",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 3.44, p. 149 & § 5.9, p. 231."
+      },
+      {
+        "answer": "c. 0.104 delta-K/K",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 3.44, p. 149 & § 5.9, p. 231."
+      },
+      {
+        "answer": "d. 0.125 delta-K/K",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 3.44, p. 149 & § 5.9, p. 231."
+      }
+    ]
+  },
+  {
+    "question": "A.11 [1.0 point] (1.0) Which one of the following describes \"Excess Reactivity\"?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. A measure of the additional fuel loaded to overcome fission product poisoning.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.198, p. 300."
+      },
+      {
+        "answer": "b. A measure of remaining control rod worth with the reactor exactly critical.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.198, p. 300."
+      },
+      {
+        "answer": "c. The combined control rod negative reactivity worth required to keep the reactor shutdown.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.198, p. 300."
+      },
+      {
+        "answer": "d. The maximum reactivity by which the reactor can be shutdown with one control rod fully withdrawn.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.198, p. 300."
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1.0 point] (1.0) Which ONE of the following is a correct statement concerning the factors affecting control rod worth?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fuel burn up causes the rod worth for periphery rods to decrease.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 5.224 — 5.229, pp. 306 — 307."
+      },
+      {
+        "answer": "b. Fuel burn up causes the rod worth to increase in the center of the core.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 5.224 — 5.229, pp. 306 — 307."
+      },
+      {
+        "answer": "c. The withdrawal of a rod causes the rod worth of the remaining inserted rods to increase.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 5.224 — 5.229, pp. 306 — 307."
+      },
+      {
+        "answer": "d. As Reactor power increases rod worth increases.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 5.224 — 5.229, pp. 306 — 307."
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1.0 point] (1.0) The Reactor is shutdown by 5% delta-K/K with a count rate of 100 cps on the start up channel. Rods are withdrawn until the count rate is 1000 cps. Which ONE of the following is the condition of the reactor after the rods are withdrawn?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Critical with Keff = 1.0",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 3.161 — 3.163, pp. 190 — 191."
+      },
+      {
+        "answer": "b. Subcritical with Keff = 0.995",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 3.161 — 3.163, pp. 190 — 191."
+      },
+      {
+        "answer": "c. Subcritical with Keff = 0.950",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 3.161 — 3.163, pp. 190 — 191."
+      },
+      {
+        "answer": "d. Supercritical with Keff = 1.005",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 3.161 — 3.163, pp. 190 — 191."
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1.0 point] (1.0) Assume the following rod worths: Safety $4.25, Shim $4.05, Reg. $1.75, and Core excess is $2.5. Calculate the Shutdown Reactivity to satisfy the T.S. Minimum Shutdown Margin.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. $3.3",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: T.S. Section F.3; Reed Requal. Exam 88-89"
+      },
+      {
+        "answer": "b. $3.5",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: T.S. Section F.3; Reed Requal. Exam 88-89"
+      },
+      {
+        "answer": "c. $6.1",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: T.S. Section F.3; Reed Requal. Exam 88-89"
+      },
+      {
+        "answer": "d. $7.5",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: T.S. Section F.3; Reed Requal. Exam 88-89"
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1.0 point] (1.0) The Reed College Triga Reactor is slightly undermoderated. Which one of the following statements correctly describes the reactor operating characteristic of \"Undermoderated\"?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. A decrease in core water temperature will cause a negative reactivity response.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 7.131 — 7.155, pp. 465 — 472."
+      },
+      {
+        "answer": "b. Reducing the amount of moderation will cause a positive reactivity response.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 7.131 — 7.155, pp. 465 — 472."
+      },
+      {
+        "answer": "c. An increase in core water temperature will cause a positive reactivity response.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 7.131 — 7.155, pp. 465 — 472."
+      },
+      {
+        "answer": "d. A decrease in core water density will cause a negative reactivity response.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 7.131 — 7.155, pp. 465 — 472."
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1.0 point] (1.0) In a just critical reactor, removing one dollar worth of positive reactivity will cause:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The resultant period to be a function of the prompt neutron lifetime.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.51, p. 248."
+      },
+      {
+        "answer": "b. The prompt neutron term to become unimportant",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.51, p. 248."
+      },
+      {
+        "answer": "c. The reactor period to be equal to  (-)",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.51, p. 248."
+      },
+      {
+        "answer": "d. A sudden drop in neutron flux.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, § 5.51, p. 248."
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1.0 point] (1.0) Which statement illustrates a characteristic of Subcritical Multiplication?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. As Keff approaches unity (1), for the same increase in Keff, a greater increase in neutron population occurs.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 3.161 — 3.163, pp. 190 — 191."
+      },
+      {
+        "answer": "b. The number of neutrons gained per generation gets larger for each succeeding generation.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 3.161 — 3.163, pp. 190 — 191."
+      },
+      {
+        "answer": "c. The number of fission neutrons remain constant for each generation.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 3.161 — 3.163, pp. 190 — 191."
+      },
+      {
+        "answer": "d. The number of source neutrons decreases for each generation.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 3.161 — 3.163, pp. 190 — 191."
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1.0 point] (1.0) Which statement best describes the heat transfer mechanism at the Reed College Reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. From the fuel center line, heat is transferred to the surface of the fuel rod by convection and is carried into the coolant by conduction.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reed Requal Exam 1990"
+      },
+      {
+        "answer": "b. Heat is transmitted to the fuel rod surface by thermal radiation and carried to the coolant by conduction.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reed Requal Exam 1990"
+      },
+      {
+        "answer": "c. Heat conducted to the surface of a fuel rod is carried into the coolant and out of the system by convection.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reed Requal Exam 1990"
+      },
+      {
+        "answer": "d. The temperature distribution from the fuel center line to the coolant is linear.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reed Requal Exam 1990"
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1.0 point] (1.0) Which statement best describes Xe-135 behavior following a Reactor Scram?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Xenon concentration decreases due to production rate from fission stops.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 5.56 — 5.80, pp. 250 — 260."
+      },
+      {
+        "answer": "b. Xenon concentration decreases due to production rate from I-135 decay increasing.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 5.56 — 5.80, pp. 250 — 260."
+      },
+      {
+        "answer": "c. Xenon concentration increases due to production rate from Pm-149 increasing.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 5.56 — 5.80, pp. 250 — 260."
+      },
+      {
+        "answer": "d. Xenon concentration increases due to I-135 decay exceeding Xe-135 decay.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 5.56 — 5.80, pp. 250 — 260."
+      }
+    ]
+  },
+  {
+    "question": "A.20 [1.0 point] (1.0) The reactor was shutdown after an extended two week, high power, run at 200 kw to irradiate a specimen. How long will it take for the MAXIMUM Xenon poison effect to occur?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 30 minutes.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 5.56 — 5.80, pp. 250 — 260."
+      },
+      {
+        "answer": "b. 8 to 12 hours.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 5.56 — 5.80, pp. 250 — 260."
+      },
+      {
+        "answer": "c. 35 to 45 hours.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 5.56 — 5.80, pp. 250 — 260."
+      },
+      {
+        "answer": "d. 1 to 3 hours.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Glasstone, S. and Sesonske, A, Nuclear Reactor Engineering, Kreiger Publishing, Malabar, Florida, 1991, §§ 5.56 — 5.80, pp. 250 — 260."
+      }
+    ]
+  }
+]
