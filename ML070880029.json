@@ -1,0 +1,542 @@
+[
+    {
+        "question": "Core excess reactivity (\u03c1ex) changes with \u2026",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "fuel element burnup",
+                "correct": true,
+                "feedback": "Reactor Training Manual - Core Excess and Shutdown Margin."
+            },
+            {
+                "answer": "control rod height",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "neutron energy level",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "reactor power level",
+                "correct": false,
+                "feedback": ""
+            }
+        ],
+        "question_number": 1
+    },
+    {
+        "question": "Which ONE of the following is the definition of the term 'Cross-Section?'",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The probability that a neutron will be captured by a nucleus.",
+                "correct": true,
+                "feedback": "Reactor Training Manual - Cross Section."
+            },
+            {
+                "answer": "The most likely energy at which a charge particle will be captured.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "The length a charged particle travels past the nucleus before being captured.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "The area of the nucleus including the electron cloud.",
+                "correct": false,
+                "feedback": ""
+            }
+        ],
+        "question_number": 2
+    },
+    {
+        "question": "A reactor startup is in progress. Each control rod withdrawal is inserting exactly EQUAL amounts of reactivity. Select the EXPECTED neutron population and count rate response as 'Keff' approaches 1.0.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "SMALLER, and it takes LESS time to reach a new equilibrium count rate",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "LARGER, and it takes LESS time to reach a new equilibrium count rate.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "SMALLER, and it takes MORE time to reach a new equilibrium count rate.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "LARGER, and it takes MORE time to reach a new equilibrium count rate.",
+                "correct": true,
+                "feedback": "Reactor Training Manual - Introduction To Nuclear Physics."
+            }
+        ],
+        "question_number": 3
+    },
+    {
+        "question": "One of the conservative features of the NSCR:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Stems from the advantage of a deep reactor pool and therefore colder water.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Can be observed that as the reactor ages its pulsing power peaks are reduced.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Is the presence of Erbium -167 which acts as a resonant neutron absorber.",
+                "correct": true,
+                "feedback": "NSCR SAR, CHAP II, IV."
+            },
+            {
+                "answer": "Is that peak axial power in core is near the bottom where water is the coldest.",
+                "correct": false,
+                "feedback": ""
+            }
+        ],
+        "question_number": 4
+    },
+    {
+        "question": "The term 'reactivity' may be described as \u2026",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "A measure of the core\u2019s fuel depletion.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Negative when Keff is greater than 1.0.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "A measure of the core\u2019s deviation from criticality.",
+                "correct": true,
+                "feedback": "Reactor Training Manual - Reactivity."
+            },
+            {
+                "answer": "Equal to $.50 when the reactor is prompt critical.",
+                "correct": false,
+                "feedback": ""
+            }
+        ],
+        "question_number": 5
+    },
+    {
+        "question": "During a startup you increase reactor power from 100 watts to 195 watts in a minute. What is the reactor period?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "30 seconds",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "60 seconds",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "90 seconds",
+                "correct": true,
+                "feedback": "P = P0 e^(t/\u03c4) \u2192 \u03c4 = t/ln(P/P0) = 60/ln(1.95) = 90 sec."
+            },
+            {
+                "answer": "120 seconds",
+                "correct": false,
+                "feedback": ""
+            }
+        ],
+        "question_number": 6
+    },
+    {
+        "question": "The reactor has just been started up and has been at 100% power for 3 hours. The Reactor Operator notes that several small control rod withdrawals are required to maintain power at 100%. What is the reason for this?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Fuel temperatures are decreasing.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Xenon is building in to equilibrium concentration.",
+                "correct": true,
+                "feedback": "Reactor Training Manual - Reactor Physics and Kinetics."
+            },
+            {
+                "answer": "Pool water temperatures are decreasing.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Samarium is burning out from equilibrium concentration.",
+                "correct": false,
+                "feedback": ""
+            }
+        ],
+        "question_number": 7
+    },
+    {
+        "question": "Which ONE of the following incidents should be classified as a 'Notification of Unusual Event'?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Reactor pool level decreasing at a rate exceeding makeup capacity.",
+                "correct": true,
+                "feedback": "Emergency Classification Guide."
+            },
+            {
+                "answer": "Stack gas monitor (Channel 3) is alarming.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Report of a tornado which could strike the facility.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Personnel injury with radiological complications.",
+                "correct": false,
+                "feedback": ""
+            }
+        ],
+        "question_number": 8
+    },
+    {
+        "question": "Identify the PRINCIPAL source of heat in the reactor after shutdown.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Stored energy from the reactor and core materials.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Spontaneous fission within the core.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Decay of fission products.",
+                "correct": true,
+                "feedback": "LaMarsh, pgs 318-320."
+            },
+            {
+                "answer": "Cosmic radiation causing fission.",
+                "correct": false,
+                "feedback": ""
+            }
+        ],
+        "question_number": 9
+    },
+    {
+        "question": "A small radioactive source is to be stored in the reactor building. The source reads 2 R/hr at 1 foot. Assuming no shielding is to be used, a Radiation Area barrier would have to be erected from the source at least a distance of approximately:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "400 feet",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "40 feet",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "20 feet",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "10 feet",
+                "correct": true,
+                "feedback": ""
+            }
+        ],
+        "question_number": 10
+    },
+    {
+        "question_number": 11,
+        "question": "Which ONE of the following is the 10 CFR 20 definition of TOTAL EFFECTIVE DOSE EQUIVALENT (TEDE)?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The sum of the deep dose equivalent and the committed effective dose equivalent.",
+                "correct": true,
+                "feedback": "10 CFR 20.1003 Definitions."
+            },
+            {
+                "answer": "The dose that your whole body receives from sources outside the body.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "The sum of the external deep dose and the organ dose.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "The dose to a specific organ or tissue resulting from an intake of radioactive material.",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 12,
+        "question": "Prior to startup of the reactor there:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Must be a licensed member of management available.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Has to be a safety system Channel Test on record.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Must be a Senior HP or his designated representative in the facility.",
+                "correct": true,
+                "feedback": "SOP II, REACTOR OPERATIONS, C.1."
+            },
+            {
+                "answer": "Will be signatures of all required persons in the Reactor Startup log.",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 13,
+        "question": "A reactor scram has occurred from an initial shim-safety rod position of 50.0%. Which one of the following correctly describes the indications for shim-safety rod #3 immediately following the scram? Assume no operator action.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "ENGAGED light off, ROD DOWN light energized, CARR DOWN light off, digital indication 0.0%.",
+                "correct": true,
+                "feedback": "SAR, pp. 26-29."
+            },
+            {
+                "answer": "ENGAGED light off, ROD DOWN light energized, CARR DOWN light energized, digital indication 50.0%.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "ENGAGED light off, ROD DOWN light energized, CARR DOWN light off, digital indication 50.0%.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "ENGAGED light energized, ROD DOWN light off, CARR DOWN light off, digital indication 0.0%.",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 14,
+        "question": "Which ONE of the following alarms requires the air handlers to be shut down as part of immediate action?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Stack particulate monitor",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Stack gas monitor",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Building particulate monitor",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Building gas monitor",
+                "correct": true,
+                "feedback": "SOP VII-A4.c.2."
+            }
+        ]
+    },
+    {
+        "question_number": 15,
+        "question": "Thermocouples in the instrumented fuel element measure temperature at the:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Interior surface of the cladding.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Center of the zirconium rod.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Outer surface of the fuel.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Interior of the fuel.",
+                "correct": true,
+                "feedback": "SAR, p 18."
+            }
+        ]
+    },
+    {
+        "question_number": 16,
+        "question": "Which ONE of the following reactor safety system channels is required to be operable in BOTH the steady state and pulse modes of operation?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Low Power Interlock",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Log Power 1 KW Interlock",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Detector Power Supply Failure",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Fuel Element Temperature",
+                "correct": true,
+                "feedback": "TS 3.2.2, Table 1."
+            }
+        ]
+    },
+    {
+        "question_number": 17,
+        "question": "Which one of the following incidents should be classified as a 'Notification of Unusual Event'?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Reactor pool level decreasing at a rate exceeding makeup capacity.",
+                "correct": true,
+                "feedback": "Emergency Classification Guide."
+            },
+            {
+                "answer": "Stack gas monitor (Channel 3) is alarming.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Report of a tornado which could strike the facility.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Personnel injury with radiological complications.",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 18,
+        "question": "Which ONE of the following is a duty of the Reactor Operator (RO) during an emergency which requires a facility evacuation?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Verify that rope barriers are in place in the reception room.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Verify all persons are accounted for.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Verify all doors to the reactor building are closed.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Shutdown building air handling and exhaust systems.",
+                "correct": true,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 19,
+        "question": "Mechanical stops prevent inadvertent movement of the NSCR closer than _____ from the irradiation cell window.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "12 ft",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "8 ft",
+                "correct": true,
+                "feedback": "SOP IV-E; SAR pg. 87."
+            },
+            {
+                "answer": "18 inches",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "3 inches",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 20,
+        "question": "According to SOP II-C, 'Reactor Startup,' which one of the following anticipated power levels would require placing the diffuser system in operation?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "5 Kw",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "10 Kw",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "100 Kw",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "500 Kw",
+                "correct": true,
+                "feedback": "SOP II-C, p. 2."
+            }
+        ]
+    }
+]

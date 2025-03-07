@@ -1,0 +1,682 @@
+[
+    {
+        "question_number": 1,
+        "question": "The listed isotopes are all potential daughter products due to the radioactive decay of 35Br87. Identify the type of decay necessary [Alpha (\u03b1), Beta plus (\u03b2+), Beta minus (\u03b2-), Gamma (\u03b3) or Neutron (\u03bd) emission] to produce each of the isotopes.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "33As83",
+                "correct": true,
+                "feedback": "Requires Beta plus (\u03b2+) decay."
+            },
+            {
+                "answer": "35Br86",
+                "correct": false,
+                "feedback": "Requires Neutron (\u03bd) emission."
+            },
+            {
+                "answer": "35Br87",
+                "correct": false,
+                "feedback": "Stable isotope, no decay required."
+            },
+            {
+                "answer": "36Kr87",
+                "correct": false,
+                "feedback": "Requires Beta minus (\u03b2-) decay."
+            },
+            {
+                "answer": "34Se87",
+                "correct": false,
+                "feedback": "Requires Beta minus (\u03b2-) decay."
+            }
+        ]
+    },
+    {
+        "question_number": 2,
+        "question": "What is the kinetic energy range of a thermal neutron?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "> 1 MeV",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "100 KeV \u2013 1 MeV",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "1 eV \u2013 100 KeV",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "< 1 eV",
+                "correct": true,
+                "feedback": "Thermal neutrons have kinetic energy below 1 eV."
+            }
+        ]
+    },
+    {
+        "question_number": 3,
+        "question": "During a reactor startup, criticality occurred at a lower rod height than the last startup. Which ONE of the following reasons could be the cause?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Adding an experiment with positive reactivity.",
+                "correct": true,
+                "feedback": "Additional reactivity results in an earlier criticality."
+            },
+            {
+                "answer": "Xe135 peaked.",
+                "correct": false,
+                "feedback": "Xenon-135 buildup would suppress reactivity."
+            },
+            {
+                "answer": "Moderator temperature increased.",
+                "correct": false,
+                "feedback": "Higher temperature reduces moderation efficiency."
+            },
+            {
+                "answer": "Maintenance on the control rods resulted in a slightly faster rod speed.",
+                "correct": false,
+                "feedback": "Rod speed does not affect critical height."
+            }
+        ]
+    },
+    {
+        "question_number": 4,
+        "question": "You are increasing reactor power on a steady +26 second period. How long will it take to increase power by a factor of 1000?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "60 seconds (1 minute)",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "180 seconds (3 minutes)",
+                "correct": true,
+                "feedback": "ln(1000) \u00d7 26 = 180 seconds."
+            },
+            {
+                "answer": "300 seconds (5 minutes)",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "480 seconds (8 minutes)",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 5,
+        "question": "Which ONE of the following statements is the definition of REACTIVITY?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "A measure of the core's fuel depletion.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "A measure of the core's deviation from criticality.",
+                "correct": true,
+                "feedback": "Reactivity measures the deviation from criticality (Keff = 1)."
+            },
+            {
+                "answer": "Equal to 1.00 \u0394K/K when the reactor is critical.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Equal to 1.00 \u0394K/K when the reactor is prompt critical.",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 6,
+        "question": "Shown below is a trace of reactor period as a function of time. Between points A and B reactor power is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Continually increasing.",
+                "correct": true,
+                "feedback": "The power is increasing based on reactor kinetics."
+            },
+            {
+                "answer": "Continually decreasing.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Increasing, then decreasing.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Constant.",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 7,
+        "question": "The reactor has been shut down for 2 weeks. You start up the reactor and raise power to 1 Megawatt. Which ONE of the following correctly describes the movement of the regulating rod for the next three hours?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Rods will drive in.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Rods will drive out.",
+                "correct": true,
+                "feedback": "As Xenon-135 builds up, reactivity is reduced, requiring rods to be withdrawn."
+            },
+            {
+                "answer": "Rods will initially drive out then start driving back in.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Rods will initially drive in then start driving back out.",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 8,
+        "question": "Given an average rod reactivity worth of 0.1%/inch, and \u03b1Tprompt of -0.005%\u0394k/\u00b0C. If fuel temperature were to increase by 150\u00b0C, how far and in what direction would you have to move the rod to compensate?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "7.5 inches, inward",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "0.75 inches, inward",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "7.5 inches, outward",
+                "correct": true,
+                "feedback": "(-0.005%/\u00b0C \u00d7 150\u00b0C) / (0.1%/inch) = 7.5 inches outward."
+            },
+            {
+                "answer": "0.75 inches, outward",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 9,
+        "question": "Which ONE of the following is the definition of the term 'Cross-Section?'",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The probability that a neutron will be captured by a nucleus.",
+                "correct": true,
+                "feedback": "Cross-section represents the likelihood of a nuclear reaction."
+            },
+            {
+                "answer": "The most likely energy at which a charged particle will be captured.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "The length a charged particle travels past the nucleus before being captured.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "The area of the nucleus including the electron cloud.",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 10,
+        "question": "Given the data in the table to the right, which ONE of the following is the closest to the half-life of the material?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "11 minutes",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "22 minutes",
+                "correct": true,
+                "feedback": "Using the decay formula, the half-life is calculated as 22 minutes."
+            },
+            {
+                "answer": "44 minutes",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "51 minutes",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 11,
+        "question": "Which ONE of the following describes the characteristics of good moderators and reflectors?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "High scattering cross-section and low absorption cross-section.",
+                "correct": true,
+                "feedback": "Good moderators and reflectors must scatter neutrons effectively without absorbing them."
+            },
+            {
+                "answer": "Low scattering cross-section and high absorption cross-section.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Low scattering cross-section and low absorption cross-section.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "High scattering cross-section and high absorption cross-section.",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 12,
+        "question": "During a fuel loading of the core, as the reactor approaches criticality, the value of 1/M:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Increases toward one",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Decreases toward one",
+                "correct": true,
+                "feedback": "The 1/M method is used to approach criticality, where 1/M approaches 1 as criticality is reached."
+            },
+            {
+                "answer": "Increases toward infinity",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Decreases toward zero",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 13,
+        "question": "The term 'prompt critical' refers to:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The instantaneous jump in power due to a rod withdrawal",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "A reactor which is supercritical using only prompt neutrons",
+                "correct": true,
+                "feedback": "Prompt criticality occurs when the reactor is critical without relying on delayed neutrons."
+            },
+            {
+                "answer": "A reactor which is critical using both prompt and delayed neutrons",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "A reactivity insertion which is less than \u03b2_eff",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 14,
+        "question": "The 200 MeV worth of energy released by fission is split between the four products listed below. Which ONE of the following is not recoverable (lost to the environment)?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Prompt gamma rays",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Kinetic Energy of the Fission fragments",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Neutrinos",
+                "correct": true,
+                "feedback": "Neutrinos escape with their energy and are not recoverable."
+            },
+            {
+                "answer": "Kinetic Energy of the Fission neutrons",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 15,
+        "question": "The reactor supervisor tells you that the Keff for the reactor is 0.955. How much reactivity must you add to the reactor to reach criticality?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "+0.0471",
+                "correct": true,
+                "feedback": "\u0394\u03c1 = (Keff_target - Keff_current) / (Keff_target * Keff_current)."
+            },
+            {
+                "answer": "+0.0450",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "-0.0471",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "-0.0450",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 11,
+        "question": "Which ONE of the following describes the characteristics of good moderators and reflectors?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "High scattering cross-section and low absorption cross-section.",
+                "correct": true,
+                "feedback": "Good moderators efficiently slow down neutrons without absorbing them."
+            },
+            {
+                "answer": "Low scattering cross-section and high absorption cross-section.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Low scattering cross-section and low absorption cross-section.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "High scattering cross-section and high absorption cross-section.",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 12,
+        "question": "During a fuel loading of the core, as the reactor approaches criticality, the value of 1/M:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Increases toward one.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Decreases toward one.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Increases toward infinity.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Decreases toward zero.",
+                "correct": true,
+                "feedback": "1/M approaches zero as criticality is approached."
+            }
+        ]
+    },
+    {
+        "question_number": 13,
+        "question": "The term prompt critical refers to:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The instantaneous jump in power due to a rod withdrawal.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "A reactor which is supercritical using only prompt neutrons.",
+                "correct": true,
+                "feedback": "Prompt criticality occurs when prompt neutrons alone sustain the chain reaction."
+            },
+            {
+                "answer": "A reactor which is critical using both prompt and delayed neutrons.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "A reactivity insertion which is less than \u03b2eff.",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 14,
+        "question": "The 200 MeV worth of energy released by fission is split between the four products listed below. Which ONE of the following is not recoverable (lost to the environment)?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Prompt gamma rays",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Kinetic Energy of the Fission fragments",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Neutrinos",
+                "correct": true,
+                "feedback": "Neutrinos carry away energy without interacting significantly."
+            },
+            {
+                "answer": "Kinetic Energy of the Fission neutrons",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 15,
+        "question": "The reactor supervisor tells you that the Keff for the reactor is 0.955. How much reactivity must you add to the reactor to reach criticality?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "+0.0471",
+                "correct": true,
+                "feedback": "\u0394\u03c1 = (1 - Keff) / (Keff * 1) = (1 - 0.955) / 0.955 = 0.0471."
+            },
+            {
+                "answer": "+0.0450",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "-0.0471",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "-0.0450",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 16,
+        "question": "You note that 1 cm of a material (used as a shield) reduces the radiation level from a given source by a factor of 2. If you add another nine cm of the material (for a total of 10 cm), you would expect the radiation level to be reduced by a factor of approximately ____ over no shielding.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "20",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "100",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "200",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "1,000",
+                "correct": true,
+                "feedback": "Each additional cm reduces radiation by half. 2^10 = 1,024, approximately 1,000."
+            }
+        ]
+    },
+    {
+        "question_number": 17,
+        "question": "While working on an experiment, you receive the following radiation doses: 100 mrem (\u03b2), 25 mrem (\u03b3), and 5 mrem (thermal neutrons). What is your total dose?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "175 mrem",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "155 mrem",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "145 mrem",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "130 mrem",
+                "correct": true,
+                "feedback": "Total dose is the sum of all contributions: 100 + 25 + 5 = 130 mrem."
+            }
+        ]
+    },
+    {
+        "question_number": 18,
+        "question": "The CURIE content of a radioactive source is a measure of:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The number of radioactive atoms in the source.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "The amount of energy emitted per unit time by the source.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "The amount of damage to soft body tissue per unit time.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "The number of nuclear disintegrations per unit time.",
+                "correct": true,
+                "feedback": "Curie (Ci) measures the disintegration rate of a radioactive source."
+            }
+        ]
+    },
+    {
+        "question_number": 19,
+        "question": "The Emergency Plan defines 'Emergency Planning Zone (EPZ)' as \u2026",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The reactor room (Lab 51-A of the 1602 Building).",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "The area within a 100-meter radius of the reactor core centerline.",
+                "correct": true,
+                "feedback": "Emergency Planning Zone (EPZ) extends 100 meters from the core."
+            },
+            {
+                "answer": "The Dow Chemical campus.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "The area within a one-mile radius of the Dow Chemical Research Reactor.",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    },
+    {
+        "question_number": 20,
+        "question": "Which ONE of the following conditions is a violation of DOW technical specifications \u00a7 3.4, Coolant System Specifications?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Conductivity of the pool water is 2 \u00b5mhos/cm averaged over one month.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Pool water pH is 5.7.",
+                "correct": false,
+                "feedback": ""
+            },
+            {
+                "answer": "Radioactivity in the pool water is 0.2 \u00b5Ci/ml.",
+                "correct": true,
+                "feedback": "This value exceeds allowed radioactivity limits in coolant water."
+            },
+            {
+                "answer": "Bulk temperature of the coolant is 45\u00b0C during reactor operation.",
+                "correct": false,
+                "feedback": ""
+            }
+        ]
+    }
+]
