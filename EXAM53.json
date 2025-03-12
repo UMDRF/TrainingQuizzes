@@ -1,0 +1,140 @@
+[
+  {
+    "question": "A.01 [1.0 point] Which ONE of the following best describes the importance of a negative temperature coefficient of reactivity?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. An increase in reactor power causes an increase in fuel burnup which results in a positive reactivity addition, causing the power increase to slow or stop.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics & Reactor Theory, Volume 2, Module 3, p. 28"
+      },
+      {
+        "answer": "b. An increase in reactor power causes an increase in fuel temperature which results in a negative reactivity addition, causing the power increase to slow or stop.",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics & Reactor Theory, Volume 2, Module 3, p. 28"
+      },
+      {
+        "answer": "c. An increase in reactor power causes an increase in fuel temperature which results in a positive reactivity addition, causing the power increase to slow or stop.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics & Reactor Theory, Volume 2, Module 3, p. 28"
+      },
+      {
+        "answer": "d. An increase in reactor power causes an increase in fuel burnup which results in a negative reactivity addition, causing the power increase to slow or stop.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics & Reactor Theory, Volume 2, Module 3, p. 28"
+      }
+    ]
+  },
+  {
+    "question": "A.02 [1.0 point] The moderator temperature coefficient for a reactor is 0.00124 ∆k/k/oC. What is the total reactivity change caused by a temperature decrease of 40oC?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.007",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics & Reactor Theory, Volume 2, p. 21, ∆ρ = αT*∆T = (0.00124 ∆k/k /oC) * (40oC) = 0.050∆k/k"
+      },
+      {
+        "answer": "b. 0.030",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics & Reactor Theory, Volume 2, p. 21, ∆ρ = αT*∆T = (0.00124 ∆k/k /oC) * (40oC) = 0.050∆k/k"
+      },
+      {
+        "answer": "c. 0.042",
+        "correct": false,
+        "feedback": "Incorrect. Reference: DOE Fundamentals Handbook, Nuclear Physics & Reactor Theory, Volume 2, p. 21, ∆ρ = αT*∆T = (0.00124 ∆k/k /oC) * (40oC) = 0.050∆k/k"
+      },
+      {
+        "answer": "d. 0.050",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics & Reactor Theory, Volume 2, p. 21, ∆ρ = αT*∆T = (0.00124 ∆k/k /oC) * (40oC) = 0.050∆k/k"
+      }
+    ]
+  },
+  {
+    "question": "A.03 [1.0 point, 0.25 each] Match the following statements in Column A with the result in Column B to complete the following statements. Answers in Column B may be used once, more than once, or not at all. (Assume fuel temperature unchanged) As moderator temperature increases, [Column A] [Column B].",
+    "type": "matching",
+    "answers": [
+      {
+        "columnA": "a. Resonance escape probability",
+        "columnB": "2. Decreases",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, p. 16"
+      },
+      {
+        "columnA": "b. Thermal non-leakage probability",
+        "columnB": "2. Decreases",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, p. 16"
+      },
+      {
+        "columnA": "c. Fast non-leakage probability",
+        "columnB": "2. Decreases",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, p. 16"
+      },
+      {
+        "columnA": "d. Thermal utilization factor",
+        "columnB": "1. Increases",
+        "correct": true,
+        "feedback": "Correct. Reference: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, p. 16"
+      }
+    ]
+  },
+  {
+    "question": "A.04 [1.0 point] Which ONE of the following is the definition of reactivity?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Rate of change of reactor power in neutron per second.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, Section 1.3.1, p. 1-5"
+      },
+      {
+        "answer": "b. Fractional change in neutron population per generation.",
+        "correct": true,
+        "feedback": "Correct. Reference: Burn, Introduction to Nuclear Reactor Operations, Section 1.3.1, p. 1-5"
+      },
+      {
+        "answer": "c. Number of neutrons by which population changes per generation.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, Section 1.3.1, p. 1-5"
+      },
+      {
+        "answer": "d. Change in the number of neutrons per second that causes a fission event.",
+        "correct": false,
+        "feedback": "Incorrect. Reference: Burn, Introduction to Nuclear Reactor Operations, Section 1.3.1, p. 1-5"
+      }
+    ]
+  },
+  {
+    "question": "A.05 [1.0 point, 0.25 each] Replace “X” with the type of decay necessary (Alpha, Beta, Gamma or Neutron emission) to produce the following reactions. Choices may be used once, more than once, or not at all.",
+    "type": "matching",
+    "answers": [
+      {
+        "columnA": "a. 92U238  90Th234 + X",
+        "columnB": "alpha",
+        "correct": true,
+        "feedback": "Correct. Reference: NRC standard question"
+      },
+      {
+        "columnA": "b. 83Bi203  82Pb203 + X",
+        "columnB": "Beta (+1 β0)",
+        "correct": true,
+        "feedback": "Correct. Reference: NRC standard question"
+      },
+      {
+        "columnA": "c. 2He4 + 4Be9  6C12 + X",
+        "columnB": "neutron",
+        "correct": true,
+        "feedback": "Correct. Reference: NRC standard question"
+      },
+      {
+        "columnA": "d. 84Po210  82Pb206 + X",
+        "columnB": "alpha",
+        "correct": true,
+        "feedback": "Correct. Reference: NRC standard question"
+      }
+    ]
+  }
+]
