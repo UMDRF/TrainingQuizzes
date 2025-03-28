@@ -1,0 +1,522 @@
+[
+    {
+        "question": "A.01 [1.0 point] If 0.156% Δk/k of positive reactivity is suddenly introduced into a stable power of 100 W, what will be the steady period that is obtained? Assume the effective prompt neutron lifetime is 10^-4 seconds, the effective delayed neutron decay constant is 0.1 s^-1, and the effective delayed neutron fraction is 0.0078.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 10 seconds",
+                "correct": false,
+                "feedback": "Incorrect. The correct period is calculated using the in-hour equation: T = (β - ρ) / (λ_eff * ρ), resulting in 40 seconds."
+            },
+            {
+                "answer": "b. 29 seconds",
+                "correct": false,
+                "feedback": "Incorrect. The correct period is calculated using the in-hour equation: T = (β - ρ) / (λ_eff * ρ), resulting in 40 seconds."
+            },
+            {
+                "answer": "c. 40 seconds",
+                "correct": true,
+                "feedback": "Correct. Using the in-hour equation: T = (0.0078 - 0.00156) / (0.1 * 0.00156) = 40 seconds."
+            },
+            {
+                "answer": "d. 80 seconds",
+                "correct": false,
+                "feedback": "Incorrect. The correct period is calculated using the in-hour equation: T = (β - ρ) / (λ_eff * ρ), resulting in 40 seconds."
+            }
+        ]
+    },
+    {
+        "question": "A.02 [1.0 point] Which ONE of the following isotopes has the HIGHEST thermal neutron cross section?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Cd-112",
+                "correct": false,
+                "feedback": "Incorrect. Xe-135 has the highest thermal neutron cross section among the options."
+            },
+            {
+                "answer": "b. Sm-149",
+                "correct": false,
+                "feedback": "Incorrect. Xe-135 has the highest thermal neutron cross section among the options."
+            },
+            {
+                "answer": "c. Xe-135",
+                "correct": true,
+                "feedback": "Correct. Xe-135 is known for having an extremely high thermal neutron cross section (approximately 2.65 million barns)."
+            },
+            {
+                "answer": "d. U-238",
+                "correct": false,
+                "feedback": "Incorrect. Xe-135 has the highest thermal neutron cross section among the options."
+            }
+        ]
+    },
+    {
+        "question": "A.03 [1.0 point] Which ONE of the following is the stable reactor period which will result in a power rise from 1% to 100% power in 1 minute?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.2 seconds",
+                "correct": false,
+                "feedback": "Incorrect. The period is calculated using P = P0 * e^(t/T), resulting in approximately 13 seconds."
+            },
+            {
+                "answer": "b. 2 seconds",
+                "correct": false,
+                "feedback": "Incorrect. The period is calculated using P = P0 * e^(t/T), resulting in approximately 13 seconds."
+            },
+            {
+                "answer": "c. 13 seconds",
+                "correct": true,
+                "feedback": "Correct. For a power increase from 1% to 100% (factor of 100) in 60 seconds, T = t / ln(100) ≈ 60 / 4.605 ≈ 13 seconds."
+            },
+            {
+                "answer": "d. 20 seconds",
+                "correct": false,
+                "feedback": "Incorrect. The period is calculated using P = P0 * e^(t/T), resulting in approximately 13 seconds."
+            }
+        ]
+    },
+    {
+        "question": "A.04 [1.0 point] Which type of neutron interaction (light nuclei) is most important in moderating fast neutrons to thermal neutrons?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Fission",
+                "correct": false,
+                "feedback": "Incorrect. Elastic scattering is the primary mechanism for moderating neutrons."
+            },
+            {
+                "answer": "b. Elastic scattering",
+                "correct": true,
+                "feedback": "Correct. Elastic scattering with light nuclei is the most important interaction for slowing down fast neutrons to thermal energies."
+            },
+            {
+                "answer": "c. Inelastic scattering",
+                "correct": false,
+                "feedback": "Incorrect. Elastic scattering is the primary mechanism for moderating neutrons."
+            },
+            {
+                "answer": "d. Neutron capture",
+                "correct": false,
+                "feedback": "Incorrect. Elastic scattering is the primary mechanism for moderating neutrons."
+            }
+        ]
+    },
+    {
+        "question": "A.05 [1.0 point] What is the meaning of any point on a differential rod worth curve?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The cumulative area under the differential curve starting from the bottom of the core.",
+                "correct": false,
+                "feedback": "Incorrect. This describes integral rod worth, not differential rod worth."
+            },
+            {
+                "answer": "b. The zero reactivity when the rod is on the bottom and the positive reactivity being added as the rod is withdrawn.",
+                "correct": false,
+                "feedback": "Incorrect. This is not the definition of a point on the differential curve."
+            },
+            {
+                "answer": "c. The amount of reactivity that one unit (e.g. one inch, one percent) of rod motion would insert at that position in the core.",
+                "correct": true,
+                "feedback": "Correct. Differential rod worth represents the reactivity change per unit of rod movement at a specific position."
+            },
+            {
+                "answer": "d. The amount of reactivity that one unit (e.g. one inch, one percent) of rod motion would fully insert to the bottom of the core from that position.",
+                "correct": false,
+                "feedback": "Incorrect. This is not the definition of differential rod worth."
+            }
+        ]
+    },
+    {
+        "question": "A.06 [1.0 point] The probability of neutron nucleus interaction per centimeter of neutron travel is defined as:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Macroscopic Cross Section",
+                "correct": true,
+                "feedback": "Correct. The macroscopic cross section (Σ) is the probability of interaction per unit distance traveled by a neutron."
+            },
+            {
+                "answer": "b. Mean free path",
+                "correct": false,
+                "feedback": "Incorrect. Mean free path is the average distance a neutron travels between interactions, not the probability."
+            },
+            {
+                "answer": "c. Neutron flux",
+                "correct": false,
+                "feedback": "Incorrect. Neutron flux is the number of neutrons passing through a unit area per unit time."
+            },
+            {
+                "answer": "d. Barn",
+                "correct": false,
+                "feedback": "Incorrect. A barn is a unit of microscopic cross section, not a probability per distance."
+            }
+        ]
+    },
+    {
+        "question": "A.07 [1.0 point] What effect does Doppler Broadening for U-238 have on neutrons in a critical core?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. More fission.",
+                "correct": false,
+                "feedback": "Incorrect. Doppler broadening increases absorption, not fission, in U-238."
+            },
+            {
+                "answer": "b. More absorption.",
+                "correct": true,
+                "feedback": "Correct. Doppler broadening widens the resonance absorption peaks of U-238, increasing neutron absorption."
+            },
+            {
+                "answer": "c. Increasing the Reproduction factor.",
+                "correct": false,
+                "feedback": "Incorrect. Doppler broadening does not increase the reproduction factor."
+            },
+            {
+                "answer": "d. Increasing the resonance escape probability.",
+                "correct": false,
+                "feedback": "Incorrect. It decreases the resonance escape probability due to increased absorption."
+            }
+        ]
+    },
+    {
+        "question": "A.08 [1.0 point] Which ONE of the following is true regarding the term, 'subcritical multiplication'? As the reactor approaches criticality, the parameter",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. k_eff approaches zero",
+                "correct": false,
+                "feedback": "Incorrect. k_eff approaches 1 as criticality is approached."
+            },
+            {
+                "answer": "b. 1/M approaches zero",
+                "correct": true,
+                "feedback": "Correct. Subcritical multiplication factor M = 1 / (1 - k_eff), so 1/M = (1 - k_eff) approaches zero as k_eff approaches 1."
+            },
+            {
+                "answer": "c. M approaches one",
+                "correct": false,
+                "feedback": "Incorrect. M approaches infinity as k_eff approaches 1."
+            },
+            {
+                "answer": "d. ρ approaches infinity",
+                "correct": false,
+                "feedback": "Incorrect. Reactivity ρ = (k_eff - 1) / k_eff approaches zero as k_eff approaches 1."
+            }
+        ]
+    },
+    {
+        "question": "A.09 [1.0 point] Which ONE of the following statements is true regarding to Xe-135 poison in the TAMU reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. There are two methods forming Xe-135 poison: by decay of I-135 and decay of Cs-135.",
+                "correct": false,
+                "feedback": "Incorrect. Xe-135 is primarily formed by the decay of I-135, not Cs-135."
+            },
+            {
+                "answer": "b. As Xe-135 is formed in the reactor, the thermal utilization factor will increase.",
+                "correct": false,
+                "feedback": "Incorrect. Xe-135 absorbs neutrons, decreasing the thermal utilization factor."
+            },
+            {
+                "answer": "c. Xe-135 can be formed directly as a fission product.",
+                "correct": true,
+                "feedback": "Correct. Xe-135 is produced both directly as a fission product and indirectly via the decay of I-135."
+            },
+            {
+                "answer": "d. Xe-135 is never reach equilibrium during reactor operation.",
+                "correct": false,
+                "feedback": "Incorrect. Xe-135 reaches an equilibrium concentration during steady-state operation."
+            }
+        ]
+    },
+    {
+        "question": "A.10 [1.0 point] Which ONE of the following changes will require the control rod INSERTION to maintain constant power level? Assume a reactor is in steady-state mode.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Burn-up Xenon in the core.",
+                "correct": true,
+                "feedback": "Correct. Burning up Xe-135 (a neutron absorber) adds positive reactivity, requiring control rod insertion to maintain power."
+            },
+            {
+                "answer": "b. Insertion of an experiment containing cadmium.",
+                "correct": false,
+                "feedback": "Incorrect. Cadmium absorbs neutrons, adding negative reactivity, requiring rod withdrawal."
+            },
+            {
+                "answer": "c. Pool water temperature increase.",
+                "correct": false,
+                "feedback": "Incorrect. Increased water temperature typically adds negative reactivity (for a negative temperature coefficient), requiring rod withdrawal."
+            },
+            {
+                "answer": "d. Buildup of Samarium in the core.",
+                "correct": false,
+                "feedback": "Incorrect. Samarium buildup absorbs neutrons, adding negative reactivity, requiring rod withdrawal."
+            }
+        ]
+    },
+    {
+        "question": "A.11 [1.0 point] A reactor is subcritical with a shutdown margin of 5.0% ΔK/K. The addition reactivity worth is added and the count rate increases from 400 count per seconds to 800 count per seconds (cps). The new Keff of the reactor is",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.535",
+                "correct": false,
+                "feedback": "Incorrect. The new k_eff is calculated using subcritical multiplication, resulting in 0.975."
+            },
+            {
+                "answer": "b. 0.905",
+                "correct": false,
+                "feedback": "Incorrect. The new k_eff is calculated using subcritical multiplication, resulting in 0.975."
+            },
+            {
+                "answer": "c. 0.975",
+                "correct": true,
+                "feedback": "Correct. Initial k_eff = 1 - 0.05 = 0.95. Count rate doubles, so M = 1 / (1 - k_eff) implies new k_eff = 0.975."
+            },
+            {
+                "answer": "d. 1.025",
+                "correct": false,
+                "feedback": "Incorrect. The reactor remains subcritical; k_eff cannot exceed 1."
+            }
+        ]
+    },
+    {
+        "question": "A.12 [1.0 point] A reactor is in an automatic mode of 500 kW. What will the safety rod do if its boron graphite is replaced with void (air)?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Drive out to compensate a positive reactivity added.",
+                "correct": false,
+                "feedback": "Incorrect. Removing boron adds positive reactivity, requiring rod insertion."
+            },
+            {
+                "answer": "b. Drive out to compensate a negative reactivity added.",
+                "correct": false,
+                "feedback": "Incorrect. Replacing boron with air adds positive, not negative, reactivity."
+            },
+            {
+                "answer": "c. Drive in to compensate a positive reactivity added.",
+                "correct": true,
+                "feedback": "Correct. Replacing boron (a neutron absorber) with air adds positive reactivity, requiring the rod to drive in."
+            },
+            {
+                "answer": "d. Drive in to compensate a negative reactivity added.",
+                "correct": false,
+                "feedback": "Incorrect. The change adds positive reactivity, not negative."
+            }
+        ]
+    },
+    {
+        "question": "A.13 [1.0 point] Delayed neutrons are born at energies than prompt neutrons which leads to the delayed neutron fraction being than the effective delayed neutron fraction.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. lower; lower",
+                "correct": false,
+                "feedback": "Incorrect. Delayed neutrons have lower energy, making β_eff higher."
+            },
+            {
+                "answer": "b. lower; higher",
+                "correct": true,
+                "feedback": "Correct. Delayed neutrons are born at lower energies, increasing their effectiveness (β_eff > β)."
+            },
+            {
+                "answer": "c. higher, lower",
+                "correct": false,
+                "feedback": "Incorrect. Delayed neutrons have lower, not higher, energies."
+            },
+            {
+                "answer": "d. higher, higher",
+                "correct": false,
+                "feedback": "Incorrect. Delayed neutrons have lower energies."
+            }
+        ]
+    },
+    {
+        "question": "A.14 [1.0 point] Which ONE of the following factors in the 'six factor' formula is the MOST affected by the MODERATOR?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Fast fission factor",
+                "correct": false,
+                "feedback": "Incorrect. The fast fission factor is more related to fuel than the moderator."
+            },
+            {
+                "answer": "b. Reproduction factor",
+                "correct": false,
+                "feedback": "Incorrect. The reproduction factor depends primarily on fuel properties."
+            },
+            {
+                "answer": "c. Thermal utilization factor",
+                "correct": false,
+                "feedback": "Incorrect. This is affected by absorbers and fuel, less directly by the moderator."
+            },
+            {
+                "answer": "d. Resonance escape probability",
+                "correct": true,
+                "feedback": "Correct. The moderator slows neutrons, directly affecting the resonance escape probability."
+            }
+        ]
+    },
+    {
+        "question": "A.15 [1.0 point] A reactor contains a neutron source that produces 10,000 neutrons/second with a k_eff of 0.80. What is the stable total neutron production rate in the reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 20,000 neutrons/sec",
+                "correct": false,
+                "feedback": "Incorrect. The total rate is S / (1 - k_eff) = 10,000 / 0.2 = 50,000 neutrons/sec."
+            },
+            {
+                "answer": "b. 50,000 neutrons/sec",
+                "correct": true,
+                "feedback": "Correct. Subcritical multiplication gives total rate = S / (1 - k_eff) = 10,000 / (1 - 0.8) = 50,000 neutrons/sec."
+            },
+            {
+                "answer": "c. 80,000 neutrons/sec",
+                "correct": false,
+                "feedback": "Incorrect. The total rate is S / (1 - k_eff) = 10,000 / 0.2 = 50,000 neutrons/sec."
+            },
+            {
+                "answer": "d. 200,000 neutrons/sec",
+                "correct": false,
+                "feedback": "Incorrect. The total rate is S / (1 - k_eff) = 10,000 / 0.2 = 50,000 neutrons/sec."
+            }
+        ]
+    },
+    {
+        "question": "A.16 [1.0 point, 0.25 each] Match the following Neutron Interactions in Column A with the appropriate definition in Column B (each used only once)",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Fission - 3, b. Capturing - 1, c. Scattering - 4, d. Particle ejection - 2",
+                "correct": true,
+                "feedback": "Correct. Fission splits the nucleus (3), capturing involves gamma emission (1), scattering emits a neutron (4), and particle ejection ejects a new particle (2)."
+            },
+            {
+                "answer": "a. Fission - 1, b. Capturing - 2, c. Scattering - 3, d. Particle ejection - 4",
+                "correct": false,
+                "feedback": "Incorrect. See correct matching above."
+            },
+            {
+                "answer": "a. Fission - 4, b. Capturing - 3, c. Scattering - 2, d. Particle ejection - 1",
+                "correct": false,
+                "feedback": "Incorrect. See correct matching above."
+            },
+            {
+                "answer": "a. Fission - 2, b. Capturing - 4, c. Scattering - 1, d. Particle ejection - 3",
+                "correct": false,
+                "feedback": "Incorrect. See correct matching above."
+            }
+        ]
+    },
+    {
+        "question": "A.17 [1.0 point] Reactor is critical at 100 watts. A reactor operator makes a mistake by inserting a sample worth of $1 into the reactor core. Which ONE of the following best describes the reactor kinetic?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. K_eff = 1 and ρ = 0",
+                "correct": false,
+                "feedback": "Incorrect. Adding $1 (β_eff) makes k_eff > 1 and ρ > 0."
+            },
+            {
+                "answer": "b. K_eff > 1 and ρ = β_effective",
+                "correct": true,
+                "feedback": "Correct. Adding $1 (worth β_eff) results in k_eff > 1 and ρ = β_eff, placing the reactor on a prompt critical path."
+            },
+            {
+                "answer": "c. K_eff > 1 and ρ = 1 Δk/k",
+                "correct": false,
+                "feedback": "Incorrect. $1 refers to dollars, not Δk/k directly."
+            },
+            {
+                "answer": "d. K_eff > 1 and 0 < ρ < β_effective",
+                "correct": false,
+                "feedback": "Incorrect. ρ = β_eff when $1 is added."
+            }
+        ]
+    },
+    {
+        "question": "A.18 [1.0 point] Reactor A has a Keff of 0.1 while a reactor B has a Keff of 0.8. If Keff is increased by 0.05 for each reactor. The amount of reactivity added in reactor A is in reactor B for the same amount of increment.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. less than",
+                "correct": false,
+                "feedback": "Incorrect. Reactivity added is greater in Reactor A due to the formula ρ = (k_eff - 1) / k_eff."
+            },
+            {
+                "answer": "b. same",
+                "correct": false,
+                "feedback": "Incorrect. Reactivity depends on the initial k_eff value."
+            },
+            {
+                "answer": "c. thirty-six times",
+                "correct": false,
+                "feedback": "Incorrect. The ratio is approximately 4.29, not 36."
+            },
+            {
+                "answer": "d. forty-five times",
+                "correct": false,
+                "feedback": "Incorrect. The ratio is approximately 4.29, not 45."
+            }
+        ]
+    },
+    {
+        "question": "A.19 [1.0 point] Which ONE of the following atoms will cause a neutron to lose the most energy in an elastic collision?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. U-238",
+                "correct": false,
+                "feedback": "Incorrect. Lighter nuclei cause greater energy loss; H-1 is the lightest."
+            },
+            {
+                "answer": "b. Ar-40",
+                "correct": false,
+                "feedback": "Incorrect. Lighter nuclei cause greater energy loss; H-1 is the lightest."
+            },
+            {
+                "answer": "c. O-16",
+                "correct": false,
+                "feedback": "Incorrect. Lighter nuclei cause greater energy loss; H-1 is the lightest."
+            },
+            {
+                "answer": "d. H-1",
+                "correct": true,
+                "feedback": "Correct. H-1 (hydrogen) causes the most energy loss in an elastic collision due to its low mass being closest to the neutron's."
+            }
+        ]
+    },
+    {
+        "question": "A.20 [1.0 point] Which ONE of the following is the major source of heat generated after an operating reactor has been shut down and cooled down for several days?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. N-16 production.",
+                "correct": false,
+                "feedback": "Incorrect. N-16 decays quickly (half-life ~7 seconds) and is not significant after days."
+            },
+            {
+                "answer": "b. Fission fragment decay.",
+                "correct": true,
+                "feedback": "Correct. Fission product decay (e.g., beta decay) is the primary heat source after shutdown for days."
+            },
+            {
+                "answer": "c. Delayed neutron reactions.",
+                "correct": false,
+                "feedback": "Incorrect. Delayed neutrons cease shortly after shutdown."
+            },
+            {
+                "answer": "d. Corrosion product activation.",
+                "correct": false,
+                "feedback": "Incorrect. This contributes minimally compared to fission product decay."
+            }
+        ]
+    }
+]

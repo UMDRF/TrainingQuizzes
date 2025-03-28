@@ -1,0 +1,496 @@
+[
+    {
+        "question": "A.01 [1.0 point] The average energy release per fission with a thermal neutron in U-235 is_____ with the majority of energy being released from__________.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 200 MeV; kinetic energy of fission products",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 61"
+            },
+            {
+                "answer": "b. 200 MeV; energy of fission neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 61"
+            },
+            {
+                "answer": "c. 187 MeV; kinetic energy of fission products",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 61"
+            },
+            {
+                "answer": "d. 187 MeV; energy of fission neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 61"
+            }
+        ]
+    },
+    {
+        "question": "A.02 [1.0 point] Which ONE of the following is the principal source of heat in the reactor after a shutdown from extended operation at full power?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Continued production of delayed neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 61"
+            },
+            {
+                "answer": "b. Decay of fission fragments.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 61"
+            },
+            {
+                "answer": "c. Xe-135 peaking due to burnout.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 61"
+            },
+            {
+                "answer": "d. Spontaneous fission of Uranium-238.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 61"
+            }
+        ]
+    },
+    {
+        "question": "A.03 [1.0 point] A subcritical reactor has a keff of 0.833. How much reactivity is added to change the keff to 0.975?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.146",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, Section 3.3.4, p 3-20-21 Δρ=(keff2-keff1)/(keff1*keff2) Δρ=(0.975-0.833)/(0.975*0.833) Δρ= 0.175 Δk/k"
+            },
+            {
+                "answer": "b. 0.175",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, Section 3.3.4, p 3-20-21 Δρ=(keff2-keff1)/(keff1*keff2) Δρ=(0.975-0.833)/(0.975*0.833) Δρ= 0.175 Δk/k"
+            },
+            {
+                "answer": "c. 0.461",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, Section 3.3.4, p 3-20-21 Δρ=(keff2-keff1)/(keff1*keff2) Δρ=(0.975-0.833)/(0.975*0.833) Δρ= 0.175 Δk/k"
+            },
+            {
+                "answer": "d. 0.449",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, Section 3.3.4, p 3-20-21 Δρ=(keff2-keff1)/(keff1*keff2) Δρ=(0.975-0.833)/(0.975*0.833) Δρ= 0.175 Δk/k"
+            }
+        ]
+    },
+    {
+        "question": "A.04 [1.0 point] Which ONE of the following isotopes has the largest microscopic absorption cross-section for thermal neutrons?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Uranium-235",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 8.1"
+            },
+            {
+                "answer": "b. Samarium-149",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 8.1"
+            },
+            {
+                "answer": "c. Boron-10",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 8.1"
+            },
+            {
+                "answer": "d. Xenon-135",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 8.1"
+            }
+        ]
+    },
+    {
+        "question": "A.05 [1.0 point] How long will it take reactor power to increase from 25W to 500kW, if reactor period is 32 seconds?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 119 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P(t)= P(0)et/T 500kW= 25W*et/32 500kW/ 0.025kW= et/32 ln(20000) = ln(et/32) 9.903= t/32 t= 317 s"
+            },
+            {
+                "answer": "b. 157 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P(t)= P(0)et/T 500kW= 25W*et/32 500kW/ 0.025kW= et/32 ln(20000) = ln(et/32) 9.903= t/32 t= 317 s"
+            },
+            {
+                "answer": "c. 291 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P(t)= P(0)et/T 500kW= 25W*et/32 500kW/ 0.025kW= et/32 ln(20000) = ln(et/32) 9.903= t/32 t= 317 s"
+            },
+            {
+                "answer": "d. 317 seconds",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: P(t)= P(0)et/T 500kW= 25W*et/32 500kW/ 0.025kW= et/32 ln(20000) = ln(et/32) 9.903= t/32 t= 317 s"
+            }
+        ]
+    },
+    {
+        "question": "A.06 [1.0 point] Which ONE of the following describes the prompt neutron generation time?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The total time from the birth of a thermal neutron to the emission of the delayed neutron in the next generation.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 2, page 32"
+            },
+            {
+                "answer": "b. The total time from the birth of the fast neutron to the emission of the delayed neutron in the next generation.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 2, page 32"
+            },
+            {
+                "answer": "c. The sum of the amount of time it takes a fast neutron to thermalize, the amount of time the neutron exists as a thermal neutron before it is absorbed, and the amount of time between a fissionable nuclide absorbing a neutron and delayed neutrons being released.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 2, page 32"
+            },
+            {
+                "answer": "d. The total time it takes a delayed neutron to be thermalized.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 2, page 32"
+            }
+        ]
+    },
+    {
+        "question": "A.07 [1.0 point] Which ONE of the following best explains the importance of source neutrons?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Source neutrons ensure that there is a sufficient neutron population to provide visible indication of neutron level during start-up and shutdown.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 2, page 1"
+            },
+            {
+                "answer": "b. Source neutrons ensure there is a sufficient neutron population to overcome the effects of fission product poisoning following a shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 2, page 1"
+            },
+            {
+                "answer": "c. Source neutrons are essential to achieve and maintain criticality of the reactor.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 2, page 1"
+            },
+            {
+                "answer": "d. Source neutrons are used to lengthen the neutron generation time to ensure the reactor does not go prompt critical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 2, page 1"
+            }
+        ]
+    },
+    {
+        "question": "A.08 [1.0 point] Following a reactor scram from 800 kW, the reactor period has stabilized and power level is decreasing at a constant rate. What is the reactor power ten minutes following the scram?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 158 W",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P= P0 e-t/T P= 800 kW* e(600s/-80s) P= 800 kW* e(-7.5) P= 0.442 kW= 442 W"
+            },
+            {
+                "answer": "b. 442 W",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: P= P0 e-t/T P= 800 kW* e(600s/-80s) P= 800 kW* e(-7.5) P= 0.442 kW= 442 W"
+            },
+            {
+                "answer": "c. 723 W",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P= P0 e-t/T P= 800 kW* e(600s/-80s) P= 800 kW* e(-7.5) P= 0.442 kW= 442 W"
+            },
+            {
+                "answer": "d. 1.24 kW",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P= P0 e-t/T P= 800 kW* e(600s/-80s) P= 800 kW* e(-7.5) P= 0.442 kW= 442 W"
+            }
+        ]
+    },
+    {
+        "question": "A.09 [2.0 points, 0.50 points each] Match the terms in Column A with the result in Column B to complete the following statements. Answers in Column B may be used once, more than once, or not at all: As moderator temperature increases, [Column A][Column B].",
+        "type": "matching",
+        "answers": [
+            {
+                "answer": "a. Fast Fission Factor - Stays the same",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 3-16"
+            },
+            {
+                "answer": "b. Thermal Utilization Factor - Increases",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 3-16"
+            },
+            {
+                "answer": "c. Resonance Escape Probability - Decreases",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 3-16"
+            },
+            {
+                "answer": "d. Reproduction factor - Stays the same",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 3-16"
+            }
+        ]
+    },
+    {
+        "question": "A.10 [1.0 point] Which ONE of the following factors in the six-factor formula is affected by the enrichment of U-235 in the fuel?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Thermal Non-Leakage Probability",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 2, Module 3, page 16"
+            },
+            {
+                "answer": "b. Fast Fission Factor",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 2, Module 3, page 16"
+            },
+            {
+                "answer": "c. Fast Non-Leakage Probability",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 2, Module 3, page 16"
+            },
+            {
+                "answer": "d. Resonance Escape Probability",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 2, Module 3, page 16"
+            }
+        ]
+    },
+    {
+        "question": "A.11 [1.0 point] In the figure below, which ONE of the following best describes Region I?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Neutron absorption cross-section steadily decreases as neutron energy increases in the fast neutron region.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 2, page 9-17"
+            },
+            {
+                "answer": "b. Neutron absorption cross-section is inversely proportional to the neutron velocity (1/v).",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 2, page 9-17"
+            },
+            {
+                "answer": "c. Neutron absorption cross-section peaks in the thermal neutron energy region as a result of resonance absorption.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 2, page 9-17"
+            },
+            {
+                "answer": "d. Neutron absorption cross-section is directly proportional to the neutron energy.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 2, page 9-17"
+            }
+        ]
+    },
+    {
+        "question": "A.12 [1.0 point] Given a reactor period of 25 seconds, how long will it take for reactor power to triple?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 15 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P= P0∙et/25 3= 1∙et/25 ln(3)= ln(et/25) 1.0986= t/25 T= 27.5 seconds"
+            },
+            {
+                "answer": "b. 21 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P= P0∙et/25 3= 1∙et/25 ln(3)= ln(et/25) 1.0986= t/25 T= 27.5 seconds"
+            },
+            {
+                "answer": "c. 28 seconds",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: P= P0∙et/25 3= 1∙et/25 ln(3)= ln(et/25) 1.0986= t/25 T= 27.5 seconds"
+            },
+            {
+                "answer": "d. 36 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P= P0∙et/25 3= 1∙et/25 ln(3)= ln(et/25) 1.0986= t/25 T= 27.5 seconds"
+            }
+        ]
+    },
+    {
+        "question": "A.13 [1.0 point] Which ONE of the following best describes the importance of a negative temperature coefficient of reactivity?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. An increase in reactor power causes an increase in fuel temperature which results in a negative reactivity addition, causing the power increase to slow or stop.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 2, Module 3, page 28"
+            },
+            {
+                "answer": "b. An increase in reactor power causes an increase in fuel temperature which results in a positive reactivity addition, causing the power increase to slow or stop.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 2, Module 3, page 28"
+            },
+            {
+                "answer": "c. An increase in reactor power causes an increase in fuel burnup which results in a negative reactivity addition, causing the power increase to slow or stop.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 2, Module 3, page 28"
+            },
+            {
+                "answer": "d. An increase in reactor power causes an increase in fuel burnup which results in a positive reactivity addition, causing the power increase to slow or stop.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 2, Module 3, page 28"
+            }
+        ]
+    },
+    {
+        "question": "A.14 [1.0 point] Which ONE of the following statements regarding fission product poisoning is true?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. During normal reactor operation, Sm-149 is removed from the core by both radioactive decay and neutron absorption.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 2, Module 3, page 30-47"
+            },
+            {
+                "answer": "b. Following a reactor shutdown, the concentration of Sm-149 reaches a peak because some fission is still occurring in the core.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 2, Module 3, page 30-47"
+            },
+            {
+                "answer": "c. During normal reactor operation, Xe-135 is removed from the core only by radioactive decay.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 2, Module 3, page 30-47"
+            },
+            {
+                "answer": "d. Following a reactor shutdown, the concentration of Xe-135 reaches a peak based on the decay of I-135 in the core.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 2, Module 3, page 30-47"
+            }
+        ]
+    },
+    {
+        "question": "A.15 [1.0 point] Which ONE of the following describes a fertile material?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. A fertile material is a material for which fission caused by fast or thermal neutron absorption is possible provided the kinetic energy added to the binding energy is greater than the critical energy required for fission.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 50-55"
+            },
+            {
+                "answer": "b. A fertile material is a material for which fission is possible with thermal neutrons alone provided the binding energy is greater than the critical energy required for fission.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 50-55"
+            },
+            {
+                "answer": "c. A fertile material is a material that can undergo transmutation to become a fissile material.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 50-55"
+            },
+            {
+                "answer": "d. A fertile material is a material that can undergo conversion to become a fissionable material.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 50-55"
+            }
+        ]
+    },
+    {
+        "question": "A.16 [1.0 point] Which ONE of the following best describes alpha decay?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The emission of an alpha particle from an unstable nucleus. The daughter has an atomic number two more than the parent nuclide and a mass number four more than the parent nuclide.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 29"
+            },
+            {
+                "answer": "b. The emission of an alpha particle from an unstable nucleus. The daughter has an atomic number two more than the parent nuclide and a mass number four less than the parent nuclide.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 29"
+            },
+            {
+                "answer": "c. The emission of an alpha particle from an unstable nucleus. The daughter has an atomic number two less than the parent nuclide and a mass number four less than the parent nuclide.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 29"
+            },
+            {
+                "answer": "d. The emission of an alpha particle from an unstable nucleus. The daughter has an atomic number two less than the parent nuclide and a mass number four more than the parent nuclide.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 29"
+            }
+        ]
+    },
+    {
+        "question": "A.17 [1.0 point, 0.25 points each] Match the neutron interactions in Column A with the appropriate definition in Column B. Options in Column B may be used only once.",
+        "type": "matching",
+        "answers": [
+            {
+                "answer": "a. Particle ejection - 4",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 43-46"
+            },
+            {
+                "answer": "b. Scattering - 3",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 43-46"
+            },
+            {
+                "answer": "c. Radiative capture - 1",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 43-46"
+            },
+            {
+                "answer": "d. Fission - 2",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 1, page 43-46"
+            }
+        ]
+    },
+    {
+        "question": "A.18 [1.0 point] A fast neutron will lose the most energy in a collision with which ONE of the following atoms?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. H1",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: NRC standard question"
+            },
+            {
+                "answer": "b. H2",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: NRC standard question"
+            },
+            {
+                "answer": "c. C12",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: NRC standard question"
+            },
+            {
+                "answer": "d. U238",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: NRC standard question"
+            }
+        ]
+    },
+    {
+        "question": "A.19 [1.0 point] Which ONE of the following is defined as the balance between production of neutrons and their absorption and leakage in the core?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Infinite Multiplication Factor.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 2, Module 3, page 15"
+            },
+            {
+                "answer": "b. Effective Multiplication Factor.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 2, Module 3, page 15"
+            },
+            {
+                "answer": "c. Utilization Factor.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 2, Module 3, page 15"
+            },
+            {
+                "answer": "d. Reproduction Factor.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 2, Module 3, page 15"
+            }
+        ]
+    }
+]

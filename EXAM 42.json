@@ -1,0 +1,522 @@
+[
+  {
+    "question": "A.01 [1.0 point] The effective neutron multiplication factor, Keff, is defined as:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Absorption / (Production + Leakage).",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Handbook, Volume 2, Module 3, page 8."
+      },
+      {
+        "answer": "b. (Production + Leakage)/Absorption.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Handbook, Volume 2, Module 3, page 8."
+      },
+      {
+        "answer": "c. (Absorption + Leakage)/Production.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Handbook, Volume 2, Module 3, page 8."
+      },
+      {
+        "answer": "d. Production / (Absorption + Leakage).",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: DOE Handbook, Volume 2, Module 3, page 8."
+      }
+    ]
+  },
+  {
+    "question": "A.02 [1.0 point] The reactor supervisor tells you that the Keff for the reactor is 0.955. How much reactivity must you add to the reactor to reach criticality?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. +0.0471.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Δρ= (Keff1 - Keff2) ÷ (Keff1 * Keff2)\nΔρ = (0.9550 - 1.0000) ÷ (0.9550 * 1.0000)\nΔρ = -0.0450 ÷ 0.9550 = +0.0471"
+      },
+      {
+        "answer": "b. +0.0450.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Δρ= (Keff1 - Keff2) ÷ (Keff1 * Keff2)\nΔρ = (0.9550 - 1.0000) ÷ (0.9550 * 1.0000)\nΔρ = -0.0450 ÷ 0.9550 = +0.0471"
+      },
+      {
+        "answer": "c. -0.0471.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Δρ= (Keff1 - Keff2) ÷ (Keff1 * Keff2)\nΔρ = (0.9550 - 1.0000) ÷ (0.9550 * 1.0000)\nΔρ = -0.0450 ÷ 0.9550 = +0.0471"
+      },
+      {
+        "answer": "d. -0.0450.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Δρ= (Keff1 - Keff2) ÷ (Keff1 * Keff2)\nΔρ = (0.9550 - 1.0000) ÷ (0.9550 * 1.0000)\nΔρ = -0.0450 ÷ 0.9550 = +0.0471"
+      }
+    ]
+  },
+  {
+    "question": "A.03 [1.0 point] Shown below is a trace of reactor period as a function of time. Between points A and B reactor power is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Continually increasing.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Standard NRC Question."
+      },
+      {
+        "answer": "b. Continually decreasing.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Standard NRC Question."
+      },
+      {
+        "answer": "c. Increasing, then decreasing.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Standard NRC Question."
+      },
+      {
+        "answer": "d. Constant.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Standard NRC Question."
+      }
+    ]
+  },
+  {
+    "question": "A.04 [1.0 point] Which ONE of the following describes the factors that have the greatest effect on the fast fission factor (Ɛ)?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Enrichment of the fuel and temperature of the moderator.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Handbook, Volume 2, Module 3, 2nd sentence of the 2nd paragraph, page 3."
+      },
+      {
+        "answer": "b. Arrangement of the fuel and temperature of the moderator.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Handbook, Volume 2, Module 3, 2nd sentence of the 2nd paragraph, page 3."
+      },
+      {
+        "answer": "c. Enrichment and concentration of the fuel and the moderator.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Handbook, Volume 2, Module 3, 2nd sentence of the 2nd paragraph, page 3."
+      },
+      {
+        "answer": "d. Arrangement and concentrations of the fuel and the moderator.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: DOE Handbook, Volume 2, Module 3, 2nd sentence of the 2nd paragraph, page 3."
+      }
+    ]
+  },
+  {
+    "question": "A.05 [1.0 point] For higher neutron energies - What is the region of the absorption cross section steadily decreases as the energy of the neutron increases called",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Slow neutron region.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 2, 3rd paragraph, page 10."
+      },
+      {
+        "answer": "b. Fast neutron region.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 2, 3rd paragraph, page 10."
+      },
+      {
+        "answer": "c. Increases the mass of the target region.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 2, 3rd paragraph, page 10."
+      },
+      {
+        "answer": "d. Destruction the mass of the target region.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Volume 1, Module 2, 3rd paragraph, page 10."
+      }
+    ]
+  },
+  {
+    "question": "A.06 [1.0 point] In an elastic scattering reaction between a neutron and a target nucleus, there is _____ into nuclear excitation.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Energy absorbing.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE, Vol. 1, Module 1, Elastic Scattering, page 43."
+      },
+      {
+        "answer": "b. No energy transferred.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: DOE, Vol. 1, Module 1, Elastic Scattering, page 43."
+      },
+      {
+        "answer": "c. The nucleus emitting a gamma ray.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE, Vol. 1, Module 1, Elastic Scattering, page 43."
+      },
+      {
+        "answer": "d. The nucleus recoil with a higher total kinetic energy.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE, Vol. 1, Module 1, Elastic Scattering, page 43."
+      }
+    ]
+  },
+  {
+    "question": "A.07 [1.0 point] Xenon-135 is formed directly by decay of __________?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Antimony-135.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, Figure 8.1, page 8-6."
+      },
+      {
+        "answer": "b. Cesium -135.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, Figure 8.1, page 8-6."
+      },
+      {
+        "answer": "c. Iodine-135.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, Figure 8.1, page 8-6."
+      },
+      {
+        "answer": "d. Tellurium-135.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, Figure 8.1, page 8-6."
+      }
+    ]
+  },
+  {
+    "question": "A.08 [1.0 point] Reactor power is rising on a 10 second period. Approximately how long will it take for power to quadruple?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 14 seconds.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: P = P0 et/T  ––> ln(4) = time ÷ 10 seconds –> time = ln (4) x 10 sec.  1.386 x 10 ≈ 13.8 sec."
+      },
+      {
+        "answer": "b. 29 seconds.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P = P0 et/T  ––> ln(4) = time ÷ 10 seconds –> time = ln (4) x 10 sec.  1.386 x 10 ≈ 13.8 sec."
+      },
+      {
+        "answer": "c. 55 seconds.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P = P0 et/T  ––> ln(4) = time ÷ 10 seconds –> time = ln (4) x 10 sec.  1.386 x 10 ≈ 13.8 sec."
+      },
+      {
+        "answer": "d. 72 seconds.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P = P0 et/T  ––> ln(4) = time ÷ 10 seconds –> time = ln (4) x 10 sec.  1.386 x 10 ≈ 13.8 sec."
+      }
+    ]
+  },
+  {
+    "question": "A.09 [1.0 point] A reactor is slightly supercritical with the following values for each of the factors in the six-factor formula:\nFast Fission Factor = 1.03\nFast non-leakage probability = 0.84\nResonance Escape Probability = 0.96\nThermal non-leakage probability = 0.88\nThermal Utilization Factor = 0.70\nReproduction Factor = 1.96\nA control rod is inserted to bring the reactor back to critical. Assuming all other factors remain unchanged, the new value for the Thermal Utilization Factor is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.698.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: 1.03 x 0.96 x 0.84 x 0.88 x 1.96 x 0.70 = 1.00\n1 / (1.03 x 0.96 x 0.84 x 0.88 x 1.96) = 0.698"
+      },
+      {
+        "answer": "b. 0.702.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: 1.03 x 0.96 x 0.84 x 0.88 x 1.96 x 0.70 = 1.00\n1 / (1.03 x 0.96 x 0.84 x 0.88 x 1.96) = 0.698"
+      },
+      {
+        "answer": "c. 0.704.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: 1.03 x 0.96 x 0.84 x 0.88 x 1.96 x 0.70 = 1.00\n1 / (1.03 x 0.96 x 0.84 x 0.88 x 1.96) = 0.698"
+      },
+      {
+        "answer": "d. 0.708.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: 1.03 x 0.96 x 0.84 x 0.88 x 1.96 x 0.70 = 1.00\n1 / (1.03 x 0.96 x 0.84 x 0.88 x 1.96) = 0.698"
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1.0 point] Which one of the following is the correct reason that delayed neutrons allow the reactor operator control of the reactor?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Delayed neutrons increase the mean neutron lifetime.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Standard NRC Question."
+      },
+      {
+        "answer": "b. More delayed neutrons are produced than prompt neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Standard NRC Question."
+      },
+      {
+        "answer": "c. Delayed neutrons take longer to thermalize than prompt neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Standard NRC Question."
+      },
+      {
+        "answer": "d. Delayed neutrons are born at higher energies than prompt neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Standard NRC Question."
+      }
+    ]
+  },
+  {
+    "question": "A.11 [1.0 point] Which term is described by the following?\n“The time from birth of a neutron to absorption and is the sum of slowing down time and diffusion time.”",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Reactor period.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, Sec 3.3.5, page 3-23"
+      },
+      {
+        "answer": "b. Neutron lifetime.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, Sec 3.3.5, page 3-23"
+      },
+      {
+        "answer": "c. Multiplication time.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, Sec 3.3.5, page 3-23"
+      },
+      {
+        "answer": "d. Delayed generation Time.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, Sec 3.3.5, page 3-23"
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1.0 point] You're increasing reactor power on a steady +52 second period. How long will it take to increase power by a factor of 10?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 2 minutes.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: ."
+      },
+      {
+        "answer": "b. 5 minutes.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: ."
+      },
+      {
+        "answer": "c. 10 minutes.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: ."
+      },
+      {
+        "answer": "d. 20 minutes.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: ."
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1.0 point] The Prompt Neutron generation time is approximately:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5 X 10-5 seconds.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: DOE Handbook, Volume 1, NP-02, page 32."
+      },
+      {
+        "answer": "b. 1 X 10-2 seconds.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Handbook, Volume 1, NP-02, page 32."
+      },
+      {
+        "answer": "c. 5 seconds.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Handbook, Volume 1, NP-02, page 32."
+      },
+      {
+        "answer": "d. 1 second.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Handbook, Volume 1, NP-02, page 32."
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1.0 point] A reactor is changing from the criticality to prompt criticality. Which ONE of the following best describes the values of Keff and ρ during the change?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Keff = 1 and ρ = 1.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, Sec 4.2"
+      },
+      {
+        "answer": "b. Keff = 1 and ρ = β-eff.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, Sec 4.2"
+      },
+      {
+        "answer": "c. Keff > 1 and 0 < ρ < β-eff.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, Sec 4.2"
+      },
+      {
+        "answer": "d. Keff > 1 and β-eff < ρ < 1.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, Sec 4.2"
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1.0 point] Reactivity is defined as the:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fractional change in neutron population per generation.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, Sec 1.3.1, page 1-5."
+      },
+      {
+        "answer": "b. Number of neutrons by which neutron population changes per generation.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, Sec 1.3.1, page 1-5."
+      },
+      {
+        "answer": "c. Rate of change of reactor power in neutron per second.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, Sec 1.3.1, page 1-5."
+      },
+      {
+        "answer": "d. Change in the number of neutrons per second that causes a fission event.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, Sec 1.3.1, page 1-5."
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1.0 point] The reactor is at 5 watts, when someone inserts an experiment which causes a 10 second positive period. If the scram delay time is 1 second and the lowest scram setpoint is 9.7 watts, which ONE of the following is the MAXIMUM power the reactor will reach prior to scramming?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 9.1 watts.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P = P0.et/τ = 9.7 × e1/10 = 9.7 × 1.1052 = 10.72."
+      },
+      {
+        "answer": "b. 10.7 watts.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: P = P0.et/τ = 9.7 × e1/10 = 9.7 × 1.1052 = 10.72."
+      },
+      {
+        "answer": "c. 15.5 watts.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P = P0.et/τ = 9.7 × e1/10 = 9.7 × 1.1052 = 10.72."
+      },
+      {
+        "answer": "d. 20.7 watts.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P = P0.et/τ = 9.7 × e1/10 = 9.7 × 1.1052 = 10.72."
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1.0 point] The reaction 93Np239 → 94Pu239 + …is an example of:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Alpha Decay.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Vol-01, pg. 24."
+      },
+      {
+        "answer": "b. Beta Decay.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Vol-01, pg. 24."
+      },
+      {
+        "answer": "c. Gamma Emission.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Vol-01, pg. 24."
+      },
+      {
+        "answer": "d. Electron Capture.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Vol-01, pg. 24."
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1.0 point] Some neutrons do not come directly from fission, but from fission product decay. These neutrons are called:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Thermal neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 3.2. 2."
+      },
+      {
+        "answer": "b. Delayed neutrons.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 3.2. 2."
+      },
+      {
+        "answer": "c. Neutron Production.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 3.2. 2."
+      },
+      {
+        "answer": "d. Fission neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Section 3.2. 2."
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1.0 point] INELASTIC SCATTERING is the process by which a neutron collides with a nucleus and …",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Is absorbed, with the nucleus emitting a gamma ray.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 2-28."
+      },
+      {
+        "answer": "b. Recoils with the same kinetic energy it had prior to the collision.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 2-28."
+      },
+      {
+        "answer": "c. Is absorbed, with the nucleus emitting a gamma ray, and the neutron with a lower kinetic energy.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 2-28."
+      },
+      {
+        "answer": "d. Recoils with a higher kinetic energy than it had prior to the collision with the nucleus emitting a gamma ray.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Page 2-28."
+      }
+    ]
+  },
+  {
+    "question": "A.20 [1.0 point] Which ONE of the following is the principal source of heat in the reactor after a shutdown from an extended 100kW operation?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Decay of fission fragments.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Vol-01, Module 1, EO 4.9, page 61."
+      },
+      {
+        "answer": "b. Production of delayed neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Vol-01, Module 1, EO 4.9, page 61."
+      },
+      {
+        "answer": "c. Spontaneous fission of Uranium - 238.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Vol-01, Module 1, EO 4.9, page 61."
+      },
+      {
+        "answer": "d. Subcritical reaction of photo neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Vol-01, Module 1, EO 4.9, page 61."
+      }
+    ]
+  }
+]

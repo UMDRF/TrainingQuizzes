@@ -1,0 +1,522 @@
+[
+  {
+    "question": "A.1 [1.0 point] (1.0) When a reactor is prompt critical, the neutron multiplication rate is determined by:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the generation time of prompt neutrons only.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section A, Basic Reactor Physics Definitions."
+      },
+      {
+        "answer": "b. the value of βeff.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section A, Basic Reactor Physics Definitions."
+      },
+      {
+        "answer": "c. the generation time of delayed neutrons only.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section A, Basic Reactor Physics Definitions."
+      },
+      {
+        "answer": "d. the half-life of the shortest-lived delayed neutron precursor.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section A, Basic Reactor Physics Definitions."
+      }
+    ]
+  },
+  {
+    "question": "A.2 [1.0 point] (1.0) When a reactor is scrammed, the xenon population starts to increase. This occurs primarily because:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. delayed neutrons are continuing to be produced and cause fissions, resulting in xenon production.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section F, Fission Product Poisoning."
+      },
+      {
+        "answer": "b. the half-life for the decay of I-135 is shorter than the half-life for the decay of Xe-135.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section F, Fission Product Poisoning."
+      },
+      {
+        "answer": "c. Xe-135 is stable and does not decay.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section F, Fission Product Poisoning."
+      },
+      {
+        "answer": "d. the neutron population is so low that xenon burnout does not occur.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section F, Fission Product Poisoning."
+      }
+    ]
+  },
+  {
+    "question": "A.3 [1.0 point] (1.0) A reactor is operating at criticality. Instantaneously, all of the delayed neutrons are suddenly removed from the reactor. The Keff of the reactor in this state would be approximately:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 1.007",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section C, The Nuclear Fission Process."
+      },
+      {
+        "answer": "b. 1.000",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section C, The Nuclear Fission Process."
+      },
+      {
+        "answer": "c. 0.993",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section C, The Nuclear Fission Process."
+      },
+      {
+        "answer": "d. 0.000",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section C, The Nuclear Fission Process."
+      }
+    ]
+  },
+  {
+    "question": "A.4 [1.0 point] (1.0) The Inhour Equation relates reactivity insertion, ρ, to reactor period, T. Reactivity insertion A is +0.001 delta k/k, and reactivity insertion B is -0.001 delta k/k (i.e., the same magnitude). The absolute value of the period will be:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. smaller for A.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+      },
+      {
+        "answer": "b. larger for A.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+      },
+      {
+        "answer": "c. smaller for B.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+      },
+      {
+        "answer": "d. the same for A and B.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+      }
+    ]
+  },
+  {
+    "question": "A.5 [1.0 point] (1.0) Elastic Scattering is the process whereby a neutron collides with a nucleus and:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. recoils with the same kinetic energy it had prior to the collision.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section B, Types of Nuclear Reactions."
+      },
+      {
+        "answer": "b. recoils with a lower kinetic energy, with the nucleus emitting a gamma ray.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section B, Types of Nuclear Reactions."
+      },
+      {
+        "answer": "c. is absorbed by the nucleus, with the nucleus emitting a gamma ray.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section B, Types of Nuclear Reactions."
+      },
+      {
+        "answer": "d. recoils with a higher kinetic energy, with the nucleus emitting a gamma ray.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section B, Types of Nuclear Reactions."
+      }
+    ]
+  },
+  {
+    "question": "A.6 [1.0 point] (1.0) You enter the control room and observe that the neutron instrumentation indicates a steady neutron level with no rods in motion. Which ONE condition below CANNOT be true?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The reactor is critical.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors, and Section H, Subcritical Multiplication."
+      },
+      {
+        "answer": "b. The reactor is subcritical.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors, and Section H, Subcritical Multiplication."
+      },
+      {
+        "answer": "c. The reactor is supercritical.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors, and Section H, Subcritical Multiplication."
+      },
+      {
+        "answer": "d. The neutron source is in the core.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section D, Neutron Multiplication Factors, and Section H, Subcritical Multiplication."
+      }
+    ]
+  },
+  {
+    "question": "A.7 [1.0 point] (1.0) Neutrons released by fission are called fast neutrons because they:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. appear immediately following the fission.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+      },
+      {
+        "answer": "b. are responsible for fast fissions.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+      },
+      {
+        "answer": "c. decay rapidly to stable levels.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+      },
+      {
+        "answer": "d. are at a high kinetic energy level.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+      }
+    ]
+  },
+  {
+    "question": "A.8 [1.0 point] (1.0) Which ONE of the following is the reason for operating with thermal neutrons rather than fast neutrons?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Probability of fission is increased since thermal neutrons are less likely to leak out of the core.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+      },
+      {
+        "answer": "b. As neutron energy increases, neutron absorption in non-fuel materials increases exponentially.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+      },
+      {
+        "answer": "c. The absorption cross-section of U-235 is much higher for thermal neutrons.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+      },
+      {
+        "answer": "d. The fuel temperature coefficient becomes positive as neutron energy increases.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+      }
+    ]
+  },
+  {
+    "question": "A.9 [1.0 point] (1.0) During fuel loading, which ONE of the following will have NO effect on the shape of the 1/C plot?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The order of fuel placement.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+      },
+      {
+        "answer": "b. The source strength.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+      },
+      {
+        "answer": "c. The location of the source in the core.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+      },
+      {
+        "answer": "d. The location of the detector (or detectors) in the core.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1.0 point] (1.0) A reactor is slightly supercritical, with the thermal utilization factor = 0.700. A control rod is inserted to bring the reactor back to critical. Assuming all other factors remain unchanged, the new value for the thermal utilization factor is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.698",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Theory Training Manual, Section D, Neutron Multiplication Factors."
+      },
+      {
+        "answer": "b. 0.700",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Theory Training Manual, Section D, Neutron Multiplication Factors."
+      },
+      {
+        "answer": "c. 0.702",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Theory Training Manual, Section D, Neutron Multiplication Factors."
+      },
+      {
+        "answer": "d. 0.704",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Theory Training Manual, Section D, Neutron Multiplication Factors."
+      }
+    ]
+  },
+  {
+    "question": "A.11 [1.0 point] (1.0) A reactor is operating at a constant power level of 100 kW. The fission rate of this reactor is approximately:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 1.562x1015 fissions/sec.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: 100 kW = 6.248x1017 Mev/sec. (From Equation Sheet)\n(6.248x1017 Mev/sec)/(200 Mev/fission) = 3.124x1015 fissions/sec."
+      },
+      {
+        "answer": "b. 3.124x1015 fissions/sec.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: 100 kW = 6.248x1017 Mev/sec. (From Equation Sheet)\n(6.248x1017 Mev/sec)/(200 Mev/fission) = 3.124x1015 fissions/sec."
+      },
+      {
+        "answer": "c. 6.248x1015 fissions/sec.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: 100 kW = 6.248x1017 Mev/sec. (From Equation Sheet)\n(6.248x1017 Mev/sec)/(200 Mev/fission) = 3.124x1015 fissions/sec."
+      },
+      {
+        "answer": "d. 1.562x1016 fissions/sec.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: 100 kW = 6.248x1017 Mev/sec. (From Equation Sheet)\n(6.248x1017 Mev/sec)/(200 Mev/fission) = 3.124x1015 fissions/sec."
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1.0 point] (1.0) Delayed neutron precursors decay by beta(-) decay. Which ONE reaction below is an example of beta(-) decay?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 35Br87 -> 36Kr87",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Theory Training Manual, Section C, The Nuclear Fission Process."
+      },
+      {
+        "answer": "b. 35Br87 -> 36Kr86",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Theory Training Manual, Section C, The Nuclear Fission Process."
+      },
+      {
+        "answer": "c. 35Br87 -> 35Kr88",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Theory Training Manual, Section C, The Nuclear Fission Process."
+      },
+      {
+        "answer": "d. 35Br87 -> 35Kr86",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Theory Training Manual, Section C, The Nuclear Fission Process."
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1.0 point] (1.0) A reactor is subcritical by 5% delta k/k with a count rate of 100 cps on the startup channel. Rods are withdrawn until the count rate is 1000 cps. Which ONE of the following is the condition of the reactor following the rod withdrawal?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Critical with keff = 1.000.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Theory Training Manual, Section H, Subcritical Multiplication."
+      },
+      {
+        "answer": "b. Subcritical with keff = 0.995.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Theory Training Manual, Section H, Subcritical Multiplication. ρ1 = (K1 - 1)/K1 (From Equation Sheet).  K1 = 0.952.\nCR1(1 - K1) = CR2(1 - K2) (From Equation Sheet) ; 100(1 - 0.952) = 1000(1 - K2) ; K2 = 0.995"
+      },
+      {
+        "answer": "c. Subcritical with keff = 0.950.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Theory Training Manual, Section H, Subcritical Multiplication."
+      },
+      {
+        "answer": "d. Supercritical with keff = 1.005.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Theory Training Manual, Section H, Subcritical Multiplication."
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1.0 point] (1.0) Reactivity may defined as a measure of the:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. number of neutrons being produced in the core.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Theory Training Manual, Section A, Basic Reactor Physics Definitions."
+      },
+      {
+        "answer": "b. heat being produced due to neutron absorption by the fuel.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Theory Training Manual, Section A, Basic Reactor Physics Definitions."
+      },
+      {
+        "answer": "c. reactor’s multiplication factor.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Theory Training Manual, Section A, Basic Reactor Physics Definitions."
+      },
+      {
+        "answer": "d. fractional change in neutron population between generations.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Theory Training Manual, Section A, Basic Reactor Physics Definitions."
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1.0 point] (1.0) Which ONE of the following describes the characteristics of a good moderator?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Low scattering cross section and high absorption cross section.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+      },
+      {
+        "answer": "b. Low scattering cross section and low absorption cross section.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+      },
+      {
+        "answer": "c. High scattering cross section and low absorption cross section.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+      },
+      {
+        "answer": "d. High scattering cross section and high absorption cross section.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section E, Neutron Slowing Down Theory."
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1.0 point] (1.0) Which ONE of the following is the major source of energy released during fission?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Prompt gamma rays.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section C, The Nuclear Fission Process."
+      },
+      {
+        "answer": "b. Fission fragments.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section C, The Nuclear Fission Process."
+      },
+      {
+        "answer": "c. Prompt neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section C, The Nuclear Fission Process."
+      },
+      {
+        "answer": "d. Delayed neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section C, The Nuclear Fission Process."
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1.0 point] (1.0) Which ONE of the reactions below is an example of a photoneutron source?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 51Sb123 + n -> 51Sb124 + γ",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+      },
+      {
+        "answer": "b. 92U238 -> 35Br87 + 57La148 + 3n + γ",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+      },
+      {
+        "answer": "c. 4Be9 + γ -> 4B8 + n",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+      },
+      {
+        "answer": "d. 4Be9 + α -> 6C12 + n",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section H, Subcritical Multiplication."
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1.0 point] (1.0) A reactivity coefficient describes how much reactivity is inserted when some physical parameter (temperature, pressure, void, etc.) is changed. A positive reactivity coefficient results when:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. positive reactivity is inserted when the physical parameter decreases.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+      },
+      {
+        "answer": "b. negative reactivity is inserted when the physical parameter increases.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+      },
+      {
+        "answer": "c. negative reactivity is inserted when the physical parameter decreases.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+      },
+      {
+        "answer": "d. reactor power increases when the physical parameter decreases.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1.0 point] (1.0) When the reactor is scrammed from full power, what is the main contributor to the constant -80 second period that results?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The amount of negative reactivity introduced into the core.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+      },
+      {
+        "answer": "b. The decay constant of the longest-lived delayed neutron precursor.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+      },
+      {
+        "answer": "c. The neutron population level prior to the scram.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+      },
+      {
+        "answer": "d. The fission product population prior to the scram.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+      }
+    ]
+  },
+  {
+    "question": "A.20 [1.0 point] (1.0) Shown below is a trace of reactor period as a function of time. Between points A and B, reactor power is:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. continually increasing.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+      },
+      {
+        "answer": "b. increasing, then decreasing.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+      },
+      {
+        "answer": "c. continually decreasing.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+      },
+      {
+        "answer": "d. constant.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Reactor Physics Training Manual, Section I, Reactor Kinetics."
+      }
+    ]
+  }
+]
