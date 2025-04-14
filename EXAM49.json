@@ -1,0 +1,519 @@
+[
+  {
+    "question": "A.01 [1.0 point] The THERMAL UTILIZATION FACTOR is defined as a ratio of:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. the number of fast neutrons produced by fission in a generation to the number of total neutrons produced by fission in the previous generation.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.3.1"
+      },
+      {
+        "answer": "b. the number of thermal neutrons absorbed in fuel to the number of thermal neutrons absorbed in fuel and core materials.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.3.1"
+      },
+      {
+        "answer": "c. the number of fast neutrons produced by U-238 to the number of thermal neutrons absorbed in fuel.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.3.1"
+      },
+      {
+        "answer": "d. the number of fast neutrons that start to slow down to the number of fast neutrons from all fissions.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.3.1"
+      }
+    ]
+  },
+  {
+    "question": "A.02 [1.0 point] The neutron count rate is 1000 cps. An experimenter inserts an experiment into the core and the count rate decreases to 725 cps. Given the initial Keff of the reactor was 0.91, what is the worth of the experiment?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. ∆ρ = + 0.02",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: CR1 / CR2 = (1 – keff2) / (1 - keff1) 1000 / 725 = (1- keff2) / (1 – 0.92) Therefore: keff2 = 0.876 ∆ρ = (keff2 - keff1) / (keff2 * keff1) ∆ρ = (0.876 – 0.91) / (0.876 * 0.91) ∆ρ = - 0.0427"
+      },
+      {
+        "answer": "b. ∆ρ = - 0.04",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: CR1 / CR2 = (1 – keff2) / (1 - keff1) 1000 / 725 = (1- keff2) / (1 – 0.92) Therefore: keff2 = 0.876 ∆ρ = (keff2 - keff1) / (keff2 * keff1) ∆ρ = (0.876 – 0.91) / (0.876 * 0.91) ∆ρ = - 0.0427"
+      },
+      {
+        "answer": "c. ∆ρ = - 0.06",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: CR1 / CR2 = (1 – keff2) / (1 - keff1) 1000 / 725 = (1- keff2) / (1 – 0.92) Therefore: keff2 = 0.876 ∆ρ = (keff2 - keff1) / (keff2 * keff1) ∆ρ = (0.876 – 0.91) / (0.876 * 0.91) ∆ρ = - 0.0427"
+      },
+      {
+        "answer": "d. ∆ρ = + 0.08",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: CR1 / CR2 = (1 – keff2) / (1 - keff1) 1000 / 725 = (1- keff2) / (1 – 0.92) Therefore: keff2 = 0.876 ∆ρ = (keff2 - keff1) / (keff2 * keff1) ∆ρ = (0.876 – 0.91) / (0.876 * 0.91) ∆ρ = - 0.0427"
+      }
+    ]
+  },
+  {
+    "question": "A.03 [1.0 point] All atoms of a given element have the same ______________.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Atomic Mass",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1, page 4"
+      },
+      {
+        "answer": "b. Atomic Number",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1, page 4"
+      },
+      {
+        "answer": "c. Mass Number",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1, page 4"
+      },
+      {
+        "answer": "d. Number of Neutrons",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1, page 4"
+      }
+    ]
+  },
+  {
+    "question": "A.04 [1.0 point] Which ONE of the following describes Integral Rod Worth?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The remaining reactivity worth of a rod up to the point of withdrawal",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.4, page 3-32"
+      },
+      {
+        "answer": "b. The plot of the slope of the change in reactivity over the change in rod position (Δρ/Δx)",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.4, page 3-32"
+      },
+      {
+        "answer": "c. The reactivity change per unit movement of a rod.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.4, page 3-32"
+      },
+      {
+        "answer": "d. The total reactivity worth of the rod at a particular degree of withdrawal",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.4, page 3-32"
+      }
+    ]
+  },
+  {
+    "question": "A.05 [1.0 point] Which ONE of the following is an example of a FISSILE material?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Thorium-232",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: NRC Glossary, Fertile material, Fissionable material, Fissile material"
+      },
+      {
+        "answer": "b. Uranium-233",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: NRC Glossary, Fertile material, Fissionable material, Fissile material"
+      },
+      {
+        "answer": "c. Uranium-238",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: NRC Glossary, Fertile material, Fissionable material, Fissile material"
+      },
+      {
+        "answer": "d. Plutonium-240",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: NRC Glossary, Fertile material, Fissionable material, Fissile material"
+      }
+    ]
+  },
+  {
+    "question": "A.06 [1.0 point] Given a reactor period of 38 seconds, approximately how long will it take power to quadruple?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 33 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P = P0et/T 4 = 1 · et/38 t = 38 · ln(4) t = 52.7 sec"
+      },
+      {
+        "answer": "b. 46 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P = P0et/T 4 = 1 · et/38 t = 38 · ln(4) t = 52.7 sec"
+      },
+      {
+        "answer": "c. 53 seconds",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: P = P0et/T 4 = 1 · et/38 t = 38 · ln(4) t = 52.7 sec"
+      },
+      {
+        "answer": "d. 99 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P = P0et/T 4 = 1 · et/38 t = 38 · ln(4) t = 52.7 sec"
+      }
+    ]
+  },
+  {
+    "question": "A.07 [1.0 point] What is the fraction of thermal neutrons absorbed in U-235 by fission? Given Isotope 92U²³⁵, σᵳ = 577 barns, σc = 106 barns. Note: σᵳ = fission cross section, σc = capture cross section",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.16",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.2, page 3-2. U-235 Fission Capture = σᵳ /(σᵳ + σc) = 577/(577+106) = 0.84"
+      },
+      {
+        "answer": "b. 0.18",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.2, page 3-2. U-235 Fission Capture = σᵳ /(σᵳ + σc) = 577/(577+106) = 0.84"
+      },
+      {
+        "answer": "c. 0.54",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.2, page 3-2. U-235 Fission Capture = σᵳ /(σᵳ + σc) = 577/(577+106) = 0.84"
+      },
+      {
+        "answer": "d. 0.84",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.2, page 3-2. U-235 Fission Capture = σᵳ /(σᵳ + σc) = 577/(577+106) = 0.84"
+      }
+    ]
+  },
+  {
+    "question": "A.08 [1.0 point] The primary purpose of ____________ material is thermalizing neutrons.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Moderator",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 2, page 23"
+      },
+      {
+        "answer": "b. Reflector",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 2, page 23"
+      },
+      {
+        "answer": "c. Fissile",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 2, page 23"
+      },
+      {
+        "answer": "d. Fertile",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 2, page 23"
+      }
+    ]
+  },
+  {
+    "question": "A.09 [1.0 point] During fission of U-235, the majority of energy is released in the form of which ONE of the following?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Fission neutrons",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Sections 3.2.1, page 3-5"
+      },
+      {
+        "answer": "b. Neutrinos",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Sections 3.2.1, page 3-5"
+      },
+      {
+        "answer": "c. Capture gamma rays",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Sections 3.2.1, page 3-5"
+      },
+      {
+        "answer": "d. Fission fragments",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Sections 3.2.1, page 3-5"
+      }
+    ]
+  },
+  {
+    "question": "A.10 [1.0 point, 0.25 each] Match the following statements in Column A with the result in Column B to complete the following statements. Answers in Column B may be used once, more than once, or not at all. As moderator temperature increases, [Column A] [Column B].",
+    "type": "matching",
+    "parts": [
+      {
+        "statement": "a. Control Rod Worth",
+        "answer": "1. Increases"
+      },
+      {
+        "statement": "b. Thermal non-leakage probability",
+        "answer": "2. Decreases"
+      },
+      {
+        "statement": "c. Fast non-leakage probability",
+        "answer": "2. Decreases"
+      },
+      {
+        "statement": "d. Resonance escape probability",
+        "answer": "2. Decreases"
+      }
+    ],
+    "feedback": "REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.3.2, page 3-18."
+  },
+  {
+    "question": "A.11 [1.0 point] What is the typical value of prompt neutron generation time?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 15 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 5.4"
+      },
+      {
+        "answer": "b. 1 second",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 5.4"
+      },
+      {
+        "answer": "c. 0.1 second",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 5.4"
+      },
+      {
+        "answer": "d. 1 E-4 seconds",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 5.4"
+      }
+    ]
+  },
+  {
+    "question": "A.12 [1.0 point] Which ONE of the following isotopes has the largest microscopic absorption cross-section for thermal neutrons?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Boron-10",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 8.1"
+      },
+      {
+        "answer": "b. Xenon-135",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 8.1"
+      },
+      {
+        "answer": "c. Samarium-149",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 8.1"
+      },
+      {
+        "answer": "d. Uranium-235",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 8.1"
+      }
+    ]
+  },
+  {
+    "question": "A.13 [1.0 point] The reactor is on a constant period. Which ONE of the following changes in reactor power would take the SHORTEST time?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 5% — from 1% to 6%",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P = P0 et/τ Ln(P/P0) = t/τ Since you are looking for which would take the SHORTEST time, the ratio P/P0 must be the smallest value."
+      },
+      {
+        "answer": "b. 15% — from 20% to 35%",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P = P0 et/τ Ln(P/P0) = t/τ Since you are looking for which would take the SHORTEST time, the ratio P/P0 must be the smallest value."
+      },
+      {
+        "answer": "c. 20% — from 40% to 60%",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: P = P0 et/τ Ln(P/P0) = t/τ Since you are looking for which would take the SHORTEST time, the ratio P/P0 must be the smallest value."
+      },
+      {
+        "answer": "d. 25% — from 75% to 100%",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: P = P0 et/τ Ln(P/P0) = t/τ Since you are looking for which would take the SHORTEST time, the ratio P/P0 must be the smallest value."
+      }
+    ]
+  },
+  {
+    "question": "A.14 [1.0 point] Which ONE of the following parameters is MOST significant in determining the differential rod worth of a control rod?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. Flux shape",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 7.2"
+      },
+      {
+        "answer": "b. Rod speed",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 7.2"
+      },
+      {
+        "answer": "c. Reactor power",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 7.2"
+      },
+      {
+        "answer": "d. Fuel temperature",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 7.2"
+      }
+    ]
+  },
+  {
+    "question": "A.15 [1.0 point] When large negative reactivity is inserted in the core, reactor power decreases by radioactive decay of the longest-lived source of delayed neutrons, Br-87, with a 55 second half-life. What is the shutdown period (T)?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. +49 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 1.3.3, page 1-6. P(t) = P(o) eᵗ/τ = P(o) X exp(-0.693t/T2); t/T = -0.693t/T2; T = -T2/0.693 = -55/0.693 = -79.37 sec"
+      },
+      {
+        "answer": "b. -50 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 1.3.3, page 1-6. P(t) = P(o) eᵗ/τ = P(o) X exp(-0.693t/T2); t/T = -0.693t/T2; T = -T2/0.693 = -55/0.693 = -79.37 sec"
+      },
+      {
+        "answer": "c. -79 seconds",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 1.3.3, page 1-6. P(t) = P(o) eᵗ/τ = P(o) X exp(-0.693t/T2); t/T = -0.693t/T2; T = -T2/0.693 = -55/0.693 = -79.37 sec"
+      },
+      {
+        "answer": "d. +86 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 1.3.3, page 1-6. P(t) = P(o) eᵗ/τ = P(o) X exp(-0.693t/T2); t/T = -0.693t/T2; T = -T2/0.693 = -55/0.693 = -79.37 sec"
+      }
+    ]
+  },
+  {
+    "question": "A.16 [1.0 point] A reactor contains a neutron source of 1200 neutrons/second. If the stable total neutron production rate is 4800 neutrons/second, what is the value of keff?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.60",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Source CR = (S) / (1 – keff); (1200) / (1 - keff) = 4800; keff = 0.75 DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 4, page 4"
+      },
+      {
+        "answer": "b. 0.75",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Source CR = (S) / (1 – keff); (1200) / (1 - keff) = 4800; keff = 0.75 DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 4, page 4"
+      },
+      {
+        "answer": "c. 0.80",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Source CR = (S) / (1 – keff); (1200) / (1 - keff) = 4800; keff = 0.75 DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 4, page 4"
+      },
+      {
+        "answer": "d. 0.95",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Source CR = (S) / (1 – keff); (1200) / (1 - keff) = 4800; keff = 0.75 DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 4, page 4"
+      }
+    ]
+  },
+  {
+    "question": "A.17 [1.0 point] Define β:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. The total fraction of delayed neutrons weighted by the percent of all neutrons contributed by the fuel.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1, page 30"
+      },
+      {
+        "answer": "b. The fraction of neutrons at thermal energies which were born as delayed neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1, page 30"
+      },
+      {
+        "answer": "c. The total fraction of all neutrons born as delayed neutrons.",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1, page 30"
+      },
+      {
+        "answer": "d. The fraction of neutrons at fast energies which were born as delayed neutrons.",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1, page 30"
+      }
+    ]
+  },
+  {
+    "question": "A.18 [1.0 point] Delayed neutrons contribute more to reactor stability than prompt neutrons because they are born at a ____________ kinetic energy and ____________ the average neutron generation time.",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. lower/increase",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.2.4 & 3.4.4, pages 3-12 & 3-33"
+      },
+      {
+        "answer": "b. higher/increase",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.2.4 & 3.4.4, pages 3-12 & 3-33"
+      },
+      {
+        "answer": "c. higher/decrease",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.2.4 & 3.4.4, pages 3-12 & 3-33"
+      },
+      {
+        "answer": "d. lower/decrease",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.2.4 & 3.4.4, pages 3-12 & 3-33"
+      }
+    ]
+  },
+  {
+    "question": "A.19 [1.0 point] If 0.141% Δk/k of positive reactivity is suddenly inserted into a critical reactor core, what will be the steady state reactor period? (Assume: B = 0.0072)",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 37 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: ρ = 0.00141; T = (0.0072 – 0.00141) / (0.1 * 0.00141) T = 41.06 seconds"
+      },
+      {
+        "answer": "b. 52 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: ρ = 0.00141; T = (0.0072 – 0.00141) / (0.1 * 0.00141) T = 41.06 seconds"
+      },
+      {
+        "answer": "c. 41 seconds",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: ρ = 0.00141; T = (0.0072 – 0.00141) / (0.1 * 0.00141) T = 41.06 seconds"
+      },
+      {
+        "answer": "d. 80 seconds",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: ρ = 0.00141; T = (0.0072 – 0.00141) / (0.1 * 0.00141) T = 41.06 seconds"
+      }
+    ]
+  },
+  {
+    "question": "A.20 [1.0 point] The moderator temperature coefficient for a reactor is -0.00071 ∆k/k/oF. What is the total reactivity change caused by a temperature decrease of 75oF?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "a. 0.00218",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Handbook Nuclear Physics & Reactor Theory, Volume 2, Section “Reactivity”, Subsection “Reactivity Coefficients and Reactivity Defect”, page 21, ∆ρ = αT*∆T = (-0.00071 ∆k/k /oF) * (-75oF) = 0.05325∆k/k"
+      },
+      {
+        "answer": "b. 0.00376",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Handbook Nuclear Physics & Reactor Theory, Volume 2, Section “Reactivity”, Subsection “Reactivity Coefficients and Reactivity Defect”, page 21, ∆ρ = αT*∆T = (-0.00071 ∆k/k /oF) * (-75oF) = 0.05325∆k/k"
+      },
+      {
+        "answer": "c. 0.04211",
+        "correct": false,
+        "feedback": "Incorrect. REFERENCE: DOE Handbook Nuclear Physics & Reactor Theory, Volume 2, Section “Reactivity”, Subsection “Reactivity Coefficients and Reactivity Defect”, page 21, ∆ρ = αT*∆T = (-0.00071 ∆k/k /oF) * (-75oF) = 0.05325∆k/k"
+      },
+      {
+        "answer": "d. 0.05325",
+        "correct": true,
+        "feedback": "Correct. REFERENCE: DOE Handbook Nuclear Physics & Reactor Theory, Volume 2, Section “Reactivity”, Subsection “Reactivity Coefficients and Reactivity Defect”, page 21, ∆ρ = αT*∆T = (-0.00071 ∆k/k /oF) * (-75oF) = 0.05325∆k/k"
+      }
+    ]
+  }
+]
