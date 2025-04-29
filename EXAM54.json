@@ -1,0 +1,522 @@
+[
+    {
+        "question": "A.01 [1.0 point] During Reg Rod calibration, doubling time was recorded to be 78 seconds. What was reactor period?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 39 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: T= Doubling Time/ln(2)= 78 seconds/0.693= 112.55 ≈113 seconds"
+            },
+            {
+                "answer": "b. 54 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: T= Doubling Time/ln(2)= 78 seconds/0.693= 112.55 ≈113 seconds"
+            },
+            {
+                "answer": "c. 113 seconds",
+                "correct": true,
+                "feedback": "Correct. REF: T= Doubling Time/ln(2)= 78 seconds/0.693= 112.55 ≈113 seconds"
+            },
+            {
+                "answer": "d. 156 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: T= Doubling Time/ln(2)= 78 seconds/0.693= 112.55 ≈113 seconds"
+            }
+        ]
+    },
+    {
+        "question": "A.02 [1.0 point] While a reactor is at 5 W, the reactor operator is withdrawing a control rod to insert a positive reactivity of 0.00156(∆K/K). Which ONE of the following will be the stable reactor period as a result of this withdrawal? Given beta-effective= 0.0073 and ʎeff= 0.1.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 17 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reactivity added= 156 pcm= 0.00156 ∆k/k T=(β-ρ)/λet1p=(0.0073- 0.00156)/((0.1)*(0.00156))= 37 seconds"
+            },
+            {
+                "answer": "b. 27 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reactivity added= 156 pcm= 0.00156 ∆k/k T=(β-ρ)/λet1p=(0.0073- 0.00156)/((0.1)*(0.00156))= 37 seconds"
+            },
+            {
+                "answer": "c. 37 seconds",
+                "correct": true,
+                "feedback": "Correct. REF: Reactivity added= 156 pcm= 0.00156 ∆k/k T=(β-ρ)/λet1p=(0.0073- 0.00156)/((0.1)*(0.00156))= 37 seconds"
+            },
+            {
+                "answer": "d. 47 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Reactivity added= 156 pcm= 0.00156 ∆k/k T=(β-ρ)/λet1p=(0.0073- 0.00156)/((0.1)*(0.00156))= 37 seconds"
+            }
+        ]
+    },
+    {
+        "question": "A.03 [1.0 point] What is the meaning of any point on a differential rod worth curve?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The negative reactivity added as the rod is inserted.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Example 7.2(b), page 7-4."
+            },
+            {
+                "answer": "b. The cumulative area under the differential curve starting from the bottom of the core.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Example 7.2(b), page 7-4."
+            },
+            {
+                "answer": "c. The amount of reactivity that one inch of rod motion would insert at that position in the core.",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Example 7.2(b), page 7-4."
+            },
+            {
+                "answer": "d. The zero reactivity when the rod is on the bottom and the positive reactivity being added as the rod is withdrawn.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Example 7.2(b), page 7-4."
+            }
+        ]
+    },
+    {
+        "question": "A.04 [1.0 point] Which ONE of the following changes does NOT require a movement of control rods in order to maintain constant reactor power?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Pool water temperature decrease.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Problem 7.7.4, page 7-17."
+            },
+            {
+                "answer": "b. U-235 burnup.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Problem 7.7.4, page 7-17."
+            },
+            {
+                "answer": "c. Xe-135 buildup.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Problem 7.7.4, page 7-17."
+            },
+            {
+                "answer": "d. N-16 formation.",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Problem 7.7.4, page 7-17."
+            }
+        ]
+    },
+    {
+        "question": "A.05 [1.0 point] The effective multiplication factor(Keff) can be determined by dividing the number of neutrons produced from fission in the fourth generation by the number of neutrons produced from fission in the_________ generation.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. First",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 3.3.1, page 3-16."
+            },
+            {
+                "answer": "b. Second",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 3.3.1, page 3-16."
+            },
+            {
+                "answer": "c. Third",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Section 3.3.1, page 3-16."
+            },
+            {
+                "answer": "d. Fifth",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 3.3.1, page 3-16."
+            }
+        ]
+    },
+    {
+        "question": "A.06 [1.0 point] Most textbooks list β for a U235 fueled reactor as 0.0065 ΔK/K and βeff as being 0.0075 ΔK/K. What is a main reason that βeff is larger than β?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The fuel includes U238 which has a relatively large for fast fission.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 3.2.4, page. 3-12."
+            },
+            {
+                "answer": "b. Some U238 in the core becomes Pu239(by neutron absorption) which has a larger for fission.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 3.2.4, page. 3-12."
+            },
+            {
+                "answer": "c. Delayed neutrons are born at higher energies than prompt neutrons resulting in a greater worth for these neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 3.2.4, page. 3-12."
+            },
+            {
+                "answer": "d. Delayed neutrons are born at lower energies than prompt neutrons resulting in a less loss due to leakage for these neutrons.",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Section 3.2.4, page. 3-12."
+            }
+        ]
+    },
+    {
+        "question": "A.07 [1.0 point, 0.25 each] Match the items in Column A with the isotopes in Column B. The most important fission product poison is 135Xe. The process that shows how this isotope is formed and its decay is:",
+        "type": "matching",
+        "answers": [
+            {
+                "answer": "1 - d",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Figure 8.1, page 8-6."
+            },
+            {
+                "answer": "2 - c",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Figure 8.1, page 8-6."
+            },
+            {
+                "answer": "3 - b",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Figure 8.1, page 8-6."
+            },
+            {
+                "answer": "4 - a",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Figure 8.1, page 8-6."
+            }
+        ]
+    },
+    {
+        "question": "A.08 [1.0 point] INELASTIC scattering is the process by which a neutron collides with a nucleus and:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Is absorbed, with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Volume 1, NP-01, page 45."
+            },
+            {
+                "answer": "b. Recoils with the same kinetic energy it had prior to the collision.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Volume 1, NP-01, page 45."
+            },
+            {
+                "answer": "c. Recoils with a lower kinetic energy than it had prior to the collision, with the nucleus emitting gamma ray.",
+                "correct": true,
+                "feedback": "Correct. REF: DOE Volume 1, NP-01, page 45."
+            },
+            {
+                "answer": "d. Recoils with a higher kinetic energy than it had prior to the collision, with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Volume 1, NP-01, page 45."
+            }
+        ]
+    },
+    {
+        "question": "A.09 [1.0 point] Which ONE of the following is a number of neutrons in the Uranium-235 nucleus(92U235)?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 92.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Nuclides and Isotopes N= A – Z, 235-92= 143."
+            },
+            {
+                "answer": "b. 143.",
+                "correct": true,
+                "feedback": "Correct. REF: Nuclides and Isotopes N= A – Z, 235-92= 143."
+            },
+            {
+                "answer": "c. 235.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Nuclides and Isotopes N= A – Z, 235-92= 143."
+            },
+            {
+                "answer": "d. The U-235 doesn’t have a constant number of neutrons, it fluctuates between 95 and 140.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Nuclides and Isotopes N= A – Z, 235-92= 143."
+            }
+        ]
+    },
+    {
+        "question": "A.10 [1.0 point] Reactor period is defined as____________.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The time required for a reactor power to double.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Volume 2, NP-04, page 11."
+            },
+            {
+                "answer": "b. The time required for a reactor power to change by a factor of e.",
+                "correct": true,
+                "feedback": "Correct. REF: DOE Volume 2, NP-04, page 11."
+            },
+            {
+                "answer": "c. The number of factors of ten that reactor power changes in one minute.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Volume 2, NP-04, page 11."
+            },
+            {
+                "answer": "d. The fraction of all neutrons that are born as delayed neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Volume 2, NP-04, page 11."
+            }
+        ]
+    },
+    {
+        "question": "A.11 [1.0 point] Which ONE of the following describes the production of fission neutrons resulting from thermal neutrons being absorbed in the fuel?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Fast Non-Leakage Probability(Lf).",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Volume 2, NP-03, page 4."
+            },
+            {
+                "answer": "b. Resonance Escape Probability(p).",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Volume 2, NP-03, page 4."
+            },
+            {
+                "answer": "c. Thermal Utilization Factor(f).",
+                "correct": true,
+                "feedback": "Correct. REF: DOE Volume 2, NP-03, page 4."
+            },
+            {
+                "answer": "d. Reproduction Factor(η).",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Volume 2, NP-03, page 4."
+            }
+        ]
+    },
+    {
+        "question": "A.12 [1.0 point] If a source strength is 5000 neutrons per second(N/sec) and it produces the stable neutron count rate of 20000 N/sec. What is a multiplication factor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.70",
+                "correct": false,
+                "feedback": "Incorrect. REF: CR= S/(1-K) → 20000= 5000/(1- K)= 1- K= 5000/20000, or K= 0.75."
+            },
+            {
+                "answer": "b. 0.75",
+                "correct": true,
+                "feedback": "Correct. REF: CR= S/(1-K) → 20000= 5000/(1- K)= 1- K= 5000/20000, or K= 0.75."
+            },
+            {
+                "answer": "c. 0.85",
+                "correct": false,
+                "feedback": "Incorrect. REF: CR= S/(1-K) → 20000= 5000/(1- K)= 1- K= 5000/20000, or K= 0.75."
+            },
+            {
+                "answer": "d. 0.90",
+                "correct": false,
+                "feedback": "Incorrect. REF: CR= S/(1-K) → 20000= 5000/(1- K)= 1- K= 5000/20000, or K= 0.75."
+            }
+        ]
+    },
+    {
+        "question": "A.13 [1.0 point] Which ONE of the following is the major source of heat generation after an operating reactor has been shut down and cooled down for several days?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Resonance capture.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Vol. 2, NP-03, pg. 34."
+            },
+            {
+                "answer": "b. Fission fragment decay.",
+                "correct": true,
+                "feedback": "Correct. REF: DOE Fundamentals Handbook, Vol. 2, NP-03, pg. 34."
+            },
+            {
+                "answer": "c. Delayed neutron reactions.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Vol. 2, NP-03, pg. 34."
+            },
+            {
+                "answer": "d. Corrosion product activation.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Vol. 2, NP-03, pg. 34."
+            }
+        ]
+    },
+    {
+        "question": "A.14 [1.0 point] Control Rod withdrawal predominantly changes Keff by changing the_________.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Fast fission factor(ε).",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Section 3.3.2, page 3-18."
+            },
+            {
+                "answer": "b. Thermal utilization factor(f).",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, Section 3.3.2, page 3-18."
+            },
+            {
+                "answer": "c. Neutron reproduction factor(η).",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Section 3.3.2, page 3-18."
+            },
+            {
+                "answer": "d. Resonance escape probability(p).",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Section 3.3.2, page 3-18."
+            }
+        ]
+    },
+    {
+        "question": "A.15 [1.0 point] The reaction 93Np239 → _____+ 94Pu239 is an example of:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Alpha Decay",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Vol. 1, NP-01, page 24."
+            },
+            {
+                "answer": "b. Beta Decay",
+                "correct": true,
+                "feedback": "Correct. REF: DOE Fundamentals Handbook, Vol. 1, NP-01, page 24."
+            },
+            {
+                "answer": "c. Gamma Emission",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Vol. 1, NP-01, page 24."
+            },
+            {
+                "answer": "d. Electron Capture",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Fundamentals Handbook, Vol. 1, NP-01, page 24."
+            }
+        ]
+    },
+    {
+        "question": "A.16 [1.0 point] What is the effect of delayed neutrons on the neutron flux decay following a scram from full power?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Decreases the mean neutron lifetime.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 4.10.12.(c), pg. 4-33."
+            },
+            {
+                "answer": "b. Adds positive reactivity creating a greater shutdown margin.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 4.10.12.(c), pg. 4-33."
+            },
+            {
+                "answer": "c. The shortest-lived precursors cause power to decrease rapidly as they decay.",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Section 4.10.12.(c), pg. 4-33."
+            },
+            {
+                "answer": "d. Adds positive reactivity due to the fuel temperature decrease following the scram.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 4.10.12.(c), pg. 4-33."
+            }
+        ]
+    },
+    {
+        "question": "A.17 [1.0 point] The product of number density and microscopic cross section of an element is defined as:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Macroscopic Cross Section.",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Section 2.5.2, page 2-43."
+            },
+            {
+                "answer": "b. Thermal Cross Section.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 2.5.2, page 2-43."
+            },
+            {
+                "answer": "c. Mean Free Path.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 2.5.2, page 2-43."
+            },
+            {
+                "answer": "d. Decay Constant.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 2.5.2, page 2-43."
+            }
+        ]
+    },
+    {
+        "question": "A.18 [1.0 point] The longest-lived Delay Neutron Precursor group has a half-life of seconds.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.026",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Sec 3.2.2, Table 3.3, page 3-8."
+            },
+            {
+                "answer": "b. 0.10",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Sec 3.2.2, Table 3.3, page 3-8."
+            },
+            {
+                "answer": "c. 55",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Sec 3.2.2, Table 3.3, page 3-8."
+            },
+            {
+                "answer": "d. 80",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Sec 3.2.2, Table 3.3, page 3-8."
+            }
+        ]
+    },
+    {
+        "question": "A.19 [1.0 point] During a fuel loading of the core, as the reactor approaches criticality, the value of 1/M:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Increases toward one.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Table 5.5, page 5-15."
+            },
+            {
+                "answer": "b. Decreases toward one.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Table 5.5, page 5-15."
+            },
+            {
+                "answer": "c. Increases toward infinity.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Table 5.5, page 5-15."
+            },
+            {
+                "answer": "d. Decreases toward zero.",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Table 5.5, page 5-15."
+            }
+        ]
+    },
+    {
+        "question": "A.20 [1.0 point] The reactor is critical and increasing in power. Power has increased from 10 watts to 40 watts in 20 seconds. How long will it take at this rate for power to increase from 40 watts to 10 kW? Note: neglect the negative temperature coefficient.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 14 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: P= Poet/T 40= 10 exp(20 sec/T) period(T)= 14.4 sec 10000 watts= 40 watts*exp(time/14.4) time= 79.5 sec"
+            },
+            {
+                "answer": "b. 46 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: P= Poet/T 40= 10 exp(20 sec/T) period(T)= 14.4 sec 10000 watts= 40 watts*exp(time/14.4) time= 79.5 sec"
+            },
+            {
+                "answer": "c. 56 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: P= Poet/T 40= 10 exp(20 sec/T) period(T)= 14.4 sec 10000 watts= 40 watts*exp(time/14.4) time= 79.5 sec"
+            },
+            {
+                "answer": "d. 80 seconds",
+                "correct": true,
+                "feedback": "Correct. REF: P= Poet/T 40= 10 exp(20 sec/T) period(T)= 14.4 sec 10000 watts= 40 watts*exp(time/14.4) time= 79.5 sec"
+            }
+        ]
+    }
+]

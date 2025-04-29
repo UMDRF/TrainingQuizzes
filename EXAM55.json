@@ -1,0 +1,470 @@
+[
+    {
+        "question": "A.1 [1.0 points] Two common FISSION PRODUCTS that have especially large neutron capture cross sections and play a significant role in reactor physics are:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Xe-135 and B-10",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 8.1."
+            },
+            {
+                "answer": "b. Xe-135 and Cs-137",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 8.1."
+            },
+            {
+                "answer": "c. Xe-135 and Sm-149",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 8.1."
+            },
+            {
+                "answer": "d. B-10 and Sm-149",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 8.1."
+            }
+        ]
+    },
+    {
+        "question": "A.2 [1.0 point] Which of the following is the definition for reactivity(ρ)?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The measure of a reactor’s departure from criticality",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "b. The time required for power to change by a factor of “e”",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "c. The fraction of all fission neutrons that are born as delayed neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "d. The faction of number of neutrons of current generation and number of neutrons of the previous generation",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            }
+        ]
+    },
+    {
+        "question": "A.3 [1.0 point] Five minutes following shutdown, reactor power is 3 H 106 counts per minute(cpm). Which ONE of the following is the count rate(cpm) three minutes later?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 2 x 10^6",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P = Poet/τ x = 3 x 10^6 * e^(180/-80) x = 3 x 10^6 * 0.105 = 3.15 x 10^5."
+            },
+            {
+                "answer": "b. 8 H 10^5",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P = Poet/τ x = 3 x 10^6 * e^(180/-80) x = 3 x 10^6 * 0.105 = 3.15 x 10^5."
+            },
+            {
+                "answer": "c. 5 H 10^5",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P = Poet/τ x = 3 x 10^6 * e^(180/-80) x = 3 x 10^6 * 0.105 = 3.15 x 10^5."
+            },
+            {
+                "answer": "d. 3 H 10^5",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: P = Poet/τ x = 3 x 10^6 * e^(180/-80) x = 3 x 10^6 * 0.105 = 3.15 x 10^5."
+            }
+        ]
+    },
+    {
+        "question": "A.4 [1.0 point] Reactor is at full power. The operator immediately scrams all control rods into the core. This IMMEDIATE insertion of all control rods will cause: Given: T: reactor period, ℓ*: Prompt neutron lifetime; ρ: reactivity insertion; β: beta fraction",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The delayed period to be equal to POSITIVE 80 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6, page 4-17."
+            },
+            {
+                "answer": "b. A number of prompt neutrons equals to a number of delayed neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6, page 4-17."
+            },
+            {
+                "answer": "c. The immediate period to be a function of the prompt neutron lifetime(T=ℓ*/ρ)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6, page 4-17."
+            },
+            {
+                "answer": "d. A sudden change of power that equals to the initial power multiplied by β(1- ρ)/(β-ρ)",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 4.6, page 4-17."
+            }
+        ]
+    },
+    {
+        "question": "A.5 [1.0 point] Given the associated graph, which of the following answers best describe the neutron behavior within Region II?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The neutron cross section is inversely proportional to the neutron velocity(1/V)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "b. The neutron cross section decreases steadily with increasing neutron energy(1/E)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "c. Neutrons of specific energy levels(e.g., 50 ev, 100 kev) have more likely leakage from the reactor core",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "d. Neutrons of specific energy levels(e.g., 50 ev, 100 kev) are more likely to be absorbed than neutrons at other energy levels",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            }
+        ]
+    },
+    {
+        "question": "A.6 [1.0 point] Given a source strength of 200 neutrons per second(N/sec) and a multiplication factor of 0.9, which ONE of the following is the expected stable neutron count rate?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 180 N/sec",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: CR = S/(1-K) → CR = 200/(1-.9) = 2000."
+            },
+            {
+                "answer": "b. 1800 N/sec",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: CR = S/(1-K) → CR = 200/(1-.9) = 2000."
+            },
+            {
+                "answer": "c. 2000 N/sec",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: CR = S/(1-K) → CR = 200/(1-.9) = 2000."
+            },
+            {
+                "answer": "d. 4000 N/sec",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: CR = S/(1-K) → CR = 200/(1-.9) = 2000."
+            }
+        ]
+    },
+    {
+        "question": "A.7 [1.0 point] Assume all rods are scrammable. The SHUTDOWN MARGIN in accordance with the UUTR Technical Specifications for this core is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. $1.5",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Tech Spec SDM = 3 rod worth removed at critical – most reactivity control rod worth = $7.5 - $3.5 = $4.0 or Tech Spec SDM = total rod worth – (3(rod excesses) + most reactivity control rod worth) = $9.0 – ($1.5 + $3.5) = $4.0."
+            },
+            {
+                "answer": "b. $4.0",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Tech Spec SDM = 3 rod worth removed at critical – most reactivity control rod worth = $7.5 - $3.5 = $4.0 or Tech Spec SDM = total rod worth – (3(rod excesses) + most reactivity control rod worth) = $9.0 – ($1.5 + $3.5) = $4.0."
+            },
+            {
+                "answer": "c. $5.5",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Tech Spec SDM = 3 rod worth removed at critical – most reactivity control rod worth = $7.5 - $3.5 = $4.0 or Tech Spec SDM = total rod worth – (3(rod excesses) + most reactivity control rod worth) = $9.0 – ($1.5 + $3.5) = $4.0."
+            },
+            {
+                "answer": "d. $6.0",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Tech Spec SDM = 3 rod worth removed at critical – most reactivity control rod worth = $7.5 - $3.5 = $4.0 or Tech Spec SDM = total rod worth – (3(rod excesses) + most reactivity control rod worth) = $9.0 – ($1.5 + $3.5) = $4.0."
+            }
+        ]
+    },
+    {
+        "question": "A.8 [1.0 point] The reactor is critical at 5 watts. Which ONE of the following correctly describes the reactor behavior when a reactivity worth of 0.01 delta K/K is IMMEDIATELY inserted to the reactor core?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Subcritical",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2 0.01 delta-K/K > 0.007, so reactor is prompt critical."
+            },
+            {
+                "answer": "b. Critical",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2 0.01 delta-K/K > 0.007, so reactor is prompt critical."
+            },
+            {
+                "answer": "c. Supercritical",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2 0.01 delta-K/K > 0.007, so reactor is prompt critical."
+            },
+            {
+                "answer": "d. Prompt critical",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2 0.01 delta-K/K > 0.007, so reactor is prompt critical."
+            }
+        ]
+    },
+    {
+        "question": "A.9 [1.0 point] Which ONE of the following correctly describes the SIX-FACTOR FORMULA?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. K4 = Keff * the reproduction factor(η)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Handbook Vol 2, L Theory(Nuclear Parameters), E.O. 1.1 a&b, pg. 9."
+            },
+            {
+                "answer": "b. K4 = Keff * the total non-leakage probability(‹f H ‹th)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Handbook Vol 2, L Theory(Nuclear Parameters), E.O. 1.1 a&b, pg. 9."
+            },
+            {
+                "answer": "c. Keff = K4 * the total non-leakage probability(‹f H ‹th)",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Handbook Vol 2, L Theory(Nuclear Parameters), E.O. 1.1 a&b, pg. 9."
+            },
+            {
+                "answer": "d. Keff = K4 * (the resonance escape probability(p) * the reproduction factor(η))",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Handbook Vol 2, L Theory(Nuclear Parameters), E.O. 1.1 a&b, pg. 9."
+            }
+        ]
+    },
+    {
+        "question": "A.10 [1.0 point] Which ONE of the following correctly describes the effect of reactor reactivity when the fuel temperature increases?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. There is no reactivity effect when fuel temperature increases",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "b. The increase in fuel temperature will begin to create a positive reactivity effect",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "c. The increase in fuel temperature will begin to create a negative reactivity effect",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            },
+            {
+                "answer": "d. As the fuel heats up the void in fuel increases, thereby, creating a positive reactivity effect",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory Vol. 2."
+            }
+        ]
+    },
+    {
+        "question": "A.11 [1.0 point] The following shows part of a decay chain for the radioactive element Radon(Rn). This decay chain is a good example of___ decay.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Alpha",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Chart of the Nuclides."
+            },
+            {
+                "answer": "b. Beta",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Chart of the Nuclides."
+            },
+            {
+                "answer": "c. Gamma",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Chart of the Nuclides."
+            },
+            {
+                "answer": "d. Neutron",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Chart of the Nuclides."
+            }
+        ]
+    },
+    {
+        "question": "A.12 [1.0 point] Given a reactor period of 22 seconds, approximately how long will it take for power to triple?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 10 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P = Poet/τ 3 = 1 * et/22 t = 22 sec * ln(3) = 24.2 sec."
+            },
+            {
+                "answer": "b. 24 seconds",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: P = Poet/τ 3 = 1 * et/22 t = 22 sec * ln(3) = 24.2 sec."
+            },
+            {
+                "answer": "c. 36 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P = Poet/τ 3 = 1 * et/22 t = 22 sec * ln(3) = 24.2 sec."
+            },
+            {
+                "answer": "d. 66 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P = Poet/τ 3 = 1 * et/22 t = 22 sec * ln(3) = 24.2 sec."
+            }
+        ]
+    },
+    {
+        "question": "A.13 [1.0 point] Which ONE of the following elements will slow down fast neutrons most quickly, i.e. produces the greatest energy loss per collision?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Uranium-238",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Handbook Vol. 1 Section 3.0."
+            },
+            {
+                "answer": "b. Oxygen-16",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Handbook Vol. 1 Section 3.0."
+            },
+            {
+                "answer": "c. Boron-10",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: DOE Handbook Vol. 1 Section 3.0."
+            },
+            {
+                "answer": "d. Hydrogen-1",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Handbook Vol. 1 Section 3.0."
+            }
+        ]
+    },
+    {
+        "question": "A.14 [1.0 point] Which ONE of the following conditions will DECREASE the shutdown margin of a reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Increase moderator temperature(Assume negative temperature coefficient)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Increasing the core excess results a decrease in shutdown margin."
+            },
+            {
+                "answer": "b. Insertion of a negative reactivity worth experiment",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Increasing the core excess results a decrease in shutdown margin."
+            },
+            {
+                "answer": "c. Burnout of a burnable poison",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Increasing the core excess results a decrease in shutdown margin."
+            },
+            {
+                "answer": "d. Fuel depletion",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Increasing the core excess results a decrease in shutdown margin."
+            }
+        ]
+    },
+    {
+        "question": "A.15 [1.0 point] Which ONE of the following is the most correct reason for having an installed neutron source within the core?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The chain reaction in the reactor core would NOT start",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: NRC Standard Question."
+            },
+            {
+                "answer": "b. The startup channel would NEVER indicate neutron population",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: NRC Standard Question."
+            },
+            {
+                "answer": "c. The compensating voltage on the source range detector doesn’t work",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: NRC Standard Question."
+            },
+            {
+                "answer": "d. The reactor could result in a sudden increase in power if the control rods were pulled out far enough",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: NRC Standard Question."
+            }
+        ]
+    },
+    {
+        "question": "A.16 [1.0 point] Which ONE of the following is the principle source of heat in the reactor after a shutdown from extended operation at 100 kW?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Decay of fission products",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, page 4-33."
+            },
+            {
+                "answer": "b. Spontaneous fission of U 238",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, page 4-33."
+            },
+            {
+                "answer": "c. Production of delayed neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, page 4-33."
+            },
+            {
+                "answer": "d. Production of prompt gamma rays",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, page 4-33."
+            }
+        ]
+    },
+    {
+        "question": "A.17 [1.0 point] During the time following a reactor scram, reactor power decreases on a negative 80 second period. Which ONE of the following is the correspondence of the half-life of the longest-lived delayed neutron precursors?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 80 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Group 1 is the longest-lived delayed neutron precursor for thermal fission in U-235, with a half-life of 55.72 sec. Lamarsh, J. “Introduction to Nuclear Engineering” p. 88."
+            },
+            {
+                "answer": "b. 55 seconds",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Group 1 is the longest-lived delayed neutron precursor for thermal fission in U-235, with a half-life of 55.72 sec. Lamarsh, J. “Introduction to Nuclear Engineering” p. 88."
+            },
+            {
+                "answer": "c. 40 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Group 1 is the longest-lived delayed neutron precursor for thermal fission in U-235, with a half-life of 55.72 sec. Lamarsh, J. “Introduction to Nuclear Engineering” p. 88."
+            },
+            {
+                "answer": "d. 20 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Group 1 is the longest-lived delayed neutron precursor for thermal fission in U-235, with a half-life of 55.72 sec. Lamarsh, J. “Introduction to Nuclear Engineering” p. 88."
+            }
+        ]
+    },
+    {
+        "question": "A.18 [1.0 point] Use Figure 3.3 attached. Calculate the effective delayed neutron fraction(β-effective). At birth energies, there are 65 delayed neutrons and 9935 prompt neutrons. In the process of slowing down, there are only 56 delayed neutrons and 7352 prompt neutrons at the thermal range. The resultant β-effective of Figure 3.3 is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.00654",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: β-effective = 56 / (56 + 7352) = 0.00756."
+            },
+            {
+                "answer": "b. 0.00756",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: β-effective = 56 / (56 + 7352) = 0.00756."
+            },
+            {
+                "answer": "c. 0.00762",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: β-effective = 56 / (56 + 7352) = 0.00756."
+            },
+            {
+                "answer": "d. 0.00348",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: β-effective = 56 / (56 + 7352) = 0.00756."
+            }
+        ]
+    }
+]
