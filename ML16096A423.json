@@ -1,0 +1,522 @@
+[
+    {
+        "question": "A.01 [1.0 point] A process whereby a neutron collides with a ground state nucleus, imparts kinetic energy to the nucleus, and leaves the nucleus in ground state is called:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Fission Process.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 2.4.5, page 2-29."
+            },
+            {
+                "answer": "b. Radiative Capture.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 2.4.5, page 2-29."
+            },
+            {
+                "answer": "c. Inelastic Scattering.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 2.4.5, page 2-29."
+            },
+            {
+                "answer": "d. Elastic Scattering.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 2.4.5, page 2-29."
+            }
+        ]
+    },
+    {
+        "question": "A.02 [1.0 point] A reactor operator accidently inserted a sample worth 1.0% ∆K/K into the reactor core, resulting an instantaneous change in power. Which ONE of the following best describes the values of K-effective(Keff) and ρ during the power increment?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Keff= 1 and 0< ρ< 1",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2, page 4-1."
+            },
+            {
+                "answer": "b. Keff> 1 and 0< ρ< β-eff",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2, page 4-1."
+            },
+            {
+                "answer": "c. Keff> 1 and β-eff< ρ< 1",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2, page 4-1."
+            },
+            {
+                "answer": "d. Keff> 1 and 1< ρ< infinity(∞)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 4.2, page 4-1."
+            }
+        ]
+    },
+    {
+        "question": "A.03 [1.0 point] During a reactor startup, the reactor operator observes the current position of the control rods is LOWER than the last startup. Which ONE of the following reasons could be the cause?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Higher moderator temperature(assume negative temperature coefficient)",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Standard NRC question."
+            },
+            {
+                "answer": "b. Insertion of a negative reactivity worth experiment",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Standard NRC question."
+            },
+            {
+                "answer": "c. Burnout of xenon",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Standard NRC question."
+            },
+            {
+                "answer": "d. Fuel depletion",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Standard NRC question."
+            }
+        ]
+    },
+    {
+        "question": "A.04 [1.0 point] The product of number density and microscopic cross section of an element is defined as:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Macroscopic Cross Section.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 2.5.2, page 2-43."
+            },
+            {
+                "answer": "b. Maximum Cross Section.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 2.5.2, page 2-43."
+            },
+            {
+                "answer": "c. Thermal Cross Section.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 2.5.2, page 2-43."
+            },
+            {
+                "answer": "d. Decay Constant.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 2.5.2, page 2-43."
+            }
+        ]
+    },
+    {
+        "question": "A.05 [1.0 point] Reactor A with a Keff of 0.1 and reactor B with a Keff of 0.6, Keff is increased by 0.1 for each reactor. The amount of reactivity added in reactor A is______ in reactor B for the same increment.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. less than",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {
+                "answer": "b. the same",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {
+                "answer": "c. six times more",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            },
+            {
+                "answer": "d. twenty-one times more",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.3.3, page 3-21."
+            }
+        ]
+    },
+    {
+        "question": "A.06 [1.0 point] Which ONE of the following correctly describes the SIX- FACTOR FORMULA?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. K∞= Keff* the utilization factor",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3."
+            },
+            {
+                "answer": "b. Keff= K∞* the total leakage probability",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3."
+            },
+            {
+                "answer": "c. K∞= Keff* the total non-leakage probability",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3."
+            },
+            {
+                "answer": "d. Keff= K∞* the total non-leakage probability",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3."
+            }
+        ]
+    },
+    {
+        "question": "A.07 [1.0 point] Which ONE of the following describes the term PROMPT JUMP?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. A reactor is increasing power at a constant rate of 10 second period.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 4.7, Page 4-21."
+            },
+            {
+                "answer": "b. The instantaneous change in power when a reactor operator removes a fuel element.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 4.7, Page 4-21."
+            },
+            {
+                "answer": "c. The instantaneous change in power when a reactor operator inserts a negative worth,-0.3%∆k/k, of experiment into the reactor core.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 4.7, Page 4-21."
+            },
+            {
+                "answer": "d. The instantaneous change in power level when a reactor operator withdraws a control rod.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 4.7, Page 4-21."
+            }
+        ]
+    },
+    {
+        "question": "A.08 [1.0 point] Which ONE of the following best describes the beta-plus decay(β+1) of a nuclide?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The atomic mass number unchanged, and the number of protons decreases by 1.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 2.8, Page 2-61."
+            },
+            {
+                "answer": "b. The atomic mass number unchanged, and the number of protons increases by 1.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 2.8, Page 2-61."
+            },
+            {
+                "answer": "c. The atomic mass number increases by 1, and the number of protons decrease by 1.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 2.8, Page 2-61."
+            },
+            {
+                "answer": "d. The atomic mass number unchanged, and the number of neutrons increase by 1.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 2.8, Page 2-61."
+            }
+        ]
+    },
+    {
+        "question": "A.09 [1.0 point] Which ONE of the following describes the difference between prompt and delayed neutrons? Prompt neutrons:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. account for less than 1% of the neutron population, while delayed neutrons account for the rest.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.3.7, Page 3-27."
+            },
+            {
+                "answer": "b. are released during U-238 interactions with fast neutrons, while delayed neutrons are released during U-235 interactions with thermal neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.3.7, Page 3-27."
+            },
+            {
+                "answer": "c. are the dominating factor in determining reactor period, while delayed neutrons have little effect on reactor period.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.3.7, Page 3-27."
+            },
+            {
+                "answer": "d. are released during the fission process, while delayed neutrons are released during the decay process.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.3.7, Page 3-27."
+            }
+        ]
+    },
+    {
+        "question": "A.10 [1.0 point] A reactor is subcritical with a Keff of 0.927. If you add 7.875%∆k/k of positive reactivity into the core, the reactor will be:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. subcritical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: SDM=(1- keff)/keff=(1-0.927)/0.927= 0.07875 ∆k/k."
+            },
+            {
+                "answer": "b. just critical.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: SDM=(1- keff)/keff=(1-0.927)/0.927= 0.07875 ∆k/k."
+            },
+            {
+                "answer": "c. supercritical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: SDM=(1- keff)/keff=(1-0.927)/0.927= 0.07875 ∆k/k."
+            },
+            {
+                "answer": "d. prompt critical.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: SDM=(1- keff)/keff=(1-0.927)/0.927= 0.07875 ∆k/k."
+            }
+        ]
+    },
+    {
+        "question": "A.11 [1.0 point] The reactor is on a CONSTANT positive period. Which ONE of the following power changes will take the longest time to complete?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. from 95 kW to 100 kW",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Time is related to ratio of final power to initial power. 40/20=2 is the largest ratio."
+            },
+            {
+                "answer": "b. from 80 kW to 90 kW",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Time is related to ratio of final power to initial power. 40/20=2 is the largest ratio."
+            },
+            {
+                "answer": "c. from 60 kW to 80 kW",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Time is related to ratio of final power to initial power. 40/20=2 is the largest ratio."
+            },
+            {
+                "answer": "d. from 20 kW to 40 kW",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Time is related to ratio of final power to initial power. 40/20=2 is the largest ratio."
+            }
+        ]
+    },
+    {
+        "question": "A.12 [1.0 point] Delayed neutrons are produced by:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. decay of gamma.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2."
+            },
+            {
+                "answer": "b. Photoelectric Effect.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2."
+            },
+            {
+                "answer": "c. decay of fission fragments.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2."
+            },
+            {
+                "answer": "d. directly from the fission process.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1982, Sec 3.2."
+            }
+        ]
+    },
+    {
+        "question": "A.13 [1.0 points] The MAIN reason for operating a reactor with thermal neutrons instead of fast neutrons is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The fission cross section of the fuel is much higher for fast neutrons than thermal energy neutrons. Since fast neutrons are easier to cause fission, a reactor cannot control with fast neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39."
+            },
+            {
+                "answer": "b. The neutron lifetime of thermal neutrons is longer than fast neutrons, so the fuel has enough time to capture thermal neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39."
+            },
+            {
+                "answer": "c. The fission cross section of the fuel is much higher for thermal energy neutrons than fast neutrons, so thermal neutrons are easier to cause fission.",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39."
+            },
+            {
+                "answer": "d. The atomic weight of thermal neutrons is larger than fast neutrons, so thermal neutrons are easily to slow down and be captured by the fuel.",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction of Nuclear Reactor Operations, © 1982, Figure 2.6, page 2-39."
+            }
+        ]
+    },
+    {
+        "question": "A.14 [1.0 point] A reactor is subcritical with Keff of 0.955. Which ONE of the following is the MINIMUM reactivity (ΔK/K) that must be added to produce a PROMPT criticality? Given βeff=0.0078",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.0450",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: From k=0.955 to criticality(k=1), Δρ=(k-1)/k=-0.047 Δk/k or Δρ= 0.047 Δk/k needed to reach criticality. From criticality to JUST prompt, Δk/k= βeff required, so minimum reactivity added to produce prompt criticality will be: 0.047+0.0078= 0.0548."
+            },
+            {
+                "answer": "b. 0.0078",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: From k=0.955 to criticality(k=1), Δρ=(k-1)/k=-0.047 Δk/k or Δρ= 0.047 Δk/k needed to reach criticality. From criticality to JUST prompt, Δk/k= βeff required, so minimum reactivity added to produce prompt criticality will be: 0.047+0.0078= 0.0548."
+            },
+            {
+                "answer": "c. 0.0548",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: From k=0.955 to criticality(k=1), Δρ=(k-1)/k=-0.047 Δk/k or Δρ= 0.047 Δk/k needed to reach criticality. From criticality to JUST prompt, Δk/k= βeff required, so minimum reactivity added to produce prompt criticality will be: 0.047+0.0078= 0.0548."
+            },
+            {
+                "answer": "d. 0.1000",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: From k=0.955 to criticality(k=1), Δρ=(k-1)/k=-0.047 Δk/k or Δρ= 0.047 Δk/k needed to reach criticality. From criticality to JUST prompt, Δk/k= βeff required, so minimum reactivity added to produce prompt criticality will be: 0.047+0.0078= 0.0548."
+            }
+        ]
+    },
+    {
+        "question": "A.15 [1.0 point] Following a positive reactivity addition to a shutdown reactor, the neutron power will increase even though k-effective is less than 1. The MAIN reason is due to:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Production of fast neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, subcritical Multiplication process."
+            },
+            {
+                "answer": "b. Neutron moderation in the fuel",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, subcritical Multiplication process."
+            },
+            {
+                "answer": "c. Subcritical multiplication process",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, subcritical Multiplication process."
+            },
+            {
+                "answer": "d. Void temperature coefficient in the moderator",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, subcritical Multiplication process."
+            }
+        ]
+    },
+    {
+        "question": "A.16 [1.0 point, 0.33 each] Match the term listed in Column A with its corresponding units listed in column B. Answer in Column B can be used once, more than once, or not at all.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Microscopic Cross Section - 1/cm",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 2.6."
+            },
+            {
+                "answer": "a. Microscopic Cross Section - 10^-24 cm^2",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 2.6."
+            },
+            {
+                "answer": "b. Macroscopic Cross Section - 1/cm",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 2.6."
+            },
+            {
+                "answer": "c. Neutron Flux - Neutrons/cm^2/sec",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Sec 2.6."
+            }
+        ]
+    },
+    {
+        "question": "A.17 [1.0 point] Which ONE of the following is the stable reactor period which will result in a power rise from 1% to 100% power in 120 seconds?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 10 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P= P0 et/T --> T= t/Ln(P/ P0). T= 120/Ln(100); T= 26 sec."
+            },
+            {
+                "answer": "b. 13 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P= P0 et/T --> T= t/Ln(P/ P0). T= 120/Ln(100); T= 26 sec."
+            },
+            {
+                "answer": "c. 26 seconds",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: P= P0 et/T --> T= t/Ln(P/ P0). T= 120/Ln(100); T= 26 sec."
+            },
+            {
+                "answer": "d. 80 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: P= P0 et/T --> T= t/Ln(P/ P0). T= 120/Ln(100); T= 26 sec."
+            }
+        ]
+    },
+    {
+        "question": "A.18 [1.0 point] Given the following Core Reactivity Data during startup: Assume all control rods are scrammable. The SHUTDOWN margin defined by Tech Spec is ______(%∆k/k):",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 1.6",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Total rod worth at critical – the highest control rod worth 3.9 – 2.3=1.6%∆k/k."
+            },
+            {
+                "answer": "b. 2.5",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Total rod worth at critical – the highest control rod worth 3.9 – 2.3=1.6%∆k/k."
+            },
+            {
+                "answer": "c. 3.9",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Total rod worth at critical – the highest control rod worth 3.9 – 2.3=1.6%∆k/k."
+            },
+            {
+                "answer": "d. 6.4",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Total rod worth at critical – the highest control rod worth 3.9 – 2.3=1.6%∆k/k."
+            }
+        ]
+    },
+    {
+        "question": "A.19 [1.0 point] Two critical reactors at low power are identical, except that Reactor 1 has a beta fraction of 0.0065 and Reactor 2 has a beta fraction of 0.0072. Which ONE of the following best describes the response if an equal amount of positive reactivity is inserted into both reactors?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Period of the Reactor 1 will be longer than the period of the Reactor 2",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Equation Sheet. τ=(ℓ*/ρ)+[(β-ρ)/λeffρ]. Since the period of the reactor 1 is shorter than the reactor 2, the trace(power vs. time) of the Reactor 1 will be higher than the trace of the Reactor 2."
+            },
+            {
+                "answer": "b. The final power in the Reactor 1 will be lower than the final power in the Reactor 2",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Equation Sheet. τ=(ℓ*/ρ)+[(β-ρ)/λeffρ]. Since the period of the reactor 1 is shorter than the reactor 2, the trace(power vs. time) of the Reactor 1 will be higher than the trace of the Reactor 2."
+            },
+            {
+                "answer": "c. The trace(power vs. time) of the Reactor 1 will be higher than the trace of the Reactor 2",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Equation Sheet. τ=(ℓ*/ρ)+[(β-ρ)/λeffρ]. Since the period of the reactor 1 is shorter than the reactor 2, the trace(power vs. time) of the Reactor 1 will be higher than the trace of the Reactor 2."
+            },
+            {
+                "answer": "d. The trace(power vs. time) of the Reactor 1 will be identical to the trace of the Reactor 2",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Equation Sheet. τ=(ℓ*/ρ)+[(β-ρ)/λeffρ]. Since the period of the reactor 1 is shorter than the reactor 2, the trace(power vs. time) of the Reactor 1 will be higher than the trace of the Reactor 2."
+            }
+        ]
+    },
+    {
+        "question": "A.20 [1.0 point] An example of a FISSIONABLE NUCLEI is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Pu-239",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, 1988 Section 3.2 page 3-2."
+            },
+            {
+                "answer": "b. U-238",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, 1988 Section 3.2 page 3-2."
+            },
+            {
+                "answer": "c. U-235",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, 1988 Section 3.2 page 3-2."
+            },
+            {
+                "answer": "d. U-233",
+                "correct": false,
+                "feedback": "Incorrect. REFERENCE: Burn, R., Introduction to Nuclear Reactor Operations, 1988 Section 3.2 page 3-2."
+            }
+        ]
+    }
+]

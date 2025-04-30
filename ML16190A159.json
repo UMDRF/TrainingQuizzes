@@ -1,0 +1,522 @@
+[
+    {
+        "question": "A.01 [1.0 point] Tritium, produced via 2H(n,γ)3H, is a:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Low Energy Beta Emitter",
+                "correct": true,
+                "feedback": "Correct. REF: SAR 11.1.1.3.1, pg. 11-5"
+            },
+            {
+                "answer": "b. Low Energy Gamma Emitter",
+                "correct": false,
+                "feedback": "Incorrect. REF: SAR 11.1.1.3.1, pg. 11-5"
+            },
+            {
+                "answer": "c. High Energy Beta and Gamma Emitter",
+                "correct": false,
+                "feedback": "Incorrect. REF: SAR 11.1.1.3.1, pg. 11-5"
+            },
+            {
+                "answer": "d. Low Energy Beta and High Energy Gamma Emitter",
+                "correct": false,
+                "feedback": "Incorrect. REF: SAR 11.1.1.3.1, pg. 11-5"
+            }
+        ]
+    },
+    {
+        "question": "A.02 [1.0 point] Which ONE of the following is true about “Reflectors”?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Produces neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone & Sesonske, Nuclear Reactor Engineering, Section 4.46-4.48, pg. 170-171"
+            },
+            {
+                "answer": "b. Decrease the critical mass of fissile material.",
+                "correct": true,
+                "feedback": "Correct. REF: Glasstone & Sesonske, Nuclear Reactor Engineering, Section 4.46-4.48, pg. 170-171"
+            },
+            {
+                "answer": "c. Have a high neutron absorption cross section.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone & Sesonske, Nuclear Reactor Engineering, Section 4.46-4.48, pg. 170-171"
+            },
+            {
+                "answer": "d. Decreases the average power output for a given peak neutron flux.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Glasstone & Sesonske, Nuclear Reactor Engineering, Section 4.46-4.48, pg. 170-171"
+            }
+        ]
+    },
+    {
+        "question": "A.03 [1.0 point] The term “Macroscopic Cross Section” is defined as:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. An indication of energy loss per collision.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 2.5, pg. 2-36 to 2-47 Neutron Interactions Outline, pg. 1"
+            },
+            {
+                "answer": "b. The probability of neutron interaction per centimeter of travel in a material.",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Section 2.5, pg. 2-36 to 2-47 Neutron Interactions Outline, pg. 1"
+            },
+            {
+                "answer": "c. The average distance travelled by a neutron between interactions in a material.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 2.5, pg. 2-36 to 2-47 Neutron Interactions Outline, pg. 1"
+            },
+            {
+                "answer": "d. The effective cross sectional area of a single nucleus presented to an oncoming neutron.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 2.5, pg. 2-36 to 2-47 Neutron Interactions Outline, pg. 1"
+            }
+        ]
+    },
+    {
+        "question": "A.04 [1.0 point] The count rate is 100 cps. An experimenter inserts an experiment into the core using the pneumatic system, and the count rate decreases to 70 cps. Given the initial Keff of the reactor was 0.9, what is the worth of the experiment?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. ∆ρ=- 0.56",
+                "correct": true,
+                "feedback": "Correct. REF: CR1/ CR2=(1 – Keff2)/(1 – Keff1) 100/ 70=(1 – Keff2)/(1 – 0.90) Therefore Keff2= 0.86 ∆ρ= Keff2 – Keff1/ Keff2* Keff1 ∆ρ=(0.86 – 0.90)/(0.86* 0.90) ∆ρ=- 0.558"
+            },
+            {
+                "answer": "b. ∆ρ=+ 0.56",
+                "correct": false,
+                "feedback": "Incorrect. REF: CR1/ CR2=(1 – Keff2)/(1 – Keff1) 100/ 70=(1 – Keff2)/(1 – 0.90) Therefore Keff2= 0.86 ∆ρ= Keff2 – Keff1/ Keff2* Keff1 ∆ρ=(0.86 – 0.90)/(0.86* 0.90) ∆ρ=- 0.558"
+            },
+            {
+                "answer": "c. ∆ρ=- 0.03",
+                "correct": false,
+                "feedback": "Incorrect. REF: CR1/ CR2=(1 – Keff2)/(1 – Keff1) 100/ 70=(1 – Keff2)/(1 – 0.90) Therefore Keff2= 0.86 ∆ρ= Keff2 – Keff1/ Keff2* Keff1 ∆ρ=(0.86 – 0.90)/(0.86* 0.90) ∆ρ=- 0.558"
+            },
+            {
+                "answer": "d. ∆ρ=+ 0.03",
+                "correct": false,
+                "feedback": "Incorrect. REF: CR1/ CR2=(1 – Keff2)/(1 – Keff1) 100/ 70=(1 – Keff2)/(1 – 0.90) Therefore Keff2= 0.86 ∆ρ= Keff2 – Keff1/ Keff2* Keff1 ∆ρ=(0.86 – 0.90)/(0.86* 0.90) ∆ρ=- 0.558"
+            }
+        ]
+    },
+    {
+        "question": "A.05 [1.0 point] Which ONE of the following is the MAJOR source of energy released during fission?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Kinetic energy of the fission fragments.",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Section 3.2.1, and Table 3.2, pg. 3-4 and 3-5 Neutron Interactions Outline, pg. 2"
+            },
+            {
+                "answer": "b. Kinetic energy of the fission neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 3.2.1, and Table 3.2, pg. 3-4 and 3-5 Neutron Interactions Outline, pg. 2"
+            },
+            {
+                "answer": "c. Decay of the fission fragments.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 3.2.1, and Table 3.2, pg. 3-4 and 3-5 Neutron Interactions Outline, pg. 2"
+            },
+            {
+                "answer": "d. Prompt gamma rays.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 3.2.1, and Table 3.2, pg. 3-4 and 3-5 Neutron Interactions Outline, pg. 2"
+            }
+        ]
+    },
+    {
+        "question": "A.06 [1.0 point] Most text books list β for a U235 fueled reactor as 0.0065 ∆K/K and βeff as being 0.0075 ∆K/K. Why is βeff larger than β?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Delayed neutrons are born at higher energies than prompt neutrons resulting in a greater worth for these neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 3.2.4, pg. 3-12"
+            },
+            {
+                "answer": "b. Delayed neutrons are born at lower energies than prompt neutrons resulting in a less loss due to leakage for these neutrons.",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Section 3.2.4, pg. 3-12"
+            },
+            {
+                "answer": "c. The fuel includes U238 which has a relatively large for fast fission.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 3.2.4, pg. 3-12"
+            },
+            {
+                "answer": "d. Some U238 in the core becomes Pu239(by neutron absorption) which has a larger for fission.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 3.2.4, pg. 3-12"
+            }
+        ]
+    },
+    {
+        "question": "A.07 [1.0 point] As the moderator temperature increases, the resonance escape probability____________.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Increases, since the moderator becomes less dense.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 2nd edition, pg. 372 Burns, Section 3.3.2, pg. 3-18"
+            },
+            {
+                "answer": "b. Decreases, since the time required for a neutron to reach thermal energy increases.",
+                "correct": true,
+                "feedback": "Correct. REF: Lamarsh, Introduction to Nuclear Engineering, 2nd edition, pg. 372 Burns, Section 3.3.2, pg. 3-18"
+            },
+            {
+                "answer": "c. Remains constant, since the effect of moderator temperature change is relatively small.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 2nd edition, pg. 372 Burns, Section 3.3.2, pg. 3-18"
+            },
+            {
+                "answer": "d. Increases, since the moderator-to-fuel ratio increases.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Lamarsh, Introduction to Nuclear Engineering, 2nd edition, pg. 372 Burns, Section 3.3.2, pg. 3-18"
+            }
+        ]
+    },
+    {
+        "question": "A.08 [1.0 point] Two minutes following shutdown, reactor power is at 10 kW and decreases with a constant reactor period. Which ONE of the following is the correct power for three minutes later?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.5 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P=Poet/τ x =10 kW* e180/-80 x= 10 kW*0.105= 1.05 kW"
+            },
+            {
+                "answer": "b. 1.1 kW",
+                "correct": true,
+                "feedback": "Correct. REF: P=Poet/τ x =10 kW* e180/-80 x= 10 kW*0.105= 1.05 kW"
+            },
+            {
+                "answer": "c. 3.3 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P=Poet/τ x =10 kW* e180/-80 x= 10 kW*0.105= 1.05 kW"
+            },
+            {
+                "answer": "d. 6.7 kW",
+                "correct": false,
+                "feedback": "Incorrect. REF: P=Poet/τ x =10 kW* e180/-80 x= 10 kW*0.105= 1.05 kW"
+            }
+        ]
+    },
+    {
+        "question": "A.09 [1.0 point] Which of the following statements is the predominant factor for the change in Xenon concentration for several hours following a reactor scram? Xe-135 concentration will ____________.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Increase due to reduced nuclear flux.",
+                "correct": true,
+                "feedback": "Correct. REF: DOE Handbook, Volume2, Module 3, “Xenon-135 Response to Reactor Power Changes”, pg. 41"
+            },
+            {
+                "answer": "b. Increase due to the decay of the I-135 inventory.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook, Volume2, Module 3, “Xenon-135 Response to Reactor Power Changes”, pg. 41"
+            },
+            {
+                "answer": "c. Decrease by natural decay into I-135.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook, Volume2, Module 3, “Xenon-135 Response to Reactor Power Changes”, pg. 41"
+            },
+            {
+                "answer": "d. Remain constant until it is removed via neutron burnout during the subsequent reactor startup.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook, Volume2, Module 3, “Xenon-135 Response to Reactor Power Changes”, pg. 41"
+            }
+        ]
+    },
+    {
+        "question": "A.10 [1.0 point] Which one of the following correctly describes the relationship between differential rod worth(DRW) and integral rod worth(IRW)?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. DRW is the slope of the IRW curve at a given location.",
+                "correct": true,
+                "feedback": "Correct. REF: DOE Handbook, Volume 2, Module 3, “Integral and Differential Control Rod Worth”, pg. 52"
+            },
+            {
+                "answer": "b. DRW is the area under the IRW curve at a given location.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook, Volume 2, Module 3, “Integral and Differential Control Rod Worth”, pg. 52"
+            },
+            {
+                "answer": "c. DRW is the square root of the IRW curve at a given location.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook, Volume 2, Module 3, “Integral and Differential Control Rod Worth”, pg. 52"
+            },
+            {
+                "answer": "d. There is no relationship between DRW and IRW.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook, Volume 2, Module 3, “Integral and Differential Control Rod Worth”, pg. 52"
+            }
+        ]
+    },
+    {
+        "question": "A.11 [1.0 point] During a Subcritical Multiplication\"1/M\" plot, data is required to be taken. What does the 1/M represent?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The inverse of fuel elements presented in the core",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook, Volume 2, Module 4, “Subcritical Multiplication”, pg. 1-9"
+            },
+            {
+                "answer": "b. The inverse of the moderator coefficient of reactivity",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook, Volume 2, Module 4, “Subcritical Multiplication”, pg. 1-9"
+            },
+            {
+                "answer": "c. The inverse migration length of neutrons of varying energies",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook, Volume 2, Module 4, “Subcritical Multiplication”, pg. 1-9"
+            },
+            {
+                "answer": "d. The inverse multiplication of the count rate between generations",
+                "correct": true,
+                "feedback": "Correct. REF: DOE Handbook, Volume 2, Module 4, “Subcritical Multiplication”, pg. 1-9"
+            }
+        ]
+    },
+    {
+        "question": "A.12 [1.0 point] INELASTIC scattering is the process by which a neutron collides with a nucleus and:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Recoils with the same kinetic energy it had prior to the collision.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook, Volume1, Module 1, “Inelastic Scattering”, pg. 45"
+            },
+            {
+                "answer": "b. Recoils with a lower kinetic energy than it had prior to the collision, with the nucleus emitting a gamma ray.",
+                "correct": true,
+                "feedback": "Correct. REF: DOE Handbook, Volume1, Module 1, “Inelastic Scattering”, pg. 45"
+            },
+            {
+                "answer": "c. Is absorbed, with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook, Volume1, Module 1, “Inelastic Scattering”, pg. 45"
+            },
+            {
+                "answer": "d. Recoils with a higher kinetic energy than it had prior to the collision, with the nucleus emitting a gamma ray.",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook, Volume1, Module 1, “Inelastic Scattering”, pg. 45"
+            }
+        ]
+    },
+    {
+        "question": "A.13 [1.0 point] A reactor is at a power level of 50 watts. The operator IMMEDIATELY inserts an experiment with a reactivity worth of $1.00 into the core using the pneumatic system. This insertion will cause:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. A delayed reactor period to be equal to NEGATIVE(-) 80 seconds",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 4.6, pg. 4-17"
+            },
+            {
+                "answer": "b. A number of prompt neutrons equals to a number of delayed neutrons",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 4.6, pg. 4-17"
+            },
+            {
+                "answer": "c. The immediate reactor period to be a function of the prompt neutron lifetime(T=ℓ*/ρ)",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Section 4.6, pg. 4-17"
+            },
+            {
+                "answer": "d. A sudden change of power that equals to the initial power multiplied by β(1- ρ)/(β-ρ)",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 4.6, pg. 4-17"
+            }
+        ]
+    },
+    {
+        "question": "A.14 [1.0 point] Core Excess Reactivity changes with:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Fuel Element Burnup",
+                "correct": true,
+                "feedback": "Correct. REF: Harrer, Nuclear Reactor Control Engineering, pg. 398-399 Burns, Section 6.1, pg. 6-1 and Example 6.2.1(a), pg. 6-2"
+            },
+            {
+                "answer": "b. Control Rod Height",
+                "correct": false,
+                "feedback": "Incorrect. REF: Harrer, Nuclear Reactor Control Engineering, pg. 398-399 Burns, Section 6.1, pg. 6-1 and Example 6.2.1(a), pg. 6-2"
+            },
+            {
+                "answer": "c. Neutron Energy Level",
+                "correct": false,
+                "feedback": "Incorrect. REF: Harrer, Nuclear Reactor Control Engineering, pg. 398-399 Burns, Section 6.1, pg. 6-1 and Example 6.2.1(a), pg. 6-2"
+            },
+            {
+                "answer": "d. Reactor Power Level",
+                "correct": false,
+                "feedback": "Incorrect. REF: Harrer, Nuclear Reactor Control Engineering, pg. 398-399 Burns, Section 6.1, pg. 6-1 and Example 6.2.1(a), pg. 6-2"
+            }
+        ]
+    },
+    {
+        "question": "A.15 [1.0 point] The reactor is critical at 5 watts. Which ONE of the following correctly describes the reactor behavior when rods are withdrawn with a reactivity worth of +0.50% ∆K/K?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Subcritical",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Section 4.2 0.5% delta-K/K=0.005 delta-K/K<0.007, therefore reactor is supercritical"
+            },
+            {
+                "answer": "b. Critical",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Section 4.2 0.5% delta-K/K=0.005 delta-K/K<0.007, therefore reactor is supercritical"
+            },
+            {
+                "answer": "c. Supercritical",
+                "correct": true,
+                "feedback": "Correct. REF: Burn, Section 4.2 0.5% delta-K/K=0.005 delta-K/K<0.007, therefore reactor is supercritical"
+            },
+            {
+                "answer": "d. Delayed critical",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burn, Section 4.2 0.5% delta-K/K=0.005 delta-K/K<0.007, therefore reactor is supercritical"
+            }
+        ]
+    },
+    {
+        "question": "A.16 [1.0 point] By definition, an exactly critical reactor can be made prompt critical by adding positive reactivity equal to:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The shutdown margin",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 4.2, pg. 4-1 and Figure 4.1, pg. 4-2"
+            },
+            {
+                "answer": "b. The effective multiplication factor",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 4.2, pg. 4-1 and Figure 4.1, pg. 4-2"
+            },
+            {
+                "answer": "c. The βeff value",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Section 4.2, pg. 4-1 and Figure 4.1, pg. 4-2"
+            },
+            {
+                "answer": "d. 1.0% ∆K/K",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 4.2, pg. 4-1 and Figure 4.1, pg. 4-2"
+            }
+        ]
+    },
+    {
+        "question": "A.17 [1.0 point] Which ONE of the following is the correct reason that delayed neutrons enhance control of the reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. There are more delayed neutrons than prompt neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 3.3.7, pg. 3-31 and Problem 3.4.4, pg. 3-33"
+            },
+            {
+                "answer": "b. Delayed neutrons increase the average neutron generation time.",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Section 3.3.7, pg. 3-31 and Problem 3.4.4, pg. 3-33"
+            },
+            {
+                "answer": "c. Delayed neutrons take longer to reach thermal equilibrium.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 3.3.7, pg. 3-31 and Problem 3.4.4, pg. 3-33"
+            },
+            {
+                "answer": "d. Delayed neutrons are born at higher energies than prompt neutrons and therefore have a greater effect.",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Section 3.3.7, pg. 3-31 and Problem 3.4.4, pg. 3-33"
+            }
+        ]
+    },
+    {
+        "question": "A.18 [1.0 point] Which ONE of the following correctly describes the Six Factor Formula?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. K∞= Keff* the resonance escape probability(p)",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook, Volume 2, Module 3, “Six Factor Formula”, pg. 8-10 Neutron Interactions Outline, pg. 3"
+            },
+            {
+                "answer": "b. K∞= Keff* the total non-leakage probability(Lf* Lth)",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook, Volume 2, Module 3, “Six Factor Formula”, pg. 8-10 Neutron Interactions Outline, pg. 3"
+            },
+            {
+                "answer": "c. Keff= K∞* the total non-leakage probability(Lf* Lth)",
+                "correct": true,
+                "feedback": "Correct. REF: DOE Handbook, Volume 2, Module 3, “Six Factor Formula”, pg. 8-10 Neutron Interactions Outline, pg. 3"
+            },
+            {
+                "answer": "d. Keff= K∞*(the resonance escape probability(p)* the reproduction factor(η))",
+                "correct": false,
+                "feedback": "Incorrect. REF: DOE Handbook, Volume 2, Module 3, “Six Factor Formula”, pg. 8-10 Neutron Interactions Outline, pg. 3"
+            }
+        ]
+    },
+    {
+        "question": "A.19 [1.0 point] Which ONE of the following has the highest thermal neutron cross section?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Cd-113",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Table 2.5, pg. 2-59 SAR Table 4.5.3, pg. 4-54"
+            },
+            {
+                "answer": "b. Xe-135",
+                "correct": true,
+                "feedback": "Correct. REF: Burns, Table 2.5, pg. 2-59 SAR Table 4.5.3, pg. 4-54"
+            },
+            {
+                "answer": "c. Sm-149",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Table 2.5, pg. 2-59 SAR Table 4.5.3, pg. 4-54"
+            },
+            {
+                "answer": "d. U-235",
+                "correct": false,
+                "feedback": "Incorrect. REF: Burns, Table 2.5, pg. 2-59 SAR Table 4.5.3, pg. 4-54"
+            }
+        ]
+    },
+    {
+        "question": "A.20 [1.0 point] The ____________ is the ratio of delayed to total core neutrons once they have slowed down to thermal energies.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Mean Neutron Lifetime",
+                "correct": false,
+                "feedback": "Incorrect. REF: SAR 4.5.2.1.2, pg. 4-29 Lamarsh 3rd ed., Section 7.2, pg. 330"
+            },
+            {
+                "answer": "b. Prompt Neutron Lifetime",
+                "correct": false,
+                "feedback": "Incorrect. REF: SAR 4.5.2.1.2, pg. 4-29 Lamarsh 3rd ed., Section 7.2, pg. 330"
+            },
+            {
+                "answer": "c. Delayed Neutron Generation Time",
+                "correct": false,
+                "feedback": "Incorrect. REF: SAR 4.5.2.1.2, pg. 4-29 Lamarsh 3rd ed., Section 7.2, pg. 330"
+            },
+            {
+                "answer": "d. Effective Delayed Neutron Fraction",
+                "correct": true,
+                "feedback": "Correct. REF: SAR 4.5.2.1.2, pg. 4-29 Lamarsh 3rd ed., Section 7.2, pg. 330"
+            }
+        ]
+    }
+]
