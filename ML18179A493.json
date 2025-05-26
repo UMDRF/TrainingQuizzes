@@ -1,0 +1,496 @@
+[
+    {
+        "question": "A.01 [1.0 point] What is β_eff?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The fraction of all fission neutrons that are born as delayed neutrons",
+                "correct": true,
+                "feedback": "Correct. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            },
+            {
+                "answer": "b. The fraction of all delayed neutrons that reach thermal energy",
+                "correct": false,
+                "feedback": "Incorrect. β_eff refers to the fraction of fission neutrons that are delayed, not their energy state. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            },
+            {
+                "answer": "c. The time required for the reactor to change by power by a factor of e",
+                "correct": false,
+                "feedback": "Incorrect. This describes the reactor period, not β_eff. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            },
+            {
+                "answer": "d. The fractional change in neutron population per generation",
+                "correct": false,
+                "feedback": "Incorrect. This describes reactivity, not β_eff. REFERENCE: DOE Fundamentals Handbook Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            }
+        ]
+    },
+    {
+        "question": "A.02 [1.0 point] A reactor is on a CONSTANT positive period. Which ONE of the following power changes will take the SHORTEST time to complete?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 5% power - from 1% to 6% power",
+                "correct": false,
+                "feedback": "Incorrect. The time depends on the ratio P/P₀, and this change has a larger ratio than option d. REFERENCE: P = P₀ e^(t/T) → t = T * ln(P/P₀)"
+            },
+            {
+                "answer": "b. 10% power - from 10% to 20% power",
+                "correct": false,
+                "feedback": "Incorrect. The ratio P/P₀ = 2, which takes longer than option d. REFERENCE: P = P₀ e^(t/T) → t = T * ln(P/P₀)"
+            },
+            {
+                "answer": "c. 15% power - from 20% to 35% power",
+                "correct": false,
+                "feedback": "Incorrect. The ratio P/P₀ = 1.75, which takes longer than option d. REFERENCE: P = P₀ e^(t/T) → t = T * ln(P/P₀)"
+            },
+            {
+                "answer": "d. 20% power - from 40% to 60% power",
+                "correct": true,
+                "feedback": "Correct. The ratio P/P₀ = 1.5 is the smallest, resulting in the shortest time. REFERENCE: P = P₀ e^(t/T) → t = T * ln(P/P₀)"
+            }
+        ]
+    },
+    {
+        "question": "A.03 [1.0 point, 0.25 each] Match the term in Column A with its correct definition in Column B.",
+        "type": "matching",
+        "answers": [
+            {
+                "answer": "a. Prompt Neutron - 2. Neutron born directly from fission",
+                "correct": true,
+                "feedback": "Correct. Prompt neutrons are emitted directly from fission. REFERENCE: Standard NRC Question"
+            },
+            {
+                "answer": "b. Fast Neutron - 4. Neutron at an energy level greater than its surroundings",
+                "correct": true,
+                "feedback": "Correct. Fast neutrons have higher energy than their surroundings. REFERENCE: Standard NRC Question"
+            },
+            {
+                "answer": "c. Thermal Neutron - 1. Neutron in equilibrium with its surroundings",
+                "correct": true,
+                "feedback": "Correct. Thermal neutrons are in thermal equilibrium with their surroundings. REFERENCE: Standard NRC Question"
+            },
+            {
+                "answer": "d. Delayed Neutron - 3. Neutron born due to decay of a fission product",
+                "correct": true,
+                "feedback": "Correct. Delayed neutrons are emitted from fission product decay. REFERENCE: Standard NRC Question"
+            }
+        ]
+    },
+    {
+        "question": "A.04 [1.0 point] Which ONE of the following identifies how prompt neutrons are produced?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. High energy photon pair production",
+                "correct": false,
+                "feedback": "Incorrect. Pair production produces electrons and positrons, not neutrons. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.2"
+            },
+            {
+                "answer": "b. Fission fragment decay",
+                "correct": false,
+                "feedback": "Incorrect. Fission fragment decay produces delayed neutrons, not prompt neutrons. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.2"
+            },
+            {
+                "answer": "c. Directly from fission",
+                "correct": true,
+                "feedback": "Correct. Prompt neutrons are emitted directly during the fission process. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.2"
+            },
+            {
+                "answer": "d. Installed source",
+                "correct": false,
+                "feedback": "Incorrect. Installed sources provide startup neutrons, not prompt neutrons. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 3.2"
+            }
+        ]
+    },
+    {
+        "question": "A.05 [1.0 point] Which term below matches the definition, the number of neutrons passing through one cm² of target material per second?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Neutron flux",
+                "correct": true,
+                "feedback": "Correct. Neutron flux is defined as the number of neutrons passing through one cm² per second. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 3, Section 2.2"
+            },
+            {
+                "answer": "b. Neutron density",
+                "correct": false,
+                "feedback": "Incorrect. Neutron density is the number of neutrons per unit volume. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 3, Section 2.2"
+            },
+            {
+                "answer": "c. Neutron population",
+                "correct": false,
+                "feedback": "Incorrect. Neutron population refers to the total number of neutrons in the reactor. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 3, Section 2.2"
+            },
+            {
+                "answer": "d. Neutron impact potential",
+                "correct": false,
+                "feedback": "Incorrect. This is not a standard term in reactor physics. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 3, Section 2.2"
+            }
+        ]
+    },
+    {
+        "question": "A.06 [1.0 point] What is the average number of neutrons produced from every fission of Uranium-235 with thermal neutrons?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 2.42 neutrons",
+                "correct": true,
+                "feedback": "Correct. The average number of neutrons per fission for U-235 with thermal neutrons is approximately 2.42. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            },
+            {
+                "answer": "b. 2.66 neutrons",
+                "correct": false,
+                "feedback": "Incorrect. This value is not correct for U-235 thermal fission. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            },
+            {
+                "answer": "c. 2.81 neutrons",
+                "correct": false,
+                "feedback": "Incorrect. This value is not correct for U-235 thermal fission. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            },
+            {
+                "answer": "d. 2.93 neutrons",
+                "correct": false,
+                "feedback": "Incorrect. This value is not correct for U-235 thermal fission. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            }
+        ]
+    },
+    {
+        "question": "A.07 [1.0 point] Which ONE of the following is the direct source of DELAYED neutrons in the fission process?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Fission of U-235",
+                "correct": false,
+                "feedback": "Incorrect. Fission of U-235 produces prompt neutrons, not delayed neutrons. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            },
+            {
+                "answer": "b. Absorption of U-235",
+                "correct": false,
+                "feedback": "Incorrect. Absorption may lead to fission but does not directly produce delayed neutrons. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            },
+            {
+                "answer": "c. Spontaneous fission of the fission products",
+                "correct": false,
+                "feedback": "Incorrect. Spontaneous fission is not a significant source of delayed neutrons. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            },
+            {
+                "answer": "d. Decay of the fission product daughters",
+                "correct": true,
+                "feedback": "Correct. Delayed neutrons are emitted from the decay of fission product daughters. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            }
+        ]
+    },
+    {
+        "question": "A.08 [1.0 point] What is the half-life of a material with an original activity of 2400 cps, after 10 minutes an activity of 1757 cps?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 8 minutes",
+                "correct": false,
+                "feedback": "Incorrect. Using A = A₀ e^(-λt), λ = ln(1757/2400)/10 ≈ 0.0313 min⁻¹, so T₁/₂ = ln(2)/λ ≈ 22 min. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1"
+            },
+            {
+                "answer": "b. 22 minutes",
+                "correct": true,
+                "feedback": "Correct. Using A = A₀ e^(-λt), λ = ln(1757/2400)/10 ≈ 0.0313 min⁻¹, so T₁/₂ = ln(2)/λ ≈ 22 min. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1"
+            },
+            {
+                "answer": "c. 35 minutes",
+                "correct": false,
+                "feedback": "Incorrect. The calculated half-life is approximately 22 minutes. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1"
+            },
+            {
+                "answer": "d. 41 minutes",
+                "correct": false,
+                "feedback": "Incorrect. The calculated half-life is approximately 22 minutes. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 1, Module 1"
+            }
+        ]
+    },
+    {
+        "question": "A.09 [1.0 point] Which ONE of the following best describes the difference between reflectors and moderators?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Reflectors decrease core leakage while moderators thermalize neutrons",
+                "correct": true,
+                "feedback": "Correct. Reflectors reduce neutron leakage by reflecting neutrons back into the core, while moderators slow neutrons to thermal energies. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            },
+            {
+                "answer": "b. Reflectors thermalize neutrons while moderators decrease core leakage",
+                "correct": false,
+                "feedback": "Incorrect. The roles are reversed; moderators thermalize neutrons, and reflectors reduce leakage. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            },
+            {
+                "answer": "c. Reflectors decrease thermal leakage while moderators decrease fast leakage",
+                "correct": false,
+                "feedback": "Incorrect. Reflectors reduce overall neutron leakage, not specifically thermal leakage. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            },
+            {
+                "answer": "d. Reflectors shield against neutrons while moderators decrease core leakage",
+                "correct": false,
+                "feedback": "Incorrect. Reflectors reflect neutrons, not shield against them. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 2"
+            }
+        ]
+    },
+    {
+        "question": "A.10 [1.0 point] Which ONE of the following is the new k_eff of the reactor if initially the reactor is subcritical with a shutdown margin of 0.526 Δk/k and the addition of a reactor experiment increases the indicated count rate from 10 cps to 20 cps?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.639",
+                "correct": false,
+                "feedback": "Incorrect. Using subcritical multiplication, M = 1/(1-k_eff), M doubles, so k_eff,initial = 0.474, k_eff,new = 0.828. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            },
+            {
+                "answer": "b. 0.828",
+                "correct": true,
+                "feedback": "Correct. Shutdown margin = 1 - k_eff,initial = 0.526, so k_eff,initial = 0.474. Count rate doubles, so M = 1/(1-k_eff) doubles, leading to k_eff,new = 0.828. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            },
+            {
+                "answer": "c. 0.975",
+                "correct": false,
+                "feedback": "Incorrect. The calculated k_eff,new is 0.828 based on the doubling of the count rate. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            },
+            {
+                "answer": "d. 1.014",
+                "correct": false,
+                "feedback": "Incorrect. k_eff cannot exceed 1 in a subcritical reactor. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            }
+        ]
+    },
+    {
+        "question": "A.11 [1.0 point] Which ONE of the following determines k_eff? k_eff is k^∞ times",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Fast fission factor",
+                "correct": false,
+                "feedback": "Incorrect. k_eff = k^∞ * P_NL, where P_NL is the total non-leakage probability. REFERENCE: LaMarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 6.5"
+            },
+            {
+                "answer": "b. Reproduction factor",
+                "correct": false,
+                "feedback": "Incorrect. The reproduction factor is part of k^∞, not the factor relating k^∞ to k_eff. REFERENCE: LaMarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 6.5"
+            },
+            {
+                "answer": "c. Resonance escape probability",
+                "correct": false,
+                "feedback": "Incorrect. Resonance escape probability is part of k^∞, not the factor relating k^∞ to k_eff. REFERENCE: LaMarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 6.5"
+            },
+            {
+                "answer": "d. Total non-leakage probability",
+                "correct": true,
+                "feedback": "Correct. k_eff = k^∞ * P_NL, where P_NL is the total non-leakage probability. REFERENCE: LaMarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 6.5"
+            }
+        ]
+    },
+    {
+        "question": "A.12 [1.0 point] Which one of the following terms describes the total amount of reactivity added by inserting or withdrawing a control rod from a reference height to any other rod height?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Integral Rod Worth",
+                "correct": true,
+                "feedback": "Correct. Integral rod worth is the total reactivity change due to moving a control rod from one position to another. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            },
+            {
+                "answer": "b. Differential Rod Worth",
+                "correct": false,
+                "feedback": "Incorrect. Differential rod worth is the reactivity change per unit movement of the rod. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            },
+            {
+                "answer": "c. Shutdown Reactivity",
+                "correct": false,
+                "feedback": "Incorrect. Shutdown reactivity is the negative reactivity to keep the reactor subcritical. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            },
+            {
+                "answer": "d. Reference Margin Reactivity",
+                "correct": false,
+                "feedback": "Incorrect. This is not a standard term in reactor physics. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            }
+        ]
+    },
+    {
+        "question": "A.13 [1.0 point] Which ONE of the following conditions describes a critical reactor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. k=1; Δk/k=1",
+                "correct": false,
+                "feedback": "Incorrect. Δk/k = 0 for a critical reactor, not 1. REFERENCE: LaMarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 4.3"
+            },
+            {
+                "answer": "b. k=0; Δk/k=0",
+                "correct": false,
+                "feedback": "Incorrect. k=1 for a critical reactor, not 0. REFERENCE: LaMarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 4.3"
+            },
+            {
+                "answer": "c. k=0; Δk/k=1",
+                "correct": false,
+                "feedback": "Incorrect. k=1 for a critical reactor, and Δk/k=0. REFERENCE: LaMarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 4.3"
+            },
+            {
+                "answer": "d. k=1; Δk/k=0",
+                "correct": true,
+                "feedback": "Correct. A critical reactor has k_eff=1 and Δk/k=0, indicating a steady neutron population. REFERENCE: LaMarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 4.3"
+            }
+        ]
+    },
+    {
+        "question": "A.14 [1.0 point] Two common FISSION PRODUCTS that have especially large neutron cross sections and play a significant role in reactor physics are Sm-149 and",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Nitrogen-16",
+                "correct": false,
+                "feedback": "Incorrect. Nitrogen-16 is not a fission product with a large neutron cross section. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 8.1, Page 8-1"
+            },
+            {
+                "answer": "b. Argon-41",
+                "correct": false,
+                "feedback": "Incorrect. Argon-41 is not a fission product. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 8.1, Page 8-1"
+            },
+            {
+                "answer": "c. Iodine-131",
+                "correct": false,
+                "feedback": "Incorrect. Iodine-131 is a fission product but does not have a large neutron cross section like Xenon-135. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 8.1, Page 8-1"
+            },
+            {
+                "answer": "d. Xenon-135",
+                "correct": true,
+                "feedback": "Correct. Xenon-135 is a fission product with a large neutron cross section, significantly affecting reactor physics. REFERENCE: Burn, Introduction to Nuclear Reactor Operations, Section 8.1, Page 8-1"
+            }
+        ]
+    },
+    {
+        "question": "A.15 [1.0 point] Which ONE of the following is the definition of k-eff, effective neutron multiplication factor?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. absorption / (production + leakage)",
+                "correct": false,
+                "feedback": "Incorrect. This does not represent the definition of k_eff. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            },
+            {
+                "answer": "b. (production + leakage) / absorption",
+                "correct": false,
+                "feedback": "Incorrect. This does not represent the definition of k_eff. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            },
+            {
+                "answer": "c. production / (absorption + leakage)",
+                "correct": true,
+                "feedback": "Correct. k_eff is defined as the ratio of neutron production to the sum of absorption and leakage. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            },
+            {
+                "answer": "d. (absorption + leakage) / production",
+                "correct": false,
+                "feedback": "Incorrect. This is the inverse of the correct definition. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            }
+        ]
+    },
+    {
+        "question": "A.16 [1.0 point] Which factor, in the six-factor formula, is represented by the following ratio? # of neutrons that reach thermal energy / total # of neutrons before thermalization",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Fast fission factor",
+                "correct": false,
+                "feedback": "Incorrect. The fast fission factor relates to fissions caused by fast neutrons. REFERENCE: LaMarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 6.5, page 287"
+            },
+            {
+                "answer": "b. Reproduction factor",
+                "correct": false,
+                "feedback": "Incorrect. The reproduction factor is the number of neutrons produced per absorption. REFERENCE: LaMarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 6.5, page 287"
+            },
+            {
+                "answer": "c. Thermal utilization factor",
+                "correct": false,
+                "feedback": "Incorrect. The thermal utilization factor is the fraction of thermal neutrons absorbed in fuel. REFERENCE: LaMarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 6.5, page 287"
+            },
+            {
+                "answer": "d. Resonance escape probability",
+                "correct": true,
+                "feedback": "Correct. The resonance escape probability is the fraction of neutrons that reach thermal energy without being absorbed in resonances. REFERENCE: LaMarsh, Introduction to Nuclear Engineering, 3rd Edition, Section 6.5, page 287"
+            }
+        ]
+    },
+    {
+        "question": "A.17 [2.0 points, 0.5 each] Given a mother isotope of ₃₅Br⁸⁷ identify each of the daughter isotopes as a result of: a, β⁺, β⁻, γ, or n? (Answers may be used once, more than once or not at all).",
+        "type": "matching",
+        "answers": [
+            {
+                "answer": "a. ₃₅As⁸³ - α",
+                "correct": true,
+                "feedback": "Correct. Alpha decay reduces the atomic number by 2 and mass number by 4. REFERENCE: Standard NRC question"
+            },
+            {
+                "answer": "b. ₃₄Se⁸⁷ - β⁺",
+                "correct": true,
+                "feedback": "Correct. Beta-plus decay decreases the atomic number by 1. REFERENCE: Standard NRC question"
+            },
+            {
+                "answer": "c. ₃₅Br⁸⁶ - n",
+                "correct": true,
+                "feedback": "Correct. Neutron emission reduces the mass number by 1. REFERENCE: Standard NRC question"
+            },
+            {
+                "answer": "d. ₃₆Kr⁸⁷ - β⁻",
+                "correct": true,
+                "feedback": "Correct. Beta-minus decay increases the atomic number by 1. REFERENCE: Standard NRC question"
+            }
+        ]
+    },
+    {
+        "question": "A.18 [1.0 point] A reactor is critical at 0.1 mW, you are raising reactor power, and doubling time is 30 seconds. What is the reactor power 1 minute later?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.4 mW",
+                "correct": true,
+                "feedback": "Correct. Doubling time of 30 seconds means power doubles twice in 60 seconds (60/30 = 2), so 0.1 mW * 2² = 0.4 mW. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            },
+            {
+                "answer": "b. 0.6 mW",
+                "correct": false,
+                "feedback": "Incorrect. The power doubles twice, resulting in 0.4 mW. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            },
+            {
+                "answer": "c. 0.8 mW",
+                "correct": false,
+                "feedback": "Incorrect. The power doubles twice, resulting in 0.4 mW. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            },
+            {
+                "answer": "d. 1.2 mW",
+                "correct": false,
+                "feedback": "Incorrect. The power doubles twice, resulting in 0.4 mW. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            }
+        ]
+    },
+    {
+        "question": "A.19 [1.0 point] Which of the following statements illustrates a characteristic of Subcritical Multiplication?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. The number of source neutrons decreases for each generation",
+                "correct": false,
+                "feedback": "Incorrect. Source neutrons remain constant; fission neutrons increase with k_eff. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            },
+            {
+                "answer": "b. The number of fission neutrons remains constant for each generation",
+                "correct": false,
+                "feedback": "Incorrect. Fission neutrons increase per generation in subcritical multiplication. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            },
+            {
+                "answer": "c. As k-eff approaches unity (1), for the same increase in k-eff, a greater increase in neutron population occurs",
+                "correct": true,
+                "feedback": "Correct. As k_eff nears 1, the multiplication factor 1/(1-k_eff) increases significantly. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            },
+            {
+                "answer": "d. Number of neutrons gained per generation gets larger for each succeeding generation",
+                "correct": false,
+                "feedback": "Incorrect. The multiplication is constant for a given k_eff in steady-state subcritical conditions. REFERENCE: DOE Fundamentals Handbook, Nuclear Physics and Reactor Theory, Volume 2, Module 3"
+            }
+        ]
+    }
+]

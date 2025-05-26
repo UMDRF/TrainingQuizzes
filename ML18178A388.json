@@ -1,0 +1,519 @@
+[
+    {
+        "question": "A.01 [1.0 point] Select a contributor of the prompt negative temperature coefficients in the TRIGA fuel in one of the following statements.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. As the fuel heats up the resonance absorption peaks broaden and increases the likelihood of neutron absorption in U-238.",
+                "correct": true,
+                "feedback": "Correct. Reference: NE 234 Reactor Physics III"
+            },
+            {
+                "answer": "b. As the fuel heats up a rapid increase in moderator temperature occurs through conduction and convection heat transfer mechanisms which adds negative reactivity.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: NE 234 Reactor Physics III"
+            },
+            {
+                "answer": "c. As the fuel heats up fission product poisons (e.g., Xe) increase in concentration within the fuel matrix and add negative reactivity via neutron absorption.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: NE 234 Reactor Physics III"
+            },
+            {
+                "answer": "d. As the fuel heats up the oscillating hydrogen in the ZrH lattice imparts energy to a thermal neutron, thereby increasing its mean free path and probability of escape.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: NE 234 Reactor Physics III"
+            }
+        ]
+    },
+    {
+        "question": "A.02 [1.0 point] You're increasing reactor power on a steady +15 second period. How long will it take to increase power by a factor of five?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 10 seconds",
+                "correct": false,
+                "feedback": "Incorrect. Reference: ln(P/P0) × period = time; ln(5) × 15 = 1.61 × 15 = 24 seconds."
+            },
+            {
+                "answer": "b. 24 seconds",
+                "correct": true,
+                "feedback": "Correct. Reference: ln(P/P0) × period = time; ln(5) × 15 = 1.61 × 15 = 24 seconds."
+            },
+            {
+                "answer": "c. 33 seconds",
+                "correct": false,
+                "feedback": "Incorrect. Reference: ln(P/P0) × period = time; ln(5) × 15 = 1.61 × 15 = 24 seconds."
+            },
+            {
+                "answer": "d. 43 seconds",
+                "correct": false,
+                "feedback": "Incorrect. Reference: ln(P/P0) × period = time; ln(5) × 15 = 1.61 × 15 = 24 seconds."
+            }
+        ]
+    },
+    {
+        "question": "A.03 [1.0 point] Which ONE of the following conditions will require the control rod withdrawal to maintain constant power level after the following change?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Adding of a fuel experiment such as U-235 into the core.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1"
+            },
+            {
+                "answer": "b. Insertion of an experiment containing borated graphite.",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1"
+            },
+            {
+                "answer": "c. Decrease of pool water temperature.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1"
+            },
+            {
+                "answer": "d. Burnout of Xenon in the core.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3.1"
+            }
+        ]
+    },
+    {
+        "question": "A.04 [1.0 point] Shown below is a trace of reactor period as a function of time. Between points B and D, the reactor power is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. constant.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Reactor is continually increasing, since a reactor period is still positive."
+            },
+            {
+                "answer": "b. continually increasing.",
+                "correct": true,
+                "feedback": "Correct. Reference: Reactor is continually increasing, since a reactor period is still positive."
+            },
+            {
+                "answer": "c. increasing, then decreasing.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Reactor is continually increasing, since a reactor period is still positive."
+            },
+            {
+                "answer": "d. increasing, then constant.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Reactor is continually increasing, since a reactor period is still positive."
+            }
+        ]
+    },
+    {
+        "question": "A.05 [1.0 point] If the multiplication factor, k, is increased from 0.800 to 0.950, the amount of reactivity added is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.150",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Δρ = (k1 - k2)/(k1*k2); (0.95 - 0.8)/(0.8*0.95) = 0.197."
+            },
+            {
+                "answer": "b. 0.163",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Δρ = (k1 - k2)/(k1*k2); (0.95 - 0.8)/(0.8*0.95) = 0.197."
+            },
+            {
+                "answer": "c. 0.184",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Δρ = (k1 - k2)/(k1*k2); (0.95 - 0.8)/(0.8*0.95) = 0.197."
+            },
+            {
+                "answer": "d. 0.197",
+                "correct": true,
+                "feedback": "Correct. Reference: Δρ = (k1 - k2)/(k1*k2); (0.95 - 0.8)/(0.8*0.95) = 0.197."
+            }
+        ]
+    },
+    {
+        "question": "A.06 [1.0 point] Which ONE of the following correctly describes the SIX-FACTOR FORMULA at the University of Wisconsin Nuclear Reactor (UWNR)? The multiplication factor, K-effective, is the product of k-infinitive and the:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Reproduction factor.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+            },
+            {
+                "answer": "b. Thermal utilization factor.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+            },
+            {
+                "answer": "c. Resonance escape probability.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+            },
+            {
+                "answer": "d. Total non-leakage probability.",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 3.3"
+            }
+        ]
+    },
+    {
+        "question": "A.07 [1.0 point] A reactor is critical at 18.1 inches on a controlling blade. The controlling blade is withdrawn to 18.4 inches. The reactivity inserted is 14.4 cents. What is the differential rod worth?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 14.4 cents/inch at 18.25 inches.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Differential position is at the midpoint (18.25). Δρ = 14.4 cents; Δx = 0.3 inches. Rod worth = 14.4 / 0.3 = 48 cents/inch at 18.25 inches."
+            },
+            {
+                "answer": "b. 48 cents/inch at 18.4 inches.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Differential position is at the midpoint (18.25). Δρ = 14.4 cents; Δx = 0.3 inches. Rod worth = 14.4 / 0.3 = 48 cents/inch at 18.25 inches."
+            },
+            {
+                "answer": "c. 48 cents/inch at 18.25 inches.",
+                "correct": true,
+                "feedback": "Correct. Reference: Differential position is at the midpoint (18.25). Δρ = 14.4 cents; Δx = 0.3 inches. Rod worth = 14.4 / 0.3 = 48 cents/inch at 18.25 inches."
+            },
+            {
+                "answer": "d. 14.4 cents/inch at 18.1 inches.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Differential position is at the midpoint (18.25). Δρ = 14.4 cents; Δx = 0.3 inches. Rod worth = 14.4 / 0.3 = 48 cents/inch at 18.25 inches."
+            }
+        ]
+    },
+    {
+        "question": "A.08 [1.0 point] The reactor is critical at 10 watts. A rod is pulled to insert a positive reactivity of $0.18. Which ONE of the following will be the stable reactor period as a result of this reactivity insertion? Given beta effective = 0.007.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 10 seconds",
+                "correct": false,
+                "feedback": "Incorrect. Reference: τ = (β - ρ)/λeffρ; β = 0.007, ρ = 0.00126; λeff = 0.1/sec. Resulting τ ≈ 46 seconds."
+            },
+            {
+                "answer": "b. 46 seconds",
+                "correct": true,
+                "feedback": "Correct. Reference: τ = (β - ρ)/λeffρ; β = 0.007, ρ = 0.00126; λeff = 0.1/sec. Resulting τ ≈ 46 seconds."
+            },
+            {
+                "answer": "c. 55 seconds",
+                "correct": false,
+                "feedback": "Incorrect. Reference: τ = (β - ρ)/λeffρ; β = 0.007, ρ = 0.00126; λeff = 0.1/sec. Resulting τ ≈ 46 seconds."
+            },
+            {
+                "answer": "d. 66 seconds",
+                "correct": false,
+                "feedback": "Incorrect. Reference: τ = (β - ρ)/λeffρ; β = 0.007, ρ = 0.00126; λeff = 0.1/sec. Resulting τ ≈ 46 seconds."
+            }
+        ]
+    },
+    {
+        "question": "A.09 [1.0 point] Which ONE of the following statement best defines the reactor excess reactivity? The reactor excess reactivity is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. a measure of the additional fuel loaded to overcome fission product poisoning.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 6.2"
+            },
+            {
+                "answer": "b. a measure of remaining control rod worth when the reactor is exactly critical.",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 6.2"
+            },
+            {
+                "answer": "c. the combined control rod negative reactivity worth required to keep the reactor shutdown.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 6.2"
+            },
+            {
+                "answer": "d. a measure of remaining control rod worth when the reactor is sub-critical.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 6.2"
+            }
+        ]
+    },
+    {
+        "question": "A.10 [1.0 point] Which ONE of the following best describes the likelihood of fission occurring in U-235 and U-238?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Neutron cross sections of U-235 and U-238 are independent from the neutron velocity.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.2"
+            },
+            {
+                "answer": "b. Neutron cross section of U-235 increases with increasing neutron energy, whereas neutron cross section of U-238 decreases with increasing neutron energy.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.2"
+            },
+            {
+                "answer": "c. Neutrons at low energy levels (eV) are more likely to cause fission with U-238 than neutrons at higher energy levels (MeV).",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.2"
+            },
+            {
+                "answer": "d. Neutrons at low energy levels (eV) are more likely to cause fission with U-235 than neutrons at higher energy levels (MeV).",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 3.2"
+            }
+        ]
+    },
+    {
+        "question": "A.11 [1.0 point] Reactor A increases power from 10% to 30% with a period of 25 seconds. Reactor B increases power from 70% to 100% with a period of also 25 seconds. Compared to Reactor A, the time required for the power increase of Reactor B is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. longer than A",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Since both have the same period, the rate of change is the same; however, the factor of increase is smaller for Reactor B, so it takes less time."
+            },
+            {
+                "answer": "b. exactly the same as A",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Since both have the same period, the rate of change is the same; however, the factor of increase is smaller for Reactor B, so it takes less time."
+            },
+            {
+                "answer": "c. twice that of A",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Since both have the same period, the rate of change is the same; however, the factor of increase is smaller for Reactor B, so it takes less time."
+            },
+            {
+                "answer": "d. shorter than A",
+                "correct": true,
+                "feedback": "Correct. Reference: Since both have the same period, the rate of change is the same; however, the factor of increase is smaller for Reactor B, so it takes less time."
+            }
+        ]
+    },
+    {
+        "question": "A.12 [1.0 point, 0.25 each] Identify whether each of the following conditions will INCREASE or DECREASE the shutdown margin of a reactor.",
+        "type": "multi_true_false",
+        "statements": [
+            {
+                "statement": "a. Decreasing moderator temperature (Assume negative temperature coefficient).",
+                "correct": false,
+                "response": "DECREASE. Reference: DOE Fundamentals Handbook, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 3.6"
+            },
+            {
+                "statement": "b. Moving one fuel element from reactor core to fuel storage.",
+                "correct": true,
+                "response": "INCREASE. Reference: DOE Fundamentals Handbook, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 3.6"
+            },
+            {
+                "statement": "c. Insertion of boron graphite to the reactor core.",
+                "correct": true,
+                "response": "INCREASE. Reference: DOE Fundamentals Handbook, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 3.6"
+            },
+            {
+                "statement": "d. Burnout of a burnable poison.",
+                "correct": false,
+                "response": "DECREASE. Reference: DOE Fundamentals Handbook, Volume 2, Module 4, Reactor Theory (Reactor Operations), Enabling Objective 3.6"
+            }
+        ]
+    },
+    {
+        "question": "A.13 [1.0 point] Which ONE of the following isotopes has the largest microscopic absorption cross-section for thermal neutrons?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Sm149",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Introduction to Nuclear Operation, Reed Burn, 1988, Sec 8.1"
+            },
+            {
+                "answer": "b. U235",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Introduction to Nuclear Operation, Reed Burn, 1988, Sec 8.1"
+            },
+            {
+                "answer": "c. Xe135",
+                "correct": true,
+                "feedback": "Correct. Reference: Introduction to Nuclear Operation, Reed Burn, 1988, Sec 8.1"
+            },
+            {
+                "answer": "d. B10",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Introduction to Nuclear Operation, Reed Burn, 1988, Sec 8.1"
+            }
+        ]
+    },
+    {
+        "question": "A.14 [1.0 point, 0.25 each] Replace “X” with the type of decay necessary (Alpha, Positron, Gamma or Neutron emission) to produce the following reactions. Choices may be used once, more than once, or not at all.",
+        "type": "fill_in_blank",
+        "statements": [
+            {
+                "statement": "a. 92U238 → 90Th234 + X",
+                "answer": "Alpha"
+            },
+            {
+                "statement": "b. 83Bi203 → 82Pb203 + X",
+                "answer": "Positron"
+            },
+            {
+                "statement": "c. 2He4 + 4Be9 → 6C12 + X",
+                "answer": "Neutron"
+            },
+            {
+                "statement": "d. 84Po210 → 82Pb206 + X",
+                "answer": "Alpha"
+            }
+        ],
+        "reference": "NRC Standard Question"
+    },
+    {
+        "question": "A.15 [1.0 point] Which term is described by the following? 'The increase in neutron population by providing a positive additional reactivity while the reactor is subcritical'",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Inverse Multiplication",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.1, Subcritical Multiplication"
+            },
+            {
+                "answer": "b. Subcritical Multiplication",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.1, Subcritical Multiplication"
+            },
+            {
+                "answer": "c. Neutron Production",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.1, Subcritical Multiplication"
+            },
+            {
+                "answer": "d. Source Strength",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988, Section 5.1, Subcritical Multiplication"
+            }
+        ]
+    },
+    {
+        "question": "A.16 [1.0 point] A reactor is slightly supercritical with the following values for each of the factors in the six-factor formula: Fast fission factor 1.03, Fast non-leakage probability 0.84, Resonance escape probability 0.96, Thermal non-leakage probability 0.88, Thermal utilization factor 0.70, Reproduction factor 1.96. A control rod is inserted to bring the reactor back to critical. Assuming all other factors remain unchanged, the new value for the thermal utilization factor is:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. 0.698",
+                "correct": true,
+                "feedback": "Correct. Reference: K eff = 1.03 * 0.84 * 0.96 * 0.88 * 1.96 * x = 1; x = 1/1.4326 = 0.698"
+            },
+            {
+                "answer": "b. 0.701",
+                "correct": false,
+                "feedback": "Incorrect. Reference: K eff = 1.03 * 0.84 * 0.96 * 0.88 * 1.96 * x = 1; x = 1/1.4326 = 0.698"
+            },
+            {
+                "answer": "c. 0.073",
+                "correct": false,
+                "feedback": "Incorrect. Reference: K eff = 1.03 * 0.84 * 0.96 * 0.88 * 1.96 * x = 1; x = 1/1.4326 = 0.698"
+            },
+            {
+                "answer": "d. 0.075",
+                "correct": false,
+                "feedback": "Incorrect. Reference: K eff = 1.03 * 0.84 * 0.96 * 0.88 * 1.96 * x = 1; x = 1/1.4326 = 0.698"
+            }
+        ]
+    },
+    {
+        "question": "A.17 [1.0 point] Which ONE of the following is a correct statement describing prompt and delayed neutrons? Prompt neutrons:",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. are released during U-238 interacts with fast neutrons, while delayed neutrons are released during U-235 interacts with thermal neutrons.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988"
+            },
+            {
+                "answer": "b. account for less than 1% of the neutron population, while delayed neutrons account for the rest.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988"
+            },
+            {
+                "answer": "c. are released during the fission process, while delayed neutrons are released from precursors.",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988"
+            },
+            {
+                "answer": "d. are the dominating factor in determining reactor period, while delayed neutrons have no effect on reactor period.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 1988"
+            }
+        ]
+    },
+    {
+        "question": "A.18 [1.0 point] What is the condition of the reactor when k= 1/(1-β)?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. Subcritical",
+                "correct": false,
+                "feedback": "Incorrect. Reference: LaMarsh, Introduction to Nuclear Engineering, Page 340-341"
+            },
+            {
+                "answer": "b. Critical",
+                "correct": false,
+                "feedback": "Incorrect. Reference: LaMarsh, Introduction to Nuclear Engineering, Page 340-341"
+            },
+            {
+                "answer": "c. Super critical",
+                "correct": false,
+                "feedback": "Incorrect. Reference: LaMarsh, Introduction to Nuclear Engineering, Page 340-341"
+            },
+            {
+                "answer": "d. Prompt critical",
+                "correct": true,
+                "feedback": "Correct. Reference: LaMarsh, Introduction to Nuclear Engineering, Page 340-341"
+            }
+        ]
+    },
+    {
+        "question": "A.19 [1.0 point] Which ONE of the following atoms will cause a neutron to lose the most energy in an elastic collision?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. U-238",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.5.3"
+            },
+            {
+                "answer": "b. Ar-40",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.5.3"
+            },
+            {
+                "answer": "c. O-16",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.5.3"
+            },
+            {
+                "answer": "d. H-1",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction of Nuclear Reactor Operations, © 1988, Sec 2.5.3"
+            }
+        ]
+    },
+    {
+        "question": "A.20 [1.0 point] Reactor is at 100% power. The following graph shows the reactor time behavior following a reactor scram. Which ONE of the following best describes the transition of power between point C and D after the initial rod insertion?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a. An immediate decrease in the prompt neutron fraction due to leakage, absorption, and a reduction in the fission rate.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 4.5, 1988"
+            },
+            {
+                "answer": "b. Fission product gases such as xenon begin to buildup causing the expansion of fuel density.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 4.5, 1988"
+            },
+            {
+                "answer": "c. The longest lived delayed neutron precursor begins to effect.",
+                "correct": false,
+                "feedback": "Incorrect. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 4.5, 1988"
+            },
+            {
+                "answer": "d. The short lived delayed neutron precursors begin to effect.",
+                "correct": true,
+                "feedback": "Correct. Reference: Burn, R., Introduction to Nuclear Reactor Operations, © 4.5, 1988"
+            }
+        ]
+    }
+]
